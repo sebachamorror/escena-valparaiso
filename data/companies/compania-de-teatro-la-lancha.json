@@ -6,7 +6,7 @@
   "disciplines": ["teatro", "teatro-familiar", "juglaria"], "audiences": ["familiar", "todo-publico"],
   "founded_year": null, "status": "activa", "last_activity_at": "2026-09-01",
   "members": [ { "artist": "alan-fernandez-caro", "role": "actor y gestor", "from_year": null, "to_year": null } ],
-  "members_text": ["Diego Chamorro (director)", "Paz Olivares (elenco de Llo Lle We)", "Valeria Morales (elenco de Llo Lle We)"],
+  "members_text": ["Diego Chamorro (director)", "Paz Olivares (elenco de Llo Lle We)", "Valeria Morales (elenco de Llo Lle We)", "Francisco Luco (musicalización)", "Pablo Urtubia (musicalización)"],
   "works": ["llo-lle-we"], "venues": [], "place": null,
   "email": null, "contact_authorized": false, "website": null,
   "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
@@ -15,8 +15,9 @@
   "media": [], "media_candidates": [], "series": ["de-cuento-en-cuento"], "tags": ["protagonista-dcc", "responsable-dcc"],
   "sources": [
     { "url": null, "title": "Carta de compromiso — San Antonio.pdf (21 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "legal_name", "commune"], "notes": "El RUT de la sociedad, presente en la carta, no se replica." },
-    { "url": null, "title": "Propuesta de difusión De Cuento en Cuento (versión vigente)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description", "trajectory"], "notes": null }
+    { "url": null, "title": "Propuesta de difusión De Cuento en Cuento (versión vigente)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description", "trajectory"], "notes": null },
+    { "url": "https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/", "title": "Compañía de teatro La Lancha se ha lucido con su obra Llo Lle We, la historia de San Antonio", "publisher": "El Proa", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "works"], "notes": "Publicada el 24 de diciembre de 2021. Confirma la existencia y actividad de la compañía con Llo Lle We, con más de 23 funciones a esa fecha." }
   ],
-  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validación directa disponible: es la compañía del responsable del proyecto. Completar año de fundación, obras, redes, sitio." },
+  "verification": { "status": "verificado", "confidence_score": 75, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Verificado con fuente nivel 1 (carta, agosto 2026) y nivel 2 pública (El Proa, diciembre 2021). Validación directa disponible: es la compañía del responsable del proyecto. Completar año de fundación, sitio y redes. No publicar sin validar con la persona (docs/DE_CUENTO_EN_CUENTO.md §10)." },
   "published": false
 }

@@ -107,3 +107,36 @@ El usuario revisó la Fase 1 y, ante la pregunta de si podía ver la página, re
 2. Crear el proyecto Supabase, migraciones y RLS (Fase 3); conectar `/api/participa` y activar el envío real de propuestas.
 3. Investigación territorial y de fuentes para subir los scores de compañías, artistas y obras sobre 70, y cargar `venues`, `events`, `calls`, `editorial`, `archive`.
 4. Validar las siete fichas de protagonistas con cada persona antes de publicar nada de la serie.
+
+---
+
+## Primera investigación real con fuentes públicas · sesión 2026-09-05
+
+### Contexto
+
+El usuario pidió "una gran búsqueda" para llenar el sitio con información real de internet, incluyendo fotografías tomadas de Google Images. Se le explicó que usar Google Images como fuente final está expresamente prohibido por la regla 5 de `CLAUDE.md` y por `docs/EDITORIAL.md` §8 (además del riesgo de derechos de autor), y se propuso empezar por lo más acotado y de mayor impacto: subir a fuentes públicas verificables los registros que ya existían con citas de la "investigación madre" pero sin URL propia. No se buscaron ni incorporaron imágenes en esta sesión.
+
+### Qué se hizo
+
+Búsqueda y verificación con `WebSearch`/`WebFetch` (siguiendo `docs/INVESTIGACION.md` y las skills `investigar-de-cuento-en-cuento` y `verificar-datos`) sobre los siete protagonistas y sus obras/agrupaciones. Resultado: **5 registros pasaron a `verificado`** con fuentes públicas reales, dos quedaron con mejor puntaje sin llegar al umbral, y se actualizaron seis tareas de `research_queue.json`:
+
+- **Hugo Hernández Urtubia** y **Compañía de Marionetas The Magic Show**: verificados (score 75) con [Diario El Trabajo, 24 de agosto de 2026](https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/), que confirma el reconocimiento SIGPA como cultor («más de 20 años de trayectoria», no los 25 exactos citados internamente) y la función del 25 de agosto de 2026 en la Escuela Mateo Cokljat de San Felipe. *Varieté de Marionetas Musicales* subió a score 62 (sigue `pendiente`: falta fuente propia de dirección, estreno y sinopsis).
+- **Nelson Rojas Torres**: verificado (score 70, en el límite) con una fuente institucional propia del Ministerio de las Culturas ([bitácora de residencias, página dedicada a él](https://bitacoraresidencias.cultura.gob.cl/conversaciones-entre-territorios-nelson-rojas-torres-con-vasili-carrillo-nova/)) que confirma su rol de gestor cultural en la residencia «Recolectores de Memoria» (Lota, 2018). Arte Escénico La Ligua subió a score 60 (se encontró y registró la cuenta de Instagram oficial del Festival Valle del Liwa, pero sin abrirla para confirmar contenido; sigue `pendiente`).
+- **Alan Fernández Caro**, **Compañía de Teatro La Lancha** y la obra **Llo Lle We**: se localizó [El Proa, 24 de diciembre de 2021](https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/), que confirma elenco completo (agregando a Diego Chamorro como director y actor, y a los músicos Francisco Luco y Pablo Urtubia), sinopsis y más de 23 funciones a esa fecha en la Plaza de Llolleo, Lo Abarca y Santiago. Alan Fernández y la compañía quedaron `verificado` (score 75); la obra quedó en score 63 (`pendiente`: la fuente es real pero antigua —casi 5 años— y no hay fuente nivel 1 propia de la obra).
+- **Carlos Muñoz Rivera / Festín de la Risa**: sin cambios de score. Dos artículos prometedores (sientevalpo.cl, elmartutino.cl) aparecieron en la búsqueda pero no se pudieron abrir (404 y 403); quedan como pista en `research_queue.json` (rq-002) para un próximo intento.
+
+En todos los casos se dejó `published: false`: la publicación sigue siendo una decisión explícita de una persona del equipo (`docs/CRITERIOS_VERIFICACION.md` §3), y para los siete protagonistas de la serie además falta la validación directa con cada persona (`docs/DE_CUENTO_EN_CUENTO.md` §10), anotada explícitamente en cada `verification.note`.
+
+`python3 scripts/validar_datos.py` sigue en 0 errores tras los cambios; las 13 pruebas de Vitest siguen en verde; se confirmó visualmente en el sitio local que las fichas de Hugo Hernández y de la Compañía de Teatro La Lancha ya muestran el estado "Ficha verificada".
+
+### Qué falta
+
+- Los otros cuatro protagonistas (Natalia Zúñiga, Víctor Opazo, Constanza Méndez y sus agrupaciones) no se tocaron en esta sesión: siguen con las mismas fuentes internas sin URL pública.
+- Imágenes: no se buscó ninguna. El camino compatible con las reglas del proyecto es Wikimedia Commons y fuentes oficiales que declaren explícitamente derecho de reúso, con crédito; para la mayoría de estas compañías y artistas independientes es probable que no exista ninguna foto con licencia clara, y el resultado correcto es el espacio digno (avatar con iniciales) que ya está construido, más la invitación a proponer una foto autorizada.
+- La "gran búsqueda" pedida por el usuario, para *todo* lo que la plataforma propone (compañías, artistas, obras, espacios, cartelera, convocatorias, editorial, archivo en 38 comunas), es el objetivo completo de la Fase 11 del roadmap (≥ 50 compañías con score ≥ 70 en al menos 5 provincias); esta sesión solo cubrió una primera porción acotada (los siete protagonistas y sus obras/agrupaciones ya existentes en `data/`).
+
+### Próximos pasos
+
+1. Definir con el usuario el orden de la investigación territorial abierta (nuevas compañías, artistas, espacios, cartelera y convocatorias): las provincias interiores señaladas como prioritarias (Los Andes, San Felipe de Aconcagua, Petorca, Quillota) u otro orden que prefiera.
+2. Completar Natalia Zúñiga, Víctor Opazo y Constanza Méndez con el mismo método.
+3. Retomar `sientevalpo.cl` y `elmartutino.cl` para Carlos Muñoz Rivera / Festín de la Risa (bloqueados hoy).

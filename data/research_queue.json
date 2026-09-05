@@ -9,7 +9,7 @@
     "priority": "high",
     "origin": "documento-proyecto",
     "skill": "investigar-de-cuento-en-cuento",
-    "notes": "Localizar URL de la ficha SIGPA CI8699, Diario El Trabajo y Rosa FM; pedir trayectoria, obras, redes y fotos; validar ficha con la persona.",
+    "notes": "Diario El Trabajo localizado y registrado como fuente propia (24 de agosto de 2026, confirma SIGPA y la función del 25 de agosto en la Escuela Mateo Cokljat). Sigue pendiente: URL propia de la ficha SIGPA (CI8699), nota de Rosa FM, y validar la ficha con la persona.",
     "added_at": "2026-09-05",
     "result": {
       "type": "artist",
@@ -26,7 +26,7 @@
     "priority": "high",
     "origin": "documento-proyecto",
     "skill": "investigar-de-cuento-en-cuento",
-    "notes": "Localizar publicación de la Universidad de Chile sobre Festín de la Risa, resultados Fondos de Cultura 2025 folio 749091; validar con la persona.",
+    "notes": "Se intentó abrir sientevalpo.cl (404) y elmartutino.cl (403 bloqueado); ambos quedan como pistas para un próximo intento. Sigue pendiente: publicación de la Universidad de Chile sobre Festín de la Risa, resultados de Fondos de Cultura 2025 folio 749091, y validar con la persona.",
     "added_at": "2026-09-05",
     "result": {
       "type": "artist",
@@ -43,7 +43,7 @@
     "priority": "high",
     "origin": "documento-proyecto",
     "skill": "investigar-de-cuento-en-cuento",
-    "notes": "Localizar nota de El Observador (Valle del Liwa 2024) y ficha Recolectores de Memoria (MINCAP); validar con la persona.",
+    "notes": "Recolectores de Memoria localizado y registrado como fuente propia (bitacoraresidencias.cultura.gob.cl, página dedicada a Nelson Rojas Torres). Sigue pendiente: nota de El Observador sobre Valle del Liwa 2024 y validar con la persona.",
     "added_at": "2026-09-05",
     "result": {
       "type": "artist",
@@ -111,7 +111,7 @@
     "priority": "high",
     "origin": "documento-proyecto",
     "skill": "investigar-de-cuento-en-cuento",
-    "notes": "Localizar nota de El Proa sobre Llo Lle We; validación directa vía La Lancha.",
+    "notes": "El Proa (diciembre 2021) localizado y registrado como fuente propia: confirma su rol como Pilpilén en Llo Lle We. Sigue pendiente: validación directa vía La Lancha y con la persona.",
     "added_at": "2026-09-05",
     "result": {
       "type": "artist",
@@ -213,7 +213,7 @@
     "priority": "high",
     "origin": "documento-proyecto",
     "skill": "buscar-companias-teatro",
-    "notes": "Validación directa (compañía responsable del proyecto): año de fundación, obras, redes, sitio.",
+    "notes": "El Proa (diciembre 2021) localizado y registrado como fuente propia: confirma actividad de la compañía con Llo Lle We. Sigue pendiente: año de fundación, sitio y redes; validación directa (compañía responsable del proyecto).",
     "added_at": "2026-09-05",
     "result": {
       "type": "company",
@@ -230,7 +230,7 @@
     "priority": "medium",
     "origin": "documento-proyecto",
     "skill": "buscar-companias-teatro",
-    "notes": "Confirmar créditos, año de estreno y funciones.",
+    "notes": "Créditos y funciones ya confirmados con El Proa (diciembre 2021): elenco completo, dirección de Diego Chamorro, musicalización, más de 23 funciones a esa fecha, presentada también en Lo Abarca y Santiago. Sigue pendiente: año de estreno exacto.",
     "added_at": "2026-09-05",
     "result": {
       "type": "work",
