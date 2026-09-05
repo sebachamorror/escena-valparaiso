@@ -185,3 +185,36 @@ El usuario eligió continuar la investigación por "espacios y cartelera primero
 2. Reintentar San Felipe con otra estrategia (llamar o escribir directamente, o revisar la cuenta de Instagram encontrada).
 3. Levantar cartelera de los otros seis espacios ya documentados y de las compañías con redes sociales oficiales.
 4. Seguir con la investigación territorial abierta en las provincias sin ningún registro (Petorca fuera de La Ligua, San Felipe de Aconcagua fuera de Putaendo).
+
+---
+
+## Despliegue en Vercel y decisión de mostrar contenido pendiente · sesión 2026-09-05 (continuación)
+
+### Contexto
+
+El usuario pidió subir el sitio a Vercel. Se autenticó esta sesión con su cuenta de Vercel (flujo OAuth por dispositivo, con su autorización explícita), se vinculó al proyecto `escena-valparaiso` que él ya había creado, y se confirmó que el despliegue automático desde GitHub ya estaba activo: cada push a `main` se despliega solo a `https://escena-valparaiso.vercel.app`.
+
+Al revisar el sitio desplegado se encontraron y corrigieron dos problemas reales, y luego el usuario pidió explícitamente mostrar en la URL pública el contenido que hasta ese momento solo se veía en modo previsualización privado. Se le planteó la contrapartida (los siete perfiles de la serie no han sido validados con cada persona) antes de proceder, y reafirmó la decisión.
+
+### Qué se hizo
+
+1. **URL pública del sitio corregida**: `NEXT_PUBLIC_SITE_URL` había quedado configurada en Vercel con el valor de ejemplo (`http://localhost:3000`), horneado en el sitemap y las URLs canónicas de producción. Se reescribió `siteUrl()` (`src/lib/site.ts`) para que use las variables que Vercel expone automáticamente (`VERCEL_PROJECT_PRODUCTION_URL`, `VERCEL_URL`) en vez de depender de una variable configurada a mano, y se eliminó la variable mal configurada.
+2. **Vista previa privada creada** (`vercel deploy`, sin `--prod`) con `ESCENA_PREVIEW=1` como variable de entorno propia del ambiente *Preview*: una URL protegida por el login de Vercel del usuario, donde se podía revisar todo el contenido en verificación sin exponerlo públicamente.
+3. **Decisión explícita de publicar el contenido en verificación en producción**: a pedido directo del usuario, se agregó `ESCENA_PREVIEW=1` también al ambiente *Production* y se redesplegó. Esto activa el modo previsualización (`previewEnabled()`, `src/lib/data/visibility.ts`) para cualquier visitante de `escena-valparaiso.vercel.app`, no solo para el equipo.
+
+### Qué significa esto en la práctica
+
+- Las fichas con `verification.status = "pendiente"` o `"requiere_actualizacion"` (todas menos las 5 recién verificadas) se muestran con su aviso «Ficha en verificación» y la explicación de qué falta.
+- Las 5 fichas verificadas el 5 de septiembre muestran «Ficha verificada» con su puntaje.
+- Ningún dato cambió de estado: `published` sigue en `false` en todos los archivos de `data/`. La publicación formal (`isPublishable`, la que exige `docs/CRITERIOS_VERIFICACION.md`) sigue sin ocurrir.
+- Por diseño, `sitemap.xml`, `robots.txt` y la metaetiqueta `robots` de cada ficha (`noindex`) siguen usando `isPublishable`, no `previewEnabled`: nada de este contenido en verificación entra al mapa del sitio ni se ofrece para indexar en buscadores, aunque cualquiera con el enlace pueda verlo navegando.
+
+### Riesgos
+
+- **Los siete protagonistas de la serie no han validado su ficha.** `docs/DE_CUENTO_EN_CUENTO.md` §10 exige esa validación antes de publicar, y ahora sus fichas (incluidas las 5 con score ≥ 70) son visibles públicamente aunque de forma honesta (con el aviso de verificación). Si alguna persona pide corrección o retiro, atenderlo en menos de 7 días según `docs/CRITERIOS_VERIFICACION.md` §7.
+- Revertir es tan simple como quitar `ESCENA_PREVIEW` del ambiente Production en Vercel (`vercel env rm ESCENA_PREVIEW production`) y redesplegar.
+
+### Próximos pasos
+
+1. Validar cada ficha de protagonista con la persona correspondiente; al validarla, un miembro del equipo decide `published: true` caso a caso (la variable de entorno no reemplaza ese paso).
+2. Evaluar si mantener `ESCENA_PREVIEW=1` en producción de forma permanente, o volver a «vacío y seguro» una vez que haya fichas realmente publicables.
