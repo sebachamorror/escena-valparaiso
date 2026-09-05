@@ -7,7 +7,6 @@ import { ArtistCard } from "@/components/cards/ArtistCard";
 import { CompanyCard } from "@/components/cards/CompanyCard";
 import { RouteStrip } from "@/components/dcc/RouteStrip";
 import { EventCard } from "@/components/cards/EventCard";
-import { HeroMotif } from "@/components/map/HeroMotif";
 import { RegionMap } from "@/components/map/RegionMap";
 import { t } from "@/content/es-CL";
 import { listProvinces, provinceShortName, provinceUrl, communesOfProvince, listCommunes } from "@/lib/data/territories";
@@ -48,7 +47,7 @@ export default function HomePage() {
             <Link href="/de-cuento-en-cuento" className="btn">De Cuento en Cuento</Link>
           </div>
         </div>
-        <HeroMotif />
+        <RegionMap counts={communeCounts} width={520} height={560} />
       </section>
 
       {/* 2. Buscador */}
@@ -95,8 +94,6 @@ export default function HomePage() {
       {/* 5. Explora por territorio */}
       <section className="wrap section" aria-labelledby="territorio">
         <SectionHead id="territorio" title="Explora por territorio" sub="Ocho provincias, treinta y ocho comunas. Isla de Pascua y Juan Fernández incluidas." action={<Link href="/territorios" className="link-more">Todas las comunas</Link>} />
-        <div className={styles.territoryGrid}>
-        <RegionMap counts={communeCounts} width={520} height={560} />
         <div className={styles.provinces}>
           {provinces.map((p) => {
             const counts = countsForProvince(p.slug, episodesInProvince(p.slug).length);
@@ -109,7 +106,6 @@ export default function HomePage() {
               </Link>
             );
           })}
-        </div>
         </div>
       </section>
 
