@@ -1,6 +1,8 @@
 import { cache } from "react";
 import { listArtists, listCompanies, listWorks } from "@/lib/queries/entities";
 import { listEpisodes, episodeUrl } from "@/lib/queries/series";
+import { listVenues } from "@/lib/queries/venues";
+import { listUpcomingOccurrences } from "@/lib/queries/events";
 import { listCommunes, listProvinces, communeUrl, provinceUrl, provinceShortName, communeName } from "@/lib/data/territories";
 import { craftName, disciplineName, listCrafts } from "@/lib/data/vocab";
 import { plainText } from "@/lib/markdown";
@@ -63,6 +65,22 @@ export const buildSearchIndex = cache((): SearchDoc[] => {
   }
   for (const cr of listCrafts()) {
     docs.push(doc({ type: "craft", url: `/oficios/${cr.slug}`, title: cr.name, subtitle: "Oficio escénico" }));
+  }
+  for (const v of listVenues()) {
+    docs.push(doc({
+      type: "venue", url: `/espacios/${v.slug}`, title: v.name,
+      subtitle: `${communeName(v.place.commune)}${v.place.address ? ` · ${v.place.address}` : ""}`,
+      body: [v.description_md, v.short_name].filter(Boolean).join(" "),
+      commune: v.place.commune,
+    }));
+  }
+  for (const o of listUpcomingOccurrences()) {
+    docs.push(doc({
+      type: "event", url: `/cartelera/${o.event.slug}`, title: o.event.title,
+      subtitle: `${o.commune ? communeName(o.commune) : ""}`,
+      body: [o.event.description_md, o.event.organizer_text].filter(Boolean).join(" "),
+      commune: o.commune ?? undefined,
+    }));
   }
   return docs;
 });

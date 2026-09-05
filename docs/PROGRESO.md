@@ -140,3 +140,48 @@ En todos los casos se dejó `published: false`: la publicación sigue siendo una
 1. Definir con el usuario el orden de la investigación territorial abierta (nuevas compañías, artistas, espacios, cartelera y convocatorias): las provincias interiores señaladas como prioritarias (Los Andes, San Felipe de Aconcagua, Petorca, Quillota) u otro orden que prefiera.
 2. Completar Natalia Zúñiga, Víctor Opazo y Constanza Méndez con el mismo método.
 3. Retomar `sientevalpo.cl` y `elmartutino.cl` para Carlos Muñoz Rivera / Festín de la Risa (bloqueados hoy).
+
+---
+
+## Espacios escénicos y cartelera real, con interfaz conectada · sesión 2026-09-05 (continuación)
+
+### Contexto
+
+El usuario eligió continuar la investigación por "espacios y cartelera primero", entre tres opciones planteadas (terminar los protagonistas de la serie, abrir una provincia nueva, o espacios y cartelera). Se investigaron los 8 espacios ya anotados como pistas en `research_queue.json` (rq-046 a rq-055) en vez de empezar de cero, y se conectaron los datos nuevos a la interfaz: tenerlos en `data/` sin mostrarlos en el sitio no cumplía el pedido de "dar belleza a la página con contenido real".
+
+### Qué se hizo
+
+**7 espacios escénicos verificados con fuentes oficiales**, en `data/venues/`, cubriendo 5 de las 8 provincias:
+
+- **Teatromuseo del Títere y el Payaso** y **Parque Cultural de Valparaíso** (Valparaíso): dirección confirmada en el sitio oficial de cada uno.
+- **Centro Cultural San Antonio** (San Antonio): dirección y contacto confirmados en el sitio municipal.
+- **Teatro Municipal Juan Bustos Ramírez** (Quilpué) y **Teatro Rodolfo Bravo** (Quillota): existencia e historia confirmadas con fuentes oficiales (gob.cl, Ministerio de las Culturas), pero la dirección y capacidad que circulan en directorios de terceros no se confirmaron de forma directa: quedaron en `null` en vez de copiarse sin verificar (`verification.status = "pendiente"`).
+- **Teatro Municipal Pompeya** (Villa Alemana): dirección oficial del Consejo de Monumentos Nacionales, con una discrepancia frente a otra dirección que cita Wikipedia, anotada explícitamente para que un verificador humano la resuelva.
+- **Centro Cultural de Los Andes** (Los Andes): dirección y contacto confirmados en el sitio municipal.
+- **San Felipe** (rq-053): sin resultados suficientes. Se encontró una «Casa de la Cultura de San Felipe» con cuentas en redes, pero ningún sitio oficial con dirección; no se creó ficha, siguiendo la regla de que la ausencia de resultados es un hallazgo, no un motivo para inventar.
+
+**3 funciones reales en cartelera**, en `data/events/`, levantadas directamente de la cartelera oficial de Teatromuseo (`teatromuseo.cl/cartelera`, abierta y confirmada el mismo día): *Sola* (5 de septiembre), *En este instante* (6 de septiembre) y *El gran circo imaginario* (13 de septiembre), con fecha, hora y lugar exactos. Se confirmó además que Chile cambia a horario de verano (UTC-3) la noche del 5 de septiembre de 2026, y las horas se registraron con el desfase horario correcto a cada lado del cambio.
+
+**Interfaz conectada a los datos reales** (antes estas secciones solo mostraban estados vacíos, sin importar qué hubiera en `data/`):
+
+- Tipos, cargador y consultas nuevas para espacios (`src/lib/queries/venues.ts`) y cartelera (`src/lib/queries/events.ts`, con filtro automático de funciones vencidas).
+- `/espacios` y `/espacios/[slug]`, `/cartelera` y `/cartelera/[slug]`: listados y fichas reales, con el mismo patrón de fuentes, verificación y "sigue explorando" que compañías, artistas y obras.
+- Las páginas de provincia y comuna, y el bloque "Qué está pasando" de la portada, ahora muestran espacios y funciones reales cuando existen, en vez de solo el estado vacío.
+- El buscador y el mapa regional (conteos por comuna y provincia) ahora incluyen espacios y funciones próximas.
+- Corregido un detalle de formato: las horas se mostraban en formato de 12 horas ("07:00 p. m."); ahora usan el formato de 24 horas habitual en Chile ("19:00 hrs").
+
+`python3 scripts/validar_datos.py` sigue en 0 errores; las 13 pruebas de Vitest en verde; build de producción limpio (102 rutas); recorrido con Playwright de 39 rutas en móvil y escritorio sin errores de consola, salvo el 404 esperado.
+
+### Qué falta
+
+- Cinco de los ocho espacios de la cola quedaron con dirección oficial confirmada por este asistente; los otros dos (Quilpué, Quillota) tienen la dirección que circula en internet pero no fue abierta y confirmada directamente, y San Felipe quedó sin espacio documentado.
+- La cartelera solo cubre Teatromuseo (Valparaíso); las demás provincias y espacios siguen sin funciones registradas.
+- Los tres provincias restantes de espacios pendientes en la cola original (Marga Marga ya cubierta parcialmente, San Felipe de Aconcagua sin resultado) y las cinco provincias sin ningún espacio (Petorca, San Antonio ya cubierta, Los Andes ya cubierta, San Felipe de Aconcagua, Isla de Pascua) siguen abiertas.
+- Ningún espacio ni función quedó publicado: la publicación sigue siendo decisión de una persona del equipo.
+
+### Próximos pasos
+
+1. Confirmar directamente la dirección de Teatro Juan Bustos Ramírez (Quilpué) y Teatro Rodolfo Bravo (Quillota) abriendo una fuente que las declare.
+2. Reintentar San Felipe con otra estrategia (llamar o escribir directamente, o revisar la cuenta de Instagram encontrada).
+3. Levantar cartelera de los otros seis espacios ya documentados y de las compañías con redes sociales oficiales.
+4. Seguir con la investigación territorial abierta en las provincias sin ningún registro (Petorca fuera de La Ligua, San Felipe de Aconcagua fuera de Putaendo).

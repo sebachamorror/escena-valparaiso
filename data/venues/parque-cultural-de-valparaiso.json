@@ -1,0 +1,19 @@
+{
+  "slug": "parque-cultural-de-valparaiso", "type": "venue",
+  "name": "Parque Cultural de Valparaíso", "short_name": "PCdV",
+  "venue_type": "centro-cultural", "owner": null,
+  "place": { "name": "Parque Cultural de Valparaíso", "address": "Cumming 590, Cerro Cárcel, Valparaíso", "commune": "valparaiso", "lat": null, "lng": null, "precision": "commune_centroid", "geocode_source": null, "geocoded_at": null },
+  "capacity": null, "rooms": [],
+  "website": "https://parquecultural.cl/", "contact_public": "contacto@pcdv.cl",
+  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "disciplines": ["teatro", "danza", "teatro-familiar"], "accessibility": [],
+  "program_url": "https://parquecultural.cl/", "status": "activo",
+  "description_md": "Complejo arquitectónico construido sobre la ex Cárcel de Valparaíso, en Cerro Cárcel, inaugurado en octubre de 2011. Incluye un teatro, oficinas y salas de ensayo de danza, teatro, circo y música. Programa ciclos de teatro infantil y actividades familiares, como el «Parque en Verano».",
+  "media": [], "tags": [],
+  "sources": [
+    { "url": "https://parquecultural.cl/ubicacion/", "title": "Ubicación — Parque Cultural Valparaíso", "publisher": "Parque Cultural de Valparaíso", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "place", "contact_public"], "notes": "Confirma dirección (Cumming 590, Cerro Cárcel) y correo de contacto." },
+    { "url": "https://es.wikipedia.org/wiki/Parque_Cultural_de_Valpara%C3%ADso", "title": "Parque Cultural de Valparaíso", "publisher": "Wikipedia", "type": "otro", "level": 3, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description"], "notes": "Solo como referencia secundaria de la inauguración en octubre de 2011; no se usa como única fuente." }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 78, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Dirección y contacto confirmados en el sitio oficial. Falta capacidad, salas específicas y accesibilidad declarada." },
+  "published": false
+}

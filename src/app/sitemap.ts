@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { absoluteUrl } from "@/lib/site";
 import { isPublishable } from "@/lib/data/visibility";
-import { loadArtists, loadCompanies, loadWorks } from "@/lib/data/load";
+import { loadArtists, loadCompanies, loadWorks, loadVenues, loadEvents } from "@/lib/data/load";
 import { listProvinces, communesOfProvince, provinceUrl, communeUrl } from "@/lib/data/territories";
 import { countsForCommune, countsForProvince } from "@/lib/queries/entities";
 import { listEpisodes, episodeUrl, episodesInCommune, episodesInProvince } from "@/lib/queries/series";
@@ -24,12 +24,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const w of loadWorks().filter(isPublishable)) add(`/obras/${w.slug}`, 0.7);
   for (const e of listEpisodes()) add(episodeUrl(e), 0.8);
   for (const cr of listCrafts()) add(`/oficios/${cr.slug}`, 0.4, "monthly");
+  for (const v of loadVenues().filter(isPublishable)) add(`/espacios/${v.slug}`, 0.6);
+  for (const ev of loadEvents().filter(isPublishable)) add(`/cartelera/${ev.slug}`, 0.6, "daily");
 
   // Territorios: solo los que tienen al menos una entidad publicable o un episodio.
   const publishableCommunes = new Set<string>();
   for (const c of loadCompanies().filter(isPublishable)) publishableCommunes.add(c.commune);
   for (const a of loadArtists().filter(isPublishable)) publishableCommunes.add(a.commune);
   for (const w of loadWorks().filter(isPublishable)) for (const c of w.communes) publishableCommunes.add(c);
+  for (const v of loadVenues().filter(isPublishable)) publishableCommunes.add(v.place.commune);
   for (const p of listProvinces()) {
     const communes = communesOfProvince(p.slug);
     const hasContent = communes.some((c) => publishableCommunes.has(c.slug)) || episodesInProvince(p.slug).length > 0 || countsForProvince(p.slug).total > 0 && false;

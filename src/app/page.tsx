@@ -6,12 +6,14 @@ import { JsonLd } from "@/components/ui/JsonLd";
 import { ArtistCard } from "@/components/cards/ArtistCard";
 import { CompanyCard } from "@/components/cards/CompanyCard";
 import { RouteStrip } from "@/components/dcc/RouteStrip";
+import { EventCard } from "@/components/cards/EventCard";
 import { HeroMotif } from "@/components/map/HeroMotif";
 import { RegionMap } from "@/components/map/RegionMap";
 import { t } from "@/content/es-CL";
 import { listProvinces, provinceShortName, provinceUrl, communesOfProvince, listCommunes } from "@/lib/data/territories";
 import { previewEnabled } from "@/lib/data/visibility";
 import { countsForCommune, countsForProvince, listArtists, listCompanies } from "@/lib/queries/entities";
+import { listUpcomingOccurrences } from "@/lib/queries/events";
 import { episodesInCommune, episodesInProvince, getSeries, listEpisodes } from "@/lib/queries/series";
 import { websiteJsonLd } from "@/lib/seo/jsonld";
 import { SITE_TAGLINE } from "@/lib/site";
@@ -26,6 +28,7 @@ export default function HomePage() {
   const episodes = listEpisodes();
   const people = [...artists.slice(0, 3), ...companies.slice(0, 3)];
   const communeCounts = Object.fromEntries(listCommunes().map((c) => [c.slug, countsForCommune(c.slug, episodesInCommune(c.slug).length)]));
+  const upcoming = listUpcomingOccurrences();
 
   return (
     <>
@@ -69,7 +72,11 @@ export default function HomePage() {
       {/* 3. Qué está pasando */}
       <section className="wrap section" aria-labelledby="pasando">
         <SectionHead id="pasando" title="Qué está pasando" sub="Funciones y actividades próximas, con fecha, hora, lugar y fuente oficial." action={<Link href="/cartelera" className="link-more">Toda la cartelera</Link>} />
-        <EmptyState title="Cartelera" text={t.empty.events} proposeLabel="Avisar de una función" proposeHref="/participa?tipo=actividad" />
+        {upcoming.length ? (
+          <div className="grid-3">{upcoming.slice(0, 6).map((o) => <EventCard key={`${o.event.slug}-${o.occurrence.starts_at}`} item={o} />)}</div>
+        ) : (
+          <EmptyState title="Cartelera" text={t.empty.events} proposeLabel="Avisar de una función" proposeHref="/participa?tipo=actividad" />
+        )}
       </section>
 
       {/* 4. Conoce a quienes lo hacen */}

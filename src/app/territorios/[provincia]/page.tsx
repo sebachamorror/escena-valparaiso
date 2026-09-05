@@ -7,12 +7,16 @@ import { CompanyCard } from "@/components/cards/CompanyCard";
 import { ArtistCard } from "@/components/cards/ArtistCard";
 import { WorkCard } from "@/components/cards/WorkCard";
 import { EpisodeCard } from "@/components/cards/EpisodeCard";
+import { VenueCard } from "@/components/cards/VenueCard";
+import { EventCard } from "@/components/cards/EventCard";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { RegionMap } from "@/components/map/RegionMap";
 import { t } from "@/content/es-CL";
 import { communesOfProvince, communeUrl, getProvince, listProvinces, provinceShortName } from "@/lib/data/territories";
 import { artistsInProvince, companiesInProvince, countsForCommune, countsForProvince, getArtist, worksInProvince } from "@/lib/queries/entities";
 import { episodesInCommune, episodesInProvince } from "@/lib/queries/series";
+import { venuesInProvince } from "@/lib/queries/venues";
+import { upcomingInProvince } from "@/lib/queries/events";
 import { pageMetadata } from "@/lib/seo/metadata";
 import { isPublishable } from "@/lib/data/visibility";
 import styles from "../territory.module.css";
@@ -45,6 +49,8 @@ export default async function ProvincePage({ params }: { params: Promise<{ provi
   const artists = artistsInProvince(p.slug);
   const works = worksInProvince(p.slug);
   const episodes = episodesInProvince(p.slug);
+  const venues = venuesInProvince(p.slug);
+  const events = upcomingInProvince(p.slug);
   const counts = countsForProvince(p.slug, episodes.length);
   const short = provinceShortName(p);
 
@@ -102,9 +108,20 @@ export default async function ProvincePage({ params }: { params: Promise<{ provi
         </section>
       )}
 
+      {venues.length > 0 && (
+        <section className="section" aria-labelledby="espacios">
+          <SectionHead id="espacios" title="Espacios escénicos" action={<Link href="/espacios" className="link-more">Espacios</Link>} />
+          <div className="grid-3">{venues.map((v) => <VenueCard key={v.slug} v={v} />)}</div>
+        </section>
+      )}
+
       <section className="section" aria-labelledby="cartelera">
         <SectionHead id="cartelera" title="Cartelera" sub="Funciones próximas en la provincia." action={<Link href="/cartelera" className="link-more">Toda la cartelera</Link>} />
-        <EmptyState text={t.empty.events} proposeLabel="Avisar de una función" proposeHref={`/participa?tipo=actividad&provincia=${p.slug}`} />
+        {events.length ? (
+          <div className="grid-3">{events.map((o) => <EventCard key={`${o.event.slug}-${o.occurrence.starts_at}`} item={o} />)}</div>
+        ) : (
+          <EmptyState text={t.empty.events} proposeLabel="Avisar de una función" proposeHref={`/participa?tipo=actividad&provincia=${p.slug}`} />
+        )}
       </section>
     </div>
   );

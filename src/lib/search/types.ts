@@ -1,5 +1,5 @@
 /** Tipos y etiquetas del buscador. Sin dependencias de servidor: se usa en cliente. */
-export type SearchType = "company" | "artist" | "work" | "episode" | "territory" | "craft";
+export type SearchType = "company" | "artist" | "work" | "episode" | "territory" | "craft" | "venue" | "event";
 
 export interface SearchDoc {
   type: SearchType;
@@ -21,4 +21,6 @@ export const SEARCH_TYPE_LABEL: Record<SearchType, string> = {
   episode: "De Cuento en Cuento",
   territory: "Territorios",
   craft: "Oficios",
+  venue: "Espacios",
+  event: "Cartelera",
 };

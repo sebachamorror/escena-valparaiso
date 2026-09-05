@@ -2,6 +2,8 @@ import { cache } from "react";
 import { loadArtists, loadCompanies, loadWorks } from "@/lib/data/load";
 import { isVisible } from "@/lib/data/visibility";
 import { communesOfProvince, getCommune } from "@/lib/data/territories";
+import { venuesInCommune, venuesInProvince } from "@/lib/queries/venues";
+import { upcomingInCommune, upcomingInProvince } from "@/lib/queries/events";
 import type { Artist, Company, Work } from "@/lib/data/types";
 
 const byName = (a: { name: string }, b: { name: string }) => a.name.localeCompare(b.name, "es");
@@ -86,20 +88,24 @@ export const worksInProvince = cache((province: string): Work[] => {
 
 /* ---------- Conteos por territorio ---------- */
 
-export interface TerritoryCounts { companies: number; artists: number; works: number; episodes: number; total: number }
+export interface TerritoryCounts { companies: number; artists: number; works: number; episodes: number; venues: number; events: number; total: number }
 
 export const countsForCommune = cache((commune: string, episodes = 0): TerritoryCounts => {
   const companies = companiesInCommune(commune).length;
   const artists = artistsInCommune(commune).length;
   const works = worksInCommune(commune).length;
-  return { companies, artists, works, episodes, total: companies + artists + works + episodes };
+  const venues = venuesInCommune(commune).length;
+  const events = upcomingInCommune(commune).length;
+  return { companies, artists, works, episodes, venues, events, total: companies + artists + works + episodes + venues + events };
 });
 
 export const countsForProvince = cache((province: string, episodes = 0): TerritoryCounts => {
   const companies = companiesInProvince(province).length;
   const artists = artistsInProvince(province).length;
   const works = worksInProvince(province).length;
-  return { companies, artists, works, episodes, total: companies + artists + works + episodes };
+  const venues = venuesInProvince(province).length;
+  const events = upcomingInProvince(province).length;
+  return { companies, artists, works, episodes, venues, events, total: companies + artists + works + episodes + venues + events };
 });
 
 /** Provincia de una entidad a partir de su comuna de sede. */

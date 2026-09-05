@@ -1,0 +1,18 @@
+{
+  "slug": "centro-cultural-de-los-andes", "type": "venue",
+  "name": "Centro Cultural de Los Andes", "short_name": null,
+  "venue_type": "centro-cultural", "owner": "Ilustre Municipalidad de Los Andes",
+  "place": { "name": "Centro Cultural de Los Andes", "address": "Maipú 475, Los Andes", "commune": "los-andes", "lat": null, "lng": null, "precision": "commune_centroid", "geocode_source": null, "geocoded_at": null },
+  "capacity": null, "rooms": [],
+  "website": "https://www.losandes.cl/centro-cultural/", "contact_public": "contacto@munilosandes.cl",
+  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "disciplines": ["teatro", "danza"], "accessibility": [],
+  "program_url": "https://www.losandes.cl/centro-cultural/", "status": "activo",
+  "description_md": "Espacio municipal de encuentro, aprendizaje y creación. Ofrece talleres artísticos y culturales para la comunidad: música (piano, guitarra, canto), danza (ballet, contemporáneo, jazz, tango) y artes visuales (dibujo, pintura, teatro, fotografía).",
+  "media": [], "tags": [],
+  "sources": [
+    { "url": "https://www.losandes.cl/centro-cultural/", "title": "Centro Cultural — Ilustre Municipalidad de Los Andes", "publisher": "Ilustre Municipalidad de Los Andes", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "place", "contact_public", "description"], "notes": "Confirma dirección, teléfono, correo y oferta de talleres." }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 78, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Dirección y contacto confirmados en fuente municipal oficial. Falta capacidad, salas y accesibilidad declarada. Funciona principalmente como escuela de talleres, no solo como sala de programación externa." },
+  "published": false
+}

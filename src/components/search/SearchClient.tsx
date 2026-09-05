@@ -10,7 +10,7 @@ import { SEARCH_TYPE_LABEL } from "@/lib/search/types";
 import { search } from "@/lib/search/query";
 import styles from "./search.module.css";
 
-const TYPES: SearchType[] = ["company", "artist", "work", "episode", "territory", "craft"];
+const TYPES: SearchType[] = ["event", "company", "artist", "work", "venue", "episode", "territory", "craft"];
 
 export function SearchClient({ docs, initialQuery }: { docs: SearchDoc[]; initialQuery: string }) {
   const router = useRouter();

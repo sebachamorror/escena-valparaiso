@@ -6,6 +6,8 @@ import { CompanyCard } from "@/components/cards/CompanyCard";
 import { ArtistCard } from "@/components/cards/ArtistCard";
 import { WorkCard } from "@/components/cards/WorkCard";
 import { EpisodeCard } from "@/components/cards/EpisodeCard";
+import { VenueCard } from "@/components/cards/VenueCard";
+import { EventCard } from "@/components/cards/EventCard";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { SigueExplorando } from "@/components/entity/SigueExplorando";
 import { RegionMap } from "@/components/map/RegionMap";
@@ -13,6 +15,8 @@ import { t } from "@/content/es-CL";
 import { communesOfProvince, getCommune, getProvince, listCommunes, provinceShortName, provinceUrl } from "@/lib/data/territories";
 import { artistsInCommune, companiesInCommune, countsForCommune, getArtist, worksInCommune } from "@/lib/queries/entities";
 import { episodesInCommune } from "@/lib/queries/series";
+import { venuesInCommune } from "@/lib/queries/venues";
+import { upcomingInCommune } from "@/lib/queries/events";
 import { pageMetadata } from "@/lib/seo/metadata";
 import { isPublishable } from "@/lib/data/visibility";
 import styles from "../../territory.module.css";
@@ -45,6 +49,8 @@ export default async function CommunePage({ params }: { params: Promise<{ provin
   const artists = artistsInCommune(c.slug);
   const works = worksInCommune(c.slug);
   const episodes = episodesInCommune(c.slug);
+  const venues = venuesInCommune(c.slug);
+  const events = upcomingInCommune(c.slug);
   const counts = countsForCommune(c.slug, episodes.length);
 
   return (
@@ -105,8 +111,16 @@ export default async function CommunePage({ params }: { params: Promise<{ provin
         <section className="section" aria-labelledby="espacios">
           <SectionHead id="espacios" title="Espacios y cartelera" action={<Link href="/espacios" className="link-more">Espacios</Link>} />
           <div className="grid-2">
-            <EmptyState title="Espacios" text={t.empty.venues} proposeLabel="Proponer un espacio" proposeHref={`/participa?tipo=espacio&comuna=${c.slug}`} />
-            <EmptyState title="Cartelera" text={t.empty.events} proposeLabel="Avisar de una función" proposeHref={`/participa?tipo=actividad&comuna=${c.slug}`} />
+            {venues.length ? (
+              <div style={{ display: "grid", gap: "var(--s-5)" }}>{venues.map((v) => <VenueCard key={v.slug} v={v} />)}</div>
+            ) : (
+              <EmptyState title="Espacios" text={t.empty.venues} proposeLabel="Proponer un espacio" proposeHref={`/participa?tipo=espacio&comuna=${c.slug}`} />
+            )}
+            {events.length ? (
+              <div style={{ display: "grid", gap: "var(--s-5)" }}>{events.map((o) => <EventCard key={`${o.event.slug}-${o.occurrence.starts_at}`} item={o} />)}</div>
+            ) : (
+              <EmptyState title="Cartelera" text={t.empty.events} proposeLabel="Avisar de una función" proposeHref={`/participa?tipo=actividad&comuna=${c.slug}`} />
+            )}
           </div>
         </section>
       </div>

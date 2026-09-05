@@ -1,0 +1,19 @@
+{
+  "slug": "teatro-municipal-juan-bustos-ramirez", "type": "venue",
+  "name": "Teatro Municipal Juan Bustos Ramírez", "short_name": "Teatro Juan Bustos",
+  "venue_type": "teatro", "owner": "Ilustre Municipalidad de Quilpué",
+  "place": { "name": "Teatro Municipal Juan Bustos Ramírez", "address": null, "commune": "quilpue", "lat": null, "lng": null, "precision": "commune_centroid", "geocode_source": null, "geocoded_at": null },
+  "capacity": null, "rooms": ["Microcine"],
+  "website": null, "contact_public": null,
+  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "disciplines": ["teatro"], "accessibility": [],
+  "program_url": null, "status": "activo",
+  "description_md": "Inaugurado el 7 de diciembre de 1940 como Teatro Velarde, de estilo art decó. Ante riesgo de demolición, el municipio de Quilpué lo adquirió para conservarlo como patrimonio comunal; tras una restauración de 1.270 millones de pesos que recuperó puertas, lámparas y rejas originales y sumó equipamiento escénico y de iluminación, reabrió como Teatro Municipal Juan Bustos Ramírez el 12 de diciembre de 2017, con escenario principal, camarines, microcine, salas de ensayo y oficinas administrativas.",
+  "media": [], "tags": [],
+  "sources": [
+    { "url": "https://www.gob.cl/noticias/mandataria-inauguro-el-teatro-municipal-juan-bustos-en-quilpue/", "title": "Mandataria inauguró el Teatro Municipal Juan Bustos en Quilpué", "publisher": "Gobierno de Chile (gob.cl)", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "description"], "notes": "Confirma historia (Teatro Velarde 1940), restauración, reapertura el 12 de diciembre de 2017 y nuevas instalaciones. No incluye dirección ni capacidad exacta." },
+    { "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2017/12/14/quilpue-inauguro-el-nuevo-teatro-municipal-juan-bustos-ramirez.shtml", "title": "Quilpué inauguró el nuevo Teatro Municipal Juan Bustos Ramírez", "publisher": "BioBioChile", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "description"], "notes": "Corrobora la reapertura de diciembre de 2017." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 68, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Existencia e historia confirmadas con fuente oficial (gob.cl) y prensa. Dirección y capacidad citadas por varios directorios (Aníbal Pinto 634; 900 personas) pero no confirmadas por este asistente abriendo una fuente oficial: quedan como null hasta confirmarlas directamente (sitio municipal o Wikipedia con cita primaria)." },
+  "published": false
+}

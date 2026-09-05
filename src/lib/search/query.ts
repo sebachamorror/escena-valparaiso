@@ -34,7 +34,7 @@ export function search(docs: SearchDoc[], q: string, types?: SearchType[]): Sear
     hits.push({ ...d, score });
   }
   hits.sort((a, b) => b.score - a.score || a.title.localeCompare(b.title, "es"));
-  const order: SearchType[] = ["company", "artist", "work", "episode", "territory", "craft"];
+  const order: SearchType[] = ["event", "company", "artist", "work", "venue", "episode", "territory", "craft"];
   const groups: SearchGroup[] = [];
   for (const type of order) {
     const g = hits.filter((h) => h.type === type);

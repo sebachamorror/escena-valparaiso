@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { cache } from "react";
 import type {
-  Artist, Company, Episode, Posta, Series, Territories, Vocabularies, Work,
+  Artist, Company, Episode, EventEntity, Posta, Series, Territories, Venue, Vocabularies, Work,
 } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "data");
@@ -34,8 +34,9 @@ export const loadEpisodes = cache((): Episode[] =>
 );
 export const loadPosta = cache((): Posta => readJson<Posta>("de-cuento-en-cuento/posta.json"));
 
-/** Colecciones aún sin datos (se llenan con las investigaciones 1–6). */
-export const loadVenues = cache((): { slug: string }[] => readCollection("venues"));
-export const loadEvents = cache((): { slug: string }[] => readCollection("events"));
+export const loadVenues = cache((): Venue[] => readCollection<Venue>("venues"));
+export const loadEvents = cache((): EventEntity[] => readCollection<EventEntity>("events"));
+
+/** Colecciones aún sin datos (se llenan con investigaciones futuras). */
 export const loadCalls = cache((): { slug: string }[] => readCollection("calls"));
 export const loadArchive = cache((): { slug: string }[] => readCollection("archive"));

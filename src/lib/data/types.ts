@@ -237,5 +237,70 @@ export interface Vocabularies {
   modalities: VocabTerm[];
 }
 
+export interface Place {
+  name?: string | null;
+  address: string | null;
+  commune: string;
+  lat: number | null;
+  lng: number | null;
+  precision: "exact" | "street" | "commune_centroid" | "unknown";
+  geocode_source?: string | null;
+  geocoded_at?: string | null;
+}
+
+export type VenueType = "teatro" | "centro-cultural" | "sala" | "espacio-independiente" | "escuela" | "museo" | "espacio-publico" | "no-convencional";
+export type VenueStatus = "activo" | "cerrado-temporal" | "desaparecido" | "desconocido";
+
+export interface Venue extends Verifiable {
+  type: "venue";
+  name: string;
+  short_name: string | null;
+  venue_type: VenueType;
+  owner: string | null;
+  place: Place;
+  capacity: number | null;
+  rooms: string[];
+  website: string | null;
+  contact_public: string | null;
+  social: Social;
+  disciplines: string[];
+  accessibility: string[];
+  program_url: string | null;
+  status: VenueStatus;
+  description_md: string | null;
+  media: MediaRef[];
+}
+
+export type EventKind = "funcion" | "temporada" | "festival" | "taller" | "encuentro" | "otro";
+
+export interface Occurrence {
+  starts_at: string;
+  ends_at?: string | null;
+  time_unknown?: boolean;
+  venue?: string | null;
+  place?: Place | null;
+  price?: string | null;
+  note?: string | null;
+}
+
+export interface EventEntity extends Verifiable {
+  type: "event";
+  title: string;
+  kind: EventKind;
+  work: string | null;
+  company: string | null;
+  organizer_text: string | null;
+  disciplines: string[];
+  audience: string | null;
+  description_md: string | null;
+  price: string | null;
+  is_free: boolean | null;
+  booking_url: string | null;
+  accessibility: string[];
+  occurrences: Occurrence[];
+  last_checked_at: string;
+  media: MediaRef[];
+}
+
 export type Entity = Company | Artist | Work;
 export type EntityType = Entity["type"];

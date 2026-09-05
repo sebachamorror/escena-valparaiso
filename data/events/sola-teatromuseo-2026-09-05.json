@@ -1,0 +1,15 @@
+{
+  "slug": "sola-teatromuseo-2026-09-05", "type": "event", "title": "Sola",
+  "kind": "funcion", "work": null, "company": null, "organizer_text": "Fundación Teatromuseo del Títere y el Payaso",
+  "disciplines": ["clown"], "audience": null,
+  "description_md": "Unipersonal protagonizado por «la Señora María», un personaje de 80 años que ofrece lecturas de tarot, limpias energéticas y consejos espirituales a través del humor y la improvisación.",
+  "price": null, "is_free": null, "booking_url": null, "accessibility": [],
+  "occurrences": [ { "starts_at": "2026-09-05T19:00:00-04:00", "ends_at": null, "time_unknown": false, "venue": "teatromuseo-del-titere-y-el-payaso", "place": null, "price": null, "note": null } ],
+  "last_checked_at": "2026-09-05",
+  "media": [],
+  "sources": [
+    { "url": "https://teatromuseo.cl/cartelera", "title": "Cartelera — Fundación Teatromuseo", "publisher": "Fundación Teatromuseo del Títere y el Payaso", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "occurrences", "description"], "notes": "Fecha y hora confirmadas el mismo día del levantamiento en la cartelera oficial del espacio." }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 80, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2026-09-06", "note": "Fuente oficial del espacio con fecha y hora exactas. Falta identificar a la compañía o artista responsable (no se nombra en la cartelera) y el precio." },
+  "published": false
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "teatromuseo-del-titere-y-el-payaso", "type": "venue",
+  "name": "Fundación Teatromuseo del Títere y el Payaso", "short_name": "Teatromuseo",
+  "venue_type": "teatro", "owner": "Fundación Teatromuseo del Títere y el Payaso (privada, sin fines de lucro)",
+  "place": { "name": "Teatromuseo del Títere y el Payaso", "address": "Cumming 795, Cerro Cárcel, Valparaíso", "commune": "valparaiso", "lat": null, "lng": null, "precision": "commune_centroid", "geocode_source": null, "geocoded_at": null },
+  "capacity": null, "rooms": [],
+  "website": "https://www.teatromuseo.cl/", "contact_public": "(+56) 32 259 2226",
+  "social": { "instagram": null, "facebook": "https://www.facebook.com/teatromuseo/", "tiktok": null, "youtube": null },
+  "disciplines": ["titeres", "clown"], "accessibility": [],
+  "program_url": "https://www.teatromuseo.cl/", "status": "activo",
+  "description_md": "Fundada en 2007 en la antigua capilla de San Judas Tadeo, en Cerro Cárcel, junto al mirador Plaza Bismarck. Reúne una escuela internacional de formación, un museo especializado y un teatro con programación familiar permanente dedicados a los títeres y el payaso. Sede del Festival Caleta de Títeres y espacio de origen de la compañía Festín de la Risa.",
+  "media": [],
+  "sources": [
+    { "url": "https://www.teatromuseo.cl/", "title": "Sitio oficial de la Fundación Teatromuseo del Títere y el Payaso", "publisher": "Fundación Teatromuseo del Títere y el Payaso", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "place", "contact_public"], "notes": "Confirma dirección (Cumming 795, Valparaíso) y teléfono." },
+    { "url": "https://semanaeducacionartistica.cultura.gob.cl/contenidos/fundacion-teatromuseo-del-titere-y-el-payaso/", "title": "Fundación Teatromuseo del Títere y el Payaso — Semana de la Educación Artística", "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio", "type": "institucional", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "description"], "notes": "Confirma inauguración en julio de 2007 en la ex capilla de San Judas Tadeo, y la escuela internacional, museo y teatro." }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 80, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Dirección y contacto confirmados en el sitio oficial. Falta capacidad, salas y accesibilidad declarada." },
+  "published": false
+}

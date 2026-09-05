@@ -1,0 +1,18 @@
+{
+  "slug": "centro-cultural-san-antonio", "type": "venue",
+  "name": "Centro Cultural San Antonio", "short_name": null,
+  "venue_type": "centro-cultural", "owner": "Ilustre Municipalidad de San Antonio",
+  "place": { "name": "Centro Cultural San Antonio", "address": "Antofagasta 545, Barrancas, San Antonio", "commune": "san-antonio", "lat": null, "lng": null, "precision": "commune_centroid", "geocode_source": null, "geocoded_at": null },
+  "capacity": null, "rooms": [],
+  "website": "https://centrocultural.sanantonio.cl/", "contact_public": "CentroCultural@sanantonio.cl",
+  "social": { "instagram": "https://www.instagram.com/centroculturalsanantonio/", "facebook": null, "tiktok": null, "youtube": null },
+  "disciplines": ["teatro"], "accessibility": [],
+  "program_url": "https://centrocultural.sanantonio.cl/", "status": "activo",
+  "description_md": "Espacio cultural municipal de referencia de la comuna de San Antonio. Programa una cartelera gratuita de cine, música en vivo y teatro, además de actividades vinculadas a los planes de estudio en horario escolar. Sede del Festival Litoral Teatral.",
+  "media": [], "tags": [],
+  "sources": [
+    { "url": "https://www.sanantonio.cl/alcaldia/departamento-de-cultura/centro-cultural-san-antonio.html", "title": "Centro Cultural San Antonio", "publisher": "Ilustre Municipalidad de San Antonio", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "place", "contact_public", "description"], "notes": "Confirma dirección, programación gratuita y vínculo con planes de estudio." }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 80, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Dirección y contacto confirmados en fuente municipal oficial. Falta capacidad, salas y accesibilidad declarada." },
+  "published": false
+}

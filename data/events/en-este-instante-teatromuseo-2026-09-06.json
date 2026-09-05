@@ -1,0 +1,15 @@
+{
+  "slug": "en-este-instante-teatromuseo-2026-09-06", "type": "event", "title": "En este instante",
+  "kind": "funcion", "work": null, "company": null, "organizer_text": "Fundación Teatromuseo del Títere y el Payaso",
+  "disciplines": ["clown"], "audience": "familiar",
+  "description_md": "Un payaso barrendero encantador transforma las tareas cotidianas en aventuras cómicas con participación del público.",
+  "price": null, "is_free": null, "booking_url": null, "accessibility": [],
+  "occurrences": [ { "starts_at": "2026-09-06T16:30:00-03:00", "ends_at": null, "time_unknown": false, "venue": "teatromuseo-del-titere-y-el-payaso", "place": null, "price": null, "note": null } ],
+  "last_checked_at": "2026-09-05",
+  "media": [],
+  "sources": [
+    { "url": "https://teatromuseo.cl/cartelera", "title": "Cartelera — Fundación Teatromuseo", "publisher": "Fundación Teatromuseo del Títere y el Payaso", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "occurrences", "description"], "notes": "Fecha y hora confirmadas el mismo día del levantamiento en la cartelera oficial del espacio." }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 80, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2026-09-06", "note": "Fuente oficial del espacio con fecha y hora exactas. Falta identificar a la compañía o artista responsable y el precio." },
+  "published": false
+}

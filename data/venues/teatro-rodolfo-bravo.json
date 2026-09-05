@@ -1,0 +1,19 @@
+{
+  "slug": "teatro-rodolfo-bravo", "type": "venue",
+  "name": "Teatro Rodolfo Bravo del Centro Cultural Municipal Leopoldo Silva Reynoard", "short_name": "Teatro Rodolfo Bravo",
+  "venue_type": "teatro", "owner": "Ilustre Municipalidad de Quillota",
+  "place": { "name": "Teatro Rodolfo Bravo", "address": null, "commune": "quillota", "lat": null, "lng": null, "precision": "commune_centroid", "geocode_source": null, "geocoded_at": null },
+  "capacity": null, "rooms": [],
+  "website": null, "contact_public": null,
+  "social": { "instagram": "https://x.com/qtacultural", "facebook": "https://www.facebook.com/centroculturalquillota/", "tiktok": null, "youtube": null },
+  "disciplines": ["teatro", "danza"], "accessibility": [],
+  "program_url": null, "status": "activo",
+  "description_md": "Sala teatral del Centro Cultural Municipal Leopoldo Silva Reynoard de Quillota. Reabrió al público el 22 de enero de 2021 tras el cierre por la pandemia, con programación semanal y protocolos de aforo y sanitización; el municipio complementó la temporada con intervenciones culturales en barrios para llegar a quienes no podían asistir a la sala.",
+  "media": [], "tags": [],
+  "sources": [
+    { "url": "https://publicosyterritorios.cultura.gob.cl/local/teatro-rodolfo-bravo-del-centro-cultural-municipal-leopoldo-silva-reynoard-de-quillota/", "title": "Teatro Rodolfo Bravo del Centro Cultural Municipal Leopoldo Silva Reynoard de Quillota", "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Unidad de Públicos y Territorios", "type": "institucional", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence"], "notes": "Confirma el nombre oficial completo del teatro. No entrega dirección ni capacidad." },
+    { "url": "https://g5noticias.cl/2021/01/21/teatro-del-centro-cultural-de-quillota-reabre-a-publico-este-viernes/", "title": "Teatro del Centro Cultural de Quillota reabre a público este viernes", "publisher": "G5 Noticias", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "description"], "notes": "Publicada el 21 de enero de 2021. Confirma la reapertura del 22 de enero de 2021 y el nombre «Rodolfo Bravo»." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 62, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Existencia y nombre oficial confirmados con dos fuentes reales, una de ellas nivel 1. Dirección (citada por varios directorios como Maipú 330) y capacidad (citada como 240 personas) no fueron confirmadas por este asistente abriendo una fuente que las declare; quedan en null hasta confirmarlas." },
+  "published": false
+}
