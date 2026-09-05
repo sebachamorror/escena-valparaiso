@@ -17,3 +17,4 @@ tsconfig.tsbuildinfo
 .cache/
 # geometría cruda descargada (se versiona solo el TopoJSON procesado)
 public/geo/raw/
+.env*
