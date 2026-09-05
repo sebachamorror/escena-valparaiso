@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "escena-valparaiso/call.schema.json",
+  "title": "Convocatoria",
+  "type": "object",
+  "required": ["slug", "title", "type", "org", "call_type", "official_url", "scope", "sources", "verification", "published"],
+  "properties": {
+    "slug": { "$ref": "_definitions.schema.json#/definitions/slug" },
+    "type": { "const": "call" },
+    "title": { "type": "string" },
+    "org": { "type": "string" },
+    "call_type": { "type": "string", "enum": ["fondo", "residencia", "festival", "taller", "audicion", "laboratorio", "beca", "llamado", "seminario"] },
+    "description_md": { "type": ["string", "null"] },
+    "disciplines": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "scope": { "type": "string", "enum": ["comunal", "regional", "nacional", "internacional"] },
+    "communes": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "opens_at": { "$ref": "_definitions.schema.json#/definitions/date" },
+    "closes_at": { "$ref": "_definitions.schema.json#/definitions/date" },
+    "date_precision": { "type": "string", "enum": ["day", "month", "unknown"] },
+    "beneficiaries": { "type": ["string", "null"] },
+    "amount": { "type": ["string", "null"] },
+    "requirements": { "type": "array", "items": { "type": "string" } },
+    "official_url": { "type": "string", "pattern": "^https?://" },
+    "status_override": { "type": ["string", "null"], "enum": [null, "archivada"] },
+    "sources": { "type": "array", "minItems": 1, "items": { "$ref": "_definitions.schema.json#/definitions/source" } },
+    "verification": { "$ref": "_definitions.schema.json#/definitions/verification" },
+    "published": { "type": "boolean" }
+  }
+}

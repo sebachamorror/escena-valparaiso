@@ -1,0 +1,13 @@
+{
+  "series": "de-cuento-en-cuento",
+  "$comment": "La Posta: siete entregas en orden de recorrido. object y message se completan cuando ocurren; nunca antes.",
+  "handovers": [
+    { "n": 1, "from_episode": "dcc-01-los-andes", "to_episode": "dcc-02-putaendo", "from_commune": "los-andes", "to_commune": "putaendo", "object": null, "message_md": null, "handed_at": null, "received_at": null, "media": [], "status": "pendiente" },
+    { "n": 2, "from_episode": "dcc-02-putaendo", "to_episode": "dcc-03-la-ligua", "from_commune": "putaendo", "to_commune": "la-ligua", "object": null, "message_md": null, "handed_at": null, "received_at": null, "media": [], "status": "pendiente" },
+    { "n": 3, "from_episode": "dcc-03-la-ligua", "to_episode": "dcc-04-quillota", "from_commune": "la-ligua", "to_commune": "quillota", "object": null, "message_md": null, "handed_at": null, "received_at": null, "media": [], "status": "pendiente" },
+    { "n": 4, "from_episode": "dcc-04-quillota", "to_episode": "dcc-05-villa-alemana", "from_commune": "quillota", "to_commune": "villa-alemana", "object": null, "message_md": null, "handed_at": null, "received_at": null, "media": [], "status": "pendiente" },
+    { "n": 5, "from_episode": "dcc-05-villa-alemana", "to_episode": "dcc-06-vina-del-mar", "from_commune": "villa-alemana", "to_commune": "vina-del-mar", "object": null, "message_md": null, "handed_at": null, "received_at": null, "media": [], "status": "pendiente" },
+    { "n": 6, "from_episode": "dcc-06-vina-del-mar", "to_episode": "dcc-07-san-antonio", "from_commune": "vina-del-mar", "to_commune": "san-antonio", "object": null, "message_md": null, "handed_at": null, "received_at": null, "media": [], "status": "pendiente" },
+    { "n": 7, "from_episode": "dcc-07-san-antonio", "to_episode": null, "from_commune": "san-antonio", "to_commune": null, "object": null, "message_md": null, "handed_at": null, "received_at": null, "media": [], "status": "pendiente", "note": "Séptima entrega: cierre de temporada. Destino por definir en la propuesta (Molière como archivo)." }
+  ]
+}

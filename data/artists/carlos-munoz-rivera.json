@@ -1,0 +1,27 @@
+{
+  "slug": "carlos-munoz-rivera", "type": "artist",
+  "name": "Carlos Andrés Muñoz Rivera", "artistic_name": "Tony Pinganilla",
+  "commune": "putaendo", "commune_basis": "carta",
+  "crafts": ["circo", "actuacion", "gestion"], "disciplines": ["clown", "circo", "teatro-callejero"],
+  "specialties": ["Clown", "Humor físico", "Acrobacia cómica", "Improvisación", "Gestión cultural"],
+  "bio_md": "Payaso y gestor cultural de Putaendo, conocido como Tony Pinganilla. Integrante histórico de la compañía Festín de la Risa, nacida en 2009 en el Teatromuseo del Títere y el Payaso de Valparaíso.",
+  "trajectory_md": "Con Festín de la Risa ha realizado giras internacionales por Ecuador, Perú, Colombia, Brasil y Bolivia, y posteriormente por Francia, España, Portugal e Italia (gira 2024 con el espectáculo *Ayayai*). En 2022 la compañía participó en el Jallalla Festi Circo (Arica) y en 2023 celebró sus diez años en el Parque Cultural de Valparaíso. Responsable del proyecto «Trashumantes, en la búsqueda de nuevos caminos creativos» (folio 749091), presentado al Fondo de Artes Escénicas 2025, con 97 puntos y lista de espera. En 2021 fue responsable del proyecto circense «desolación en el distrito 6», seleccionado en una convocatoria del Parque Cultural de Valparaíso.",
+  "companies": [ { "company": "festin-de-la-risa", "role": "integrante (Tony Pinganilla)", "from_year": null, "to_year": null } ],
+  "companies_text": [],
+  "works": [ { "work": "ayayai", "role": "elenco" } ],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [ { "fund_name": "Fondo de Artes Escénicas, convocatoria 2025 — «Trashumantes, en la búsqueda de nuevos caminos creativos»", "org": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos de Cultura", "year": 2025, "folio": "749091", "amount_clp": null, "url": null, "note": "97 puntos; lista de espera N.º 2 según la investigación del proyecto. No adjudicado según la fuente citada.", "source_index": 1 } ],
+  "festivals": [ { "festival_name": "Jallalla Festi Circo (Arica)", "year": 2022, "place": "Arica", "source_index": 1 } ],
+  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "email_public": null, "contact_authorized": false,
+  "media": [], "media_candidates": [ { "what": "Retrato y fotos de trabajo", "ask": "Pedir a la persona. Respaldo: sitio de Festín de la Risa, con crédito y permiso." } ],
+  "series": ["de-cuento-en-cuento"], "episodes": ["dcc-02-putaendo"], "tags": ["protagonista-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso y autorización de participación — Putaendo.pdf (19 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": "Datos personales no replicados." },
+    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 2 (cita Universidad de Chile, Teatromuseo, Parque Cultural de Valparaíso, Fondos de Cultura resultados 2025, Fundación BAT)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "company", "funding_awards", "festivals"], "notes": "URLs pendientes de localizar." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validar con la persona. Localizar URLs de la publicación de la Universidad de Chile y de resultados de Fondos de Cultura 2025 (folio 749091)." },
+  "published": false
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "escena-valparaiso/research_task.schema.json",
+  "title": "Tarea de la cola de investigación",
+  "type": "object",
+  "required": ["target", "target_type", "status", "priority", "origin", "added_at"],
+  "properties": {
+    "id": { "type": "string" },
+    "target": { "type": "string", "minLength": 2 },
+    "target_type": { "type": "string", "enum": ["company", "artist", "work", "venue", "event", "festival", "call", "archive_item", "territory", "organization", "source"] },
+    "territory": { "anyOf": [ { "type": "null" }, { "$ref": "_definitions.schema.json#/definitions/slug" } ] },
+    "province": { "anyOf": [ { "type": "null" }, { "$ref": "_definitions.schema.json#/definitions/slug" } ] },
+    "status": { "type": "string", "enum": ["pending", "in_progress", "done", "discarded"] },
+    "priority": { "type": "string", "enum": ["high", "medium", "low"] },
+    "origin": { "type": "string", "enum": ["documento-proyecto", "participacion-ciudadana", "catalogo-oficial", "prensa", "investigacion-territorial", "equipo"] },
+    "skill": { "type": ["string", "null"] },
+    "notes": { "type": ["string", "null"] },
+    "added_at": { "$ref": "_definitions.schema.json#/definitions/date" },
+    "result": { "anyOf": [ { "type": "null" }, { "type": "object", "required": ["type", "slug"], "properties": { "type": { "type": "string" }, "slug": { "$ref": "_definitions.schema.json#/definitions/slug" } } } ] }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "compania-de-teatro-la-lancha", "type": "company",
+  "name": "Compañía de Teatro La Lancha", "legal_name": "Compañía de Teatro La Lancha SpA",
+  "description_md": "Compañía de teatro de San Antonio dirigida por Diego Chamorro. Trabaja teatro, memoria e identidad territorial del litoral; responsable del proyecto De Cuento en Cuento.",
+  "commune": "san-antonio", "other_communes": [],
+  "disciplines": ["teatro", "teatro-familiar", "juglaria"], "audiences": ["familiar", "todo-publico"],
+  "founded_year": null, "status": "activa", "last_activity_at": "2026-09-01",
+  "members": [ { "artist": "alan-fernandez-caro", "role": "actor y gestor", "from_year": null, "to_year": null } ],
+  "members_text": ["Diego Chamorro (director)", "Paz Olivares (elenco de Llo Lle We)", "Valeria Morales (elenco de Llo Lle We)"],
+  "works": ["llo-lle-we"], "venues": [], "place": null,
+  "email": null, "contact_authorized": false, "website": null,
+  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "trajectory_md": "*Llo Lle We*, montaje sobre la historia de la desembocadura del río Maipo, presentado en la Plaza de Llolleo. Responsable de la postulación De Cuento en Cuento (folio 863000) al Fondo de Artes Escénicas, línea Difusión Digital 2027.",
+  "recognitions": [], "funding_awards": [], "festivals": [],
+  "media": [], "media_candidates": [], "series": ["de-cuento-en-cuento"], "tags": ["protagonista-dcc", "responsable-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso — San Antonio.pdf (21 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "legal_name", "commune"], "notes": "El RUT de la sociedad, presente en la carta, no se replica." },
+    { "url": null, "title": "Propuesta de difusión De Cuento en Cuento (versión vigente)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description", "trajectory"], "notes": null }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validación directa disponible: es la compañía del responsable del proyecto. Completar año de fundación, obras, redes, sitio." },
+  "published": false
+}

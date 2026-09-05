@@ -1,0 +1,19 @@
+# dependencias y build
+node_modules/
+.next/
+out/
+dist/
+tsconfig.tsbuildinfo
+# entorno
+.env
+.env.*
+!.env.example
+# vercel
+.vercel
+# sistema
+.DS_Store
+# temporales
+*.log
+.cache/
+# geometría cruda descargada (se versiona solo el TopoJSON procesado)
+public/geo/raw/

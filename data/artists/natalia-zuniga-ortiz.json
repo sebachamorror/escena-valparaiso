@@ -1,0 +1,31 @@
+{
+  "slug": "natalia-zuniga-ortiz", "type": "artist",
+  "name": "Natalia Vanessa Zúñiga Ortiz", "artistic_name": null,
+  "commune": "quillota", "commune_basis": "carta",
+  "crafts": ["narracion-oral", "actuacion", "dramaturgia", "mediacion", "gestion"], "disciplines": ["narracion-oral", "teatro", "lambe-lambe"],
+  "specialties": ["Cuentacuentos", "Psicodrama", "Método Alba Emoting", "Docencia teatral", "Teatro Lambe-Lambe", "Dramaturgia"],
+  "bio_md": "Actriz, cuentacuentos, psicodramatista y docente de Quillota. Directora de Productora ABC: Arte, Bienestar y Cultura. Trabaja con niñas, niños, jóvenes y personas mayores en colegios, municipios, festivales y encuentros.",
+  "trajectory_md": "Actriz de Teatro Ánima (aprox. 2016–2019) en *El viaje de los caracoles* y *Orejas sucias*; integrante de la Compañía de Teatro Espontáneo de Quillota (2017–2019). Manipuladora de teatro en miniatura (Lambe-Lambe) en *Arrullo para un hombre de mar*; intervenciones de Lambe-Lambe en la Feria del Libro Tricentenario de Quillota. Autora de la dramaturgia *Pieza Chica* (Fondo Nacional del Libro y la Lectura 2019). Seleccionada por Fondos de Cultura para Diplomado en Dramaturgia (2021, folio 593604; 2022, folio 629208) y para especialización en Alba Emoting (2023). En 2022 realizó una función de cuentacuentos contratada por la Municipalidad de Quillota en el Colegio Valle de Quillota.",
+  "companies": [ { "company": "productora-abc-arte-bienestar-y-cultura", "role": "directora", "from_year": null, "to_year": null } ],
+  "companies_text": ["Teatro Ánima (actriz, aprox. 2016–2019)", "Compañía de Teatro Espontáneo de Quillota (2017–2019)"],
+  "works": [], "works_text": ["El viaje de los caracoles (Teatro Ánima)", "Orejas sucias (Teatro Ánima)", "Arrullo para un hombre de mar (Lambe-Lambe, manipuladora)", "Pieza Chica (dramaturgia, 2019)"],
+  "training": [ { "title": "Diplomado en Dramaturgia (Fondos de Cultura 2021 y 2022)", "institution": "[NO ENCONTRADO]", "year": 2022, "source_index": 1 }, { "title": "Especialización en método Alba Emoting (Fondos de Cultura 2023)", "institution": "[NO ENCONTRADO]", "year": 2023, "source_index": 1 } ],
+  "recognitions": [],
+  "funding_awards": [
+    { "fund_name": "Fondo Nacional del Libro y la Lectura — dramaturgia «Pieza Chica»", "org": "Ministerio de las Culturas, las Artes y el Patrimonio", "year": 2019, "folio": null, "amount_clp": null, "url": null, "note": null, "source_index": 1 },
+    { "fund_name": "Fondos de Cultura — Diplomado en Dramaturgia", "org": "Ministerio de las Culturas, las Artes y el Patrimonio", "year": 2021, "folio": "593604", "amount_clp": 1000000, "url": null, "note": null, "source_index": 1 },
+    { "fund_name": "Fondos de Cultura — Diplomado en Dramaturgia", "org": "Ministerio de las Culturas, las Artes y el Patrimonio", "year": 2022, "folio": "629208", "amount_clp": null, "url": null, "note": null, "source_index": 1 },
+    { "fund_name": "Fondos de Cultura — especialización en Alba Emoting", "org": "Ministerio de las Culturas, las Artes y el Patrimonio", "year": 2023, "folio": null, "amount_clp": 2375000, "url": null, "note": null, "source_index": 1 }
+  ],
+  "festivals": [],
+  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "email_public": null, "contact_authorized": false,
+  "media": [], "media_candidates": [ { "what": "Retrato", "ask": "Pedir a la persona. Respaldo: prensa municipal de Quillota, con crédito y permiso." } ],
+  "series": ["de-cuento-en-cuento"], "episodes": ["dcc-04-quillota"], "tags": ["protagonista-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso y autorización de participación — Quillota.pdf (27 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline", "company"], "notes": "Datos personales no replicados." },
+    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 4 (cita Antología Enjambre, Fondos de Cultura, Municipalidad de Quillota)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "funding_awards", "works_text"], "notes": "URLs pendientes; folios de Fondos de Cultura verificables en fondosdecultura.cl." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validar con la persona. Verificar folios 593604 y 629208 en resultados públicos de Fondos de Cultura." },
+  "published": false
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "productora-abc-arte-bienestar-y-cultura", "type": "company",
+  "name": "Productora ABC: Arte, Bienestar y Cultura", "legal_name": null,
+  "description_md": "Productora de Quillota dirigida por Natalia Zúñiga Ortiz. Cuentacuentos, docencia, talleres de teatro y trabajo socioemocional con niñas, niños, jóvenes y personas mayores.",
+  "commune": "quillota", "other_communes": [],
+  "disciplines": ["narracion-oral", "teatro", "teatro-familiar"], "audiences": ["familiar", "infantil", "adulto"],
+  "founded_year": null, "status": "activa", "last_activity_at": null,
+  "members": [ { "artist": "natalia-zuniga-ortiz", "role": "directora", "from_year": null, "to_year": null } ],
+  "members_text": [], "works": [], "venues": [], "place": null,
+  "email": null, "contact_authorized": false, "website": null,
+  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "trajectory_md": null, "recognitions": [], "funding_awards": [], "festivals": [],
+  "media": [], "media_candidates": [], "series": ["de-cuento-en-cuento"], "tags": ["protagonista-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso — Quillota.pdf (27 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": null },
+    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 4", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description"], "notes": null }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 55, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Pedir año de inicio, actividad reciente, redes y sitio." },
+  "published": false
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "el-loco-y-la-triste", "type": "work", "title": "El Loco y la Triste",
+  "authorship": "Juan Radrigán", "direction": null,
+  "companies": ["compania-de-teatro-alegria"],
+  "credits": [ { "artist": "victor-opazo-herrera", "name": "Víctor Opazo", "role": "elenco" }, { "artist": null, "name": "Sofía Espinoza", "role": "elenco" }, { "artist": null, "name": "Lucy Salgado", "role": "elenco" } ],
+  "disciplines": ["teatro"], "audience": "adulto", "duration_min": null, "premiere_year": null,
+  "synopsis_md": null,
+  "communes": ["villa-alemana"], "video_url": null, "dossier_url": null, "venues": [],
+  "history_text": ["2018: funciones gratuitas en San Juan de Lurigancho, Perú (colegios, instituciones y espacios comunitarios)"],
+  "media": [], "tags": [],
+  "sources": [ { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 5 (cita Compañía de Teatro Alegría en Perú)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "credits", "history"], "notes": "URL pendiente." } ],
+  "verification": { "status": "pendiente", "confidence_score": 55, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Confirmar dirección, año de estreno y sinopsis con la compañía." },
+  "published": false
+}

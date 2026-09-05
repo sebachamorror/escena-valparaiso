@@ -1,0 +1,35 @@
+{
+  "slug": "de-cuento-en-cuento",
+  "type": "series",
+  "title": "De Cuento en Cuento",
+  "subtitle": "Un juglar recorre la Región de Valparaíso para descubrir a quienes mantienen vivas sus artes escénicas.",
+  "descriptor": "Experiencias del teatro familiar",
+  "region": "valparaiso",
+  "season": 1,
+  "status": "planificada",
+  "description_md": "Serie audiovisual de siete capítulos. Un juglar contemporáneo recorre las siete provincias continentales de la Región de Valparaíso en un furgón amarillo llamado Molière. En cada provincia se encuentra con un artista o agrupación de las artes escénicas familiares: teatro, títeres, circo y narración oral. Cada encuentro termina con La Posta: un objeto y un mensaje que viajan hasta el siguiente territorio.",
+  "route": ["los-andes", "putaendo", "la-ligua", "quillota", "villa-alemana", "vina-del-mar", "san-antonio"],
+  "provinces": ["los-andes", "san-felipe-de-aconcagua", "petorca", "quillota", "marga-marga", "valparaiso", "san-antonio"],
+  "disciplines": ["titeres", "clown", "teatro", "narracion-oral"],
+  "series_tags": ["musica-escenica", "juglaria"],
+  "episode_structure": ["Naturaleza", "Molière", "Artista", "Paisaje", "Objeto", "Posta", "Viaje"],
+  "device": {
+    "vehicle": "Furgón Mercedes Vito 111 CDI amarillo, llamado Molière: vehículo de producción, set móvil, identidad visual y archivo material de los objetos.",
+    "box": "La Caja de los Cuentos: contenedor de los objetos entregados en La Posta.",
+    "chairs": "Sillas de playa como elemento principal de conversación."
+  },
+  "committed_outputs": {
+    "episodes": 7, "episode_duration_min": [20, 30], "capsules_min": 24, "audio_versions": 7,
+    "posta_handovers": 7, "objects_in_moliere": 7, "initial_profiles": 7,
+    "subtitles_pct": 100, "sign_language_episodes_min": 4, "campaign_months": 4, "platform_min_years_after": 2,
+    "note_objects": "El brief de la plataforma menciona 28 objetos; la propuesta vigente compromete 7. Pendiente de aclaración; la plataforma admite N objetos por episodio."
+  },
+  "campaign_questions": ["¿Quién hace teatro para las familias de la Región de Valparaíso?", "¿A quién vamos a conocer ahora?"],
+  "trailer_url": null,
+  "channels": { "youtube": null, "instagram": null, "tiktok": null, "audio": null },
+  "identity": { "coral": "#F2757F", "coral_dark": "#D9525E", "yellow": "#F3B01C", "cream": "#FDF9F3", "sand": "#F2E9DA", "ink": "#2A2320" },
+  "sources": [
+    { "url": null, "title": "De Cuento en Cuento — Propuesta de difusión (versión vigente, 30 páginas)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["structure", "device", "committed_outputs", "route"], "notes": "Archivo local: Proyectos 2026 - 2027/01 POSTULACIONES 2027/15 Difusion Digital (por definir)/De Cuento en Cuento.docx" },
+    { "url": null, "title": "ruta.py — fuente única de verdad de los siete capítulos", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["route", "episodes"], "notes": "2 Documentos de postulacion/_fuentes de los PDF/ruta.py" }
+  ]
+}

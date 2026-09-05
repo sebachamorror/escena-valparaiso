@@ -1,0 +1,24 @@
+{
+  "slug": "constanza-mendez-laines", "type": "artist",
+  "name": "Constanza Jesús Méndez Laínes", "artistic_name": null,
+  "commune": "vina-del-mar", "commune_basis": "carta",
+  "crafts": ["actuacion", "mediacion"], "disciplines": ["teatro"],
+  "specialties": ["Técnica vocal", "Pedagogía teatral", "Expresión oral"],
+  "bio_md": "Actriz de Viña del Mar, especializada en técnica vocal. Egresada de Actuación de Duoc UC y fonoaudióloga de la Universidad de Valparaíso. Integrante de la compañía teatral Hypókritas.",
+  "trajectory_md": "Profesora de Teatro en la Escuela Naval Arturo Prat desde 2020 (círculos culturales) y profesora ayudante de Expresión Oral desde 2014. En 2022 coadaptó *La Remolienda*, de Alejandro Sieveking, para la Academia Cultural de la Escuela Naval.",
+  "companies": [],
+  "companies_text": ["Hypókritas (integrante)"],
+  "works": [], "works_text": ["La Remolienda (Sieveking) — coadaptación, Academia Cultural de la Escuela Naval, 2022"],
+  "training": [ { "title": "Actuación", "institution": "Duoc UC", "year": null, "source_index": 1 }, { "title": "Fonoaudiología", "institution": "Universidad de Valparaíso", "year": null, "source_index": 1 } ],
+  "recognitions": [], "funding_awards": [], "festivals": [],
+  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "email_public": null, "contact_authorized": false,
+  "media": [], "media_candidates": [ { "what": "Retrato", "ask": "Pedir a la persona." } ],
+  "series": ["de-cuento-en-cuento"], "episodes": ["dcc-06-vina-del-mar"], "tags": ["protagonista-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso y autorización de participación — Viña del Mar.pdf (26 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": "Datos personales no replicados." },
+    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 6 (cita perfil profesional y Escuela Naval, Academia Cultural 2022)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "training"], "notes": "Nivel de información medio según la investigación; profundizar." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 60, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validar con la persona. Confirmar comuna de Hypókritas y obras." },
+  "published": false
+}

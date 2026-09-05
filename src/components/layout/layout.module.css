@@ -1,0 +1,64 @@
+/* Masthead */
+.masthead {
+  border-bottom: 1px solid var(--line);
+  background: var(--paper);
+  position: sticky; top: 0; z-index: 50;
+}
+.bar { display: flex; align-items: center; justify-content: space-between; gap: var(--s-4); min-height: 64px; }
+.brand { text-decoration: none; display: inline-flex; flex-direction: column; line-height: 1; }
+.brandName { font-family: var(--display); font-weight: 600; letter-spacing: 0.04em; font-size: 1.15rem; }
+.brandName span { color: var(--sea); }
+.brandSub { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ink-3); margin-top: 0.35rem; }
+.nav { display: none; }
+.navList { list-style: none; display: flex; gap: 0.85rem; flex-wrap: nowrap; white-space: nowrap; }
+.navList a { text-decoration: none; font-size: 0.8125rem; font-weight: 500; padding: 0.35rem 0; border-bottom: 2px solid transparent; letter-spacing: 0.005em; }
+.navList a:hover, .navList a[aria-current="page"] { border-bottom-color: var(--sea); color: var(--ink); }
+.tools { display: flex; align-items: center; gap: var(--s-2); }
+.iconBtn {
+  display: inline-flex; align-items: center; gap: var(--s-2);
+  padding: 0.45rem 0.8rem; border: 1.5px solid var(--ink); border-radius: var(--r-pill);
+  background: transparent; text-decoration: none; font-size: var(--t-sm); font-weight: 600; cursor: pointer;
+}
+.iconBtn:hover { background: var(--ink); color: var(--paper); }
+@media (min-width: 1180px) {
+  .nav { display: block; }
+  .menuBtn { display: none; }
+  .bar { min-height: 72px; }
+}
+
+/* Menú móvil */
+.panel {
+  position: fixed; inset: 0; z-index: 60; background: var(--paper);
+  overflow-y: auto; padding: var(--s-4) var(--gutter) var(--s-8);
+}
+.panelTop { display: flex; justify-content: space-between; align-items: center; min-height: 48px; margin-bottom: var(--s-5); }
+.panelList { list-style: none; border-top: 1px solid var(--line); }
+.panelList li { border-bottom: 1px solid var(--line); }
+.panelList a { display: block; padding: var(--s-4) 0; font-family: var(--display); font-size: 1.6rem; text-decoration: none; }
+.panelList a:hover { color: var(--sea-deep); }
+.panelSecondary a { font-family: var(--text); font-size: var(--t-md); font-weight: 600; padding: var(--s-3) 0; }
+
+/* Footer */
+.footer { border-top: 1px solid var(--ink); margin-top: var(--s-8); padding-block: var(--s-7) var(--s-6); background: var(--paper-2); }
+.footerGrid { display: grid; gap: var(--s-6); grid-template-columns: 1fr; }
+@media (min-width: 720px) { .footerGrid { grid-template-columns: 1.4fr 1fr 1fr; } }
+.footerTitle { font-family: var(--display); font-size: 1.5rem; margin-bottom: var(--s-2); }
+.footerList { list-style: none; display: grid; gap: var(--s-1); }
+.footerList a { text-decoration: none; font-size: var(--t-sm); }
+.footerList a:hover { text-decoration: underline; }
+.footerBottom { margin-top: var(--s-6); padding-top: var(--s-4); border-top: 1px solid var(--line); font-size: var(--t-xs); color: var(--ink-3); display: flex; flex-wrap: wrap; gap: var(--s-3) var(--s-5); }
+
+/* Migas, cabeceras */
+.crumbs { list-style: none; display: flex; flex-wrap: wrap; gap: var(--s-2); font-size: var(--t-xs); font-family: var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-3); }
+.crumbs a { text-decoration: none; }
+.crumbs a:hover { color: var(--sea-deep); text-decoration: underline; }
+.crumbs li + li::before { content: "/"; margin-right: var(--s-2); color: var(--line-strong); }
+
+.pageHead { padding-block: var(--s-6) var(--s-5); border-bottom: 1px solid var(--ink); margin-bottom: var(--s-6); }
+.pageHead h1 { margin-top: var(--s-3); }
+.pageHead .lead { margin-top: var(--s-4); }
+@media (min-width: 720px) { .pageHead { padding-block: var(--s-7) var(--s-6); } }
+
+.sectionHead { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-4); flex-wrap: wrap; margin-bottom: var(--s-5); }
+.sectionHead h2 { font-size: var(--t-xl); }
+.sectionHead p { margin: var(--s-1) 0 0; color: var(--ink-3); font-size: var(--t-sm); }

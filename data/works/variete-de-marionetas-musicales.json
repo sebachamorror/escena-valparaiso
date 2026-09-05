@@ -1,0 +1,14 @@
+{
+  "slug": "variete-de-marionetas-musicales", "type": "work", "title": "Varieté de Marionetas Musicales",
+  "authorship": null, "direction": null,
+  "companies": ["the-magic-show"],
+  "credits": [ { "artist": "hugo-hernandez-urtubia", "name": "Hugo Hernández Urtubia", "role": "creación y manipulación" } ],
+  "disciplines": ["titeres", "teatro-familiar"], "audience": "familiar", "duration_min": null, "premiere_year": null,
+  "synopsis_md": null,
+  "communes": ["los-andes"], "video_url": null, "dossier_url": null, "venues": [],
+  "history_text": ["Agosto de 2026: función para estudiantes de la Escuela Mateo Cokljat de San Felipe (Día Nacional del Titiritero y la Titiritera)"],
+  "media": [], "tags": [],
+  "sources": [ { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 1 (cita Diario El Trabajo)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "history"], "notes": "URL pendiente." } ],
+  "verification": { "status": "pendiente", "confidence_score": 55, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Confirmar título exacto y ficha con la compañía." },
+  "published": false
+}

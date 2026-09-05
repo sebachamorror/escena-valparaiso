@@ -1,0 +1,32 @@
+{
+  "name": "escena-valparaiso",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Artes escénicas de la Región de Valparaíso.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "validar": "python3 scripts/validar_datos.py"
+  },
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "topojson-client": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/topojson-client": "^3.1.5",
+    "@types/topojson-specification": "^1.0.5",
+    "typescript": "^5.6.0",
+    "vitest": "^3.2.0"
+  }
+}

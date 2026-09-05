@@ -1,0 +1,25 @@
+{
+  "slug": "alan-fernandez-caro", "type": "artist",
+  "name": "Alan Sebastián Fernández Caro", "artistic_name": null,
+  "commune": "san-antonio", "commune_basis": "carta",
+  "crafts": ["actuacion", "gestion", "produccion"], "disciplines": ["teatro", "teatro-comunitario"],
+  "specialties": ["Gestión de proyectos culturales", "Producción", "Interpretación", "Teatro y memoria territorial"],
+  "bio_md": "Actor y gestor de la Compañía de Teatro La Lancha, de San Antonio. Gestión cultural en la comuna desde 2008, incluido el Centro de Desarrollo Social y Cultural La Calle.",
+  "trajectory_md": "Integrante del elenco de *Llo Lle We* (personaje Pilpilén), montaje sobre la historia de la desembocadura del río Maipo dirigido por Diego Chamorro y presentado en la Plaza de Llolleo. Participa en una compañía de teatro independiente desde 2020 en gestión, producción e interpretación. Su formación incluye estudios de Turismo Aventura, Ciencias Sociales y Jurídicas y egreso de Derecho.",
+  "companies": [ { "company": "compania-de-teatro-la-lancha", "role": "actor y gestor", "from_year": null, "to_year": null } ],
+  "companies_text": [],
+  "works": [ { "work": "llo-lle-we", "role": "elenco (Pilpilén)" } ],
+  "works_text": [],
+  "training": [ { "title": "Derecho (egreso)", "institution": "[NO ENCONTRADO]", "year": null, "source_index": 1 } ],
+  "recognitions": [], "funding_awards": [], "festivals": [],
+  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "email_public": null, "contact_authorized": false,
+  "media": [], "media_candidates": [ { "what": "Retrato", "ask": "Pedir a la persona (compañía del responsable del proyecto)." } ],
+  "series": ["de-cuento-en-cuento"], "episodes": ["dcc-07-san-antonio"], "tags": ["protagonista-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso y autorización de participación — San Antonio.pdf (21 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline", "company"], "notes": "Datos personales no replicados." },
+    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 7 (cita El Proa, Dossier Viaje Inmóvil — Llo Lle We, perfil profesional)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "works"], "notes": "URLs pendientes; validación directa disponible a través de la compañía." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validar con la persona." },
+  "published": false
+}

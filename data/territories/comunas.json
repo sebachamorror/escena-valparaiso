@@ -1,0 +1,510 @@
+{
+  "$comment": "Lista oficial de provincias y comunas de la Región de Valparaíso. Provincias y comunas: Biblioteca del Congreso Nacional (SIIT), consultada el 2026-09-05. Códigos únicos territoriales (CUT): documento 'Código Único Territorial región-provincia-comuna' de SUBDERE (PDF fechado el 27 de marzo de 2012), leído el 2026-09-05; conviene contrastar con la actualización 2018 de SUBDERE, que no altera la región 05 según lo revisado. Coordenadas: null hasta obtener centroides desde la geometría oficial (docs/MAPA.md). 'Llaillay' es la grafía de BCN y SUBDERE (también 'Llay-Llay'); SUBDERE escribe 'Calera' para La Calera. Coordenadas (lat/lng): punto interior calculado el 2026-09-05 desde la geometría oficial DPA 2023 procesada en public/geo/valparaiso.topo.json (ver public/geo/FUENTES.md); no son centroides geométricos exactos sino puntos garantizados dentro de cada polígono comunal, suficientes para ubicar etiquetas y marcadores a nivel de comuna.",
+  "region": {
+    "slug": "valparaiso",
+    "name": "Región de Valparaíso",
+    "country_code": "CL",
+    "cut_code": "05"
+  },
+  "provinces": [
+    {
+      "slug": "valparaiso",
+      "name": "Provincia de Valparaíso",
+      "region": "valparaiso",
+      "cut_code": "051",
+      "sort": 1,
+      "capital": null,
+      "insular": false
+    },
+    {
+      "slug": "marga-marga",
+      "name": "Provincia de Marga Marga",
+      "region": "valparaiso",
+      "cut_code": "058",
+      "sort": 2,
+      "capital": null,
+      "insular": false
+    },
+    {
+      "slug": "quillota",
+      "name": "Provincia de Quillota",
+      "region": "valparaiso",
+      "cut_code": "055",
+      "sort": 3,
+      "capital": null,
+      "insular": false
+    },
+    {
+      "slug": "san-antonio",
+      "name": "Provincia de San Antonio",
+      "region": "valparaiso",
+      "cut_code": "056",
+      "sort": 4,
+      "capital": null,
+      "insular": false
+    },
+    {
+      "slug": "petorca",
+      "name": "Provincia de Petorca",
+      "region": "valparaiso",
+      "cut_code": "054",
+      "sort": 5,
+      "capital": null,
+      "insular": false
+    },
+    {
+      "slug": "los-andes",
+      "name": "Provincia de Los Andes",
+      "region": "valparaiso",
+      "cut_code": "053",
+      "sort": 6,
+      "capital": null,
+      "insular": false
+    },
+    {
+      "slug": "san-felipe-de-aconcagua",
+      "name": "Provincia de San Felipe de Aconcagua",
+      "region": "valparaiso",
+      "cut_code": "057",
+      "sort": 7,
+      "capital": null,
+      "insular": false
+    },
+    {
+      "slug": "isla-de-pascua",
+      "name": "Provincia de Isla de Pascua",
+      "region": "valparaiso",
+      "cut_code": "052",
+      "sort": 8,
+      "capital": null,
+      "insular": true
+    }
+  ],
+  "communes": [
+    {
+      "slug": "valparaiso",
+      "name": "Valparaíso",
+      "province": "valparaiso",
+      "cut_code": "05101",
+      "insular": false,
+      "lat": -33.11235,
+      "lng": -71.59677,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "casablanca",
+      "name": "Casablanca",
+      "province": "valparaiso",
+      "cut_code": "05102",
+      "insular": false,
+      "lat": -33.31574,
+      "lng": -71.42142,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "concon",
+      "name": "Concón",
+      "province": "valparaiso",
+      "cut_code": "05103",
+      "insular": false,
+      "lat": -32.95154,
+      "lng": -71.46726,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "juan-fernandez",
+      "name": "Juan Fernández",
+      "province": "valparaiso",
+      "cut_code": "05104",
+      "insular": true,
+      "lat": -33.64707,
+      "lng": -78.84677,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "puchuncavi",
+      "name": "Puchuncaví",
+      "province": "valparaiso",
+      "cut_code": "05105",
+      "insular": false,
+      "lat": -32.74074,
+      "lng": -71.38311,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "quintero",
+      "name": "Quintero",
+      "province": "valparaiso",
+      "cut_code": "05107",
+      "insular": false,
+      "lat": -32.84208,
+      "lng": -71.47294,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "vina-del-mar",
+      "name": "Viña del Mar",
+      "province": "valparaiso",
+      "cut_code": "05109",
+      "insular": false,
+      "lat": -33.02621,
+      "lng": -71.51962,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "quilpue",
+      "name": "Quilpué",
+      "province": "marga-marga",
+      "cut_code": "05801",
+      "insular": false,
+      "lat": -33.12277,
+      "lng": -71.40187,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "limache",
+      "name": "Limache",
+      "province": "marga-marga",
+      "cut_code": "05802",
+      "insular": false,
+      "lat": -33.04399,
+      "lng": -71.24419,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "olmue",
+      "name": "Olmué",
+      "province": "marga-marga",
+      "cut_code": "05803",
+      "insular": false,
+      "lat": -33.03549,
+      "lng": -71.1103,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "villa-alemana",
+      "name": "Villa Alemana",
+      "province": "marga-marga",
+      "cut_code": "05804",
+      "insular": false,
+      "lat": -33.07372,
+      "lng": -71.33065,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "quillota",
+      "name": "Quillota",
+      "province": "quillota",
+      "cut_code": "05501",
+      "insular": false,
+      "lat": -32.90443,
+      "lng": -71.27196,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "la-calera",
+      "name": "La Calera",
+      "province": "quillota",
+      "cut_code": "05502",
+      "insular": false,
+      "lat": -32.78942,
+      "lng": -71.19764,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal.",
+      "alt_names": [
+        "Calera"
+      ]
+    },
+    {
+      "slug": "hijuelas",
+      "name": "Hijuelas",
+      "province": "quillota",
+      "cut_code": "05503",
+      "insular": false,
+      "lat": -32.87546,
+      "lng": -71.08783,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "la-cruz",
+      "name": "La Cruz",
+      "province": "quillota",
+      "cut_code": "05504",
+      "insular": false,
+      "lat": -32.82492,
+      "lng": -71.22527,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "nogales",
+      "name": "Nogales",
+      "province": "quillota",
+      "cut_code": "05506",
+      "insular": false,
+      "lat": -32.69078,
+      "lng": -71.17668,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "san-antonio",
+      "name": "San Antonio",
+      "province": "san-antonio",
+      "cut_code": "05601",
+      "insular": false,
+      "lat": -33.66255,
+      "lng": -71.50157,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "algarrobo",
+      "name": "Algarrobo",
+      "province": "san-antonio",
+      "cut_code": "05602",
+      "insular": false,
+      "lat": -33.32942,
+      "lng": -71.59703,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "cartagena",
+      "name": "Cartagena",
+      "province": "san-antonio",
+      "cut_code": "05603",
+      "insular": false,
+      "lat": -33.53927,
+      "lng": -71.43808,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "el-quisco",
+      "name": "El Quisco",
+      "province": "san-antonio",
+      "cut_code": "05604",
+      "insular": false,
+      "lat": -33.41996,
+      "lng": -71.66759,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "el-tabo",
+      "name": "El Tabo",
+      "province": "san-antonio",
+      "cut_code": "05605",
+      "insular": false,
+      "lat": -33.4902,
+      "lng": -71.58075,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "santo-domingo",
+      "name": "Santo Domingo",
+      "province": "san-antonio",
+      "cut_code": "05606",
+      "insular": false,
+      "lat": -33.81537,
+      "lng": -71.6741,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "la-ligua",
+      "name": "La Ligua",
+      "province": "petorca",
+      "cut_code": "05401",
+      "insular": false,
+      "lat": -32.33451,
+      "lng": -71.252,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "cabildo",
+      "name": "Cabildo",
+      "province": "petorca",
+      "cut_code": "05402",
+      "insular": false,
+      "lat": -32.45106,
+      "lng": -70.94115,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "papudo",
+      "name": "Papudo",
+      "province": "petorca",
+      "cut_code": "05403",
+      "insular": false,
+      "lat": -32.47451,
+      "lng": -71.38022,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "petorca",
+      "name": "Petorca",
+      "province": "petorca",
+      "cut_code": "05404",
+      "insular": false,
+      "lat": -32.19417,
+      "lng": -70.91936,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "zapallar",
+      "name": "Zapallar",
+      "province": "petorca",
+      "cut_code": "05405",
+      "insular": false,
+      "lat": -32.58918,
+      "lng": -71.33373,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "los-andes",
+      "name": "Los Andes",
+      "province": "los-andes",
+      "cut_code": "05301",
+      "insular": false,
+      "lat": -32.96633,
+      "lng": -70.23155,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "calle-larga",
+      "name": "Calle Larga",
+      "province": "los-andes",
+      "cut_code": "05302",
+      "insular": false,
+      "lat": -32.94718,
+      "lng": -70.54046,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "rinconada",
+      "name": "Rinconada",
+      "province": "los-andes",
+      "cut_code": "05303",
+      "insular": false,
+      "lat": -32.86714,
+      "lng": -70.70874,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "san-esteban",
+      "name": "San Esteban",
+      "province": "los-andes",
+      "cut_code": "05304",
+      "insular": false,
+      "lat": -32.71208,
+      "lng": -70.33531,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "san-felipe",
+      "name": "San Felipe",
+      "province": "san-felipe-de-aconcagua",
+      "cut_code": "05701",
+      "insular": false,
+      "lat": -32.70383,
+      "lng": -70.79848,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "catemu",
+      "name": "Catemu",
+      "province": "san-felipe-de-aconcagua",
+      "cut_code": "05702",
+      "insular": false,
+      "lat": -32.70716,
+      "lng": -70.94463,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "llaillay",
+      "name": "Llaillay",
+      "province": "san-felipe-de-aconcagua",
+      "cut_code": "05703",
+      "insular": false,
+      "lat": -32.89081,
+      "lng": -70.94804,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal.",
+      "alt_names": [
+        "Llay-Llay"
+      ]
+    },
+    {
+      "slug": "panquehue",
+      "name": "Panquehue",
+      "province": "san-felipe-de-aconcagua",
+      "cut_code": "05704",
+      "insular": false,
+      "lat": -32.79416,
+      "lng": -70.82005,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "putaendo",
+      "name": "Putaendo",
+      "province": "san-felipe-de-aconcagua",
+      "cut_code": "05705",
+      "insular": false,
+      "lat": -32.47128,
+      "lng": -70.5095,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "santa-maria",
+      "name": "Santa María",
+      "province": "san-felipe-de-aconcagua",
+      "cut_code": "05706",
+      "insular": false,
+      "lat": -32.68265,
+      "lng": -70.61255,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    },
+    {
+      "slug": "isla-de-pascua",
+      "name": "Isla de Pascua",
+      "province": "isla-de-pascua",
+      "cut_code": "05201",
+      "insular": true,
+      "lat": -27.11149,
+      "lng": -109.35948,
+      "centroid_source": "Punto interior calculado desde DPA 2023 (SUBDERE/IDE Chile), ver public/geo/FUENTES.md; no es el centroide geométrico exacto, es un punto garantizado dentro del polígono comunal."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.bcn.cl/siit/nuestropais/region5",
+      "title": "Región de Valparaíso — Nuestro País (SIIT)",
+      "publisher": "Biblioteca del Congreso Nacional de Chile",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "provinces",
+        "communes"
+      ],
+      "notes": "8 provincias y 38 comunas leídas de la página el 2026-09-05."
+    },
+    {
+      "url": "https://www.subdere.gov.cl/sites/default/files/documentos/articles-73111_recurso_2.pdf",
+      "title": "Código Único Territorial región-provincia-comuna",
+      "publisher": "Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE)",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "cut_code"
+      ],
+      "notes": "Códigos de región (05), provincias (051–058) y las 38 comunas leídos del PDF el 2026-09-05."
+    }
+  ],
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 90,
+    "verified_at": "2026-09-05",
+    "verified_by": "claude (fase 1)",
+    "next_review_at": "2027-09-05",
+    "note": "Provincias y comunas verificadas con la BCN; CUT verificados con SUBDERE. Pendiente: capitales provinciales y centroides desde geometría oficial."
+  }
+}

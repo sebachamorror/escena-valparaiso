@@ -1,0 +1,26 @@
+{
+  "slug": "hugo-hernandez-urtubia", "type": "artist",
+  "name": "Hugo Hernández Urtubia", "artistic_name": null,
+  "commune": "los-andes", "commune_basis": "carta",
+  "crafts": ["titeres"], "disciplines": ["titeres"],
+  "specialties": ["Construcción de marionetas", "Manipulación", "Mecánica del movimiento", "Marionetas gigantes", "Formación de niños y niñas"],
+  "bio_md": "Cultor del teatro de títeres y marionetas en Los Andes. Aprendió el oficio de su padre a los 13 años y se perfeccionó en Barcelona. Desarrolla el oficio completo: construcción, manipulación, mecánica del movimiento y montaje escénico. Creador de la Compañía de Marionetas The Magic Show.",
+  "trajectory_md": "Incorporado en 2026 al Sistema de Información para la Gestión del Patrimonio Cultural Inmaterial (SIGPA) como cultor individual de Teatro tradicional de títeres, identificador CI8699, con 25 años de trayectoria registrados. Antes de consolidarse como marionetista trabajó en formación con niños y niñas (talleres de marionetas gigantes). En 2026 fue reconocido públicamente como cultor en el marco del primer Día Nacional del Titiritero y la Titiritera.",
+  "companies": [ { "company": "the-magic-show", "role": "creador y director", "from_year": null, "to_year": null } ],
+  "companies_text": [],
+  "works": [ { "work": "variete-de-marionetas-musicales", "role": "creación y manipulación" } ],
+  "works_text": [],
+  "training": [],
+  "recognitions": [ { "title": "Cultor individual de Teatro tradicional de títeres (SIGPA, identificador CI8699)", "org": "Servicio Nacional del Patrimonio Cultural, SIGPA", "year": 2026, "url": null, "source_index": 1 } ],
+  "funding_awards": [], "festivals": [],
+  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "email_public": null, "contact_authorized": false,
+  "media": [], "media_candidates": [ { "what": "Retrato y fotos de trabajo", "ask": "Pedir directamente a la persona (autorización escrita). Respaldo: SIGPA, con crédito y permiso." } ],
+  "series": ["de-cuento-en-cuento"], "episodes": ["dcc-01-los-andes"], "tags": ["protagonista-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso y autorización de participación — Los Andes.pdf (31 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline", "company"], "notes": "Documento firmado por la persona. Contiene datos personales que no se replican." },
+    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 1 (cita SIGPA, Diario El Trabajo, Rosa FM)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "recognitions", "specialties"], "notes": "URLs de SIGPA (ficha CI8699), Diario El Trabajo y Rosa FM pendientes de localizar y registrar como fuentes propias." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Sube a ≥ 70 al registrar la URL de la ficha SIGPA y validar la ficha con la persona. Pedir: años de trayectoria, obras con año, giras, festivales, premios, formación, redes, sitio, fotos." },
+  "published": false
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "escena-valparaiso/post.schema.json",
+  "title": "Publicación editorial (frontmatter de .md)",
+  "type": "object",
+  "required": ["slug", "title", "type", "dek", "author", "category", "status"],
+  "properties": {
+    "slug": { "$ref": "_definitions.schema.json#/definitions/slug" },
+    "type": { "const": "post" },
+    "title": { "type": "string" },
+    "dek": { "type": "string" },
+    "author": { "type": "string" },
+    "published_at": { "$ref": "_definitions.schema.json#/definitions/date" },
+    "category": { "type": "string", "enum": ["entrevista", "critica", "columna", "investigacion", "perfil", "ensayo", "noticia", "cronica", "memoria", "opinion"] },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "communes": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "disciplines": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "crafts": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "mentions": { "type": "array", "items": { "type": "object", "required": ["type", "slug"], "properties": { "type": { "type": "string" }, "slug": { "$ref": "_definitions.schema.json#/definitions/slug" } } } },
+    "related": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "cover": { "anyOf": [ { "type": "null" }, { "$ref": "_definitions.schema.json#/definitions/media_ref" } ] },
+    "sources": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/source" } },
+    "status": { "type": "string", "enum": ["borrador", "revision", "publicado", "retirado"] }
+  }
+}

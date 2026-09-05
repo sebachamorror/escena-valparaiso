@@ -1,0 +1,18 @@
+.form { display: flex; gap: var(--s-2); width: 100%; }
+.input {
+  flex: 1; min-width: 0; padding: 0.8rem 1rem; border: 1.5px solid var(--ink); border-radius: var(--r-pill);
+  background: #fff; font-size: var(--t-md);
+}
+.input::placeholder { color: var(--ink-3); }
+.big .input { padding: 1rem 1.3rem; font-size: var(--t-lg); }
+.filters { display: flex; flex-wrap: wrap; gap: var(--s-2); margin: var(--s-4) 0; }
+.filter { cursor: pointer; }
+.filterOn { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.group { margin-top: var(--s-6); }
+.group h2 { font-size: var(--t-lg); margin-bottom: var(--s-3); display: flex; align-items: baseline; gap: var(--s-2); }
+.group h2 span { font-family: var(--mono); font-size: var(--t-xs); color: var(--ink-3); }
+.hit { display: grid; gap: 0.1rem; }
+.hit a { text-decoration: none; font-family: var(--display); font-size: 1.2rem; }
+.hit a:hover { color: var(--sea-deep); text-decoration: underline; }
+.hit span { font-size: var(--t-sm); color: var(--ink-2); }
+.status { margin-top: var(--s-4); color: var(--ink-3); font-size: var(--t-sm); }

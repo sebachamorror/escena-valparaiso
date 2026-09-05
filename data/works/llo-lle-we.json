@@ -1,0 +1,14 @@
+{
+  "slug": "llo-lle-we", "type": "work", "title": "Llo Lle We",
+  "authorship": null, "direction": "Diego Chamorro",
+  "companies": ["compania-de-teatro-la-lancha"],
+  "credits": [ { "artist": null, "name": "Paz Olivares", "role": "elenco" }, { "artist": null, "name": "Valeria Morales", "role": "elenco" }, { "artist": "alan-fernandez-caro", "name": "Alan Fernández", "role": "elenco (Pilpilén)" } ],
+  "disciplines": ["teatro", "teatro-comunitario"], "audience": "todo-publico", "duration_min": null, "premiere_year": null,
+  "synopsis_md": "Montaje sobre la historia de la desembocadura del río Maipo y el territorio de San Antonio: pueblos originarios, patrimonio local, memoria y educación. Presentado en la Plaza de Llolleo para acercar la historia local a la comunidad.",
+  "communes": ["san-antonio"], "video_url": null, "dossier_url": null, "venues": [],
+  "history_text": ["Plaza de Llolleo, San Antonio (fecha por confirmar)"],
+  "media": [], "tags": ["memoria-territorial"],
+  "sources": [ { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 7 (cita El Proa y Dossier Viaje Inmóvil — Llo Lle We)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "credits", "synopsis"], "notes": "URL de El Proa pendiente." } ],
+  "verification": { "status": "pendiente", "confidence_score": 60, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Confirmar año de estreno y funciones con la compañía." },
+  "published": false
+}

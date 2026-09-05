@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "escena-valparaiso/artist.schema.json",
+  "title": "Artista",
+  "type": "object",
+  "required": ["slug", "name", "type", "commune", "crafts", "disciplines", "sources", "verification", "published"],
+  "properties": {
+    "slug": { "$ref": "_definitions.schema.json#/definitions/slug" },
+    "type": { "const": "artist" },
+    "name": { "type": "string", "minLength": 2 },
+    "artistic_name": { "type": ["string", "null"] },
+    "commune": { "anyOf": [ { "type": "null" }, { "$ref": "_definitions.schema.json#/definitions/slug" } ] },
+    "commune_basis": { "type": ["string", "null"], "description": "De dónde sale la comuna: 'carta', 'perfil-propio', 'compañía', 'prensa'" },
+    "crafts": { "type": "array", "minItems": 1, "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "disciplines": { "type": "array", "minItems": 1, "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "specialties": { "type": "array", "items": { "type": "string" } },
+    "bio_md": { "type": ["string", "null"] },
+    "trajectory_md": { "type": ["string", "null"] },
+    "companies": { "type": "array", "items": { "type": "object", "required": ["company", "role"], "properties": {
+      "company": { "$ref": "_definitions.schema.json#/definitions/slug" }, "role": { "type": "string" },
+      "from_year": { "$ref": "_definitions.schema.json#/definitions/year" }, "to_year": { "$ref": "_definitions.schema.json#/definitions/year" } } } },
+    "companies_text": { "type": "array", "items": { "type": "string" } },
+    "works": { "type": "array", "items": { "type": "object", "required": ["work", "role"], "properties": {
+      "work": { "$ref": "_definitions.schema.json#/definitions/slug" }, "role": { "type": "string" } } } },
+    "works_text": { "type": "array", "items": { "type": "string" } },
+    "training": { "type": "array", "items": { "type": "object", "required": ["title", "institution"], "properties": {
+      "title": { "type": "string" }, "institution": { "type": "string" }, "year": { "$ref": "_definitions.schema.json#/definitions/year" }, "source_index": { "type": ["integer", "null"] } } } },
+    "recognitions": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/recognition" } },
+    "funding_awards": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/funding_award" } },
+    "festivals": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/festival_participation" } },
+    "website": { "$ref": "_definitions.schema.json#/definitions/url" },
+    "social": { "$ref": "_definitions.schema.json#/definitions/social" },
+    "email_public": { "type": ["string", "null"] },
+    "contact_authorized": { "type": "boolean" },
+    "media": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/media_ref" } },
+    "media_candidates": { "type": "array", "items": { "type": "object" } },
+    "series": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "episodes": { "type": "array", "items": { "$ref": "_definitions.schema.json#/definitions/slug" } },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "sources": { "type": "array", "minItems": 1, "items": { "$ref": "_definitions.schema.json#/definitions/source" } },
+    "verification": { "$ref": "_definitions.schema.json#/definitions/verification" },
+    "published": { "type": "boolean" }
+  }
+}

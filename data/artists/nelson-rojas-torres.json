@@ -1,0 +1,26 @@
+{
+  "slug": "nelson-rojas-torres", "type": "artist",
+  "name": "Nelson Hernán Rojas Torres", "artistic_name": null,
+  "commune": "la-ligua", "commune_basis": "carta",
+  "crafts": ["direccion", "gestion", "musica-escenica", "actuacion"], "disciplines": ["teatro", "musica-escenica"],
+  "specialties": ["Dirección artística de festival", "Gestión cultural territorial", "Composición y percusión", "Teatro y memoria"],
+  "bio_md": "Artista, gestor cultural y dirigente social de La Ligua. Director de Arte Escénico La Ligua y director artístico del Festival de Teatro y Todas las Artes Valle del Liwa, que lleva teatro a localidades de la Provincia de Petorca como Chincolco, Pedegua, Pichicuy y La Ballena.",
+  "trajectory_md": "El Festival Valle del Liwa alcanzó su quinta edición en 2024; la edición 2023 fue financiada mediante el 7% FNDR del Gobierno Regional de Valparaíso. En 2018 participó en la residencia de arte colaborativo Recolectores de Memoria (Lota). Es compositor, percusionista y músico en proyectos del Teatro del Silencio (director musical en *Inferno*).",
+  "companies": [ { "company": "arte-escenico-la-ligua", "role": "director", "from_year": null, "to_year": null } ],
+  "companies_text": ["Teatro del Silencio (compositor y percusionista)"],
+  "works": [], "works_text": ["Inferno (Teatro del Silencio) — dirección musical y música"],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [ { "fund_name": "7% FNDR Cultura — Festival de Teatro y Todas las Artes Valle del Liwa, tercera versión", "org": "Gobierno Regional de Valparaíso", "year": 2023, "folio": null, "amount_clp": null, "url": null, "note": "Como director artístico del festival; el adjudicatario formal debe confirmarse.", "source_index": 1 } ],
+  "festivals": [ { "festival_name": "Festival de Teatro y Todas las Artes Valle del Liwa (director artístico), quinta edición", "year": 2024, "place": "Provincia de Petorca", "source_index": 1 } ],
+  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "email_public": null, "contact_authorized": false,
+  "media": [], "media_candidates": [ { "what": "Retrato", "ask": "Pedir a la persona. Respaldo: prensa del Festival Valle del Liwa, con crédito y permiso." } ],
+  "series": ["de-cuento-en-cuento"], "episodes": ["dcc-03-la-ligua"], "tags": ["protagonista-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso y autorización de participación — La Ligua.pdf (22 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": "Datos personales no replicados." },
+    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 3 (cita El Observador, Ministerio de las Culturas — Recolectores de Memoria, Teatro del Silencio)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "company", "festivals"], "notes": "URLs pendientes." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validar con la persona. Localizar nota de El Observador (Valle del Liwa 2024) y ficha de Recolectores de Memoria." },
+  "published": false
+}

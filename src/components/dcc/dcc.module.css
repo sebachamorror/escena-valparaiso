@@ -1,0 +1,41 @@
+.band { background: var(--dcc-cream); color: var(--dcc-ink); border-top: 1px solid var(--dcc-sand); border-bottom: 1px solid var(--dcc-sand); }
+.bandInner { padding-block: var(--s-7); }
+.kicker { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.14em; text-transform: uppercase; color: var(--dcc-coral-dark); }
+.title { font-family: var(--display); font-style: italic; font-weight: 500; font-size: var(--t-2xl); line-height: 1.05; letter-spacing: -0.02em; }
+.title em { color: var(--dcc-coral-dark); font-style: normal; }
+.descriptor { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.7; }
+.btn { border-color: var(--dcc-coral-dark); color: var(--dcc-coral-dark); }
+.btn:hover { background: var(--dcc-coral-dark); border-color: var(--dcc-coral-dark); color: #fff; }
+
+/* Ruta: línea punteada con nodos */
+.route { list-style: none; display: grid; grid-template-columns: repeat(7, minmax(120px, 1fr)); gap: 0; min-width: 840px; padding-top: var(--s-4); }
+.routeItem { position: relative; padding-top: 26px; text-align: left; }
+.routeItem::before {
+  content: ""; position: absolute; top: 8px; left: 8px; width: 16px; height: 16px; border-radius: 50%;
+  background: var(--dcc-yellow); border: 3px solid var(--dcc-coral-dark); box-sizing: border-box; z-index: 1;
+}
+.routeItem::after {
+  content: ""; position: absolute; top: 15px; left: 24px; right: -8px; border-top: 2px dashed var(--dcc-coral); 
+}
+.routeItem:last-child::after { display: none; }
+.routeItem a { text-decoration: none; display: grid; gap: 0.1rem; }
+.routeItem a:hover .routeName { color: var(--dcc-coral-dark); text-decoration: underline; }
+.routeN { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.1em; opacity: 0.7; }
+.routeName { font-family: var(--display); font-size: 1.15rem; }
+.routeTramo { font-size: var(--t-xs); opacity: 0.75; }
+
+/* Posta */
+.posta { list-style: none; display: grid; gap: 0; border-left: 2px dashed var(--dcc-coral); margin-left: 10px; }
+.postaItem { position: relative; padding: 0 0 var(--s-6) var(--s-6); }
+.postaItem::before {
+  content: ""; position: absolute; left: -11px; top: 0.35rem; width: 20px; height: 20px; border-radius: 50%;
+  background: var(--dcc-yellow); border: 3px solid var(--dcc-coral-dark); box-sizing: border-box;
+}
+.postaItem h3 { font-size: 1.3rem; }
+.postaMeta { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.7; margin-top: 0.2rem; }
+.postaBox { margin-top: var(--s-3); border: 1px dashed var(--dcc-coral); border-radius: var(--r-2); padding: var(--s-3) var(--s-4); background: #fff8; font-size: var(--t-sm); }
+
+/* Estructura del capítulo */
+.structure { list-style: none; display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.structure li { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.1em; text-transform: uppercase; padding: 0.3rem 0.7rem; border: 1px solid var(--dcc-coral); border-radius: var(--r-pill); }
+.structure li + li::before { content: "→ "; opacity: 0.5; }

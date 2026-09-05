@@ -1,0 +1,22 @@
+{
+  "slug": "the-magic-show", "type": "company",
+  "name": "Compañía de Marionetas The Magic Show", "legal_name": null,
+  "description_md": "Compañía de títeres y marionetas de Los Andes creada por Hugo Hernández Urtubia. Espectáculos y actividades en Chile y fuera del país; marionetas musicales, marionetas gigantes, trabajo callejero y formación de niños y niñas.",
+  "commune": "los-andes", "other_communes": [],
+  "disciplines": ["titeres", "teatro-familiar"], "audiences": ["familiar", "infantil"],
+  "founded_year": null, "status": "activa", "last_activity_at": "2026-08-01",
+  "members": [ { "artist": "hugo-hernandez-urtubia", "role": "creador y director", "from_year": null, "to_year": null } ],
+  "members_text": [],
+  "works": ["variete-de-marionetas-musicales"], "venues": [], "place": null,
+  "email": null, "contact_authorized": false, "website": null,
+  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "trajectory_md": "En agosto de 2026 presentó *Varieté de Marionetas Musicales* para estudiantes de la Escuela Mateo Cokljat de San Felipe, en las actividades nacionales del Día Nacional del Titiritero y la Titiritera.",
+  "recognitions": [], "funding_awards": [], "festivals": [],
+  "media": [], "media_candidates": [], "series": ["de-cuento-en-cuento"], "tags": ["protagonista-dcc"],
+  "sources": [
+    { "url": null, "title": "Carta de compromiso — Los Andes.pdf (31 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": null },
+    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 1 (cita SIGPA, Diario El Trabajo)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "last_activity_at"], "notes": "Actividad de agosto 2026 (San Felipe) citada de prensa; URL pendiente." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 60, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Pedir año de inicio, redes y sitio; localizar nota de Diario El Trabajo." },
+  "published": false
+}

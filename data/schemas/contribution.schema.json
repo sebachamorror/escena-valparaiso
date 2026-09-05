@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "escena-valparaiso/contribution.schema.json",
+  "title": "Propuesta ciudadana: ¿A quién deberíamos conocer en tu territorio?",
+  "type": "object",
+  "required": ["kind", "proposal", "commune", "province", "status", "contact_consent", "created_at"],
+  "properties": {
+    "kind": { "type": "string", "enum": ["compania", "artista", "obra", "espacio", "festival", "actividad", "documento", "fotografia", "historia"] },
+    "proposal": { "type": "string", "minLength": 10 },
+    "name": { "type": ["string", "null"], "description": "Nombre de lo propuesto" },
+    "commune": { "$ref": "_definitions.schema.json#/definitions/slug" },
+    "province": { "$ref": "_definitions.schema.json#/definitions/slug" },
+    "proposer_name": { "type": ["string", "null"] },
+    "proposer_contact": { "type": ["string", "null"] },
+    "contact_consent": { "type": "boolean" },
+    "provided_source": { "type": ["string", "null"] },
+    "attachments": { "type": "array", "items": { "type": "string" } },
+    "status": { "type": "string", "enum": ["pending", "in_review", "accepted", "rejected", "duplicate"] },
+    "created_at": { "$ref": "_definitions.schema.json#/definitions/date" },
+    "reviewed_at": { "$ref": "_definitions.schema.json#/definitions/date" },
+    "reviewer": { "type": ["string", "null"] },
+    "result": { "anyOf": [ { "type": "null" }, { "type": "object", "required": ["type", "slug"], "properties": { "type": { "type": "string" }, "slug": { "$ref": "_definitions.schema.json#/definitions/slug" } } } ] },
+    "note": { "type": ["string", "null"] }
+  }
+}
