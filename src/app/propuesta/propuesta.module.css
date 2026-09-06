@@ -106,7 +106,7 @@
   .pageNum { top: 0; }
   .cover { page-break-after: always; }
   .shotWrap, .placeholder, .table, .stepGrid { break-inside: avoid; }
-  .shotWrap img { max-height: 60mm; object-fit: cover; object-position: top; }
+  .shotWrap img { max-height: var(--shot-h, 60mm); object-fit: cover; object-position: top; }
   .mockupFrame img { max-height: 68mm; }
   .mockupFrame, .logoRow { break-inside: avoid; }
   .logoItem { width: 62px; }

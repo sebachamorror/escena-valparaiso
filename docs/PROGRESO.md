@@ -353,3 +353,20 @@ Los mockups traían cifras y contenido completamente inventados (seguidores, vis
 
 1. El usuario debe confirmar si el aviso de "concepto ilustrativo" es suficiente para el criterio del fondo, o si prefiere una versión más discreta de los mockups antes de la postulación final.
 2. Si en algún momento se necesita otra imagen con `overflow:hidden` + `border-radius` cerca del límite de una página en impresión, tener presente el bug de fragmentación de Chromium documentado arriba: la salida más simple es dejar más margen de sobra en esa página, no confiar en `break-inside: avoid`.
+
+---
+
+## Logo real del sitio y capturas más coloridas · sesión 2026-09-06 (continuación)
+
+### Qué se hizo
+
+- **Logo del sitio**: el masthead (`src/components/layout/Masthead.tsx`) dejó de usar el wordmark de texto ("QUINTA" + píldora rosa "ESCENA") y ahora usa la imagen real del isotipo (`public/logo-quinta-escena.png`, la variante dorada de `PDF/Logos/`), a 44px de alto. Se probó en desktop y mobile.
+- **Capturas más coloridas en la propuesta**: se retomaron tres de las cuatro capturas de `/propuesta` con mejores encuadres (scroll a la sección relevante antes de capturar, en vez de la parte superior de la página):
+  - `screenshot-mapa.png`: ahora muestra el mapa regional completo con sus seis colores (antes solo se veía una esquina, cortada por la altura máxima de impresión).
+  - `screenshot-companias.png`: ahora muestra dos filas completas de tarjetas de compañías con nombre y color, en vez de los chips de filtro y el aviso de previsualización.
+  - `screenshot-podcast.png`: ahora muestra la grilla de los siete capítulos (cada uno con su color), en vez del hero blanco con la ruta.
+- Se agregó un campo opcional `heightMm` al bloque `shot` (`content.json` → `page.tsx`, vía una variable CSS `--shot-h`) para poder darle más alto de impresión a una captura puntual (el mapa necesitaba ~95mm para verse completo) sin afectar a las demás, que se quedan en los 60mm por defecto.
+
+### Verificación
+
+`npm run typecheck`, `npm test` (13 pruebas) y `npm run build` en verde. Conteo de páginas verificado con Playwright: 31/31, sin desbordes. Revisión visual del sitio (logo en header, desktop y mobile) y del PDF (las tres capturas nuevas, a tamaño completo).

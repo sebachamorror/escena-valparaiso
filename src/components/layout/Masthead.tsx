@@ -9,8 +9,8 @@ export function Masthead() {
     <header className={`${styles.masthead} site-masthead`}>
       <div className={`wrap ${styles.bar}`}>
         <Link href="/" className={styles.brand} aria-label="QUINTA ESCENA, inicio">
-          <span className={styles.brandName}><span className={styles.brandTop}>QUINTA</span><span className={styles.brandBottom}>ESCENA</span></span>
-          <span className={styles.brandSub}>Artes escénicas de la región</span>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/logo-quinta-escena.png" alt="QUINTA ESCENA" className={styles.brandLogo} />
         </Link>
         <nav className={styles.nav} aria-label="Secciones">
           <ul className={styles.navList}>

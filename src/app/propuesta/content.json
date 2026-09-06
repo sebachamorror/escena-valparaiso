@@ -144,7 +144,7 @@
       "title": "Hacer visible la región como escena",
       "lead": "No solamente permite ubicar geográficamente a un artista: construye una representación distinta del territorio.",
       "blocks": [
-        { "type": "shot", "src": "/propuesta/screenshot-mapa.png", "path": "/mapa", "alt": "Mapa regional con las ocho provincias y capas de registros", "caption": "Mapa de las ocho provincias, geometría oficial, sin coordenadas inventadas." },
+        { "type": "shot", "src": "/propuesta/screenshot-mapa.png", "path": "/mapa", "alt": "Mapa regional con las ocho provincias y capas de registros", "caption": "Mapa de las ocho provincias, geometría oficial, sin coordenadas inventadas.", "heightMm": 95 },
         { "type": "p", "text": "Una persona podrá mirar la Región de Valparaíso y descubrir quiénes hacen artes escénicas, dónde están, qué hacen, qué obras desarrollan, qué espacios existen y qué actividades ocurren. El mapa se alimenta inicialmente por los agentes encontrados durante la ejecución del proyecto y crece mediante participación y revisión editorial: los artistas y organizaciones pueden proponer información sobre sí mismos o sobre terceros, el equipo realiza búsqueda activa en fuentes públicas, y toda información se revisa antes de incorporarse." }
       ]
     },
@@ -181,7 +181,7 @@
       "blocks": [
         { "type": "flow", "items": ["una persona", "una disciplina", "una práctica", "un territorio", "una comunidad", "una problemática", "una forma de hacer escena"] },
         { "type": "p", "text": "La selección inicial contempla teatro, títeres, circo/clown y narración oral, cumpliendo la exigencia de la convocatoria de al menos dos disciplinas. La selección concreta de participantes se revisa y ratifica antes de la postulación definitiva, especialmente respecto de cartas de compromiso y disponibilidad." },
-        { "type": "shot", "src": "/propuesta/screenshot-podcast.png", "path": "/quinta-escena-podcast", "alt": "Portada de la serie con la ruta de los siete episodios", "caption": "La ruta de la temporada 1, de la cordillera al mar." }
+        { "type": "shot", "src": "/propuesta/screenshot-podcast.png", "path": "/quinta-escena-podcast", "alt": "Los siete capítulos de la temporada 1, cada uno con su territorio y protagonista", "caption": "Los siete capítulos, de la cordillera al mar." }
       ]
     },
     {

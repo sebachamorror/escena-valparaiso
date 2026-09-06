@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { CSSProperties } from "react";
 import { pageMetadata } from "@/lib/seo/metadata";
 import { PrintButton } from "./PrintButton";
 import styles from "./propuesta.module.css";
@@ -27,7 +28,7 @@ type Block =
   | { type: "flow"; items: string[] }
   | { type: "table"; headers: [string, string]; rows: [string, string][] }
   | { type: "cards"; columns: number; items: { title: string; text: string; bg?: string | null; color?: string }[] }
-  | { type: "shot"; src: string; path: string; alt: string; caption: string; mockupNote?: boolean }
+  | { type: "shot"; src: string; path: string; alt: string; caption: string; mockupNote?: boolean; heightMm?: number }
   | { type: "placeholder"; text: string }
   | { type: "twoColLists"; left: { heading: string; items: string[] }; right: { heading: string; items: string[] } }
   | { type: "logos"; items: { src: string; label: string }[] }
@@ -83,7 +84,7 @@ function Block({ block }: { block: Block }) {
       const url = `quinta-escena.cl${block.path === "/" ? "" : block.path}`;
       return (
         <figure>
-          <div className={styles.shotWrap}>
+          <div className={styles.shotWrap} style={block.heightMm ? ({ "--shot-h": `${block.heightMm}mm` } as CSSProperties) : undefined}>
             <div className={styles.shotBar}>
               <span className={styles.shotDots}><span /><span /><span /></span>
               <span className={styles.shotUrl}>{url}</span>
