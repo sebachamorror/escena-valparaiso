@@ -6,7 +6,7 @@
 }
 .bar { display: flex; align-items: center; justify-content: space-between; gap: var(--s-4); min-height: 64px; }
 .brand { text-decoration: none; display: inline-flex; align-items: center; line-height: 1; }
-.brandLogo { height: 44px; width: auto; display: block; }
+.brandLogo { height: 56px; width: auto; display: block; }
 .nav { display: none; }
 .navList { list-style: none; display: flex; gap: 0.85rem; flex-wrap: nowrap; white-space: nowrap; }
 .navList a { text-decoration: none; font-size: 0.8125rem; font-weight: 500; padding: 0.35rem 0; border-bottom: 2px solid transparent; letter-spacing: 0.005em; }
@@ -21,7 +21,8 @@
 @media (min-width: 1180px) {
   .nav { display: block; }
   .menuBtn { display: none; }
-  .bar { min-height: 72px; }
+  .bar { min-height: 80px; }
+  .brandLogo { height: 68px; }
 }
 
 /* Menú móvil */
