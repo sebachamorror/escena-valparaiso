@@ -36,6 +36,66 @@ function Rich({ text }: { text: string }) {
   return <>{nodes}</>;
 }
 
+type ConceptNode = { label: string; bg: string | null };
+
+function conceptNodeColors(bg: string | null) {
+  if (bg === null) return { fill: "var(--paper)", text: "var(--ink)", stroke: "var(--ink)" };
+  if (bg === "ink") return { fill: "var(--ink)", text: "var(--paper)", stroke: "var(--paper)" };
+  return { fill: `var(--${bg})`, text: `var(--${bg}-ink)`, stroke: "var(--ink)" };
+}
+
+/** Mapa conceptual de la portada: el isotipo al centro, recibiendo información desde los canales y las personas que la producen. */
+function ConceptMap({ caption, nodes }: { caption: string; nodes: ConceptNode[] }) {
+  const size = 460;
+  const c = size / 2;
+  const centerR = 68;
+  const nodeR = 178;
+  const nodeW = 138;
+  const nodeH = 56;
+  const logoSize = (centerR - 12) * 2;
+  const step = 360 / nodes.length;
+  const polar = (r: number, deg: number) => {
+    const rad = ((deg - 90) * Math.PI) / 180;
+    return { x: c + r * Math.cos(rad), y: c + r * Math.sin(rad) };
+  };
+  return (
+    <div className={styles.conceptMap}>
+      <svg viewBox={`0 0 ${size} ${size}`} role="img" aria-label={caption}>
+        <defs>
+          <marker id="conceptArrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M0,0 L10,5 L0,10 z" fill="var(--paper)" />
+          </marker>
+        </defs>
+        {nodes.map((n, i) => {
+          const deg = i * step;
+          const pos = polar(nodeR, deg);
+          const from = polar(nodeR - nodeH / 2 - 6, deg);
+          const to = polar(centerR + 10, deg);
+          const { fill, text, stroke } = conceptNodeColors(n.bg);
+          const words = n.label.split(" ");
+          return (
+            <g key={n.label}>
+              <line x1={from.x} y1={from.y} x2={to.x} y2={to.y} stroke="var(--paper)" strokeWidth={2.5} opacity={0.8} markerEnd="url(#conceptArrow)" />
+              <rect x={pos.x - nodeW / 2} y={pos.y - nodeH / 2} width={nodeW} height={nodeH} rx={12} fill={fill} stroke={stroke} strokeWidth={2.5} />
+              <text x={pos.x} y={pos.y} textAnchor="middle" dominantBaseline="middle" fontFamily="var(--mono)" fontWeight={700} fontSize={words.length > 1 ? 13 : 15} fill={text}>
+                {words.length > 1 ? (
+                  <>
+                    <tspan x={pos.x} dy="-0.4em">{words[0]}</tspan>
+                    <tspan x={pos.x} dy="1.15em">{words.slice(1).join(" ")}</tspan>
+                  </>
+                ) : n.label}
+              </text>
+            </g>
+          );
+        })}
+        <circle cx={c} cy={c} r={centerR} fill="var(--paper)" stroke="var(--ink)" strokeWidth={3} />
+        <image href="/logo-quinta-escena.png" x={c - logoSize / 2} y={c - logoSize / 2} width={logoSize} height={logoSize} />
+      </svg>
+      <p className={styles.conceptMapCaption}>{caption}</p>
+    </div>
+  );
+}
+
 type Block =
   | { type: "p"; text: string; class?: string }
   | { type: "h3"; text: string }
@@ -76,18 +136,20 @@ function Block({ block }: { block: Block }) {
       );
     case "table":
       return (
-        <table className={styles.table}>
-          <thead><tr><th>{block.headers[0]}</th><th>{block.headers[1]}</th></tr></thead>
-          <tbody>
-            {block.rows.map((row) => (
-              <tr key={row[0]}><td><Rich text={row[0]} /></td><td><Rich text={row[1]} /></td></tr>
-            ))}
-          </tbody>
-        </table>
+        <div className="scroll-x">
+          <table className={styles.table}>
+            <thead><tr><th>{block.headers[0]}</th><th>{block.headers[1]}</th></tr></thead>
+            <tbody>
+              {block.rows.map((row) => (
+                <tr key={row[0]}><td><Rich text={row[0]} /></td><td><Rich text={row[1]} /></td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       );
     case "cards":
       return (
-        <div className={styles.stepGrid} style={{ gridTemplateColumns: `repeat(${block.columns}, 1fr)` }}>
+        <div className={styles.stepGrid} style={{ "--cols": block.columns } as CSSProperties}>
           {block.items.map((it) => (
             <div key={it.title} className={styles.step} style={{ background: bgVar(it.bg), color: it.color }}>
               <span className={styles.stepTitle}>{it.title}</span>
@@ -174,16 +236,19 @@ export default function PropuestaPage() {
 
       {/* Portada */}
       <div className={styles.cover}>
-        <div className="wrap">
-          <p className={`eyebrow ${styles.coverEyebrow}`}>{content.cover.eyebrow}</p>
-          <h1 className={styles.coverTitle}>
-            {content.cover.titleLines.map((line, i) => <span key={line}>{i > 0 && <br />}{line}</span>)}
-          </h1>
-          <p className={styles.coverSub}>{content.cover.subtitle}</p>
-          <p className={styles.coverTag}>{content.cover.tagline}</p>
-          <ul className={styles.coverMeta}>
-            {content.cover.meta.map(([k, v]) => <li key={k}><span>{k}</span><b>{v}</b></li>)}
-          </ul>
+        <div className={`wrap ${styles.coverGrid}`}>
+          <div className={styles.coverText}>
+            <p className={`eyebrow ${styles.coverEyebrow}`}>{content.cover.eyebrow}</p>
+            <h1 className={styles.coverTitle}>
+              {content.cover.titleLines.map((line, i) => <span key={line}>{i > 0 && <br />}{line}</span>)}
+            </h1>
+            <p className={styles.coverSub}>{content.cover.subtitle}</p>
+            <p className={styles.coverTag}>{content.cover.tagline}</p>
+            <ul className={styles.coverMeta}>
+              {content.cover.meta.map(([k, v]) => <li key={k}><span>{k}</span><b>{v}</b></li>)}
+            </ul>
+          </div>
+          <ConceptMap caption={content.cover.conceptMap.caption} nodes={content.cover.conceptMap.nodes} />
         </div>
       </div>
 

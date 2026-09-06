@@ -10,7 +10,18 @@
       ["Responsable", "Compañía de Teatro La Lancha SpA"],
       ["Territorio", "Región de Valparaíso"],
       ["Documento", "Propuesta · septiembre 2026"]
-    ]
+    ],
+    "conceptMap": {
+      "caption": "Cómo llega la información a la plataforma",
+      "nodes": [
+        { "label": "YouTube", "bg": "gold" },
+        { "label": "Instagram", "bg": null },
+        { "label": "TikTok", "bg": "ink" },
+        { "label": "Artistas", "bg": "pink" },
+        { "label": "Compañías", "bg": "violet" },
+        { "label": "Público general", "bg": "mint" }
+      ]
+    }
   },
   "pages": [
     {
