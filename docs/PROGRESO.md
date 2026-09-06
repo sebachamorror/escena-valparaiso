@@ -255,3 +255,44 @@ El usuario pidió renombrar todo el proyecto: ESCENA VALPARAÍSO pasa a llamarse
 
 1. Renombrar el repositorio de GitHub cuando el usuario quiera (paso manual de 30 segundos, ver arriba).
 2. Si Vercel no aliasa solo un futuro deploy a `quinta-escena.vercel.app`, aplicar el arreglo manual descrito arriba, o revisar en el dashboard de Vercel (Project Settings → Domains) si ya quedó fijo como dominio de producción.
+
+---
+
+## Investigación mayor: compañías, festivales y cartelera · sesión 2026-09-05 (continuación)
+
+### Contexto
+
+El usuario pidió una búsqueda mayor en toda la web de teatro, compañías y panoramas para sumar más contenido al sitio. Se abordó como una investigación de la cola pendiente en `data/research_queue.json`, usando cuatro investigaciones en paralelo con las skills correspondientes (`buscar-companias-teatro` ×2, `buscar-festivales`, `buscar-cartelera`), cada una con búsqueda web real y fuentes verificables. No se tocó `src/`.
+
+### Qué se hizo
+
+**Compañías** (10 fichas nuevas en `data/companies/`, todas `published: false`):
+- Del Catálogo de Compañías de Teatro Tradicional de Títeres Región de Valparaíso (Servicio Nacional del Patrimonio Cultural, 2025) — cuya URL oficial se localizó y queda registrada (resuelve rq-069): `colectiva-la-capuchina`, `titiricaos`, `guaico-titeres`, `compania-de-munecos-marionautas`, `asamblea-titiritera-attich-v` (tratada como agrupación/colectivo, sin esquema propio de "organización").
+- Teatro familiar y otras compañías: `ludus-teatro`, `titeres-humedal-rio-maipo`, `la-enredadera`, `fundacion-oani-de-teatro` (la más sólida: sitio propio, actividad hasta agosto de 2026), `teatro-la-peste`.
+- **Descartadas deliberadamente sin ficha** por no poder fijar la comuna de sede con una fuente real (aunque su existencia sí está confirmada): *La Barconeta* y *Vaccaro Puppets* (ambas del catálogo oficial, con correo público hallado) e *Hypókritas* (existe una compañía homónima en Salamanca, España, que no debe confundirse con esta).
+- **Descartadas por no corresponder o no poder confirmarse**: *Ojos de Mar* (es una fundación ambiental, no una compañía de teatro), *Compañía de Teatro Espontáneo de Quillota* (sin fuente que confirme su existencia), *Teatro Ánima* de Quillota (sin actividad desde julio de 2019; queda como candidata a Archivo).
+
+**Festivales y cartelera** (6 fichas nuevas en `data/events/`, 1 en `data/archive/`, 2 funciones nuevas en `data/events/`):
+- Festivales documentados: Festival Litoral Teatral 2026 (verificado, décima edición), Festival Ventolera 2024 (verificado, IV edición), Festival Caleta de Títeres 2026 (verificado, II edición, funciones sobre lanchas en el Muelle Prat), Festival Teatro Container 2024 (verificado, VIII edición), Puerto a Puerta Valparaíso 2024 (pendiente, única fuente es el sitio de OANI).
+- Gira "Paraísos Creativos" (teatro familiar, noviembre 2021) documentada como entrada de archivo (`data/archive/paraisos-creativos-gira-teatro-familiar-2021.json`), con el itinerario completo de Festín de la Risa, Ludus Teatro y La Enredadera.
+- **Festival Valle del Liwa (La Ligua) no se pudo documentar**: su sitio oficial no resuelve desde este entorno, y se detectó una discrepancia sin resolver entre las fichas ya existentes (que citan "quinta edición 2024") y un PDF de bases indexado que dice "4º Festival... 2024". Queda anotado como tarea de verificación.
+- Cartelera: dos funciones nuevas verificadas en el Centro Cultural San Antonio (*Ánimas de día claro*, 5-sep-2026; *Circo Saltimbanqui*, 26-sep-2026). El resto de los espacios ya verificados (Parque Cultural de Valparaíso, Teatro Municipal Juan Bustos Ramírez, Teatro Municipal Pompeya, Teatro Rodolfo Bravo, Centro Cultural de Los Andes) no tenían programación oficial de artes escénicas publicada para las próximas semanas al momento del levantamiento, o sus sitios no eran accesibles con las herramientas disponibles.
+
+**Cola de investigación**: 15 tareas pasaron a `done`, 3 a `discarded` (con el motivo documentado en cada una), y se agregaron 44 tareas nuevas (`rq-113` a `rq-156`) a partir de pistas concretas con fuente — principalmente compañías participantes de festivales (con comuna citada por la fuente), dos hallazgos que ameritan seguimiento propio (la itinerancia regional "Mujeres en la Escena", 2026-2027, y el festival FESTILAMBE de Valparaíso), y dos tareas de verificación sobre el caso Valle del Liwa.
+
+### Qué no se hizo (a propósito)
+
+- No se marcó ninguna ficha como `verificado` sin una fuente nivel 1 sólida que lo justificara; la mayoría de lo nuevo queda `pendiente`, como corresponde a una primera pasada de investigación.
+- No se creó ninguna relación (compañía, obra) inventada: donde la fuente no daba el dato, el campo quedó en `null` y la pista pasó a la cola en vez de forzarse.
+- No se investigaron las 38 comunas de `investigar-territorio` (`rq-075` a `rq-112`, la mayoría aún `pending`) ni las convocatorias de fondos (`rq-065` a `rq-068`): quedan fuera del alcance de esta sesión, priorizada en compañías, festivales y cartelera.
+
+### Verificación
+
+`python3 scripts/validar_datos.py --strict` → 0 errores, 0 avisos. Recuento final: `companies` 16 archivos, `events` 10 archivos, `archive` 1 archivo, `research_queue` 156 tareas (22 `done`, 3 `discarded`, 20 `in_progress`, 111 `pending`).
+
+### Próximos pasos
+
+1. Verificar con la skill `verificar-datos` las fichas nuevas antes de cualquier publicación (ninguna tiene `published: true`).
+2. Resolver la discrepancia de edición del Festival Valle del Liwa (`rq-155`) y reintentar el acceso a `festivalvalledelliwa.cl` (`rq-156`).
+3. Seguir la pista de la itinerancia "Mujeres en la Escena" (Quillota 23-sep-2026, Quilpué/Colliguay 24-oct-2026) buscando una fuente oficial (Ministerio, gestora o compañías) antes de registrarla como cartelera.
+4. Completar las fichas de compañía nuevas que quedaron sin comuna de sede (La Barconeta, Vaccaro Puppets, Hypókritas) contactando directamente por los correos públicos ya hallados, o revisando sus redes sociales desde un entorno con acceso a Instagram.

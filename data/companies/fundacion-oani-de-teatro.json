@@ -1,0 +1,34 @@
+{
+  "slug": "fundacion-oani-de-teatro", "type": "company",
+  "name": "Fundación OANI de Teatro", "legal_name": "Fundación OANI de Teatro",
+  "description_md": "Compañía y fundación de Teatro de Formas Animadas con sede en Valparaíso, pionera en la difusión del Teatro Lambe-Lambe (teatro miniatura) en Chile desde 2007. Organiza el FESTILAMBE de Valparaíso y realiza tardes familiares y residencias en Casa OANI y en el Parque Cultural de Valparaíso.",
+  "commune": "valparaiso", "other_communes": [],
+  "disciplines": ["titeres", "lambe-lambe", "teatro-familiar"], "audiences": ["todo-publico", "familiar"],
+  "founded_year": 1998, "status": "activa", "last_activity_at": "2026-08-08",
+  "members": [], "members_text": [
+    "Camila Landon Vío (directora presidenta, actriz)",
+    "Andrés Landon Vío (director secretario, compositor y productor musical)",
+    "Gloria Vío Grossi (directora tesorera, asesora de proyectos)"
+  ],
+  "works": [], "venues": ["parque-cultural-de-valparaiso"],
+  "place": { "name": "Casa OANI", "address": "Lo Venegas #489, Cerro Cárcel", "commune": "valparaiso", "lat": null, "lng": null, "precision": "street", "geocode_source": null, "geocoded_at": null },
+  "email": "produccion@oaniteatro.com", "contact_authorized": true, "website": "https://oaniteatro.com",
+  "social": { "instagram": "https://www.instagram.com/oaniteatro/", "facebook": "https://www.facebook.com/oaniteatro/", "tiktok": null, "youtube": null },
+  "trajectory_md": "OANI (Objeto Animado No Identificado) nace como compañía de teatro en Santiago en 1998. Entre 2002 y 2006 sus integrantes residieron en Brasil, donde incorporaron el lenguaje del Teatro Lambe-Lambe (teatro de miniatura íntimo), convirtiéndose en pioneros de su difusión en Chile desde 2007, año en que la compañía se radicó en Valparaíso. En 2014 se constituyó como Fundación OANI de Teatro y creó Casa OANI (2016, Lo Venegas #489, Cerro Cárcel), espacio de creación, residencia y difusión del Teatro de Formas Animadas donde también se programa el FESTILAMBE de Valparaíso, festival internacional de Lambe-Lambe organizado por la Fundación desde 2014 y que llegó a su 9ª edición en 2026 («Contagiando Humanidad»). Su repertorio incluye la Trilogía Libre en Lambe Lambe (2008), la Trilogía Valparaíso en Lambe Lambe (2009), La Estrategia de Elías (2013), Humano (2019), la Trilogía Mis Derechos (2020), Gregarios (2021), Yo Soy un Oso (2022) y NOSOTRXS, estrenada en enero de 2026 en calles y sitios no convencionales de Valparaíso (Pasaje Santa Isabel y Mercado Puerto) con financiamiento del Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas (convocatoria 2025). En 2024 coprodujo «Puerto a Puerta» con Teatro Container, proyecto adjudicado en la línea «Comunidades Escénicas» del Programa de Artes Escénicas Itinerantes Regionales del Ministerio de las Culturas. En agosto de 2026 registraba actividad continua: funciones de NOSOTRXS en el Parque Cultural de Valparaíso (6 al 8 de agosto) y de Yo Soy un Oso en el Centro Cultural de Lampa durante FAMFEST.",
+  "recognitions": [], "funding_awards": [
+    { "fund_name": "Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas — Creación y Producción Escénica (obra NOSOTRXS)", "org": "Ministerio de las Culturas, las Artes y el Patrimonio", "year": 2025, "folio": null, "amount_clp": null, "url": null, "note": "Convocatoria 2025; estreno de la obra en enero de 2026.", "source_index": 2 },
+    { "fund_name": "Comunidades Escénicas — Programa de Artes Escénicas Itinerantes Regionales (coproducción «Puerto a Puerta» con Teatro Container)", "org": "Ministerio de las Culturas, las Artes y el Patrimonio", "year": 2024, "folio": null, "amount_clp": null, "url": null, "note": null, "source_index": 0 }
+  ],
+  "festivals": [
+    { "festival_name": "FESTILAMBE de Valparaíso (organizador, 9ª edición)", "year": 2026, "place": "Casa OANI, Valparaíso", "source_index": 2 }
+  ],
+  "media": [], "media_candidates": [], "series": [], "tags": [],
+  "sources": [
+    { "url": "https://oaniteatro.com/compania/", "title": "OANI — Fundación OANI de Teatro (sitio oficial)", "publisher": "Fundación OANI de Teatro", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "founded_year", "members", "email", "website", "funding_awards", "works"], "notes": "Fetch directo del sitio oficial." },
+    { "url": "https://oaniteatro.com/", "title": "OANI Home", "publisher": "Fundación OANI de Teatro", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["social", "activity"], "notes": "Fetch directo confirmando enlaces de redes sociales (@oaniteatro en Facebook, Instagram y X) y agenda de actividades de 2025-2026." },
+    { "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/01/26/estreno-de-nosotrxs-de-oani-teatro-se-presentara-en-calle-y-sitios-no-convencionales-de-valparaiso.shtml", "title": "Estreno de «NOSOTRXS» de OANI Teatro: se presentará en calle y sitios no convencionales de Valparaíso", "publisher": "BioBioChile", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["activity", "founded_year", "funding_awards", "festivals"], "notes": "Confirma «28 años» de trayectoria a enero de 2026 (coherente con fundación en 1998) y el financiamiento Fondart 2025 de NOSOTRXS." },
+    { "url": "https://parquecultural.cl/2019/09/12/valparaiso-celebra-los-30-anos-del-teatro-lambe-lambe/", "title": "Valparaíso celebra los 30 años del teatro Lambe Lambe", "publisher": "Parque Cultural de Valparaíso", "type": "institucional", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["disciplines", "trajectory"], "notes": null }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 90, "verified_at": "2026-09-05", "verified_by": null, "next_review_at": "2027-09-05", "note": "Fuente oficial propia (oaniteatro.com) con actividad continua confirmada hasta agosto de 2026, corroborada por prensa regional y nacional. Contacto (produccion@oaniteatro.com) es un correo institucional de producción publicado por la propia Fundación, no un dato personal. Pendiente: confirmar coordenadas de Casa OANI para geocodificación." },
+  "published": false
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "puerto-a-puerta-valparaiso-2024", "type": "event", "title": "Puerto a Puerta Valparaíso",
+  "kind": "festival", "work": null, "company": null, "organizer_text": "Centro Cultural Teatro Container y Fundación OANI de Teatro (coproducción), con financiamiento de la Seremi de las Culturas, las Artes y el Patrimonio",
+  "disciplines": ["teatro", "danza", "narracion-oral"], "audience": "familiar",
+  "description_md": "Itinerancia de un contenedor marítimo transformado en cocina y escenario que recorre las calles de Valparaíso para \"reivindicar el espacio público\" con teatro, danza, narración oral y gastronomía como acto de convivencia (\"Cocina Pública\"). Es una coproducción del Centro Cultural Teatro Container y la Fundación OANI de Teatro. Forma parte de una itinerancia más amplia del mismo proyecto (\"Puerto a Puerta\") por comunas de la provincia de San Antonio (El Quisco, El Tabo, San Antonio y Santo Domingo) en 2024, financiada por el Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas Itinerantes Regionales, convocatoria 2024, del Ministerio de las Culturas.",
+  "price": null, "is_free": true, "booking_url": "https://oaniteatro.com/puerto-a-puerta-valparaiso/", "accessibility": [],
+  "occurrences": [
+    { "starts_at": "2024-12-01T11:00:00-03:00", "ends_at": "2024-12-01T19:00:00-03:00", "time_unknown": false, "venue": null, "place": { "name": "Calle Yungay, frente a Biblioteca Severín", "address": "Calle Yungay, junto a Plaza Simón Bolívar, Valparaíso", "commune": "valparaiso", "lat": null, "lng": null, "precision": "unknown", "geocode_source": null, "geocoded_at": null }, "price": null, "note": null },
+    { "starts_at": "2024-12-08T11:00:00-03:00", "ends_at": "2024-12-08T19:00:00-03:00", "time_unknown": false, "venue": null, "place": { "name": "Calle Yungay, frente a Biblioteca Severín", "address": "Calle Yungay, junto a Plaza Simón Bolívar, Valparaíso", "commune": "valparaiso", "lat": null, "lng": null, "precision": "unknown", "geocode_source": null, "geocoded_at": null }, "price": null, "note": null }
+  ],
+  "last_checked_at": "2026-09-05",
+  "media": [],
+  "sources": [
+    { "url": "https://oaniteatro.com/puerto-a-puerta-valparaiso/", "title": "Puerto a Puerta Valparaíso", "publisher": "OANI Teatro", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "occurrences", "description"], "notes": "Sitio oficial de una de las compañías coproductoras. Confirma fechas (1 y 8 de diciembre de 2024), horario, ubicación y coorganizador (Centro Cultural Teatro Container)." },
+    { "url": "https://oaniteatro.com/itinerancia-puerto-a-puerta/", "title": "Itinerancia \"Puerto a Puerta\"", "publisher": "OANI Teatro", "type": "oficial", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description"], "notes": "Describe la itinerancia paralela por El Quisco, El Tabo, San Antonio y Santo Domingo en 2024, financiada por el Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas Itinerantes Regionales (convocatoria 2024)." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 60, "verified_at": null, "verified_by": null, "next_review_at": "2026-12-01", "note": "Solo se encontró la fuente propia de una de las compañías coproductoras (OANI Teatro); no se localizó cobertura de prensa regional independiente ni el sitio propio de Teatro Container para esta edición específica. Confirmar con una segunda fuente antes de subir el estado a verificado. No se encontró información de una edición 2025 o 2026." },
+  "published": false
+}

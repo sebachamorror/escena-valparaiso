@@ -1,0 +1,18 @@
+{
+  "slug": "circo-saltimbanqui-san-antonio-2026-09-26", "type": "event", "title": "Circo con Saltimbanqui Circus",
+  "kind": "funcion", "work": null, "company": null, "organizer_text": "Saltimbanqui Circus (compañía local de San Antonio)",
+  "disciplines": ["circo"], "audience": null,
+  "description_md": "Dos funciones de circo de Saltimbanqui Circus, compañía local de San Antonio, en el Patio de la Niñez del Centro Cultural San Antonio.",
+  "price": "Gratuita", "is_free": true, "booking_url": null, "accessibility": [],
+  "occurrences": [
+    { "starts_at": "2026-09-26T17:00:00-03:00", "ends_at": null, "time_unknown": false, "venue": "centro-cultural-san-antonio", "place": null, "price": "Gratuita", "note": "Patio de la Niñez, acceso por calle Antofagasta esquina República." },
+    { "starts_at": "2026-09-26T18:00:00-03:00", "ends_at": null, "time_unknown": false, "venue": "centro-cultural-san-antonio", "place": null, "price": "Gratuita", "note": "Patio de la Niñez, acceso por calle Antofagasta esquina República." }
+  ],
+  "last_checked_at": "2026-09-05",
+  "media": [],
+  "sources": [
+    { "url": "https://centrocultural.sanantonio.cl/index.php/item/3100-san-antonio-da-la-bienvenida-a-septiembre-con-una-amplia-programacion-para-toda-la-familia", "title": "San Antonio da la bienvenida a septiembre con una amplia programación para toda la familia", "publisher": "Centro Cultural San Antonio / Ilustre Municipalidad de San Antonio", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "occurrences", "description"], "notes": "Confirma las dos funciones (17:00 y 18:00) del sábado 26 de septiembre en el Patio de la Niñez, con Saltimbanqui Circus descrita como compañía local, y que la programación de septiembre es gratuita para la comunidad." }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 76, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2026-09-06", "note": "Fuente oficial del Centro Cultural San Antonio con fecha y horas exactas. Falta documentar a Saltimbanqui Circus en data/companies y confirmar si el precio gratuito aplica de forma específica a esta función (se infiere de la gratuidad general declarada para la programación de septiembre)." },
+  "published": false
+}

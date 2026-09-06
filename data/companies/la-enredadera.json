@@ -1,0 +1,37 @@
+{
+  "slug": "la-enredadera", "type": "company",
+  "name": "La Enredadera", "legal_name": "Colectivo Escénico La Enredadera",
+  "description_md": "Colectivo escénico de danza para la primera infancia, fundado en Valparaíso en 2014, dirigido por la coreógrafa Laura Corona. Su obra «La Caracol» aborda el respeto, la diversidad y el cuidado del medio ambiente para bebés y niñas y niños desde los 6 meses.",
+  "commune": "valparaiso", "other_communes": [],
+  "disciplines": ["danza"], "audiences": ["primera-infancia", "familiar"],
+  "founded_year": 2014, "status": "activa", "last_activity_at": "2026-07-31",
+  "members": [], "members_text": [
+    "Laura Corona (dirección coreográfica)",
+    "Milenka Cucurella (intérprete)",
+    "Mariela Díaz (intérprete)",
+    "Andrea Garrido (dirección e interpretación, gira Mujeres en Escena 2026)",
+    "Francisco Cooper (composición musical, colaborador en La Caracol)"
+  ],
+  "works": [], "venues": [], "place": null,
+  "email": null, "contact_authorized": false, "website": null,
+  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "trajectory_md": "Formado en Valparaíso en 2014, el colectivo desarrolló durante la pandemia, mediante colaboración virtual y residencias creativas de cuatro días, la obra «La Caracol»: un cuento de danza para la primera infancia sobre un caracol que vive encerrado en su casa hasta que un personaje irrumpe en su vida y le enseña a mirar el mundo de otra forma, con enfoque en el respeto a la diversidad, la solidaridad y el cuidado del medio ambiente, para público desde los 6 meses. Según la intérprete Mariela Díaz, las tres fundadoras son madres que se inspiraron en juegos con sus propios hijos e hijas. La obra recibió apoyo del Ministerio de las Culturas, las Artes y el Patrimonio y contó con la colaboración de La Base Produce (audiovisual), Liza Retamal (gráficas), Waleska Vilches (diseño integral) y Francisco Cooper (composiciones musicales). En 2024 «La Caracol» se presentó en el GAM (Centro Gabriela Mistral, Santiago); en noviembre de 2021 se había presentado en el Centro Cultural de San Antonio dentro de una gira regional de teatro familiar. Entre agosto de 2026 y enero de 2027, La Enredadera participa del proyecto itinerante «Mujeres en Escena» (liderado por la gestora cultural Alexandra Farías Aguirre, financiado por el Programa Itinerantes Regionales del Fondo de Artes Escénicas del Ministerio de las Culturas), con funciones confirmadas el 7 de noviembre de 2026 en La Calera y el 19 de diciembre de 2026 en El Quisco, junto a «Gregarios» y «Humano» (Fundación OANI de Teatro), y el 9 de enero de 2027 en Quilpué (sector El Retiro).",
+  "recognitions": [], "funding_awards": [
+    { "fund_name": "Apoyo del Ministerio de las Culturas, las Artes y el Patrimonio para «La Caracol»", "org": "Ministerio de las Culturas, las Artes y el Patrimonio", "year": 2021, "folio": null, "amount_clp": null, "url": null, "note": "Fondo y folio exactos por confirmar.", "source_index": 1 },
+    { "fund_name": "Programa Itinerantes Regionales, Fondo de Artes Escénicas — proyecto «Mujeres en Escena»", "org": "Ministerio de las Culturas, las Artes y el Patrimonio", "year": 2026, "folio": null, "amount_clp": null, "url": null, "note": "Proyecto liderado por la gestora Alexandra Farías Aguirre; La Enredadera es una de siete compañías participantes.", "source_index": 3 }
+  ],
+  "festivals": [
+    { "festival_name": "Gira regional de teatro familiar 2021 (organizada por Cía. La Coraje; Fondo de Fomento y Desarrollo de las Artes Escénicas)", "year": 2021, "place": "Centro Cultural de San Antonio", "source_index": 1 },
+    { "festival_name": "Mujeres en Escena (itinerancia regional)", "year": 2026, "place": "La Calera, El Quisco y Quilpué", "source_index": 3 }
+  ],
+  "media": [], "media_candidates": [], "series": [], "tags": [],
+  "sources": [
+    { "url": "https://gam.cl/es/que-hacer-en-gam/danza/la-caracol/", "title": "La Caracol — Danza", "publisher": "Centro Cultural Gabriela Mistral (GAM)", "type": "institucional", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "founded_year", "members"], "notes": "Página de programación del GAM con biografía del colectivo y de la obra." },
+    { "url": "https://www.elmostrador.cl/braga/2021/07/08/la-caracol-obra-de-danza-para-la-infancia-que-muestra-la-defensa-de-los-derechos-de-la-ninez/", "title": "«La Caracol»: obra de danza para la infancia que muestra la defensa de los derechos de la niñez", "publisher": "El Mostrador", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["works", "members", "funding_awards"], "notes": null },
+    { "url": "https://radio.uchile.cl/2024/08/22/la-caracol-el-montaje-familiar-para-hablar-sobre-derechos-de-ninas-y-ninos-que-arriba-al-gam/", "title": "«La Caracol»: el montaje familiar para hablar sobre derechos de niñas y niños que arriba al GAM", "publisher": "Diario y Radio Universidad de Chile", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["activity", "works"], "notes": null },
+    { "url": "https://diariolaquinta.cl/2026/07/31/proyecto-mujeres-en-escena-llevara-teatro-danza-y-circo-a-seis-provincias-de-la-region-de-valparaiso/", "title": "Proyecto «Mujeres en Escena» llevará teatro, danza y circo a seis provincias de la Región de Valparaíso", "publisher": "Diario La Quinta", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["activity", "festivals", "funding_awards"], "notes": "Confirma actividad vigente al 31 de julio de 2026 y la gira hasta enero de 2027." },
+    { "url": "https://ritoquefm.cl/mujeres-en-la-escena-la-red-cooperativa-que-desafia-al-centralismo-y-recorre-el-valparaiso-profundo/", "title": "Mujeres en la escena: la red cooperativa que desafía al centralismo y recorre el Valparaíso profundo", "publisher": "Ritoque FM", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["activity", "members"], "notes": "Describe a la agrupación que presenta «La Caracol» en la gira 2026 como interregional (Región de Valparaíso y Región del Biobío), lo que podría referirse a la formación ampliada de esta gira y no a la sede fundacional del colectivo (Valparaíso, según GAM). Se registran ambas versiones." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 75, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Comuna y año de fundación confirmados por una fuente institucional (GAM). Actividad reciente y sostenida confirmada hasta julio de 2026 (gira «Mujeres en Escena»). Pendiente resolver si la descripción de «colectivo interregional» (Ritoque FM) corresponde a una ampliación puntual para la gira 2026 o a una redefinición de la sede del colectivo. Sin sitio ni redes oficiales localizadas." },
+  "published": false
+}

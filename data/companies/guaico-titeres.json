@@ -1,0 +1,21 @@
+{
+  "slug": "guaico-titeres", "type": "company",
+  "name": "Guaico Títeres", "legal_name": null,
+  "description_md": "Compañía familiar de teatro tradicional de títeres de educación intercultural mapuche, con casa taller en el cerro Playa Ancha de Valparaíso.",
+  "commune": "valparaiso", "other_communes": [],
+  "disciplines": ["titeres"], "audiences": ["infantil", "familiar", "adulto"],
+  "founded_year": null, "status": "activa", "last_activity_at": "2025-03-01",
+  "members": [], "members_text": [],
+  "works": [], "venues": [], "place": null,
+  "email": "guaicotiteres@gmail.com", "contact_authorized": true, "website": "https://guaicotiteres.com/",
+  "social": { "instagram": "https://www.instagram.com/guaicotiteres/", "facebook": "https://www.facebook.com/guaico.titeres", "tiktok": null, "youtube": "https://www.youtube.com/user/guaicotiteres" },
+  "trajectory_md": "Es una compañía familiar de teatro de educación intercultural que se especializa en la transmisión de la cosmovisión mapuche debido a la pertenencia de sus integrantes a ese pueblo originario. Desarrollan diversas técnicas de manipulación de personajes (varilla, mesa, guante, marottes, máscaras), aprendidas por herencia familiar y perfeccionadas en instancias como el Teatromuseo del Títere y el Payaso de Valparaíso y La Baika (Barcelona), según su ficha SIGPA. Incorporan la educación a través del juego como experiencia viva destinada a niños, niñas, profesores, madres, padres y comunidad; promueven el reconocimiento de la identidad del pueblo mapuche e incorporan danzas tradicionales (choyke purrun). Realizan obras de teatro de títeres y varieté intercultural en giras y festivales nacionales e internacionales, centros culturales, plazas públicas, teatros, jardines, colegios y eventos particulares. Su casa taller está en el cerro Playa Ancha, Valparaíso (registro SIGPA CC6995, 8 de marzo de 2023).",
+  "recognitions": [], "funding_awards": [], "festivals": [],
+  "media": [], "media_candidates": [], "series": [], "tags": [],
+  "sources": [
+    { "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf", "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso (ficha Compañía Guaico Títeres, p. 7)", "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "trajectory", "discipline", "email", "social"], "notes": "Catálogo 2025, publicado en patrimonioinmaterial.gob.cl. Texto extraído directamente del PDF oficial; las fotografías del catálogo son crédito de una integrante o colaboradora de Guaico Títeres. No indica comuna de forma explícita." },
+    { "url": "https://www.sigpa.cl/ficha-colectivo/guaico-titeres", "title": "SIGPA — Guaico Títeres", "publisher": "Servicio Nacional del Patrimonio Cultural (SIGPA)", "type": "oficial", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["commune", "trajectory"], "notes": "Registro SIGPA CC6995, fecha de registro 08-03-2023. Confirma comuna Valparaíso (cerro Playa Ancha) y técnicas de manipulación de títeres; no entrega nombres individuales de integrantes." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 73, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Dos fuentes nivel 1 independientes (catálogo oficial 2025 y ficha SIGPA) confirman existencia y comuna. Falta: año de fundación, nombres de integrantes, y confirmación de actividad dentro de los últimos 12 meses (el sitio guaicotiteres.com no pudo abrirse el 2026-09-05, error de servidor)." },
+  "published": false
+}

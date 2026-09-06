@@ -1,0 +1,21 @@
+{
+  "slug": "titeres-humedal-rio-maipo", "type": "company",
+  "name": "Títeres Humedal Río Maipo", "legal_name": null,
+  "description_md": "Compañía de teatro de títeres de material reciclado dedicada a la educación ambiental, ligada al Humedal Río Maipo, en el límite entre las comunas de San Antonio y Santo Domingo. Dirigida por Eduardo Romero.",
+  "commune": "santo-domingo", "other_communes": ["san-antonio"],
+  "disciplines": ["titeres"], "audiences": ["todo-publico"],
+  "founded_year": null, "status": "desconocido", "last_activity_at": "2021-06-15",
+  "members": [], "members_text": ["Eduardo Romero (director ejecutivo)"],
+  "works": [], "venues": [], "place": null,
+  "email": null, "contact_authorized": false, "website": null,
+  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "trajectory_md": "Compañía de títeres hecha con material reciclado cuya misión declarada es aportar a la educación ambiental y al respeto por la naturaleza a través del teatro de títeres, vinculada al Humedal Río Maipo (desembocadura del río Maipo, entre San Antonio y Santo Domingo, Santuario de la Naturaleza desde enero de 2020). Su director ejecutivo, Eduardo Romero, fue entrevistado por ChilenaFM de San Antonio. El proyecto más reciente documentado es un cortometraje documental, «Del Río Maipo: inicio a su fin», exhibido el 15 de junio de 2021 a través de redes sociales, sobre flora y fauna, la problemática de la cuenca del río Maipo y la convivencia de la sociedad con el río.",
+  "recognitions": [], "funding_awards": [], "festivals": [],
+  "media": [], "media_candidates": [], "series": [], "tags": [],
+  "sources": [
+    { "url": "https://www.ivoox.com/en/entrevista-a-eduardo-romero-director-compania-audios-mp3_rf_71461265_1.html", "title": "Entrevista a Eduardo Romero, Director de la Compañía de Teatro Humedal del Río Maipo", "publisher": "ChilenaFM de San Antonio (iVoox)", "type": "prensa", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "members", "activity"], "notes": "El resumen de la entrevista ubica a la compañía en Santo Domingo (a 8 km al sur de San Antonio, junto al río Maipo), lo que difiere de la comuna «San Antonio» anotada al abrir esta tarea en la cola de investigación. La entrevista es del 15 de junio de 2021." },
+    { "url": "https://www.facebook.com/people/Compa%C3%B1ia-titeres-humedal-rio-maipo/100068390424438/", "title": "Compañia titeres humedal rio maipo", "publisher": "Compañía Títeres Humedal Río Maipo (Facebook oficial)", "type": "red-social", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence"], "notes": "Página con 205 seguidores localizada por buscador; no se abrió directamente para confirmar fecha de la última publicación (Facebook no es accesible para este asistente)." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 50, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Comuna en disputa: la entrevista a Eduardo Romero sitúa a la compañía en Santo Domingo, mientras la cola de investigación la anotaba en San Antonio (ambas comunas comparten el humedal). Confirmar comuna exacta de sede. Sin evidencia de actividad en los últimos 12 meses; la señal más reciente encontrada tiene más de cuatro años (junio de 2021). Revisar la página de Facebook directamente para confirmar vigencia." },
+  "published": false
+}

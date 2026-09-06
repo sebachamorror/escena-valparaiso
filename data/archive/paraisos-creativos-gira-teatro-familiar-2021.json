@@ -1,0 +1,24 @@
+{
+  "slug": "paraisos-creativos-gira-teatro-familiar-2021", "type": "archive_item", "title": "Paraísos Creativos — gira regional de teatro familiar (2021)",
+  "kind": "festival-historico", "date_text": "9 al 14 de noviembre de 2021",
+  "date_start": "2021-11-09", "date_end": "2021-11-14", "date_precision": "day",
+  "author": null,
+  "provenance": "Registrado a partir de la cobertura de Diario y Radio Universidad de Chile (9 de noviembre de 2021), única fuente localizada hasta ahora.",
+  "communes": ["valparaiso", "calle-larga", "villa-alemana", "san-antonio", "quilpue"],
+  "rights": "Texto e imágenes de la nota son propiedad de Diario y Radio Universidad de Chile; no se reproducen aquí, solo se describe y se cita la fuente.",
+  "description_md": "\"Paraísos Creativos: primer encuentro de educación artística en Valparaíso\" fue una breve gira regional de teatro familiar organizada por la compañía teatral La Coraje, con financiamiento del Fondo de Fomento y Desarrollo de las Artes Escénicas, convocatoria 2021, del Ministerio de las Culturas, las Artes y el Patrimonio. Llevó funciones gratuitas (con inscripción previa) a cinco comunas de la Región de Valparaíso:\n\n- 9 de noviembre, 16:00 — El Festín de la Risa, *Ayayai*, Parque Cultural de Valparaíso.\n- 9 de noviembre, 18:00 — Ludus Teatro, *Don Tilde Desmemoriado*, Parque Cultural de Valparaíso.\n- 10 de noviembre, 19:00 — La Enredadera, *Manú*, Teatro Municipal Pompeya (Villa Alemana).\n- 12 de noviembre, 19:00 — El Festín de la Risa, *Ayayai*, Centro Cultural Pedro Aguirre Cerda (Calle Larga).\n- 13 de noviembre, 12:00 — La Enredadera, *La Caracol*, Centro Cultural San Antonio.\n- 14 de noviembre, 17:00 — Ludus Teatro, *Don Tilde Desmemoriado*, Teatro Municipal Juan Bustos Ramírez (Quilpué).\n\nNo se encontraron registros de ediciones posteriores de esta gira específica ni evidencia de que se haya repetido en 2022 o años siguientes: se documenta aquí como programa puntual de 2021, no como festival vigente. Sirve como fuente para confirmar actividad y obras de Festín de la Risa, Ludus Teatro y La Enredadera, y para identificar a la compañía teatral La Coraje como organizadora (sin ficha propia todavía).",
+  "related": [
+    { "type": "company", "slug": "festin-de-la-risa" },
+    { "type": "work", "slug": "ayayai" },
+    { "type": "venue", "slug": "parque-cultural-de-valparaiso" },
+    { "type": "venue", "slug": "teatro-municipal-pompeya" },
+    { "type": "venue", "slug": "centro-cultural-san-antonio" },
+    { "type": "venue", "slug": "teatro-municipal-juan-bustos-ramirez" }
+  ],
+  "media": [],
+  "sources": [
+    { "url": "https://radio.uchile.cl/2021/11/09/companias-de-teatro-familiar-llevan-sus-producciones-a-cinco-comunas-de-la-region-de-valparaiso/", "title": "Compañías de teatro familiar llevan sus producciones a cinco comunas de la Región de Valparaíso", "publisher": "Diario y Radio Universidad de Chile", "type": "prensa", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "description"], "notes": "Única fuente localizada; detalla organizador, financiamiento y el itinerario completo con fechas, horas, compañías, obras y lugares." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 55, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Una sola fuente de prensa, sin confirmación institucional u oficial (Fondos de Cultura, convocatoria 2021, folio no localizado). Suficiente para documentar el hecho histórico, no para publicar. Pendiente: localizar el folio en fondosdecultura.cl y ficha de la compañía teatral La Coraje." },
+  "published": false
+}

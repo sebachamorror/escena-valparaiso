@@ -1,0 +1,21 @@
+{
+  "slug": "compania-de-munecos-marionautas", "type": "company",
+  "name": "Compañía de Muñecos Marionautas", "legal_name": null,
+  "description_md": "Compañía de marionetas y títeres con enfoque educativo y de entretención, dirigida por Rafael Brozzi. Con sede en Quilpué, ha recorrido escenarios de una veintena de países.",
+  "commune": "quilpue", "other_communes": [],
+  "disciplines": ["titeres"], "audiences": ["primera-infancia", "infantil", "familiar"],
+  "founded_year": null, "status": "activa", "last_activity_at": "2025-03-01",
+  "members": [], "members_text": ["Rafael Brozzi (dirección)"],
+  "works": [], "venues": [], "place": null,
+  "email": "marionautas@gmail.com", "contact_authorized": true, "website": null,
+  "social": { "instagram": "https://www.instagram.com/elmundodelostiteres/", "facebook": null, "tiktok": null, "youtube": null },
+  "trajectory_md": "Dirigida por Rafael Brozzi, quien llegó a Chile en 1994. Con tres décadas de trayectoria, ha desarrollado el arte de las marionetas y los títeres con un enfoque educativo y de entretención, buscando la interacción y participación de todo el público. Ha recorrido escenarios en una veintena de países, con giras por Latinoamérica y Europa, realizando funciones en teatros, centros educativos y en el espacio público. Actualmente habita la ciudad de Quilpué. Ofrece funciones, cumpleaños, talleres, charlas y confección y venta de títeres, con público objetivo de primera infancia, infantil y familiar, y temáticas musicales, de entretenimiento, educativas y participativas.",
+  "recognitions": [], "funding_awards": [], "festivals": [],
+  "media": [], "media_candidates": [], "series": [], "tags": [],
+  "sources": [
+    { "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf", "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso (ficha Compañía Marionautas, p. 6)", "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "trajectory", "discipline", "email"], "notes": "Catálogo 2025, publicado en patrimonioinmaterial.gob.cl. Texto extraído directamente del PDF oficial. Confirma comuna (\"Actualmente habita la ciudad de Quilpué\"), correo y teléfono de contacto público, y trayectoria." },
+    { "url": "https://www.instagram.com/elmundodelostiteres/", "title": "El Mundo de los Títeres (@elmundodelostiteres) — cuenta con ubicación pública \"Quilpué\"", "publisher": "Compañía de Muñecos Marionautas", "type": "red-social", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["commune", "existence"], "notes": "Cuenta encontrada por búsqueda web; el handle coincide exactamente con el publicado en el catálogo oficial. No se abrió directamente (Instagram no es accesible para este asistente); cuenta como nivel 1 solo para existencia y comuna, no para trayectoria." }
+  ],
+  "verification": { "status": "pendiente", "confidence_score": 75, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Fuente nivel 1 sólida (catálogo oficial 2025) con comuna explícita, coincidente con la ubicación pública de su cuenta de Instagram. Falta: año de fundación de la compañía (el catálogo solo da la trayectoria del director desde 1994), integrantes adicionales, y confirmación de actividad dentro de los últimos 12 meses." },
+  "published": false
+}

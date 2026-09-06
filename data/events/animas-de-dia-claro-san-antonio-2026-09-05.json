@@ -1,0 +1,15 @@
+{
+  "slug": "animas-de-dia-claro-san-antonio-2026-09-05", "type": "event", "title": "Ánimas de día claro",
+  "kind": "funcion", "work": null, "company": null, "organizer_text": "Compañía El Ojo Teatro",
+  "disciplines": ["teatro"], "audience": null,
+  "description_md": "Montaje de teatro costumbrista sobre la obra de Alejandro Sieveking, presentado por la Compañía El Ojo Teatro en la Sala Civita Aranda del Centro Cultural San Antonio.",
+  "price": "Gratuita", "is_free": true, "booking_url": null, "accessibility": [],
+  "occurrences": [ { "starts_at": "2026-09-05T19:00:00-04:00", "ends_at": null, "time_unknown": false, "venue": "centro-cultural-san-antonio", "place": null, "price": "Gratuita", "note": "Sala Civita Aranda, dentro del Centro Cultural San Antonio." } ],
+  "last_checked_at": "2026-09-05",
+  "media": [],
+  "sources": [
+    { "url": "https://centrocultural.sanantonio.cl/index.php/item/3100-san-antonio-da-la-bienvenida-a-septiembre-con-una-amplia-programacion-para-toda-la-familia", "title": "San Antonio da la bienvenida a septiembre con una amplia programación para toda la familia", "publisher": "Centro Cultural San Antonio / Ilustre Municipalidad de San Antonio", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "occurrences", "description"], "notes": "Confirma fecha (sábado 5 de septiembre), hora (19:00), lugar (Sala Civita Aranda) y compañía (El Ojo Teatro) de la función, y que la programación de septiembre es gratuita para la comunidad." }
+  ],
+  "verification": { "status": "verificado", "confidence_score": 78, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2026-09-06", "note": "Fuente oficial del Centro Cultural San Antonio con fecha y hora exactas. Falta documentar la Compañía El Ojo Teatro en data/companies y confirmar si el precio gratuito aplica de forma específica a esta función (se infiere de la gratuidad general declarada para la programación de septiembre)." },
+  "published": false
+}
