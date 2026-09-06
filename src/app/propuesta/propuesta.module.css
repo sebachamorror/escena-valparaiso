@@ -74,6 +74,20 @@
 .shotWrap img { display: block; width: 100%; height: auto; }
 .shotCaption { margin-top: var(--s-2); font-size: var(--t-xs); font-family: var(--mono); text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-3); }
 
+/* Isotipo QUINTA ESCENA, variantes de color por categoría de contenido */
+.logoRow { display: flex; flex-wrap: wrap; gap: var(--s-5); align-items: flex-start; }
+.logoItem { display: grid; gap: var(--s-2); justify-items: center; width: 140px; text-align: center; }
+.logoItem img { width: 100%; height: auto; }
+.logoItem figcaption { font-family: var(--mono); font-size: var(--t-xs); color: var(--ink-3); }
+
+/* Maqueta ilustrativa de redes sociales: cifras y contenido ficticios */
+.mockupGrid { display: grid; gap: var(--s-4); }
+@media (min-width: 700px) { .mockupGrid { grid-template-columns: 1fr 1.2fr; } }
+.mockupFrame { border: var(--border) solid var(--ink); border-radius: var(--r-2); overflow: hidden; box-shadow: 6px 6px 0 var(--ink); margin: 0; }
+.mockupBanner { margin: 0; background: var(--gold); color: var(--gold-ink); font-family: var(--mono); font-weight: 700; font-size: var(--t-xs); text-transform: uppercase; letter-spacing: 0.06em; text-align: center; padding: 0.5rem; border-bottom: var(--border) solid var(--ink); }
+.mockupFrame img { display: block; width: 100%; height: auto; object-fit: cover; object-position: top; }
+.mockupFrame figcaption { font-family: var(--mono); font-size: var(--t-xs); text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-3); padding: var(--s-2) var(--s-3); border-top: 1px solid var(--line); }
+
 /* Espacio para fotografía aún no producida */
 .placeholder {
   border: 1.5px dashed var(--line-strong); border-radius: var(--r-2); background: var(--paper-2);
@@ -92,7 +106,11 @@
   .pageNum { top: 0; }
   .cover { page-break-after: always; }
   .shotWrap, .placeholder, .table, .stepGrid { break-inside: avoid; }
-  .shotWrap img { max-height: 68mm; object-fit: cover; object-position: top; }
+  .shotWrap img { max-height: 60mm; object-fit: cover; object-position: top; }
+  .mockupFrame img { max-height: 68mm; }
+  .mockupFrame, .logoRow { break-inside: avoid; }
+  .logoItem { width: 62px; }
+  .logoRow { gap: var(--s-3); }
   .pageBody { gap: var(--s-3); }
   .pageBody p, .pageBody li { font-size: 0.92rem; line-height: 1.42; }
   .table th, .table td { padding: var(--s-2) var(--s-3) var(--s-2) 0; }

@@ -29,7 +29,9 @@ type Block =
   | { type: "cards"; columns: number; items: { title: string; text: string; bg?: string | null; color?: string }[] }
   | { type: "shot"; src: string; path: string; alt: string; caption: string; mockupNote?: boolean }
   | { type: "placeholder"; text: string }
-  | { type: "twoColLists"; left: { heading: string; items: string[] }; right: { heading: string; items: string[] } };
+  | { type: "twoColLists"; left: { heading: string; items: string[] }; right: { heading: string; items: string[] } }
+  | { type: "logos"; items: { src: string; label: string }[] }
+  | { type: "mockups"; items: { src: string; label: string }[] };
 
 function bgVar(bg?: string | null) {
   return bg ? `var(--${bg})` : undefined;
@@ -98,6 +100,31 @@ function Block({ block }: { block: Block }) {
         <div className={styles.placeholder}>
           <span className={styles.placeholderLabel}>Espacio para fotografía</span>
           <p className={styles.placeholderText}>{block.text}</p>
+        </div>
+      );
+    case "logos":
+      return (
+        <div className={styles.logoRow}>
+          {block.items.map((it) => (
+            <figure key={it.src} className={styles.logoItem}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={it.src} alt={`Isotipo QUINTA ESCENA — ${it.label}`} />
+              <figcaption>{it.label}</figcaption>
+            </figure>
+          ))}
+        </div>
+      );
+    case "mockups":
+      return (
+        <div className={styles.mockupGrid}>
+          {block.items.map((it) => (
+            <figure key={it.src} className={styles.mockupFrame}>
+              <p className={styles.mockupBanner}>Concepto ilustrativo</p>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={it.src} alt={`Maqueta ilustrativa: ${it.label}`} />
+              <figcaption>{it.label}</figcaption>
+            </figure>
+          ))}
         </div>
       );
     case "twoColLists":

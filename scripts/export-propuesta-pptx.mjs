@@ -185,6 +185,35 @@ function renderBlock(slide, block, y, ink, ink3) {
       slide.addText(block.text, { x: MARGIN + 0.3, y: y + 0.95, w: CONTENT_W - 0.6, h: 0.8, fontFace: F_TEXT, fontSize: 11, color: C.ink2 });
       return y + h + gap;
     }
+    case "logos": {
+      const n = block.items.length;
+      const size = 1.1;
+      const gapX = (CONTENT_W - n * size) / (n - 1 || 1);
+      block.items.forEach((it, i) => {
+        const x = MARGIN + i * (size + gapX);
+        slide.addImage({ path: path.join(ROOT, "public", it.src), x, y, w: size, h: size });
+        slide.addText(it.label, { x: x - 0.2, y: y + size + 0.05, w: size + 0.4, h: 0.4, fontFace: F_MONO, fontSize: 7.5, color: ink3, align: "center" });
+      });
+      return y + size + 0.5 + gap;
+    }
+    case "mockups": {
+      const n = block.items.length;
+      const gapX = 0.2;
+      const cw = (CONTENT_W - gapX * (n - 1)) / n;
+      let maxH = 0;
+      block.items.forEach((it, i) => {
+        const x = MARGIN + i * (cw + gapX);
+        const bannerH = 0.28;
+        slide.addShape(pptx.ShapeType.rect, { x, y, w: cw, h: bannerH, fill: { color: C.gold }, line: { color: C.ink, width: 1.25 } });
+        slide.addText("CONCEPTO ILUSTRATIVO", { x, y, w: cw, h: bannerH, fontFace: F_MONO, fontSize: 7, bold: true, color: C.goldInk, align: "center", valign: "middle" });
+        const imgH = it.src.includes("youtube") ? cw * (1066 / 1600) : cw; // proporción real de cada maqueta
+        slide.addImage({ path: path.join(ROOT, "public", it.src), x, y: y + bannerH, w: cw, h: imgH });
+        slide.addShape(pptx.ShapeType.rect, { x, y, w: cw, h: bannerH + imgH, fill: { color: "FFFFFF", transparency: 100 }, line: { color: C.ink, width: 1.5 } });
+        slide.addText(it.label.toUpperCase(), { x, y: y + bannerH + imgH + 0.05, w: cw, h: 0.25, fontFace: F_MONO, fontSize: 7, color: ink3 });
+        maxH = Math.max(maxH, bannerH + imgH + 0.3);
+      });
+      return y + maxH + gap;
+    }
     case "twoColLists": {
       const colW = (CONTENT_W - 0.3) / 2;
       const maxItems = Math.max(block.left.items.length, block.right.items.length);

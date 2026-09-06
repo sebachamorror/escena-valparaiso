@@ -1,5 +1,5 @@
 {
-  "totalPages": 30,
+  "totalPages": 31,
   "cover": {
     "eyebrow": "Fondo de Artes Escénicas · Línea Difusión Digital · Concurso 2027",
     "titleLines": ["Quinta Escena", "Propuesta de Difusión Digital"],
@@ -110,8 +110,11 @@
       "blocks": [
         { "type": "flow", "items": ["en las calles", "en los parques", "en los territorios rurales", "en los espacios comunitarios", "en los talleres", "en los viajes", "en las plazas", "en internet"] },
         { "type": "p", "text": "QUINTA ESCENA será, por tanto, un medio cultural regional, no un portal institucional. Su función será descubrir, seleccionar, producir, contextualizar, conectar y hacer circular información y contenidos relacionados con las artes escénicas." },
-        { "type": "shot", "src": "/propuesta/screenshot-home.png", "path": "/", "alt": "Portada de QUINTA ESCENA con el mapa regional y el buscador", "caption": "La portada del sitio, a modo de ejemplo.", "mockupNote": true },
-        { "type": "p", "class": "small muted", "text": "Las capturas de este documento son maquetas de la plataforma real, con el dominio **quinta-escena.cl** a modo de ejemplo: aún no está registrado, pero se confirmó su disponibilidad en NIC Chile (nic.cl) el 6 de septiembre de 2026." }
+        { "type": "logos", "items": [
+          { "src": "/propuesta/logo-companias.png", "label": "Compañías, teatros, funciones" },
+          { "src": "/propuesta/logo-podcast.png", "label": "Podcast, YouTube, Instagram, TikTok" },
+          { "src": "/propuesta/logo-editorial.png", "label": "Editorial, leyes, fondos" }
+        ] }
       ]
     },
     {
@@ -129,7 +132,7 @@
           "**Mapa regional:** representación territorial de compañías, artistas, espacios y actividades."
         ] },
         { "type": "p", "text": "La plataforma no reemplaza los canales propios de los artistas: deriva tráfico hacia ellos, facilitando el encuentro." },
-        { "type": "shot", "src": "/propuesta/screenshot-companias.png", "path": "/companias", "alt": "Directorio de compañías de teatro y artes escénicas", "caption": "Compañías y agrupaciones, filtrables por comuna." },
+        { "type": "shot", "src": "/propuesta/screenshot-companias.png", "path": "/companias", "alt": "Directorio de compañías de teatro y artes escénicas", "caption": "Compañías y agrupaciones, filtrables por comuna.", "mockupNote": true },
         { "type": "h3", "text": "Identidad visual" },
         { "type": "p", "text": "Tres tipografías de Google Fonts: **Anton** para los títulos (mayúsculas, estilo de póster), **Space Grotesk** para el texto y **Space Mono** para datos y metadatos. Base de papel y tinta con seis colores saturados que rotan por ficha (rosa, lima, oro, cian, violeta, menta), bordes gruesos y sombra dura, inspirados en la gráfica de festival." }
       ]
@@ -255,6 +258,20 @@
           { "title": "Audio", "text": "Accesibilidad y permanencia: escuchar la serie sin necesidad de mirar una pantalla.", "bg": "sky" },
           { "title": "Sitio web", "text": "Principal espacio de organización, permanencia y conexión.", "bg": "lime" }
         ] }
+      ]
+    },
+    {
+      "id": "mockups-redes",
+      "num": "—",
+      "kicker": "Identidad en redes sociales",
+      "title": "Cómo se vería la marca en Instagram y YouTube",
+      "lead": "Concepto ilustrativo de identidad visual, no cuentas reales.",
+      "blocks": [
+        { "type": "mockups", "items": [
+          { "src": "/propuesta/mockup-instagram.png", "label": "Perfil de Instagram (concepto)" },
+          { "src": "/propuesta/mockup-youtube.png", "label": "Canal de YouTube (concepto)" }
+        ] },
+        { "type": "p", "class": "small muted", "text": "**Concepto ilustrativo:** las cifras, publicaciones, compañías, obras y festivales de estas maquetas son de ejemplo; ninguna cuenta ni cifra existe todavía. Lo mismo aplica a las capturas del sitio en este documento, con el dominio de ejemplo **quinta-escena.cl** (libre, verificado en NIC Chile el 6 de septiembre de 2026)." }
       ]
     },
     {

@@ -326,3 +326,30 @@ Cuando el usuario mande actualizaciones de texto: editar `content.json` (cambio 
 
 1. Abrir el `.pptx` en Canva y confirmar que la fidelidad visual (tipografías Anton/Space Grotesk, colores, cuadros punteados) es aceptable; ajustar el generador si algo se ve mal.
 2. Si el usuario decide registrar `quinta-escena.cl`, actualizar la nota de la página 8 y evaluar si conviene mover el sitio real a ese dominio.
+
+---
+
+## Logos e integración de mockups con aviso de contenido ficticio · sesión 2026-09-06 (continuación)
+
+### Contexto
+
+El usuario agregó dos carpetas nuevas a `PDF/`: `Logos/` (tres variantes de color del isotipo QUINTA ESCENA, cada una asociada a una categoría de contenido) y `Mockups/` (maquetas de un perfil de Instagram y un canal de YouTube generadas con una herramienta de diseño). Pidió integrar ambas al documento de la propuesta.
+
+Los mockups traían cifras y contenido completamente inventados (seguidores, vistas, nombres de compañías y obras ficticias como "Compañía La Resistencia" o "Duelos de Ternura"). Esto es exactamente lo que la Regla 1 de `CLAUDE.md` prohíbe, agravado por el contexto: este documento se presenta a un fondo público, y esas cifras podían confundirse con datos reales junto a las estadísticas reales de @sebachamorro en la página de evidencia digital. Se le planteó el problema al usuario antes de proceder; eligió integrar los mockups completos pero con un aviso grande de "concepto ilustrativo".
+
+### Qué se hizo
+
+- **Logos**: las tres variantes (`logo-companias.png` rosado, `logo-podcast.png` dorado, `logo-editorial.png` celeste) se integraron como un bloque nuevo (`type: "logos"`) en la página "Quinta Escena: el medio", cada una con su categoría de contenido como pie de foto.
+- **Mockups**: se creó una página nueva ("Identidad en redes sociales", sin número de sección original, badge "—") con las dos maquetas lado a lado (`type: "mockups"`), cada una con una franja dorada "CONCEPTO ILUSTRATIVO" superpuesta antes de la imagen, y un párrafo explícito debajo aclarando que ninguna cifra, cuenta o contenido mostrado existe todavía. Se ajustó `object-position: top` en las imágenes para que se vea el encabezado del perfil (con el isotipo) en vez de recortar justo esa parte.
+- Se sacó la captura de la portada del sitio de la página "El medio" (que ya tenía las tres tarjetas de logos) porque un bug de paginación de Chromium en impresión —una `<div>` con `overflow:hidden` y `border-radius` no fragmenta bien entre páginas: en vez de moverse completa a la siguiente página, se cortaba a la mitad y dejaba una página en blanco después— hacía desbordar esa página en particular; la captura de portada no era indispensable ahí porque ya hay cuatro capturas más adelante en el documento.
+- Ambos bloques nuevos (`logos`, `mockups`) se agregaron también al generador `scripts/export-propuesta-pptx.mjs`, y se confirmó con `python-pptx` que las imágenes quedaron incrustadas (3 y 2 respectivamente) sin desbordar el alto de la diapositiva.
+- El documento pasó de 30 a 31 páginas (`content.json.totalPages`) para dar espacio a la página nueva de mockups.
+
+### Verificación
+
+`npm run typecheck`, `npm test` (13 pruebas) y `npm run build` en verde. Conteo de páginas verificado con Playwright imprimiendo a PDF: 31/31 exactos, sin desbordes ni páginas en blanco. Revisión visual en desktop, mobile y PDF de las dos páginas nuevas.
+
+### Próximos pasos
+
+1. El usuario debe confirmar si el aviso de "concepto ilustrativo" es suficiente para el criterio del fondo, o si prefiere una versión más discreta de los mockups antes de la postulación final.
+2. Si en algún momento se necesita otra imagen con `overflow:hidden` + `border-radius` cerca del límite de una página en impresión, tener presente el bug de fragmentación de Chromium documentado arriba: la salida más simple es dejar más margen de sobra en esa página, no confiar en `break-inside: avoid`.
