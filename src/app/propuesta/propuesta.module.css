@@ -9,19 +9,19 @@
 
 /* Portada */
 .cover {
-  background: var(--ink); color: var(--paper);
+  background: var(--paper); color: var(--ink);
   padding-block: var(--s-8) var(--s-7);
   border-bottom: var(--border) solid var(--ink);
 }
-.coverEyebrow { color: var(--gold); }
-.coverTitle { color: var(--paper); margin-top: var(--s-3); }
-.coverSub { font-size: var(--t-lg); color: var(--paper); opacity: 0.85; margin-top: var(--s-3); max-width: var(--measure); }
-.coverTag { font-family: Georgia, "Iowan Old Style", serif; font-style: italic; font-size: var(--t-lg); color: var(--gold); margin-top: var(--s-6); }
-.coverMeta { list-style: none; display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-2); margin-top: var(--s-6); border-top: 1px solid rgba(255,255,255,0.25); padding-top: var(--s-5); max-width: 30rem; }
+.coverEyebrow { color: var(--ink); }
+.coverTitle { color: var(--ink); margin-top: var(--s-3); }
+.coverSub { font-size: var(--t-lg); color: var(--ink-2); margin-top: var(--s-3); max-width: var(--measure); }
+.coverTag { font-family: Georgia, "Iowan Old Style", serif; font-style: italic; font-size: var(--t-lg); color: var(--ink); margin-top: var(--s-6); }
+.coverMeta { list-style: none; display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-2); margin-top: var(--s-6); border-top: 1px solid var(--line-strong); padding-top: var(--s-5); max-width: 30rem; }
 .coverMeta li { display: flex; justify-content: space-between; gap: var(--s-2) var(--s-3); font-size: var(--t-sm); }
 .coverMeta li > span, .coverMeta li > b { min-width: 0; }
 .coverMeta li > b { text-align: right; }
-.coverMeta span, .coverMeta b { font-family: var(--mono); text-transform: uppercase; letter-spacing: 0.06em; opacity: 0.7; font-weight: 400; }
+.coverMeta span, .coverMeta b { font-family: var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-3); font-weight: 400; }
 
 /* Portada: texto + mapa conceptual de cómo llega la información a la plataforma */
 .coverGrid { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-7); align-items: center; }
@@ -29,7 +29,7 @@
 .coverText { min-width: 0; }
 .conceptMap { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-3); justify-items: center; }
 .conceptMap svg { width: 100%; max-width: 380px; height: auto; }
-.conceptMapCaption { font-family: var(--mono); font-size: var(--t-xs); text-transform: uppercase; letter-spacing: 0.05em; color: var(--paper); opacity: 0.7; text-align: center; max-width: 20rem; }
+.conceptMapCaption { font-family: var(--mono); font-size: var(--t-xs); text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink-3); text-align: center; max-width: 20rem; }
 
 /* Cada página del documento */
 .page { padding-block: var(--s-7); border-bottom: 1px solid var(--line); position: relative; }

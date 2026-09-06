@@ -40,7 +40,7 @@ type ConceptNode = { label: string; bg: string | null };
 
 function conceptNodeColors(bg: string | null) {
   if (bg === null) return { fill: "var(--paper)", text: "var(--ink)", stroke: "var(--ink)" };
-  if (bg === "ink") return { fill: "var(--ink)", text: "var(--paper)", stroke: "var(--paper)" };
+  if (bg === "ink") return { fill: "var(--ink)", text: "var(--paper)", stroke: "var(--ink)" };
   return { fill: `var(--${bg})`, text: `var(--${bg}-ink)`, stroke: "var(--ink)" };
 }
 
@@ -63,7 +63,7 @@ function ConceptMap({ caption, nodes }: { caption: string; nodes: ConceptNode[] 
       <svg viewBox={`0 0 ${size} ${size}`} role="img" aria-label={caption}>
         <defs>
           <marker id="conceptArrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-            <path d="M0,0 L10,5 L0,10 z" fill="var(--paper)" />
+            <path d="M0,0 L10,5 L0,10 z" fill="var(--ink-2)" />
           </marker>
         </defs>
         {nodes.map((n, i) => {
@@ -75,7 +75,7 @@ function ConceptMap({ caption, nodes }: { caption: string; nodes: ConceptNode[] 
           const words = n.label.split(" ");
           return (
             <g key={n.label}>
-              <line x1={from.x} y1={from.y} x2={to.x} y2={to.y} stroke="var(--paper)" strokeWidth={2.5} opacity={0.8} markerEnd="url(#conceptArrow)" />
+              <line x1={from.x} y1={from.y} x2={to.x} y2={to.y} stroke="var(--ink-2)" strokeWidth={2.5} opacity={0.8} markerEnd="url(#conceptArrow)" />
               <rect x={pos.x - nodeW / 2} y={pos.y - nodeH / 2} width={nodeW} height={nodeH} rx={12} fill={fill} stroke={stroke} strokeWidth={2.5} />
               <text x={pos.x} y={pos.y} textAnchor="middle" dominantBaseline="middle" fontFamily="var(--mono)" fontWeight={700} fontSize={words.length > 1 ? 13 : 15} fill={text}>
                 {words.length > 1 ? (
