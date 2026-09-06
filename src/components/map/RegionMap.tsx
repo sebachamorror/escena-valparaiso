@@ -142,10 +142,10 @@ export function RegionMap({ counts, focusProvince, currentCommune, labels = true
       <figcaption className={styles.caption}>
         <div className={styles.legend} aria-label="Leyenda">
           <span><i style={{ background: "var(--paper-2)" }} /> sin registros</span>
-          <span><i style={{ background: "var(--sea-soft)" }} /> 1</span>
-          <span><i style={{ background: "#a9c9d1" }} /> 2 a 3</span>
-          <span><i style={{ background: "#7fb0bd" }} /> 4 o más</span>
-          {currentCommune && <span><i style={{ background: "var(--sea)" }} /> esta comuna</span>}
+          <span><i style={{ background: "var(--gold)" }} /> 1</span>
+          <span><i style={{ background: "var(--sky)" }} /> 2 a 3</span>
+          <span><i style={{ background: "var(--pink)" }} /> 4 o más</span>
+          {currentCommune && <span><i style={{ background: "var(--violet)" }} /> esta comuna</span>}
         </div>
         <span>Geometría: División Política Administrativa 2023, SUBDERE e IDE Chile, SIRGAS Chile 1:50.000, simplificada. Las islas Desventuradas (comuna de Valparaíso) no se dibujan. {DIFROL}</span>
       </figcaption>

@@ -1,22 +1,22 @@
 .figure { margin: 0; display: grid; gap: var(--s-3); }
-.svg { width: 100%; height: auto; display: block; background: var(--paper); border: 1px solid var(--line); border-radius: var(--r-2); }
-.commune { fill: var(--paper-2); stroke: var(--paper); stroke-width: 0.6; transition: fill 0.12s; cursor: pointer; }
-.c1 { fill: var(--sea-soft); }
-.c2 { fill: #a9c9d1; }
-.c3 { fill: #7fb0bd; }
-.commune:hover { fill: var(--cerro-soft); }
-.current { fill: var(--sea) !important; }
+.svg { width: 100%; height: auto; display: block; background: var(--paper); border: var(--border) solid var(--ink); border-radius: var(--r-2); }
+.commune { fill: var(--paper-2); stroke: var(--paper); stroke-width: 0.9; transition: fill 0.12s; cursor: pointer; }
+.c1 { fill: var(--gold); }
+.c2 { fill: var(--sky); }
+.c3 { fill: var(--pink); }
+.commune:hover { fill: var(--lime); }
+.current { fill: var(--violet) !important; }
 .dim { opacity: 0.35; }
-.link:focus-visible .commune, .link:focus .commune { stroke: var(--ink); stroke-width: 1.6; }
+.link:focus-visible .commune, .link:focus .commune { stroke: var(--ink); stroke-width: 2; }
 .link:focus { outline: none; }
-.provinceMesh { fill: none; stroke: var(--ink); stroke-width: 0.9; stroke-linejoin: round; pointer-events: none; }
-.outline { fill: none; stroke: var(--ink); stroke-width: 1.1; stroke-linejoin: round; pointer-events: none; }
-.label { font-family: var(--mono); font-size: 9.5px; letter-spacing: 0.08em; text-transform: uppercase; fill: var(--ink); pointer-events: none; paint-order: stroke; stroke: var(--paper); stroke-width: 3px; stroke-linejoin: round; }
+.provinceMesh { fill: none; stroke: var(--ink); stroke-width: 1.4; stroke-linejoin: round; pointer-events: none; }
+.outline { fill: none; stroke: var(--ink); stroke-width: 2; stroke-linejoin: round; pointer-events: none; }
+.label { font-family: var(--mono); font-weight: 700; font-size: 9.5px; letter-spacing: 0.08em; text-transform: uppercase; fill: var(--ink); pointer-events: none; paint-order: stroke; stroke: var(--paper); stroke-width: 3px; stroke-linejoin: round; }
 .labelSmall { font-size: 8px; }
-.inset { fill: none; stroke: var(--line-strong); stroke-width: 0.8; stroke-dasharray: 3 2; }
-.insetLabel { font-family: var(--mono); font-size: 8px; letter-spacing: 0.08em; text-transform: uppercase; fill: var(--ink-3); pointer-events: none; }
+.inset { fill: none; stroke: var(--ink); stroke-width: 1.4; stroke-dasharray: 3 2; }
+.insetLabel { font-family: var(--mono); font-weight: 700; font-size: 8px; letter-spacing: 0.08em; text-transform: uppercase; fill: var(--ink); pointer-events: none; }
 .sea { fill: var(--paper); }
 .caption { font-size: var(--t-xs); color: var(--ink-3); display: grid; gap: var(--s-1); }
-.legend { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: center; font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.04em; color: var(--ink-2); }
+.legend { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: center; font-family: var(--mono); font-weight: 700; font-size: var(--t-xs); letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink); }
 .legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
-.legend i { display: inline-block; width: 12px; height: 12px; border: 1px solid var(--line-strong); border-radius: 2px; }
+.legend i { display: inline-block; width: 12px; height: 12px; border: 1.5px solid var(--ink); border-radius: 3px; }

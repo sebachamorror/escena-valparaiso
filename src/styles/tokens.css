@@ -6,14 +6,14 @@
   color-scheme: light;
 
   /* Superficies y tinta */
-  --paper: #f7f3ec;
-  --paper-2: #efe9dc;
-  --paper-3: #e2dac8;
+  --paper: #ffffff;
+  --paper-2: #f3f3f1;
+  --paper-3: #e8e7e3;
   --ink: #14141a;
   --ink-2: #3a3a42;
   --ink-3: #6b6b74;
-  --line: #d8d0ba;
-  --line-strong: #a39c86;
+  --line: #dcdcd8;
+  --line-strong: #a8a8a2;
 
   /* Paleta de acento, en bloques de color (inspirada en la gráfica de festival) */
   --pink: #ff4fa0;
