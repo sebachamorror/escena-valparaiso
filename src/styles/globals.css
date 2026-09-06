@@ -134,3 +134,8 @@ a.chip:hover { background: var(--lime); border-color: var(--ink); }
 
 /* Visualmente amplio pero con desplazamiento horizontal propio */
 .scroll-x { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+@media print {
+  .site-masthead, .site-footer, .skip { display: none !important; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}

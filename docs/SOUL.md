@@ -46,7 +46,7 @@ QUINTA ESCENA rompe ese círculo con dos herramientas: **ir a buscar** (investig
 - **Accesibilidad:** contraste, teclado, foco visible, textos alternativos, estructura semántica, sin depender del color.
 - **Velocidad:** páginas estáticas cuando es posible, imágenes optimizadas, sin transpilar en el navegador.
 - **Evitar** el aspecto de portal institucional antiguo, el aspecto de blog genérico, la estética corporativa, la apariencia turística, el exceso de folklorismo y la estética infantil.
-- **Quinta Escena Podcast** es uno de los universos visuales internos: conserva su coral, su amarillo, su furgón y su letra dibujada, y convive con la identidad general sin imponerla.
+- **Sin temas visuales internos:** toda la plataforma, incluida la sección Quinta Escena Podcast, usa el mismo sistema de diseño (bloques de color saturados, tipografía de póster, sombra dura). El coral, el amarillo y el furgón siguen siendo la identidad de marca de la serie en su material de difusión externo (logotipo, redes, rotulado del furgón), pero la interfaz de la plataforma no reproduce un tema aparte.
 
 ## Principio de contenido
 

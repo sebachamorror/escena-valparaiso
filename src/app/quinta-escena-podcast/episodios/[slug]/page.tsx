@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
+import { PageHeader } from "@/components/layout/PageHeader";
 import { AsideBox, Block, FichaLayout } from "@/components/entity/FichaLayout";
 import { SigueExplorando } from "@/components/entity/SigueExplorando";
 import { SourceList } from "@/components/verification/SourceList";
@@ -15,7 +15,6 @@ import { disciplineName } from "@/lib/data/vocab";
 import { getArtist, getCompany, getWork } from "@/lib/queries/entities";
 import { episodeUrl, episodeUrlSlug, EPISODE_STATUS_LABEL, getEpisodeByUrlSlug, getPosta, listEpisodes } from "@/lib/queries/series";
 import { pageMetadata } from "@/lib/seo/metadata";
-import dcc from "@/components/dcc/dcc.module.css";
 
 export const dynamicParams = false;
 
@@ -50,19 +49,14 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
 
   return (
     <>
-      <div className={dcc.band}>
-        <div className={`wrap ${dcc.bandInner}`} style={{ paddingBottom: "var(--s-5)" }}>
-          <Breadcrumbs items={[{ name: "Quinta Escena Podcast", href: "/quinta-escena-podcast" }, { name: `Episodio ${e.number}`, href: episodeUrl(e) }]} />
-          <p className={dcc.kicker} style={{ marginTop: "var(--s-5)" }}>Episodio {e.number} de 7 · {e.tramo} · {EPISODE_STATUS_LABEL[e.status] ?? e.status}</p>
-          <h1 className={dcc.title} style={{ marginTop: "var(--s-2)" }}>{communeName(e.commune)}: <em>{e.narrative_axis}</em></h1>
-          <p className="lead" style={{ marginTop: "var(--s-3)", color: "inherit" }}>
-            {disciplineName(e.discipline)} en {communeName(e.commune)}{province ? `, ${province.name}` : ""}.
-            {e.title_provisional ? " Título provisional." : ""}
-          </p>
-        </div>
-      </div>
+      <div className="wrap">
+        <PageHeader
+          eyebrow={`Episodio ${e.number} de 7 · ${e.tramo} · ${EPISODE_STATUS_LABEL[e.status] ?? e.status}`}
+          title={`${communeName(e.commune)}: ${e.narrative_axis}`}
+          lead={`${disciplineName(e.discipline)} en ${communeName(e.commune)}${province ? `, ${province.name}` : ""}.${e.title_provisional ? " Título provisional." : ""}`}
+          crumbs={[{ name: "Quinta Escena Podcast", href: "/quinta-escena-podcast" }, { name: `Episodio ${e.number}`, href: episodeUrl(e) }]}
+        />
 
-      <div className="wrap" style={{ paddingTop: "var(--s-6)" }}>
         <FichaLayout
           main={
             <>

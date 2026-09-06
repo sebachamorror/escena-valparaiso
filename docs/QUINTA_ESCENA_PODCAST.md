@@ -110,6 +110,6 @@ Circuito intencional: episodio Los Andes → Hugo Hernández → The Magic Show 
 
 ## 11. Identidad visual de la serie
 
-Del logotipo y el material gráfico existente: letra dibujada a mano, coral `#F2757F` y coral oscuro `#D9525E` (logo), amarillo `#F3B01C` (furgón), crema `#FDF9F3`, arena `#F2E9DA`, tinta `#2A2320`, línea punteada de ruta con nodos. Fotografía documental: el furgón abierto con afiches y máscaras, sillas de playa, bosque, cordillera, mar.
+Del logotipo y el material gráfico existente, **fuera de la plataforma**: letra dibujada a mano, coral `#F2757F` y coral oscuro `#D9525E` (logo), amarillo `#F3B01C` (furgón), crema `#FDF9F3`, arena `#F2E9DA`, tinta `#2A2320`, línea punteada de ruta con nodos. Fotografía documental: el furgón abierto con afiches y máscaras, sillas de playa, bosque, cordillera, mar.
 
-Dentro de QUINTA ESCENA, Quinta Escena Podcast conserva coral y amarillo como colores de la serie; el resto de la plataforma usa la identidad general (Fase 2). El nombre visible de la serie es "Quinta Escena Podcast"; el subtítulo del logotipo actual ("Experiencias del teatro familiar") se conserva como descriptor de la serie.
+Dentro de QUINTA ESCENA, la interfaz de Quinta Escena Podcast usa el mismo sistema de diseño general de la plataforma (bloques de color saturados, tipografía de póster en mayúsculas, sombra dura; ver docs/SOUL.md): no tiene un tema visual aparte. El coral y el amarillo del logotipo y el furgón siguen siendo la identidad de marca de la serie en su material de difusión externo (logotipo, redes sociales, rotulado del furgón). El nombre visible de la serie es "Quinta Escena Podcast"; el subtítulo del logotipo actual ("Experiencias del teatro familiar") se conserva como descriptor de la serie.

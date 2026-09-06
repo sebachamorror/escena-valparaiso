@@ -17,7 +17,6 @@ import { episodesInCommune, episodesInProvince, getSeries, listEpisodes } from "
 import { websiteJsonLd } from "@/lib/seo/jsonld";
 import { SITE_TAGLINE } from "@/lib/site";
 import styles from "./home.module.css";
-import dcc from "@/components/dcc/dcc.module.css";
 
 export default function HomePage() {
   const artists = listArtists();
@@ -110,17 +109,17 @@ export default function HomePage() {
       </section>
 
       {/* 6. Quinta Escena Podcast */}
-      <section className={dcc.band} aria-labelledby="dcc-title">
-        <div className={`wrap ${dcc.bandInner}`}>
-          <p className={dcc.kicker}>Serie original · Temporada {series.season} · {series.status === "planificada" ? "en preparación" : series.status}</p>
-          <h2 id="dcc-title" className={dcc.title} style={{ marginTop: "var(--s-2)" }}>Quinta Escena <em>Podcast</em></h2>
-          <p className={dcc.descriptor} style={{ marginTop: "var(--s-2)" }}>{series.descriptor}</p>
-          <p className="lead" style={{ marginTop: "var(--s-4)", color: "inherit" }}>{series.subtitle}</p>
+      <section className={styles.podcastBand} aria-labelledby="podcast-title">
+        <div className="wrap">
+          <p className="eyebrow">Serie original · Temporada {series.season} · {series.status === "planificada" ? "en preparación" : series.status}</p>
+          <h2 id="podcast-title" style={{ marginTop: "var(--s-2)" }}>Quinta Escena Podcast</h2>
+          <p className="small" style={{ marginTop: "var(--s-2)", opacity: 0.85 }}>{series.descriptor}</p>
+          <p className="lead" style={{ marginTop: "var(--s-4)" }}>{series.subtitle}</p>
           <RouteStrip episodes={episodes} />
           <div style={{ display: "flex", gap: "var(--s-2)", flexWrap: "wrap", marginTop: "var(--s-5)" }}>
-            <Link href="/quinta-escena-podcast" className={`btn ${dcc.btn}`}>La serie</Link>
-            <Link href="/quinta-escena-podcast/la-posta" className={`btn ${dcc.btn}`}>La Posta</Link>
-            <Link href="/quinta-escena-podcast/protagonistas" className={`btn ${dcc.btn}`}>Protagonistas</Link>
+            <Link href="/quinta-escena-podcast" className="btn btn-primary">La serie</Link>
+            <Link href="/quinta-escena-podcast/la-posta" className="btn">La Posta</Link>
+            <Link href="/quinta-escena-podcast/protagonistas" className="btn">Protagonistas</Link>
           </div>
         </div>
       </section>

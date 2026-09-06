@@ -6,7 +6,7 @@ import { MobileMenu } from "./MobileMenu";
 
 export function Masthead() {
   return (
-    <header className={styles.masthead}>
+    <header className={`${styles.masthead} site-masthead`}>
       <div className={`wrap ${styles.bar}`}>
         <Link href="/" className={styles.brand} aria-label="QUINTA ESCENA, inicio">
           <span className={styles.brandName}><span className={styles.brandTop}>QUINTA</span><span className={styles.brandBottom}>ESCENA</span></span>

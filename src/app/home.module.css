@@ -7,6 +7,10 @@
 
 .searchBand { border-top: var(--border) solid var(--ink); border-bottom: var(--border) solid var(--ink); padding-block: var(--s-5); background: var(--gold); }
 .searchBand :global(.muted) { color: var(--gold-ink); opacity: 0.75; }
+
+.podcastBand { border-top: var(--border) solid var(--ink); border-bottom: var(--border) solid var(--ink); padding-block: var(--s-7); background: var(--pink); color: var(--pink-ink); }
+.podcastBand :global(.eyebrow) { color: inherit; }
+.podcastBand :global(.lead) { color: inherit; }
 .searchInner { display: grid; gap: var(--s-3); }
 @media (min-width: 900px) { .searchInner { grid-template-columns: 1fr 2fr; align-items: center; } }
 .quick { display: flex; flex-wrap: wrap; gap: var(--s-2); list-style: none; margin-top: var(--s-3); }

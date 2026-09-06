@@ -25,68 +25,68 @@ export default function SeriesPage() {
   const outputs = s.committed_outputs as Record<string, number | number[] | string>;
 
   return (
-    <>
-      <div className={dcc.band}>
-        <div className={`wrap ${dcc.bandInner}`}>
-          <p className={dcc.kicker}>Serie original de QUINTA ESCENA · Temporada {s.season} · {s.status === "planificada" ? "en preparación" : s.status}</p>
-          <h1 className={dcc.title} style={{ marginTop: "var(--s-3)" }}>Quinta Escena <em>Podcast</em></h1>
-          <p className={dcc.descriptor} style={{ marginTop: "var(--s-2)" }}>{s.descriptor}</p>
-          <p className="lead" style={{ marginTop: "var(--s-4)", color: "inherit" }}>{s.subtitle}</p>
-          <RouteStrip episodes={episodes} />
-          <ol className={dcc.structure} style={{ marginTop: "var(--s-5)" }} aria-label="Estructura de cada capítulo">
-            {s.episode_structure.map((x) => <li key={x}>{x}</li>)}
-          </ol>
+    <div className="wrap">
+      <PageHeader
+        eyebrow="Serie original de QUINTA ESCENA"
+        title="Quinta Escena Podcast"
+        lead={s.subtitle}
+        crumbs={[{ name: "Quinta Escena Podcast", href: "/quinta-escena-podcast" }]}
+      >
+        <p className="small muted" style={{ marginTop: "var(--s-3)" }}>
+          Temporada {s.season} · {s.status === "planificada" ? "en preparación" : s.status} · {s.descriptor}
+        </p>
+        <RouteStrip episodes={episodes} />
+        <ol className={dcc.structure} style={{ marginTop: "var(--s-5)" }} aria-label="Estructura de cada capítulo">
+          {s.episode_structure.map((x) => <li key={x}>{x}</li>)}
+        </ol>
+      </PageHeader>
+
+      <section className="section" aria-labelledby="que-es">
+        <div className="grid-2" style={{ alignItems: "start" }}>
+          <div>
+            <SectionHead id="que-es" title="Qué es" />
+            <Markdown className="prose" text={s.description_md} />
+            <p className="prose">Disciplinas de las personas protagonistas: {s.disciplines.map(disciplineName).join(", ").toLowerCase()}. Lenguajes del juglar: {s.series_tags.map(disciplineName).join(" y ").toLowerCase()}.</p>
+            <ul className="chips" style={{ marginTop: "var(--s-4)" }}>
+              {s.campaign_questions.map((q) => <li key={q} className="chip" style={{ textTransform: "none", letterSpacing: 0 }}>{q}</li>)}
+            </ul>
+          </div>
+          <div>
+            <SectionHead title="El dispositivo" />
+            <dl className="dl">
+              <dt>Molière</dt><dd>{s.device.vehicle}</dd>
+              <dt>La Caja</dt><dd>{s.device.box}</dd>
+              <dt>Sillas</dt><dd>{s.device.chairs}</dd>
+            </dl>
+          </div>
         </div>
-      </div>
+      </section>
 
-      <div className="wrap">
-        <section className="section" aria-labelledby="que-es">
-          <div className="grid-2" style={{ alignItems: "start" }}>
-            <div>
-              <SectionHead id="que-es" title="Qué es" />
-              <Markdown className="prose" text={s.description_md} />
-              <p className="prose">Disciplinas de las personas protagonistas: {s.disciplines.map(disciplineName).join(", ").toLowerCase()}. Lenguajes del juglar: {s.series_tags.map(disciplineName).join(" y ").toLowerCase()}.</p>
-              <ul className="chips" style={{ marginTop: "var(--s-4)" }}>
-                {s.campaign_questions.map((q) => <li key={q} className="chip" style={{ textTransform: "none", letterSpacing: 0 }}>{q}</li>)}
-              </ul>
-            </div>
-            <div>
-              <SectionHead title="El dispositivo" />
-              <dl className="dl">
-                <dt>Molière</dt><dd>{s.device.vehicle}</dd>
-                <dt>La Caja</dt><dd>{s.device.box}</dd>
-                <dt>Sillas</dt><dd>{s.device.chairs}</dd>
-              </dl>
-            </div>
-          </div>
-        </section>
+      <section className="section" aria-labelledby="episodios">
+        <SectionHead id="episodios" title="Siete capítulos" sub="De la cordillera al mar. Partida y retorno desde San Antonio." action={<Link href="/quinta-escena-podcast/protagonistas" className="link-more">Protagonistas</Link>} />
+        <div className="grid-3">
+          {episodes.map((e) => <EpisodeCard key={e.slug} e={e} protagonistName={e.protagonist_artist ? getArtist(e.protagonist_artist)?.name : null} />)}
+        </div>
+      </section>
 
-        <section className="section" aria-labelledby="episodios">
-          <SectionHead id="episodios" title="Siete capítulos" sub="De la cordillera al mar. Partida y retorno desde San Antonio." action={<Link href="/quinta-escena-podcast/protagonistas" className="link-more">Protagonistas</Link>} />
-          <div className="grid-3">
-            {episodes.map((e) => <EpisodeCard key={e.slug} e={e} protagonistName={e.protagonist_artist ? getArtist(e.protagonist_artist)?.name : null} />)}
-          </div>
-        </section>
+      <section className="section" aria-labelledby="posta">
+        <SectionHead id="posta" title="La Posta" sub="Un objeto y un mensaje viajan en Molière hasta el siguiente territorio." action={<Link href="/quinta-escena-podcast/la-posta" className="link-more">Las siete entregas</Link>} />
+        <PostaTimeline handovers={posta.handovers.slice(0, 3)} />
+        <p><Link href="/quinta-escena-podcast/la-posta" className="btn btn-sm">Ver la posta completa</Link></p>
+      </section>
 
-        <section className="section" aria-labelledby="posta">
-          <SectionHead id="posta" title="La Posta" sub="Un objeto y un mensaje viajan en Molière hasta el siguiente territorio." action={<Link href="/quinta-escena-podcast/la-posta" className="link-more">Las siete entregas</Link>} />
-          <PostaTimeline handovers={posta.handovers.slice(0, 3)} />
-          <p><Link href="/quinta-escena-podcast/la-posta" className="btn btn-sm">Ver la posta completa</Link></p>
-        </section>
-
-        <section className="section" aria-labelledby="compromisos">
-          <SectionHead id="compromisos" title="Lo que la serie compromete" sub="Fuente: propuesta de difusión vigente." />
-          <dl className="dl">
-            <dt>Capítulos</dt><dd>{String(outputs.episodes)} de {Array.isArray(outputs.episode_duration_min) ? outputs.episode_duration_min.join(" a ") : ""} minutos</dd>
-            <dt>Cápsulas</dt><dd>al menos {String(outputs.capsules_min)} verticales</dd>
-            <dt>Audio</dt><dd>{String(outputs.audio_versions)} versiones</dd>
-            <dt>Posta</dt><dd>{String(outputs.posta_handovers)} entregas, {String(outputs.objects_in_moliere)} objetos incorporados a Molière</dd>
-            <dt>Accesibilidad</dt><dd>subtítulos en el {String(outputs.subtitles_pct)}% de los contenidos; lengua de señas en al menos {String(outputs.sign_language_episodes_min)} capítulos</dd>
-            <dt>Plataforma</dt><dd>operativa al menos {String(outputs.platform_min_years_after)} años después de terminado el proyecto</dd>
-          </dl>
-          <div style={{ marginTop: "var(--s-6)" }}><SourceList sources={s.sources} id="fuentes-serie" /></div>
-        </section>
-      </div>
-    </>
+      <section className="section" aria-labelledby="compromisos">
+        <SectionHead id="compromisos" title="Lo que la serie compromete" sub="Fuente: propuesta de difusión vigente." />
+        <dl className="dl">
+          <dt>Capítulos</dt><dd>{String(outputs.episodes)} de {Array.isArray(outputs.episode_duration_min) ? outputs.episode_duration_min.join(" a ") : ""} minutos</dd>
+          <dt>Cápsulas</dt><dd>al menos {String(outputs.capsules_min)} verticales</dd>
+          <dt>Audio</dt><dd>{String(outputs.audio_versions)} versiones</dd>
+          <dt>Posta</dt><dd>{String(outputs.posta_handovers)} entregas, {String(outputs.objects_in_moliere)} objetos incorporados a Molière</dd>
+          <dt>Accesibilidad</dt><dd>subtítulos en el {String(outputs.subtitles_pct)}% de los contenidos; lengua de señas en al menos {String(outputs.sign_language_episodes_min)} capítulos</dd>
+          <dt>Plataforma</dt><dd>operativa al menos {String(outputs.platform_min_years_after)} años después de terminado el proyecto</dd>
+        </dl>
+        <div style={{ marginTop: "var(--s-6)" }}><SourceList sources={s.sources} id="fuentes-serie" /></div>
+      </section>
+    </div>
   );
 }

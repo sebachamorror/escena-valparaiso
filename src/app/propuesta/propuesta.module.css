@@ -1,0 +1,97 @@
+/* Propuesta de Difusión Digital 2027: mismo sistema de diseño del sitio,
+   compuesto como documento paginado (pantalla y, al imprimir, PDF). */
+
+.toolbar {
+  position: sticky; top: 0; z-index: 40; background: var(--paper);
+  border-bottom: var(--border) solid var(--ink); padding-block: var(--s-3);
+}
+.toolbarInner { display: flex; align-items: center; justify-content: space-between; gap: var(--s-3); flex-wrap: wrap; }
+
+/* Portada */
+.cover {
+  background: var(--ink); color: var(--paper);
+  padding-block: var(--s-8) var(--s-7);
+  border-bottom: var(--border) solid var(--ink);
+}
+.coverEyebrow { color: var(--gold); }
+.coverTitle { color: var(--paper); margin-top: var(--s-3); }
+.coverSub { font-size: var(--t-lg); color: var(--paper); opacity: 0.85; margin-top: var(--s-3); max-width: var(--measure); }
+.coverTag { font-family: Georgia, "Iowan Old Style", serif; font-style: italic; font-size: var(--t-lg); color: var(--gold); margin-top: var(--s-6); }
+.coverMeta { list-style: none; display: grid; gap: var(--s-2); margin-top: var(--s-6); border-top: 1px solid rgba(255,255,255,0.25); padding-top: var(--s-5); max-width: 30rem; }
+.coverMeta li { display: flex; justify-content: space-between; gap: var(--s-3); font-size: var(--t-sm); }
+.coverMeta dt, .coverMeta b { font-family: var(--mono); text-transform: uppercase; letter-spacing: 0.06em; opacity: 0.7; font-weight: 400; }
+
+/* Cada página del documento */
+.page { padding-block: var(--s-7); border-bottom: 1px solid var(--line); position: relative; }
+.pageNum { position: absolute; top: var(--s-7); right: var(--gutter); font-family: var(--mono); font-size: var(--t-xs); color: var(--ink-3); }
+.pageKicker { display: flex; align-items: baseline; gap: var(--s-3); }
+.pageBadge {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 2.2rem; height: 2.2rem; padding-inline: 0.4rem;
+  background: var(--gold); color: var(--gold-ink); border: var(--border) solid var(--ink); border-radius: var(--r-pill);
+  font-family: var(--mono); font-weight: 700; font-size: var(--t-sm);
+}
+.pageTitle { margin-top: var(--s-3); }
+.pageLead { margin-top: var(--s-3); }
+.pageBody { margin-top: var(--s-5); display: grid; gap: var(--s-5); max-width: var(--measure); }
+.pageBody :global(p) { margin: 0; }
+.pageBody h3 { margin-top: var(--s-2); }
+.twoCol { display: grid; gap: var(--s-6); max-width: none; }
+@media (min-width: 800px) { .twoCol { grid-template-columns: 1fr 1fr; } }
+
+.quote { font-family: Georgia, "Iowan Old Style", serif; font-style: italic; font-size: var(--t-lg); border-left: var(--border) solid var(--gold); padding-left: var(--s-4); }
+
+/* Listas simples con viñeta cuadrada */
+.list { list-style: none; display: grid; gap: var(--s-2); }
+.list li { padding-left: var(--s-4); position: relative; }
+.list li::before { content: ""; position: absolute; left: 0; top: 0.5em; width: 7px; height: 7px; background: var(--ink); }
+
+/* Flujo con flechas (persona → historia → curiosidad…) */
+.flow { list-style: none; display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; }
+.flow li { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.06em; text-transform: uppercase; padding: 0.35rem 0.8rem; border: 1.5px solid var(--ink); border-radius: var(--r-pill); }
+.flow li.accent { background: var(--gold); border-color: var(--ink); }
+
+/* Cinco movimientos / cronograma: tarjetas en bloque de color */
+.stepGrid { display: grid; gap: var(--s-4); }
+@media (min-width: 700px) { .stepGrid { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); } }
+.step { border: var(--border) solid var(--ink); border-radius: var(--r-2); padding: var(--s-4); box-shadow: 5px 5px 0 var(--ink); }
+.stepTitle { font-family: var(--display); font-size: 1.2rem; }
+.stepChannel { font-family: var(--mono); font-size: var(--t-xs); text-transform: uppercase; letter-spacing: 0.06em; opacity: 0.75; margin-top: var(--s-2); }
+
+/* Tablas */
+.table { width: 100%; border-collapse: collapse; font-size: var(--t-sm); }
+.table th, .table td { text-align: left; padding: var(--s-3) var(--s-4) var(--s-3) 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+.table th { font-family: var(--mono); font-size: var(--t-xs); text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-3); border-bottom: var(--border) solid var(--ink); }
+.table tr:last-child td { border-bottom: none; }
+
+/* Captura de la plataforma, con marco de navegador */
+.shotWrap { border: var(--border) solid var(--ink); border-radius: var(--r-2); overflow: hidden; box-shadow: 6px 6px 0 var(--ink); background: var(--paper); }
+.shotBar { display: flex; align-items: center; gap: var(--s-2); padding: 0.55rem var(--s-4); background: var(--paper-2); border-bottom: 1.5px solid var(--ink); }
+.shotDots { display: flex; gap: 0.3rem; }
+.shotDots span { width: 9px; height: 9px; border-radius: 50%; background: var(--line-strong); display: block; }
+.shotUrl { font-family: var(--mono); font-size: var(--t-xs); color: var(--ink-3); background: var(--paper); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 0.15rem 0.7rem; }
+.shotWrap img { display: block; width: 100%; height: auto; }
+.shotCaption { margin-top: var(--s-2); font-size: var(--t-xs); font-family: var(--mono); text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-3); }
+
+/* Espacio para fotografía aún no producida */
+.placeholder {
+  border: 1.5px dashed var(--line-strong); border-radius: var(--r-2); background: var(--paper-2);
+  padding: var(--s-6) var(--s-5); display: grid; gap: var(--s-2); justify-items: start; aspect-ratio: 21 / 9;
+  align-content: center;
+}
+.placeholderLabel { font-family: var(--mono); font-size: var(--t-xs); font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-3); }
+.placeholderText { font-size: var(--t-sm); color: var(--ink-2); max-width: 56ch; }
+
+.closing { background: var(--pink); color: var(--pink-ink); }
+.closing .pageLead, .closing .quote { color: inherit; border-left-color: var(--ink); }
+
+@media print {
+  .toolbar { display: none !important; }
+  .page { border-bottom: none; page-break-before: always; padding-block: 0; }
+  .cover { page-break-after: always; }
+  .shotWrap, .placeholder, .table, .stepGrid { break-inside: avoid; }
+  .shotWrap img { max-height: 85mm; object-fit: cover; object-position: top; }
+  .pageBody { gap: var(--s-4); }
+  .table th, .table td { padding: var(--s-2) var(--s-3) var(--s-2) 0; }
+  @page { size: A4; margin: 14mm 14mm; }
+}

@@ -1,7 +1,7 @@
 /* QUINTA ESCENA — tokens de diseño.
    Base editorial (papel/tinta) + una paleta de acento saturada en bloques de
-   color, tipografía de póster para titulares. Quinta Escena Podcast conserva su
-   propio coral, amarillo y crema (docs/QUINTA_ESCENA_PODCAST.md §11). */
+   color, tipografía de póster para titulares. Un solo sistema para toda la
+   plataforma, incluida Quinta Escena Podcast (docs/SOUL.md). */
 :root {
   color-scheme: light;
 
@@ -51,14 +51,6 @@
   --warn-soft: var(--gold);
   --bad: #b5273a;
   --bad-soft: #f7d3d8;
-
-  /* Quinta Escena Podcast (docs/QUINTA_ESCENA_PODCAST.md §11) */
-  --dcc-coral: #f2757f;
-  --dcc-coral-dark: #d9525e;
-  --dcc-yellow: #f3b01c;
-  --dcc-cream: #fdf9f3;
-  --dcc-sand: #f2e9da;
-  --dcc-ink: #2a2320;
 
   /* Tipografía: display de póster (next/font/google, cargada en layout.tsx) */
   --display: var(--font-display), "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
