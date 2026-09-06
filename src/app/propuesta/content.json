@@ -271,7 +271,8 @@
           { "src": "/propuesta/mockup-instagram.png", "label": "Perfil de Instagram (concepto)" },
           { "src": "/propuesta/mockup-youtube.png", "label": "Canal de YouTube (concepto)" }
         ] },
-        { "type": "p", "class": "small muted", "text": "**Concepto ilustrativo:** las cifras, publicaciones, compañías, obras y festivales de estas maquetas son de ejemplo; ninguna cuenta ni cifra existe todavía. Lo mismo aplica a las capturas del sitio en este documento, con el dominio de ejemplo **quinta-escena.cl** (libre, verificado en NIC Chile el 6 de septiembre de 2026)." }
+        { "type": "p", "class": "small muted", "text": "**Concepto ilustrativo:** las cifras, publicaciones, compañías, obras y festivales de estas maquetas son de ejemplo; ninguna cuenta ni cifra existe todavía. Lo mismo aplica a las capturas del sitio en este documento, con el dominio de ejemplo **quinta-escena.cl** (libre, verificado en NIC Chile el 6 de septiembre de 2026)." },
+        { "type": "p", "text": "El sitio web ya está en construcción y puede visitarse, en su versión de trabajo en curso, en [escena-valparaiso.vercel.app](https://escena-valparaiso.vercel.app/)." }
       ]
     },
     {

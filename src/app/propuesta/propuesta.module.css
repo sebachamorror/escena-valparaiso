@@ -81,11 +81,11 @@
 .logoItem figcaption { font-family: var(--mono); font-size: var(--t-xs); color: var(--ink-3); }
 
 /* Maqueta ilustrativa de redes sociales: cifras y contenido ficticios */
-.mockupGrid { display: grid; gap: var(--s-4); }
+.mockupGrid { display: grid; gap: var(--s-4); align-items: start; }
 @media (min-width: 700px) { .mockupGrid { grid-template-columns: 1fr 1.2fr; } }
-.mockupFrame { border: var(--border) solid var(--ink); border-radius: var(--r-2); overflow: hidden; box-shadow: 6px 6px 0 var(--ink); margin: 0; }
+.mockupFrame { border: var(--border) solid var(--ink); border-radius: var(--r-2); overflow: hidden; box-shadow: 6px 6px 0 var(--ink); margin: 0; background: var(--paper); }
 .mockupBanner { margin: 0; background: var(--gold); color: var(--gold-ink); font-family: var(--mono); font-weight: 700; font-size: var(--t-xs); text-transform: uppercase; letter-spacing: 0.06em; text-align: center; padding: 0.5rem; border-bottom: var(--border) solid var(--ink); }
-.mockupFrame img { display: block; width: 100%; height: auto; object-fit: cover; object-position: top; }
+.mockupFrame img { display: block; width: 100%; height: auto; }
 .mockupFrame figcaption { font-family: var(--mono); font-size: var(--t-xs); text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-3); padding: var(--s-2) var(--s-3); border-top: 1px solid var(--line); }
 
 /* Espacio para fotografía aún no producida */
@@ -107,7 +107,8 @@
   .cover { page-break-after: always; }
   .shotWrap, .placeholder, .table, .stepGrid { break-inside: avoid; }
   .shotWrap img { max-height: var(--shot-h, 60mm); object-fit: cover; object-position: top; }
-  .mockupFrame img { max-height: 68mm; }
+  .mockupGrid { grid-template-columns: 1fr 1.2fr; align-items: end; }
+  .mockupFrame img { width: 100%; height: 68mm; object-fit: contain; }
   .mockupFrame, .logoRow { break-inside: avoid; }
   .logoItem { width: 62px; }
   .logoRow { gap: var(--s-3); }

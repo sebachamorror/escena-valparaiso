@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import type { CSSProperties } from "react";
+import type { CSSProperties, ReactNode } from "react";
 import { pageMetadata } from "@/lib/seo/metadata";
 import { PrintButton } from "./PrintButton";
 import styles from "./propuesta.module.css";
@@ -14,10 +14,26 @@ export const metadata: Metadata = pageMetadata({
 
 const TOTAL_PAGES = content.totalPages;
 
-/** "**negrita**" -> <b>negrita</b>, sin más sintaxis. Mantiene el JSON como texto plano editable. */
+/** "**negrita**" -> <b>negrita</b> y "[texto](url)" -> <a>texto</a>. Mantiene el JSON como texto plano editable. */
 function Rich({ text }: { text: string }) {
-  const parts = text.split(/\*\*(.+?)\*\*/g);
-  return <>{parts.map((part, i) => (i % 2 === 1 ? <b key={i}>{part}</b> : part))}</>;
+  const regex = /\*\*(.+?)\*\*|\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g;
+  const nodes: ReactNode[] = [];
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+  let key = 0;
+  while ((match = regex.exec(text))) {
+    if (match.index > lastIndex) nodes.push(text.slice(lastIndex, match.index));
+    if (match[1] !== undefined) {
+      nodes.push(<b key={key++}>{match[1]}</b>);
+    } else {
+      nodes.push(
+        <a key={key++} href={match[3]} target="_blank" rel="noopener noreferrer">{match[2]}</a>
+      );
+    }
+    lastIndex = regex.lastIndex;
+  }
+  if (lastIndex < text.length) nodes.push(text.slice(lastIndex));
+  return <>{nodes}</>;
 }
 
 type Block =
