@@ -8,7 +8,7 @@
   "communes": ["valparaiso"], "video_url": null, "dossier_url": null, "venues": [],
   "history_text": ["2024: gira por Portugal, España, Italia y Francia", "2025: en circulación"],
   "media": [], "tags": [],
-  "sources": [ { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 2", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "history", "synopsis"], "notes": "URL pendiente." } ],
+  "sources": [ { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 2", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "history", "synopsis"], "notes": "URL pendiente." } ],
   "verification": { "status": "pendiente", "confidence_score": 55, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Confirmar créditos y año de estreno con la compañía." },
   "published": false
 }

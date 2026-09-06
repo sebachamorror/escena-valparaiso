@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const e = getEpisodeByUrlSlug(slug);
   if (!e) return {};
   return pageMetadata({
-    title: `Episodio ${e.number}: ${communeName(e.commune)} · ${e.narrative_axis} · De Cuento en Cuento`,
+    title: `Episodio ${e.number}: ${communeName(e.commune)} · ${e.narrative_axis} · Quinta Escena Podcast`,
     description: `${e.tramo}. ${disciplineName(e.discipline)} en ${communeName(e.commune)}, ${getProvince(e.province)?.name ?? ""}. Locación natural: ${e.natural_location ?? "por definir"}.`,
     path: episodeUrl(e),
   });
@@ -52,7 +52,7 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
     <>
       <div className={dcc.band}>
         <div className={`wrap ${dcc.bandInner}`} style={{ paddingBottom: "var(--s-5)" }}>
-          <Breadcrumbs items={[{ name: "De Cuento en Cuento", href: "/de-cuento-en-cuento" }, { name: `Episodio ${e.number}`, href: episodeUrl(e) }]} />
+          <Breadcrumbs items={[{ name: "Quinta Escena Podcast", href: "/quinta-escena-podcast" }, { name: `Episodio ${e.number}`, href: episodeUrl(e) }]} />
           <p className={dcc.kicker} style={{ marginTop: "var(--s-5)" }}>Episodio {e.number} de 7 · {e.tramo} · {EPISODE_STATUS_LABEL[e.status] ?? e.status}</p>
           <h1 className={dcc.title} style={{ marginTop: "var(--s-2)" }}>{communeName(e.commune)}: <em>{e.narrative_axis}</em></h1>
           <p className="lead" style={{ marginTop: "var(--s-3)", color: "inherit" }}>
@@ -106,8 +106,8 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
                 <ul style={{ listStyle: "none", display: "grid", gap: "var(--s-2)", fontSize: "var(--t-sm)" }}>
                   {prev && <li>← <Link href={episodeUrl(prev)}>Ep. {prev.number}: {communeName(prev.commune)}</Link></li>}
                   {next && <li>→ <Link href={episodeUrl(next)}>Ep. {next.number}: {communeName(next.commune)}</Link></li>}
-                  <li><Link href="/de-cuento-en-cuento">Todos los capítulos</Link></li>
-                  <li><Link href="/de-cuento-en-cuento/la-posta">La Posta</Link></li>
+                  <li><Link href="/quinta-escena-podcast">Todos los capítulos</Link></li>
+                  <li><Link href="/quinta-escena-podcast/la-posta">La Posta</Link></li>
                 </ul>
               </AsideBox>
               <AsideBox title="Territorio">

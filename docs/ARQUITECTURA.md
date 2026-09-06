@@ -22,7 +22,7 @@ Estado: **propuesta para revisión conceptual** (Ciclo 2). No se implementa hast
 ## 2. Estructura de carpetas
 
 ```
-escena-valparaiso/
+quinta-escena/
 ├── CLAUDE.md
 ├── README.md
 ├── docs/
@@ -30,7 +30,7 @@ escena-valparaiso/
 ├── data/
 │   ├── territories/            region.json · provincias.json · comunas.json
 │   ├── schemas/                *.schema.json · vocabularios.json
-│   ├── de-cuento-en-cuento/    serie.json · episodios.json · posta.json
+│   ├── quinta-escena-podcast/    serie.json · episodios.json · posta.json
 │   ├── companies/ artists/ works/ venues/ events/ calls/ editorial/ archive/
 │   └── research_queue.json
 ├── scripts/
@@ -56,7 +56,7 @@ escena-valparaiso/
 │   │   │   ├── oficios/[slug]/
 │   │   │   ├── formacion/[slug]/
 │   │   │   ├── archivo/[slug]/
-│   │   │   ├── de-cuento-en-cuento/          portada · episodios/[n] · la-posta · protagonistas
+│   │   │   ├── quinta-escena-podcast/          portada · episodios/[n] · la-posta · protagonistas
 │   │   │   └── participa/                    ¿A quién deberíamos conocer en tu territorio?
 │   │   ├── admin/              panel (protegido)
 │   │   ├── api/                revalidación, búsqueda, sitemap dinámico
@@ -90,7 +90,7 @@ escena-valparaiso/
 ## 3. Navegación principal
 
 ```
-ESCENA VALPARAÍSO
+QUINTA ESCENA
 │
 ├── CARTELERA            /cartelera            hoy · semana · mes · comuna · provincia · disciplina · público
 ├── COMPAÑÍAS            /companias            listado + ficha
@@ -102,11 +102,11 @@ ESCENA VALPARAÍSO
 ├── OFICIOS              /oficios              17 oficios escénicos
 ├── FORMACIÓN            /formacion            talleres, escuelas, cursos, recursos
 ├── ARCHIVO              /archivo              memoria
-└── DE CUENTO EN CUENTO  /de-cuento-en-cuento  serie original
+└── QUINTA ESCENA PODCAST  /quinta-escena-podcast  serie original
      + transversales: /buscar · /mapa · /espacios · /participa
 ```
 
-En móvil: barra superior con logotipo, buscar y menú. Menú a pantalla completa con las 11 secciones más "Mapa" y "Participa". Las secciones más usadas (Cartelera, Mapa, Buscar, De Cuento en Cuento) tienen acceso directo desde la portada.
+En móvil: barra superior con logotipo, buscar y menú. Menú a pantalla completa con las 11 secciones más "Mapa" y "Participa". Las secciones más usadas (Cartelera, Mapa, Buscar, Quinta Escena Podcast) tienen acceso directo desde la portada.
 
 ## 4. Portada
 
@@ -117,7 +117,7 @@ Orden de bloques, con aire entre ellos (no veinte módulos):
 3. **Qué está pasando** (cartelera próxima, 6 eventos).
 4. **Conoce a quienes lo hacen** (compañías y artistas destacados, 6 fichas).
 5. **Explora por territorio** (mapa regional reducido + 8 provincias).
-6. **De Cuento en Cuento** (episodio actual + La Posta).
+6. **Quinta Escena Podcast** (episodio actual + La Posta).
 7. **Editorial** (3 publicaciones).
 8. **Convocatorias abiertas** (3).
 9. **Mapa** (acceso al mapa completo).
@@ -152,7 +152,7 @@ La portada orienta: *qué ver · a quién conocer · dónde ocurre · qué leer 
 
 ## 6. Flujos principales
 
-**Descubrimiento (circuito De Cuento en Cuento):** episodio → protagonista → ficha → obra/compañía → otras compañías de la comuna → cartelera de la provincia → otro episodio → otra provincia. Cada ficha termina con "Sigue explorando" (otros artistas, compañías, obras, actividades y contenidos de la misma provincia).
+**Descubrimiento (circuito Quinta Escena Podcast):** episodio → protagonista → ficha → obra/compañía → otras compañías de la comuna → cartelera de la provincia → otro episodio → otra provincia. Cada ficha termina con "Sigue explorando" (otros artistas, compañías, obras, actividades y contenidos de la misma provincia).
 
 **Participación:** `/participa` → formulario (propuesta, comuna, provincia, categoría, nombre, contacto opcional, fuente, autorización) → tabla `contributions` con `status = pending` → revisión en `/admin` → investigación con skill → creación o actualización de entidad con fuentes → publicación.
 
@@ -173,7 +173,7 @@ La portada orienta: *qué ver · a quién conocer · dónde ocurre · qué leer 
 
 ## 9. Extensibilidad
 
-- `regions` es una tabla: `valparaiso` es la primera. Todo territorio y toda entidad cuelgan de una región. Otra edición de De Cuento en Cuento (`series`) o otra región se agregan sin cambiar el modelo.
+- `regions` es una tabla: `valparaiso` es la primera. Todo territorio y toda entidad cuelgan de una región. Otra edición de Quinta Escena Podcast (`series`) o otra región se agregan sin cambiar el modelo.
 - Los vocabularios (disciplinas, tipos de espacio, tipos de convocatoria, oficios) son datos, no código.
 
 ## 10. Seguridad y datos

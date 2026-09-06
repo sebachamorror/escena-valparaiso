@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/event.schema.json",
+  "$id": "quinta-escena/event.schema.json",
   "title": "Evento / actividad de cartelera",
   "type": "object",
   "required": ["slug", "title", "type", "kind", "occurrences", "sources", "last_checked_at", "verification", "published"],

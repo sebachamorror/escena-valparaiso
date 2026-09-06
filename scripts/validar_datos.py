@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Valida los datos de ESCENA VALPARAÍSO contra sus esquemas y reglas editoriales.
+"""Valida los datos de QUINTA ESCENA contra sus esquemas y reglas editoriales.
 
 Sin dependencias externas (Python 3.8+). Implementa el subconjunto de JSON Schema
 draft-07 que usan los esquemas de data/schemas: type, required, properties, items,
@@ -250,12 +250,12 @@ def main():
                 errors.append("%s: venues → espacio inexistente '%s'" % (label, vslug))
 
     # serie y episodios
-    dcc = os.path.join(DATA, "de-cuento-en-cuento")
+    dcc = os.path.join(DATA, "quinta-escena-podcast")
     if os.path.isdir(dcc):
         episodes = load(os.path.join(dcc, "episodios.json"))
         ep_slugs = set()
         for i, ep in enumerate(episodes):
-            label = "de-cuento-en-cuento/episodios.json[%d]" % i
+            label = "quinta-escena-podcast/episodios.json[%d]" % i
             errors += v.validate(ep, "episode.schema.json", label)
             ep_slugs.add(ep.get("slug"))
             if ep.get("commune") not in communes:
@@ -283,7 +283,7 @@ def main():
             for e in rec.get("episodes", []) or []:
                 if e not in ep_slugs:
                     errors.append("%s/%s.json: episodio desconocido '%s'" % (coll, slug, e))
-        print("de-cuento-en-cuento: %d episodios, %d entregas de La Posta" % (len(episodes), len(posta["handovers"])))
+        print("quinta-escena-podcast: %d episodios, %d entregas de La Posta" % (len(episodes), len(posta["handovers"])))
 
     # cola
     rq_path = os.path.join(DATA, "research_queue.json")

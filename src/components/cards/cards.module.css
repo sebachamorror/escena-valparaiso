@@ -40,7 +40,7 @@
 .count { font-family: var(--mono); font-variant-numeric: tabular-nums; font-size: var(--t-xs); color: var(--ink-3); letter-spacing: 0.04em; }
 .count strong { color: var(--ink); font-weight: 700; }
 
-/* Tarjeta de episodio (identidad De Cuento en Cuento, coral y amarillo propios) */
+/* Tarjeta de episodio (identidad Quinta Escena Podcast, coral y amarillo propios) */
 .episode { --card-bg: var(--dcc-cream); --card-ink: var(--dcc-ink); border-color: var(--dcc-coral-dark); box-shadow: 5px 5px 0 var(--dcc-coral-dark); }
 .episode:hover { box-shadow: 7px 7px 0 var(--dcc-coral-dark); }
 .episode h3 { font-family: var(--display); }

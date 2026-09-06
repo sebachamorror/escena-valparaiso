@@ -1,7 +1,7 @@
 {
-  "slug": "de-cuento-en-cuento",
+  "slug": "quinta-escena-podcast",
   "type": "series",
-  "title": "De Cuento en Cuento",
+  "title": "Quinta Escena Podcast",
   "subtitle": "Un juglar recorre la Región de Valparaíso para descubrir a quienes mantienen vivas sus artes escénicas.",
   "descriptor": "Experiencias del teatro familiar",
   "region": "valparaiso",
@@ -29,7 +29,7 @@
   "channels": { "youtube": null, "instagram": null, "tiktok": null, "audio": null },
   "identity": { "coral": "#F2757F", "coral_dark": "#D9525E", "yellow": "#F3B01C", "cream": "#FDF9F3", "sand": "#F2E9DA", "ink": "#2A2320" },
   "sources": [
-    { "url": null, "title": "De Cuento en Cuento — Propuesta de difusión (versión vigente, 30 páginas)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["structure", "device", "committed_outputs", "route"], "notes": "Archivo local: Proyectos 2026 - 2027/01 POSTULACIONES 2027/15 Difusion Digital (por definir)/De Cuento en Cuento.docx" },
-    { "url": null, "title": "ruta.py — fuente única de verdad de los siete capítulos", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["route", "episodes"], "notes": "2 Documentos de postulacion/_fuentes de los PDF/ruta.py" }
+    { "url": null, "title": "Quinta Escena Podcast — Propuesta de difusión (versión vigente, 30 páginas)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["structure", "device", "committed_outputs", "route"], "notes": "Archivo local: Proyectos 2026 - 2027/01 POSTULACIONES 2027/15 Difusion Digital (por definir)/Quinta Escena Podcast.docx" },
+    { "url": null, "title": "ruta.py — fuente única de verdad de los siete capítulos", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["route", "episodes"], "notes": "2 Documentos de postulacion/_fuentes de los PDF/ruta.py" }
   ]
 }

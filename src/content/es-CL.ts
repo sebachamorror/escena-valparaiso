@@ -6,13 +6,13 @@ export const t = {
   close: "Cerrar",
   search: "Buscar",
   searchPlaceholder: "Compañía, artista, obra, comuna, oficio…",
-  searchLabel: "Buscar en ESCENA VALPARAÍSO",
+  searchLabel: "Buscar en QUINTA ESCENA",
   home: "Inicio",
 
   empty: {
     events: "Aún no tenemos funciones registradas. Solo publicamos fechas con fuente oficial del espacio o de la compañía.",
     calls: "Aún no tenemos convocatorias registradas. Cada convocatoria se publica con bases oficiales y fechas de apertura y cierre.",
-    posts: "La editorial se estrena con el primer perfil de De Cuento en Cuento.",
+    posts: "La editorial se estrena con el primer perfil de Quinta Escena Podcast.",
     venues: "Aún no tenemos espacios escénicos documentados. Cada espacio se registra con dirección oficial, comuna y fuente.",
     archive: "El archivo guarda lo que ya no está: compañías desaparecidas, festivales históricos, espacios cerrados, afiches, programas y testimonios. Todavía no hay piezas registradas.",
     training: "Aún no tenemos talleres, escuelas ni recursos de formación registrados.",

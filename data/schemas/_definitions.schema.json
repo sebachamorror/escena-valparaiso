@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/_definitions.schema.json",
+  "$id": "quinta-escena/_definitions.schema.json",
   "title": "Definiciones compartidas",
   "definitions": {
     "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },

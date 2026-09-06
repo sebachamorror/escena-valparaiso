@@ -8,6 +8,14 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/**": ["./data/**/*"],
   },
+  // La serie se renombró de "De Cuento en Cuento" a "Quinta Escena Podcast"
+  // (docs/SEO.md: slug estable, redirección 301 desde el slug antiguo).
+  async redirects() {
+    return [
+      { source: "/de-cuento-en-cuento", destination: "/quinta-escena-podcast", permanent: true },
+      { source: "/de-cuento-en-cuento/:path*", destination: "/quinta-escena-podcast/:path*", permanent: true },
+    ];
+  },
 };
 
 export default nextConfig;

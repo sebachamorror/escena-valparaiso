@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/call.schema.json",
+  "$id": "quinta-escena/call.schema.json",
   "title": "Convocatoria",
   "type": "object",
   "required": ["slug", "title", "type", "org", "call_type", "official_url", "scope", "sources", "verification", "published"],

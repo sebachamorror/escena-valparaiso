@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/artist.schema.json",
+  "$id": "quinta-escena/artist.schema.json",
   "title": "Artista",
   "type": "object",
   "required": ["slug", "name", "type", "commune", "crafts", "disciplines", "sources", "verification", "published"],

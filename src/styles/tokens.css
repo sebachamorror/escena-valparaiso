@@ -1,7 +1,7 @@
-/* ESCENA VALPARAÍSO — tokens de diseño.
+/* QUINTA ESCENA — tokens de diseño.
    Base editorial (papel/tinta) + una paleta de acento saturada en bloques de
-   color, tipografía de póster para titulares. De Cuento en Cuento conserva su
-   propio coral, amarillo y crema (docs/DE_CUENTO_EN_CUENTO.md §11). */
+   color, tipografía de póster para titulares. Quinta Escena Podcast conserva su
+   propio coral, amarillo y crema (docs/QUINTA_ESCENA_PODCAST.md §11). */
 :root {
   color-scheme: light;
 
@@ -44,7 +44,7 @@
   --bad: #b5273a;
   --bad-soft: #f7d3d8;
 
-  /* De Cuento en Cuento (docs/DE_CUENTO_EN_CUENTO.md §11) */
+  /* Quinta Escena Podcast (docs/QUINTA_ESCENA_PODCAST.md §11) */
   --dcc-coral: #f2757f;
   --dcc-coral-dark: #d9525e;
   --dcc-yellow: #f3b01c;

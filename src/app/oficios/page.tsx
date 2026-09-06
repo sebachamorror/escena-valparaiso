@@ -17,7 +17,7 @@ export default function CraftsPage() {
   const crafts = listCrafts();
   return (
     <div className="wrap">
-      <PageHeader eyebrow="Oficios" title="Diecisiete oficios escénicos" lead="Cada oficio reúne artículos, videos, entrevistas, perfiles profesionales de la región y los episodios de De Cuento en Cuento donde se muestra. Los oficios enseñan." crumbs={[{ name: "Oficios", href: "/oficios" }]} />
+      <PageHeader eyebrow="Oficios" title="Diecisiete oficios escénicos" lead="Cada oficio reúne artículos, videos, entrevistas, perfiles profesionales de la región y los episodios de Quinta Escena Podcast donde se muestra. Los oficios enseñan." crumbs={[{ name: "Oficios", href: "/oficios" }]} />
       <div className="grid" style={{ marginBottom: "var(--s-8)" }}>
         {crafts.map((c) => {
           const n = artistsWithCraft(c.slug).length;

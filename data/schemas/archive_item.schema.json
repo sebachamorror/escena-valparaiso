@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/archive_item.schema.json",
+  "$id": "quinta-escena/archive_item.schema.json",
   "title": "Objeto de archivo",
   "type": "object",
   "required": ["slug", "title", "type", "kind", "provenance", "rights", "description_md", "sources", "verification", "published"],

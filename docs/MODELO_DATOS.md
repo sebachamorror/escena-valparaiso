@@ -118,7 +118,7 @@ archive_items (slug unique, title, kind text check (kind in ('fotografia','afich
               rights text, description_md, media_id null, + verificación)
 ```
 
-### 3.6 De Cuento en Cuento
+### 3.6 Quinta Escena Podcast
 
 ```sql
 series       (slug unique, title, subtitle, description_md, trailer_url null, region_id, season int)
@@ -203,7 +203,7 @@ Vista materializada `search_index (entity_type, entity_id, slug, url, title, sub
 | `data/calls/*.json` | calls | `call.schema.json` |
 | `data/editorial/*.md` | posts | `post.schema.json` (frontmatter) |
 | `data/archive/*.json` | archive_items | `archive_item.schema.json` |
-| `data/de-cuento-en-cuento/*.json` | series, episodes, posta_* | `episode.schema.json` |
+| `data/quinta-escena-podcast/*.json` | series, episodes, posta_* | `episode.schema.json` |
 | `data/research_queue.json` | research_tasks | `research_task.schema.json` |
 
 Los archivos JSON usan slugs para referirse a otras entidades (`"commune": "los-andes"`, `"companies": ["the-magic-show"]`); el importador los resuelve a `uuid`.

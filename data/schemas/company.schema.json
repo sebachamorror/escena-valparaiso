@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/company.schema.json",
+  "$id": "quinta-escena/company.schema.json",
   "title": "Compañía",
   "type": "object",
   "required": ["slug", "name", "type", "commune", "disciplines", "status", "sources", "verification", "published"],

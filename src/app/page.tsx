@@ -44,7 +44,7 @@ export default function HomePage() {
           <div className={styles.heroActions}>
             <Link href="/cartelera" className="btn btn-primary">Cartelera</Link>
             <Link href="/territorios" className="btn">Explorar por territorio</Link>
-            <Link href="/de-cuento-en-cuento" className="btn">De Cuento en Cuento</Link>
+            <Link href="/quinta-escena-podcast" className="btn">Quinta Escena Podcast</Link>
           </div>
         </div>
         <RegionMap counts={communeCounts} width={520} height={560} />
@@ -109,18 +109,18 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 6. De Cuento en Cuento */}
+      {/* 6. Quinta Escena Podcast */}
       <section className={dcc.band} aria-labelledby="dcc-title">
         <div className={`wrap ${dcc.bandInner}`}>
           <p className={dcc.kicker}>Serie original · Temporada {series.season} · {series.status === "planificada" ? "en preparación" : series.status}</p>
-          <h2 id="dcc-title" className={dcc.title} style={{ marginTop: "var(--s-2)" }}>De Cuento <em>en</em> Cuento</h2>
+          <h2 id="dcc-title" className={dcc.title} style={{ marginTop: "var(--s-2)" }}>Quinta Escena <em>Podcast</em></h2>
           <p className={dcc.descriptor} style={{ marginTop: "var(--s-2)" }}>{series.descriptor}</p>
           <p className="lead" style={{ marginTop: "var(--s-4)", color: "inherit" }}>{series.subtitle}</p>
           <RouteStrip episodes={episodes} />
           <div style={{ display: "flex", gap: "var(--s-2)", flexWrap: "wrap", marginTop: "var(--s-5)" }}>
-            <Link href="/de-cuento-en-cuento" className={`btn ${dcc.btn}`}>La serie</Link>
-            <Link href="/de-cuento-en-cuento/la-posta" className={`btn ${dcc.btn}`}>La Posta</Link>
-            <Link href="/de-cuento-en-cuento/protagonistas" className={`btn ${dcc.btn}`}>Protagonistas</Link>
+            <Link href="/quinta-escena-podcast" className={`btn ${dcc.btn}`}>La serie</Link>
+            <Link href="/quinta-escena-podcast/la-posta" className={`btn ${dcc.btn}`}>La Posta</Link>
+            <Link href="/quinta-escena-podcast/protagonistas" className={`btn ${dcc.btn}`}>Protagonistas</Link>
           </div>
         </div>
       </section>

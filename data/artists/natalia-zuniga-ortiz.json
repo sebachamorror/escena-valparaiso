@@ -21,10 +21,10 @@
   "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
   "email_public": null, "contact_authorized": false,
   "media": [], "media_candidates": [ { "what": "Retrato", "ask": "Pedir a la persona. Respaldo: prensa municipal de Quillota, con crédito y permiso." } ],
-  "series": ["de-cuento-en-cuento"], "episodes": ["dcc-04-quillota"], "tags": ["protagonista-dcc"],
+  "series": ["quinta-escena-podcast"], "episodes": ["dcc-04-quillota"], "tags": ["protagonista-podcast"],
   "sources": [
-    { "url": null, "title": "Carta de compromiso y autorización de participación — Quillota.pdf (27 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline", "company"], "notes": "Datos personales no replicados." },
-    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 4 (cita Antología Enjambre, Fondos de Cultura, Municipalidad de Quillota)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "funding_awards", "works_text"], "notes": "URLs pendientes; folios de Fondos de Cultura verificables en fondosdecultura.cl." }
+    { "url": null, "title": "Carta de compromiso y autorización de participación — Quillota.pdf (27 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline", "company"], "notes": "Datos personales no replicados." },
+    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 4 (cita Antología Enjambre, Fondos de Cultura, Municipalidad de Quillota)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "funding_awards", "works_text"], "notes": "URLs pendientes; folios de Fondos de Cultura verificables en fondosdecultura.cl." }
   ],
   "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validar con la persona. Verificar folios 593604 y 629208 en resultados públicos de Fondos de Cultura." },
   "published": false

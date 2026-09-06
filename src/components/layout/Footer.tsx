@@ -7,7 +7,7 @@ export function Footer() {
     <footer className={styles.footer}>
       <div className={`wrap ${styles.footerGrid}`}>
         <div>
-          <p className={styles.footerTitle}>ESCENA VALPARAÍSO</p>
+          <p className={styles.footerTitle}>QUINTA ESCENA</p>
           <p className="small muted" style={{ maxWidth: "42ch" }}>
             {SITE_TAGLINE} Infraestructura cultural digital para las artes escénicas de las 38 comunas y 8 provincias de la Región de Valparaíso.
           </p>
@@ -30,9 +30,9 @@ export function Footer() {
         </div>
       </div>
       <div className={`wrap ${styles.footerBottom}`}>
-        <span>ESCENA VALPARAÍSO · Región de Valparaíso, Chile</span>
+        <span>QUINTA ESCENA · Región de Valparaíso, Chile</span>
         <span>Cada dato muestra su fuente y su fecha de consulta. Nada se publica sin verificar.</span>
-        <span>De Cuento en Cuento es su primera serie original.</span>
+        <span>Quinta Escena Podcast es su primera serie original.</span>
       </div>
     </footer>
   );

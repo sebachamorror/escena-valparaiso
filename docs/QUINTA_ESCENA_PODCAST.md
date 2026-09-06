@@ -1,14 +1,14 @@
-# De Cuento en Cuento
+# Quinta Escena Podcast
 
 **Un juglar recorre la Región de Valparaíso para descubrir a quienes mantienen vivas sus artes escénicas.**
 
-Primera serie original de ESCENA VALPARAÍSO. Es una sección editorial propia (`/de-cuento-en-cuento`), nunca el nombre de la plataforma.
+Primera serie original de QUINTA ESCENA. Es una sección editorial propia (`/quinta-escena-podcast`), nunca el nombre de la plataforma.
 
 ## 1. Fuentes de este documento
 
 Solo datos comprobados en los documentos del proyecto (folio 863000, Fondo de Artes Escénicas, línea Difusión Digital 2027):
 
-- Propuesta de difusión vigente (`De Cuento en Cuento.docx`, versión de 30 páginas).
+- Propuesta de difusión vigente (`Quinta Escena Podcast.docx`, versión de 30 páginas).
 - `ruta.py`, fuente única de verdad de los siete capítulos (persona, comuna, disciplina, locación natural, eje).
 - Investigación madre (`De Cuento - INVESTIGACION MADRE.docx`): trayectorias con fuentes.
 - Cartas de compromiso firmadas en `4 Cartas/Entrevistados`.
@@ -21,7 +21,7 @@ Serie audiovisual de siete capítulos protagonizada por un juglar contemporáneo
 
 Objetivo general declarado: ampliar la visibilidad, el acceso y la circulación digital de las artes escénicas familiares de la Región de Valparaíso mediante una serie itinerante, una estrategia de participación ciudadana y una plataforma digital de información y contacto.
 
-La propuesta habla de artes escénicas **familiares**. ESCENA VALPARAÍSO abarca todas las artes escénicas; la serie es su primer relato.
+La propuesta habla de artes escénicas **familiares**. QUINTA ESCENA abarca todas las artes escénicas; la serie es su primer relato.
 
 ## 3. Los siete capítulos
 
@@ -80,7 +80,7 @@ Preguntas de campaña: *¿Quién hace teatro para las familias de la Región de 
 
 ## 8. La sección en la plataforma
 
-`/de-cuento-en-cuento`
+`/quinta-escena-podcast`
 - Portada de la serie (título, subtítulo, trailer, mapa de la ruta, estado de la temporada).
 - `/episodios/<n>-<slug>`: número, título, tramo, territorio, protagonista, disciplina, sinopsis, video (con subtítulos y, cuando exista, lengua de señas), audio, transcripción, fotografías con crédito, objeto, entrega de La Posta, contenido editorial derivado, ficha del protagonista, ficha del territorio, próximos contenidos y **Sigue explorando** (otros artistas, compañías, obras, actividades y contenidos de la misma provincia).
 - `/la-posta`: línea de las siete entregas.
@@ -112,4 +112,4 @@ Circuito intencional: episodio Los Andes → Hugo Hernández → The Magic Show 
 
 Del logotipo y el material gráfico existente: letra dibujada a mano, coral `#F2757F` y coral oscuro `#D9525E` (logo), amarillo `#F3B01C` (furgón), crema `#FDF9F3`, arena `#F2E9DA`, tinta `#2A2320`, línea punteada de ruta con nodos. Fotografía documental: el furgón abierto con afiches y máscaras, sillas de playa, bosque, cordillera, mar.
 
-Dentro de ESCENA VALPARAÍSO, De Cuento en Cuento conserva coral y amarillo como colores de la serie; el resto de la plataforma usa la identidad general (Fase 2). El nombre visible de la serie es "De Cuento en Cuento"; el subtítulo del logotipo actual ("Experiencias del teatro familiar") se conserva como descriptor de la serie.
+Dentro de QUINTA ESCENA, Quinta Escena Podcast conserva coral y amarillo como colores de la serie; el resto de la plataforma usa la identidad general (Fase 2). El nombre visible de la serie es "Quinta Escena Podcast"; el subtítulo del logotipo actual ("Experiencias del teatro familiar") se conserva como descriptor de la serie.

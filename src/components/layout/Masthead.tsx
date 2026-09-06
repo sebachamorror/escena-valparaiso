@@ -8,8 +8,8 @@ export function Masthead() {
   return (
     <header className={styles.masthead}>
       <div className={`wrap ${styles.bar}`}>
-        <Link href="/" className={styles.brand} aria-label="ESCENA VALPARAÍSO, inicio">
-          <span className={styles.brandName}>ESCENA <span>VALPARAÍSO</span></span>
+        <Link href="/" className={styles.brand} aria-label="QUINTA ESCENA, inicio">
+          <span className={styles.brandName}>QUINTA <span>ESCENA</span></span>
           <span className={styles.brandSub}>Artes escénicas de la región</span>
         </Link>
         <nav className={styles.nav} aria-label="Secciones">

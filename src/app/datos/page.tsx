@@ -6,7 +6,7 @@ import { PUBLISH_THRESHOLD } from "@/lib/data/visibility";
 
 export const metadata: Metadata = pageMetadata({
   title: "Datos, fuentes y verificación",
-  description: "Cómo ESCENA VALPARAÍSO documenta y verifica cada dato: niveles de fuente, estados de verificación, umbral de publicación, datos personales, imágenes y derecho a corrección.",
+  description: "Cómo QUINTA ESCENA documenta y verifica cada dato: niveles de fuente, estados de verificación, umbral de publicación, datos personales, imágenes y derecho a corrección.",
   path: "/datos",
 });
 

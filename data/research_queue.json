@@ -8,7 +8,7 @@
     "status": "in_progress",
     "priority": "high",
     "origin": "documento-proyecto",
-    "skill": "investigar-de-cuento-en-cuento",
+    "skill": "investigar-quinta-escena-podcast",
     "notes": "Diario El Trabajo localizado y registrado como fuente propia (24 de agosto de 2026, confirma SIGPA y la función del 25 de agosto en la Escuela Mateo Cokljat). Sigue pendiente: URL propia de la ficha SIGPA (CI8699), nota de Rosa FM, y validar la ficha con la persona.",
     "added_at": "2026-09-05",
     "result": {
@@ -25,7 +25,7 @@
     "status": "in_progress",
     "priority": "high",
     "origin": "documento-proyecto",
-    "skill": "investigar-de-cuento-en-cuento",
+    "skill": "investigar-quinta-escena-podcast",
     "notes": "Se intentó abrir sientevalpo.cl (404) y elmartutino.cl (403 bloqueado); ambos quedan como pistas para un próximo intento. Sigue pendiente: publicación de la Universidad de Chile sobre Festín de la Risa, resultados de Fondos de Cultura 2025 folio 749091, y validar con la persona.",
     "added_at": "2026-09-05",
     "result": {
@@ -42,7 +42,7 @@
     "status": "in_progress",
     "priority": "high",
     "origin": "documento-proyecto",
-    "skill": "investigar-de-cuento-en-cuento",
+    "skill": "investigar-quinta-escena-podcast",
     "notes": "Recolectores de Memoria localizado y registrado como fuente propia (bitacoraresidencias.cultura.gob.cl, página dedicada a Nelson Rojas Torres). Sigue pendiente: nota de El Observador sobre Valle del Liwa 2024 y validar con la persona.",
     "added_at": "2026-09-05",
     "result": {
@@ -59,7 +59,7 @@
     "status": "in_progress",
     "priority": "high",
     "origin": "documento-proyecto",
-    "skill": "investigar-de-cuento-en-cuento",
+    "skill": "investigar-quinta-escena-podcast",
     "notes": "Verificar folios 593604 y 629208 en fondosdecultura.cl; localizar Antología Enjambre y publicación municipal 2024; validar con la persona.",
     "added_at": "2026-09-05",
     "result": {
@@ -76,7 +76,7 @@
     "status": "in_progress",
     "priority": "high",
     "origin": "documento-proyecto",
-    "skill": "investigar-de-cuento-en-cuento",
+    "skill": "investigar-quinta-escena-podcast",
     "notes": "Confirmar rol en Compañía de Teatro Alegría; localizar fuentes municipales; validar con la persona.",
     "added_at": "2026-09-05",
     "result": {
@@ -93,7 +93,7 @@
     "status": "in_progress",
     "priority": "high",
     "origin": "documento-proyecto",
-    "skill": "investigar-de-cuento-en-cuento",
+    "skill": "investigar-quinta-escena-podcast",
     "notes": "Nivel de información medio: buscar obras con Hypókritas, prensa; validar con la persona.",
     "added_at": "2026-09-05",
     "result": {
@@ -110,7 +110,7 @@
     "status": "in_progress",
     "priority": "high",
     "origin": "documento-proyecto",
-    "skill": "investigar-de-cuento-en-cuento",
+    "skill": "investigar-quinta-escena-podcast",
     "notes": "El Proa (diciembre 2021) localizado y registrado como fuente propia: confirma su rol como Pilpilén en Llo Lle We. Sigue pendiente: validación directa vía La Lancha y con la persona.",
     "added_at": "2026-09-05",
     "result": {
@@ -494,7 +494,7 @@
     "priority": "high",
     "origin": "documento-proyecto",
     "skill": "buscar-artistas-escenicos",
-    "notes": "Juglar y responsable de De Cuento en Cuento; director de Compañía de Teatro La Lancha; integrante de Tryo Teatro Banda (Región Metropolitana, no participa del programa). Ficha con validación directa.",
+    "notes": "Juglar y responsable de Quinta Escena Podcast; director de Compañía de Teatro La Lancha; integrante de Tryo Teatro Banda (Región Metropolitana, no participa del programa). Ficha con validación directa.",
     "added_at": "2026-09-05",
     "result": null
   },
@@ -1138,7 +1138,7 @@
     "priority": "medium",
     "origin": "investigacion-territorial",
     "skill": "investigar-territorio",
-    "notes": "Territorio insular: fuera del recorrido inicial de De Cuento en Cuento, dentro de la plataforma.",
+    "notes": "Territorio insular: fuera del recorrido inicial de Quinta Escena Podcast, dentro de la plataforma.",
     "added_at": "2026-09-05",
     "result": null
   },
@@ -1614,7 +1614,7 @@
     "priority": "medium",
     "origin": "investigacion-territorial",
     "skill": "investigar-territorio",
-    "notes": "Territorio insular: fuera del recorrido inicial de De Cuento en Cuento, dentro de la plataforma.",
+    "notes": "Territorio insular: fuera del recorrido inicial de Quinta Escena Podcast, dentro de la plataforma.",
     "added_at": "2026-09-05",
     "result": null
   }

@@ -1,6 +1,6 @@
 ---
 name: verificar-datos
-description: Aplicar los criterios de verificación de ESCENA VALPARAÍSO a un registro (compañía, artista, obra, espacio, evento, convocatoria, archivo, episodio): revisar cada fuente, confirmar territorio y actividad, calcular confidence_score con la rúbrica, fijar verification_status, next_review_at y nota, y decidir si es publicable. Usar antes de publicar cualquier dato y en cada re-verificación.
+description: Aplicar los criterios de verificación de QUINTA ESCENA a un registro (compañía, artista, obra, espacio, evento, convocatoria, archivo, episodio): revisar cada fuente, confirmar territorio y actividad, calcular confidence_score con la rúbrica, fijar verification_status, next_review_at y nota, y decidir si es publicable. Usar antes de publicar cualquier dato y en cada re-verificación.
 ---
 
 # Verificar datos

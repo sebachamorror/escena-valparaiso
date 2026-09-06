@@ -46,7 +46,7 @@ Publicable solo si `verification_status = verificado` **y** `confidence_score �
 
 ## 5. Fuentes aceptables y no aceptables
 
-Aceptables: las de nivel 1 y 2 de `INVESTIGACION.md`; redes oficiales de la propia entidad; documentos del proyecto De Cuento en Cuento; testimonios identificados y consentidos.
+Aceptables: las de nivel 1 y 2 de `INVESTIGACION.md`; redes oficiales de la propia entidad; documentos del proyecto Quinta Escena Podcast; testimonios identificados y consentidos.
 
 No aceptables como única fuente: agregadores de eventos, directorios de terceros, redes de terceros, resultados de imágenes, páginas sin fecha ni autor, generadores de contenido, memoria del investigador.
 

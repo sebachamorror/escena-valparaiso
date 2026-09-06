@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/venue.schema.json",
+  "$id": "quinta-escena/venue.schema.json",
   "title": "Espacio escénico",
   "type": "object",
   "required": ["slug", "name", "type", "venue_type", "place", "status", "sources", "verification", "published"],

@@ -1,8 +1,8 @@
-# SOUL — El alma de ESCENA VALPARAÍSO
+# SOUL — El alma de QUINTA ESCENA
 
 ## Propósito
 
-ESCENA VALPARAÍSO es un ecosistema digital para **descubrir, documentar, visibilizar y conectar** las artes escénicas de la Región de Valparaíso.
+QUINTA ESCENA es un ecosistema digital para **descubrir, documentar, visibilizar y conectar** las artes escénicas de la Región de Valparaíso.
 
 ## Principio central
 
@@ -10,7 +10,7 @@ No queremos construir simplemente una cartelera.
 
 Queremos construir una **infraestructura cultural digital regional**: un sistema que permanezca, que crezca con la participación de la comunidad y que sirva a familias, artistas, compañías, docentes, programadores, investigadores y gestores.
 
-El mapa muestra el territorio. Las fichas muestran a las personas. La cartelera muestra lo que ocurre. La editorial explica. El archivo recuerda. Las convocatorias conectan oportunidades. Los oficios enseñan. De Cuento en Cuento humaniza todo el sistema.
+El mapa muestra el territorio. Las fichas muestran a las personas. La cartelera muestra lo que ocurre. La editorial explica. El archivo recuerda. Las convocatorias conectan oportunidades. Los oficios enseñan. Quinta Escena Podcast humaniza todo el sistema.
 
 El proyecto debe sentirse como: **un medio cultural + un archivo vivo + un directorio + un mapa + un sistema de descubrimiento + una serie audiovisual.**
 
@@ -18,7 +18,7 @@ El proyecto debe sentirse como: **un medio cultural + un archivo vivo + un direc
 
 La Región de Valparaíso tiene 38 comunas en 8 provincias y una escena repartida por todo el territorio, pero su infraestructura y su visibilidad se concentran en dos comunas. Las compañías de las provincias interiores no aparecen en los catálogos porque los catálogos solo alcanzan a quien ya era visible. Quien no está registrado en ninguna parte no puede ser catalogado, y así el problema se reproduce solo.
 
-ESCENA VALPARAÍSO rompe ese círculo con dos herramientas: **ir a buscar** (investigación y De Cuento en Cuento) y **dejar que la comunidad proponga** (participación ciudadana con verificación).
+QUINTA ESCENA rompe ese círculo con dos herramientas: **ir a buscar** (investigación y Quinta Escena Podcast) y **dejar que la comunidad proponga** (participación ciudadana con verificación).
 
 ## Principios editoriales
 
@@ -46,7 +46,7 @@ ESCENA VALPARAÍSO rompe ese círculo con dos herramientas: **ir a buscar** (inv
 - **Accesibilidad:** contraste, teclado, foco visible, textos alternativos, estructura semántica, sin depender del color.
 - **Velocidad:** páginas estáticas cuando es posible, imágenes optimizadas, sin transpilar en el navegador.
 - **Evitar** el aspecto de portal institucional antiguo, el aspecto de blog genérico, la estética corporativa, la apariencia turística, el exceso de folklorismo y la estética infantil.
-- **De Cuento en Cuento** es uno de los universos visuales internos: conserva su coral, su amarillo, su furgón y su letra dibujada, y convive con la identidad general sin imponerla.
+- **Quinta Escena Podcast** es uno de los universos visuales internos: conserva su coral, su amarillo, su furgón y su letra dibujada, y convive con la identidad general sin imponerla.
 
 ## Principio de contenido
 
@@ -81,9 +81,9 @@ PARTICIPAR   recomendar, aportar, actualizar
 
 Este flujo debe ocurrir de forma natural en cualquier página.
 
-## Relación con De Cuento en Cuento
+## Relación con Quinta Escena Podcast
 
-"ESCENA VALPARAÍSO es el ecosistema regional. DE CUENTO EN CUENTO es su primera serie original."
+"QUINTA ESCENA es el ecosistema regional. QUINTA ESCENA PODCAST es su primera serie original."
 
 La serie es el relato humano que abre la infraestructura. Cada episodio es un nodo de navegación: territorio, protagonista, disciplina, objeto, posta, contenidos relacionados y "sigue explorando".
 
@@ -93,4 +93,4 @@ Cercano, preciso, sin solemnidad institucional y sin infantilizar. Se habla de p
 
 ## Compromiso público
 
-Las fichas de las personas se validan con las propias personas. Cualquiera puede pedir corrección o retiro de su información. La plataforma se mantiene operativa al menos dos años después de terminada la primera temporada de De Cuento en Cuento, y está diseñada para durar más.
+Las fichas de las personas se validan con las propias personas. Cualquiera puede pedir corrección o retiro de su información. La plataforma se mantiene operativa al menos dos años después de terminada la primera temporada de Quinta Escena Podcast, y está diseñada para durar más.

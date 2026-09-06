@@ -18,7 +18,7 @@ export const SEARCH_TYPE_LABEL: Record<SearchType, string> = {
   company: "Compañías",
   artist: "Artistas",
   work: "Obras",
-  episode: "De Cuento en Cuento",
+  episode: "Quinta Escena Podcast",
   territory: "Territorios",
   craft: "Oficios",
   venue: "Espacios",

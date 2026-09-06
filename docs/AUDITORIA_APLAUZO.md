@@ -2,7 +2,7 @@
 
 **Proyecto auditado:** Aplauzo (aplauzo.art), plataforma de artes escénicas iberoamericanas.
 **Fecha:** 5 de septiembre de 2026.
-**Objetivo:** decidir qué se reutiliza, qué se rehace y qué no se copia al construir ESCENA VALPARAÍSO.
+**Objetivo:** decidir qué se reutiliza, qué se rehace y qué no se copia al construir QUINTA ESCENA.
 **Método:** lectura completa del código, sin suposiciones de stack. No se modificó ningún archivo de Aplauzo.
 
 ## 1. Qué se inspeccionó
@@ -158,7 +158,7 @@ Cartelera por país, ficha de obra, hub de país, opinión (22 columnas), espaci
 4. **Deriva entre copias:** el workspace y el repositorio difieren; `schema.sql` no está versionado en Git.
 5. **Admin por correo hardcodeado** en dos lugares.
 6. **Versiones flotantes** de librerías por CDN.
-7. **Sin metadatos de imagen** (autor, licencia), contrario a la política que ESCENA VALPARAÍSO exige.
+7. **Sin metadatos de imagen** (autor, licencia), contrario a la política que QUINTA ESCENA exige.
 8. **`dangerouslySetInnerHTML`** en titulares y kickers de opinión.
 9. **Copias derivadas desactualizadas** (`Aplauzo (offline).html`, `Aplauzo-print.html`).
 10. **Sin tests ni tipos:** cualquier refactor es a ciegas.
@@ -183,12 +183,12 @@ Cartelera por país, ficha de obra, hub de país, opinión (22 columnas), espaci
 - **Identidad visual completa:** paleta papel/tinta, familias tipográficas, lema "cartelera iberoamericana", mascota gato, panel de tweaks.
 - **Contenido:** obras, columnas de opinión, textos de hero, espacios, talleres, fondos de otros países.
 - **Mapa mundial** y la clave por país en inglés.
-- **Datos de muestra** (`demo: true`) y el flag `showDemoContent`: en ESCENA VALPARAÍSO no existe contenido inventado; existe contenido con estado de verificación.
+- **Datos de muestra** (`demo: true`) y el flag `showDemoContent`: en QUINTA ESCENA no existe contenido inventado; existe contenido con estado de verificación.
 - **`image-slot.js`** y `.image-slots.state.json` (dependen de un runtime de prototipado).
 - **`tweaks-panel.jsx`**.
 - **Tienda, Centro legal con agendamiento simulado, Bolsa de trabajo ficticia, JoinModal por FormSubmit.**
 - **Babel en el navegador, React UMD, navegación por estado sin URLs, CSS monolítico en el HTML.**
-- **Admin por correo fijo** y las credenciales del proyecto Supabase de Aplauzo (ESCENA VALPARAÍSO usa un proyecto propio).
+- **Admin por correo fijo** y las credenciales del proyecto Supabase de Aplauzo (QUINTA ESCENA usa un proyecto propio).
 
 ## 22. Qué conviene refactorizar antes de reutilizar
 
@@ -202,7 +202,7 @@ Cartelera por país, ficha de obra, hub de país, opinión (22 columnas), espaci
 ## 23. Recomendaciones
 
 1. **Stack con build y URLs reales:** Next.js (App Router, TypeScript) desplegado en Vercel, con generación estática e ISR para fichas y SSR para búsquedas y cartelera. Resuelve SEO, rendimiento y rutas semánticas de una vez.
-2. **Supabase propio para ESCENA VALPARAÍSO:** Postgres con PostGIS, Auth, Storage y RLS. Reutilizar el patrón de moderación, no el esquema.
+2. **Supabase propio para QUINTA ESCENA:** Postgres con PostGIS, Auth, Storage y RLS. Reutilizar el patrón de moderación, no el esquema.
 3. **Modelo relacional con territorio y verificación como columnas de primera clase** (ver `MODELO_DATOS.md`).
 4. **Mapa regional propio** con geometría oficial de comunas (ver `MAPA.md`).
 5. **Esquemas JSON compartidos** para formularios, importación e investigación.
@@ -210,4 +210,4 @@ Cartelera por país, ficha de obra, hub de país, opinión (22 columnas), espaci
 7. **Panel de administración** propio (roles admin, editor, verificador) antes que un CMS externo; evaluar CMS headless solo si el volumen editorial lo exige.
 8. **Analítica con eventos** desde el día uno (ver `ARQUITECTURA.md`).
 
-Esta auditoría se considera cerrada. La construcción de ESCENA VALPARAÍSO no altera ningún archivo de Aplauzo.
+Esta auditoría se considera cerrada. La construcción de QUINTA ESCENA no altera ningún archivo de Aplauzo.

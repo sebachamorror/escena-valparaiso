@@ -6,7 +6,7 @@ description: Investigar y documentar artistas escénicos de la Región de Valpar
 # Buscar artistas escénicos
 
 ## Cuándo usar
-Para encontrar o completar fichas de personas que ejercen un oficio escénico en la región. También al crear el perfil de un protagonista de De Cuento en Cuento (usar junto con `investigar-de-cuento-en-cuento`).
+Para encontrar o completar fichas de personas que ejercen un oficio escénico en la región. También al crear el perfil de un protagonista de Quinta Escena Podcast (usar junto con `investigar-quinta-escena-podcast`).
 
 ## Entradas
 Nombre, o territorio + oficio. Oficios del vocabulario `crafts` en `data/schemas/vocabularios.json`.

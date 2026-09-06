@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/post.schema.json",
+  "$id": "quinta-escena/post.schema.json",
   "title": "Publicación editorial (frontmatter de .md)",
   "type": "object",
   "required": ["slug", "title", "type", "dek", "author", "category", "status"],

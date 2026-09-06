@@ -1,6 +1,6 @@
 ---
 name: investigar-territorio
-description: Investigar una comuna o provincia completa de la Región de Valparaíso para ESCENA VALPARAÍSO: compañías, artistas, espacios, festivales, cartelera, convocatorias locales, formación, historia y actores institucionales, partiendo siempre de la lista oficial de comunas, con salida en la cola de investigación y fichas JSON con fuentes. Usar al abrir un territorio nuevo o al completar uno con pocos registros.
+description: Investigar una comuna o provincia completa de la Región de Valparaíso para QUINTA ESCENA: compañías, artistas, espacios, festivales, cartelera, convocatorias locales, formación, historia y actores institucionales, partiendo siempre de la lista oficial de comunas, con salida en la cola de investigación y fichas JSON con fuentes. Usar al abrir un territorio nuevo o al completar uno con pocos registros.
 ---
 
 # Investigar territorio

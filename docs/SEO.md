@@ -2,7 +2,7 @@
 
 ## 1. Meta
 
-Que búsquedas como *compañías de teatro en Valparaíso*, *teatro en San Antonio*, *teatro en Los Andes*, *obras de teatro en Viña del Mar*, *artistas escénicos de Valparaíso*, *cartelera teatral Valparaíso*, *festivales de teatro Valparaíso* lleguen naturalmente a ESCENA VALPARAÍSO.
+Que búsquedas como *compañías de teatro en Valparaíso*, *teatro en San Antonio*, *teatro en Los Andes*, *obras de teatro en Viña del Mar*, *artistas escénicos de Valparaíso*, *cartelera teatral Valparaíso*, *festivales de teatro Valparaíso* lleguen naturalmente a QUINTA ESCENA.
 
 Regla: solo se indexa contenido **verificado**. Las fichas no publicadas no existen para los buscadores (no hay páginas "vacías" indexadas).
 
@@ -21,7 +21,7 @@ Regla: solo se indexa contenido **verificado**. Las fichas no publicadas no exis
 | Oficios | `/oficios/<slug>` | `/oficios/titeres` |
 | Formación | `/formacion/<slug>` | |
 | Archivo | `/archivo/<slug>` | |
-| De Cuento en Cuento | `/de-cuento-en-cuento` · `/de-cuento-en-cuento/episodios/<n>-<slug>` · `/de-cuento-en-cuento/la-posta` | `/de-cuento-en-cuento/episodios/1-los-andes` |
+| Quinta Escena Podcast | `/quinta-escena-podcast` · `/quinta-escena-podcast/episodios/<n>-<slug>` · `/quinta-escena-podcast/la-posta` | `/quinta-escena-podcast/episodios/1-los-andes` |
 
 Slugs sin acentos, en minúsculas, con guiones; estables (si cambia el nombre, se redirige 301 desde el slug antiguo).
 
@@ -33,7 +33,7 @@ Cada comuna y provincia tiene una página con título tipo "Teatro y artes escé
 
 Título (`<title>`) y descripción únicos por página, con territorio y disciplina cuando corresponde:
 
-- Compañía: `«{nombre}» · Compañía de {disciplina} en {comuna} · ESCENA VALPARAÍSO`.
+- Compañía: `«{nombre}» · Compañía de {disciplina} en {comuna} · QUINTA ESCENA`.
 - Artista: `{nombre} · {oficio} · {comuna}`.
 - Evento: `{obra} · {fecha} · {espacio}, {comuna}`.
 - Territorio: `Artes escénicas en {comuna} · compañías, obras y cartelera`.

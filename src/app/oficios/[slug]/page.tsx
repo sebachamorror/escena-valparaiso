@@ -53,7 +53,7 @@ export default async function CraftPage({ params }: { params: Promise<{ slug: st
 
       {episodes.length > 0 && (
         <section className="section" aria-labelledby="dcc">
-          <SectionHead id="dcc" title="En De Cuento en Cuento" sub="Episodios donde este oficio se muestra." />
+          <SectionHead id="dcc" title="En Quinta Escena Podcast" sub="Episodios donde este oficio se muestra." />
           <div className="grid-3">{episodes.map((e) => <EpisodeCard key={e.slug} e={e} protagonistName={e.protagonist_artist ? getArtist(e.protagonist_artist)?.name : null} />)}</div>
         </section>
       )}

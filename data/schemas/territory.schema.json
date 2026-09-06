@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/territory.schema.json",
+  "$id": "quinta-escena/territory.schema.json",
   "title": "Archivo de territorios (región, provincias, comunas)",
   "type": "object",
   "required": ["region", "provinces", "communes", "sources"],

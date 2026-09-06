@@ -1,4 +1,4 @@
-# ESCENA VALPARAÍSO — guía para trabajar en este proyecto
+# QUINTA ESCENA — guía para trabajar en este proyecto
 
 **Artes escénicas de la Región de Valparaíso.**
 Tagline provisional: *Descubre qué está pasando en la escena de tu región.*
@@ -7,9 +7,9 @@ Este archivo dice cómo trabajar aquí. La filosofía del proyecto está en [doc
 
 ## 1. Qué es este proyecto
 
-ESCENA VALPARAÍSO es una **infraestructura cultural digital regional**: un ecosistema para descubrir, documentar, visibilizar y conectar las artes escénicas de la Región de Valparaíso. No es solo una cartelera.
+QUINTA ESCENA es una **infraestructura cultural digital regional**: un ecosistema para descubrir, documentar, visibilizar y conectar las artes escénicas de la Región de Valparaíso. No es solo una cartelera.
 
-**De Cuento en Cuento** es su primera serie original: un juglar recorre la región para descubrir a quienes mantienen vivas sus artes escénicas. Es una sección dentro de ESCENA VALPARAÍSO, nunca el nombre de la plataforma.
+**Quinta Escena Podcast** es su primera serie original: un juglar recorre la región para descubrir a quienes mantienen vivas sus artes escénicas. Es una sección dentro de QUINTA ESCENA, nunca el nombre de la plataforma.
 
 Aplauzo (aplauzo.art, `~/Documents/WebAplauzo`) es la plataforma hermana sobre teatro iberoamericano. Sirve como **referencia técnica**, no como fuente de contenido ni de identidad visual. Nunca se modifica desde aquí. La auditoría está en [docs/AUDITORIA_APLAUZO.md](docs/AUDITORIA_APLAUZO.md).
 
@@ -21,7 +21,7 @@ Aplauzo (aplauzo.art, `~/Documents/WebAplauzo`) es la plataforma hermana sobre t
 4. **Sin datos personales sensibles.** No se guardan RUT, direcciones particulares ni teléfonos personales. Contactos solo si son públicos y profesionales, o si la persona los autorizó por escrito.
 5. **Imágenes con crédito, licencia y fuente.** Nunca imágenes de Google Images como fuente final. Nunca material protegido sin permiso.
 6. **Territorio como dato central.** Toda entidad se relaciona con comuna, provincia y, cuando existe, coordenadas con fuente.
-7. **Isla de Pascua es un territorio de la plataforma**, aunque quede fuera del recorrido inicial de De Cuento en Cuento.
+7. **Isla de Pascua es un territorio de la plataforma**, aunque quede fuera del recorrido inicial de Quinta Escena Podcast.
 8. **Mobile first y accesible.** Ninguna funcionalidad se da por terminada sin probarla en móvil y con teclado.
 9. **Sin cambios grandes silenciosos.** Cada fase termina con una entrada en [docs/PROGRESO.md](docs/PROGRESO.md).
 10. **Calidad sobre cantidad.** Una ficha verdadera y documentada vale más que veinte incompletas.
@@ -29,7 +29,7 @@ Aplauzo (aplauzo.art, `~/Documents/WebAplauzo`) es la plataforma hermana sobre t
 ## 3. Mapa del repositorio
 
 ```
-escena-valparaiso/
+quinta-escena/
 ├── CLAUDE.md                 esta guía
 ├── README.md                 presentación breve
 ├── docs/                     filosofía, arquitectura, modelo de datos, roadmap, progreso
@@ -37,7 +37,7 @@ escena-valparaiso/
 ├── data/                     datos versionados en JSON con fuentes
 │   ├── territories/          región, provincias y comunas (fuente oficial)
 │   ├── schemas/              JSON Schema de cada entidad
-│   ├── de-cuento-en-cuento/  serie, episodios, posta
+│   ├── quinta-escena-podcast/  serie, episodios, posta
 │   ├── companies/ artists/ works/ venues/ events/ calls/ editorial/ archive/
 │   └── research_queue.json   cola de investigación
 ├── scripts/                  validación e importación (Python 3, sin dependencias)
@@ -54,7 +54,7 @@ Documentos de referencia:
 | [docs/MODELO_DATOS.md](docs/MODELO_DATOS.md) | Entidades, relaciones, esquema SQL, formatos de importación |
 | [docs/MAPA.md](docs/MAPA.md) | Mapa regional, capas, geometría, geocodificación |
 | [docs/EDITORIAL.md](docs/EDITORIAL.md) | Sistema editorial y oficios |
-| [docs/DE_CUENTO_EN_CUENTO.md](docs/DE_CUENTO_EN_CUENTO.md) | La serie, episodios, La Posta, datos verificados |
+| [docs/QUINTA_ESCENA_PODCAST.md](docs/QUINTA_ESCENA_PODCAST.md) | La serie, episodios, La Posta, datos verificados |
 | [docs/INVESTIGACION.md](docs/INVESTIGACION.md) | Metodología, fuentes, score, cola, skills |
 | [docs/CRITERIOS_VERIFICACION.md](docs/CRITERIOS_VERIFICACION.md) | Estados, umbrales, revisión |
 | [docs/SEO.md](docs/SEO.md) | URLs, metadata, Schema.org, sitemap |

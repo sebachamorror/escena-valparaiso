@@ -14,10 +14,10 @@
   "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
   "email_public": null, "contact_authorized": false,
   "media": [], "media_candidates": [ { "what": "Retrato", "ask": "Pedir a la persona." } ],
-  "series": ["de-cuento-en-cuento"], "episodes": ["dcc-06-vina-del-mar"], "tags": ["protagonista-dcc"],
+  "series": ["quinta-escena-podcast"], "episodes": ["dcc-06-vina-del-mar"], "tags": ["protagonista-podcast"],
   "sources": [
-    { "url": null, "title": "Carta de compromiso y autorización de participación — Viña del Mar.pdf (26 de agosto de 2026)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": "Datos personales no replicados." },
-    { "url": null, "title": "Investigación madre De Cuento en Cuento — perfil 6 (cita perfil profesional y Escuela Naval, Academia Cultural 2022)", "publisher": "Proyecto De Cuento en Cuento, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "training"], "notes": "Nivel de información medio según la investigación; profundizar." }
+    { "url": null, "title": "Carta de compromiso y autorización de participación — Viña del Mar.pdf (26 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": "Datos personales no replicados." },
+    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 6 (cita perfil profesional y Escuela Naval, Academia Cultural 2022)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "training"], "notes": "Nivel de información medio según la investigación; profundizar." }
   ],
   "verification": { "status": "pendiente", "confidence_score": 60, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validar con la persona. Confirmar comuna de Hypókritas y obras." },
   "published": false

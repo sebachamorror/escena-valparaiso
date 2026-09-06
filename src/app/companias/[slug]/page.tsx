@@ -94,7 +94,7 @@ export default async function CompanyPage({ params }: { params: Promise<{ slug: 
               {c.funding_awards.length > 0 && <Block title="Fondos adjudicados" id="fondos"><FundingList items={c.funding_awards} /></Block>}
               {c.recognitions.length > 0 && <Block title="Reconocimientos" id="reconocimientos"><RecognitionList items={c.recognitions} /></Block>}
               {episodes.length > 0 && (
-                <Block title="En De Cuento en Cuento" id="dcc"><div className="grid-2">{episodes.map((e) => <EpisodeCard key={e.slug} e={e} />)}</div></Block>
+                <Block title="En Quinta Escena Podcast" id="dcc"><div className="grid-2">{episodes.map((e) => <EpisodeCard key={e.slug} e={e} />)}</div></Block>
               )}
               <SourceList sources={c.sources} />
               {c.verification.note && <p className="small muted">Nota de verificación: {c.verification.note}</p>}

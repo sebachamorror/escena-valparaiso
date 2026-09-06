@@ -1,5 +1,5 @@
 /**
- * Tipos de las entidades de ESCENA VALPARAÍSO.
+ * Tipos de las entidades de QUINTA ESCENA.
  * Espejo de data/schemas/*.schema.json. Los slugs referencian otras entidades.
  */
 

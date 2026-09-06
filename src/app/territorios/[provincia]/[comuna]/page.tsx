@@ -84,7 +84,7 @@ export default async function CommunePage({ params }: { params: Promise<{ provin
 
         {episodes.length > 0 && (
           <section className="section" aria-labelledby="dcc">
-            <SectionHead id="dcc" title="De Cuento en Cuento" sub={`La serie se detiene en ${c.name}.`} />
+            <SectionHead id="dcc" title="Quinta Escena Podcast" sub={`La serie se detiene en ${c.name}.`} />
             <div className="grid-3">{episodes.map((e) => <EpisodeCard key={e.slug} e={e} protagonistName={e.protagonist_artist ? getArtist(e.protagonist_artist)?.name : null} />)}</div>
           </section>
         )}

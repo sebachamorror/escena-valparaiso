@@ -21,7 +21,7 @@ export function SigueExplorando({ province, exclude }: Props) {
     { title: "Compañías", items: companies.map((c) => ({ href: `/companias/${c.slug}`, label: c.name })) },
     { title: "Artistas", items: artists.map((a) => ({ href: `/artistas/${a.slug}`, label: a.name })) },
     { title: "Obras", items: works.map((w) => ({ href: `/obras/${w.slug}`, label: w.title })) },
-    { title: "De Cuento en Cuento", items: episodes.map((e) => ({ href: episodeUrl(e), label: `Episodio ${e.number} · ${communeName(e.commune)}` })) },
+    { title: "Quinta Escena Podcast", items: episodes.map((e) => ({ href: episodeUrl(e), label: `Episodio ${e.number} · ${communeName(e.commune)}` })) },
   ].filter((c) => c.items.length);
 
   return (

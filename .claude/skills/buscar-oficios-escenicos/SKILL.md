@@ -1,6 +1,6 @@
 ---
 name: buscar-oficios-escenicos
-description: Reunir y documentar contenido sobre los 17 oficios escénicos (actuación, dramaturgia, dirección, iluminación, sonido, escenografía, vestuario, utilería, maquillaje, títeres, producción, gestión, mediación, técnica, música escénica, circo, narración oral) en la Región de Valparaíso: artículos, videos, entrevistas, tutoriales, perfiles profesionales y episodios de De Cuento en Cuento, con fuentes y derechos claros.
+description: Reunir y documentar contenido sobre los 17 oficios escénicos (actuación, dramaturgia, dirección, iluminación, sonido, escenografía, vestuario, utilería, maquillaje, títeres, producción, gestión, mediación, técnica, música escénica, circo, narración oral) en la Región de Valparaíso: artículos, videos, entrevistas, tutoriales, perfiles profesionales y episodios de Quinta Escena Podcast, con fuentes y derechos claros.
 ---
 
 # Buscar oficios escénicos
@@ -12,7 +12,7 @@ Para poblar `/oficios/<oficio>` y para etiquetar contenido existente por oficio.
 - Personas de la región que lo ejercen (pistas para `buscar-artistas-escenicos`).
 - Contenido publicado con licencia o autorización posible: entrevistas, artículos, videos (YouTube de la propia persona o institución), tutoriales, charlas.
 - Formación relacionada en la región (pistas para `/formacion`).
-- Episodios o cápsulas de De Cuento en Cuento donde el oficio se muestra (`data/de-cuento-en-cuento/episodios.json`).
+- Episodios o cápsulas de Quinta Escena Podcast donde el oficio se muestra (`data/quinta-escena-podcast/episodios.json`).
 - Vocabulario y herramientas propias del oficio, para la introducción de la página.
 
 ## Fuentes

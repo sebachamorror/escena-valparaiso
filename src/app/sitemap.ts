@@ -17,7 +17,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     out.push({ url: absoluteUrl(path), priority, changeFrequency });
 
   add("/", 1, "daily");
-  for (const p of ["/buscar", "/mapa", "/cartelera", "/companias", "/artistas", "/obras", "/espacios", "/territorios", "/convocatorias", "/editorial", "/oficios", "/formacion", "/archivo", "/de-cuento-en-cuento", "/de-cuento-en-cuento/la-posta", "/de-cuento-en-cuento/protagonistas", "/participa", "/datos"]) add(p, 0.7);
+  for (const p of ["/buscar", "/mapa", "/cartelera", "/companias", "/artistas", "/obras", "/espacios", "/territorios", "/convocatorias", "/editorial", "/oficios", "/formacion", "/archivo", "/quinta-escena-podcast", "/quinta-escena-podcast/la-posta", "/quinta-escena-podcast/protagonistas", "/participa", "/datos"]) add(p, 0.7);
 
   for (const c of loadCompanies().filter(isPublishable)) add(`/companias/${c.slug}`, 0.8);
   for (const a of loadArtists().filter(isPublishable)) add(`/artistas/${a.slug}`, 0.8);

@@ -1,7 +1,7 @@
-export const SITE_NAME = "ESCENA VALPARAÍSO";
+export const SITE_NAME = "QUINTA ESCENA";
 export const SITE_TAGLINE = "Descubre qué está pasando en la escena de tu región.";
 export const SITE_DESCRIPTION =
-  "Artes escénicas de la Región de Valparaíso: compañías, artistas, obras, espacios, cartelera, convocatorias, memoria y la serie De Cuento en Cuento. Un sistema territorial abierto para las 38 comunas y 8 provincias.";
+  "Artes escénicas de la Región de Valparaíso: compañías, artistas, obras, espacios, cartelera, convocatorias, memoria y la serie Quinta Escena Podcast. Un sistema territorial abierto para las 38 comunas y 8 provincias.";
 
 /**
  * URL pública del sitio. Prioridad: NEXT_PUBLIC_SITE_URL (override explícito) →
@@ -35,7 +35,7 @@ export const NAV = [
   { href: "/oficios", label: "Oficios" },
   { href: "/formacion", label: "Formación" },
   { href: "/archivo", label: "Archivo" },
-  { href: "/de-cuento-en-cuento", label: "De Cuento en Cuento" },
+  { href: "/quinta-escena-podcast", label: "Quinta Escena Podcast" },
 ] as const;
 
 export const NAV_TRANSVERSAL = [

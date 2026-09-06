@@ -1,5 +1,5 @@
 {
-  "$comment": "Vocabularios controlados de ESCENA VALPARAÍSO. Son datos, no código. Ampliar con revisión editorial.",
+  "$comment": "Vocabularios controlados de QUINTA ESCENA. Son datos, no código. Ampliar con revisión editorial.",
   "disciplines": [
     { "slug": "teatro", "name": "Teatro" },
     { "slug": "teatro-familiar", "name": "Teatro familiar", "parent": "teatro" },

@@ -84,7 +84,7 @@ export default async function ProvincePage({ params }: { params: Promise<{ provi
 
       {episodes.length > 0 && (
         <section className="section" aria-labelledby="dcc">
-          <SectionHead id="dcc" title="De Cuento en Cuento" sub="La serie pasa por esta provincia." action={<Link href="/de-cuento-en-cuento" className="link-more">La serie</Link>} />
+          <SectionHead id="dcc" title="Quinta Escena Podcast" sub="La serie pasa por esta provincia." action={<Link href="/quinta-escena-podcast" className="link-more">La serie</Link>} />
           <div className="grid-3">{episodes.map((e) => <EpisodeCard key={e.slug} e={e} protagonistName={e.protagonist_artist ? getArtist(e.protagonist_artist)?.name : null} />)}</div>
         </section>
       )}

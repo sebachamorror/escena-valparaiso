@@ -28,11 +28,11 @@ export const loadArtists = cache((): Artist[] => readCollection<Artist>("artists
 export const loadWorks = cache((): Work[] => readCollection<Work>("works"));
 export const loadTerritories = cache((): Territories => readJson<Territories>("territories/comunas.json"));
 export const loadVocabularies = cache((): Vocabularies => readJson<Vocabularies>("schemas/vocabularios.json"));
-export const loadSeries = cache((): Series => readJson<Series>("de-cuento-en-cuento/serie.json"));
+export const loadSeries = cache((): Series => readJson<Series>("quinta-escena-podcast/serie.json"));
 export const loadEpisodes = cache((): Episode[] =>
-  readJson<Episode[]>("de-cuento-en-cuento/episodios.json").slice().sort((a, b) => a.number - b.number),
+  readJson<Episode[]>("quinta-escena-podcast/episodios.json").slice().sort((a, b) => a.number - b.number),
 );
-export const loadPosta = cache((): Posta => readJson<Posta>("de-cuento-en-cuento/posta.json"));
+export const loadPosta = cache((): Posta => readJson<Posta>("quinta-escena-podcast/posta.json"));
 
 export const loadVenues = cache((): Venue[] => readCollection<Venue>("venues"));
 export const loadEvents = cache((): EventEntity[] => readCollection<EventEntity>("events"));

@@ -1,4 +1,4 @@
-# PROGRESO — ESCENA VALPARAÍSO
+# PROGRESO — QUINTA ESCENA
 
 Bitácora por fase. Cada entrada: qué se hizo, qué falta, riesgos, decisiones, próximos pasos.
 
@@ -10,7 +10,7 @@ Bitácora por fase. Cada entrada: qué se hizo, qué falta, riesgos, decisiones,
 
 **Auditoría de Aplauzo** (`docs/AUDITORIA_APLAUZO.md`): lectura completa del repositorio de producción (`~/Documents/WebAplauzo`) y del workspace (`~/Documents/Aplauzo`), sin modificar nada. Stack detectado: React 18 UMD + Babel en el navegador, sin build; datos en `window.APLAUZO`; navegación por estado sin URLs; mapa mundial d3 + topojson; buscador en memoria; Supabase para envíos con moderación (esquema solo en el workspace, no versionado); SEO inexistente. Se listó qué reutilizar (patrón de moderación, esquema declarativo de formularios, normalización de búsqueda, enfoque d3 del mapa, estados vacíos, tokens CSS), qué no copiar (identidad, contenido, mapa mundial, datos demo, image-slot, tweaks, admin por correo fijo, Babel en el navegador) y qué refactorizar.
 
-**Carpeta nueva** `~/Documents/escena-valparaiso/`, hermana de Aplauzo y WebAplauzo, con: `CLAUDE.md`, `README.md`, `docs/` (SOUL, ARQUITECTURA, MODELO_DATOS, MAPA, EDITORIAL, DE_CUENTO_EN_CUENTO, INVESTIGACION, CRITERIOS_VERIFICACION, SEO, ROADMAP, este archivo), `.claude/skills/` (12 skills), `data/` (esquemas, vocabularios, territorios, serie, protagonistas, compañías, obras, cola), `scripts/validar_datos.py`, `public/geo/FUENTES.md`, `src/README.md` (vacío a propósito), `.gitignore`, `.editorconfig`.
+**Carpeta nueva** `~/Documents/quinta-escena/`, hermana de Aplauzo y WebAplauzo, con: `CLAUDE.md`, `README.md`, `docs/` (SOUL, ARQUITECTURA, MODELO_DATOS, MAPA, EDITORIAL, QUINTA_ESCENA_PODCAST, INVESTIGACION, CRITERIOS_VERIFICACION, SEO, ROADMAP, este archivo), `.claude/skills/` (12 skills), `data/` (esquemas, vocabularios, territorios, serie, protagonistas, compañías, obras, cola), `scripts/validar_datos.py`, `public/geo/FUENTES.md`, `src/README.md` (vacío a propósito), `.gitignore`, `.editorconfig`.
 
 **Arquitectura propuesta**: Next.js 15 (App Router, TypeScript) en Vercel; Supabase propio (Postgres + PostGIS + Auth + Storage + RLS); CSS Modules con tokens; mapa regional SVG (d3-geo + geometría oficial de comunas) y mapa de detalle con OpenStreetMap; búsqueda con Postgres full-text; panel `/admin` con roles; analítica con eventos (Plausible). Estructura de carpetas, navegación de 11 secciones, portada de 10 bloques, componentes reutilizables y nuevos, flujos de descubrimiento, participación y verificación.
 
@@ -18,9 +18,9 @@ Bitácora por fase. Cada entrada: qué se hizo, qué falta, riesgos, decisiones,
 
 **Sistema territorial**: 8 provincias y 38 comunas verificadas con la Biblioteca del Congreso Nacional; códigos únicos territoriales (región 05, provincias 051–058, 38 comunas) verificados con el documento oficial de SUBDERE. Isla de Pascua y Juan Fernández incluidas como territorios insulares.
 
-**De Cuento en Cuento**: serie, 7 episodios y 7 entregas de La Posta según `ruta.py` y la propuesta vigente; 7 protagonistas, 6 agrupaciones y 4 obras con fuentes y estado `pendiente`; sin RUT ni datos personales. Discrepancias registradas (28 objetos del brief frente a 7 de la propuesta; lengua de señas en 4 o 7 capítulos).
+**Quinta Escena Podcast**: serie, 7 episodios y 7 entregas de La Posta según `ruta.py` y la propuesta vigente; 7 protagonistas, 6 agrupaciones y 4 obras con fuentes y estado `pendiente`; sin RUT ni datos personales. Discrepancias registradas (28 objetos del brief frente a 7 de la propuesta; lengua de señas en 4 o 7 capítulos).
 
-**Skills**: buscar-companias-teatro, buscar-artistas-escenicos, buscar-cartelera, buscar-festivales, buscar-espacios-escenicos, buscar-convocatorias, buscar-oficios-escenicos, buscar-archivo-teatral, verificar-datos, investigar-territorio, investigar-de-cuento-en-cuento, auditar-fuente.
+**Skills**: buscar-companias-teatro, buscar-artistas-escenicos, buscar-cartelera, buscar-festivales, buscar-espacios-escenicos, buscar-convocatorias, buscar-oficios-escenicos, buscar-archivo-teatral, verificar-datos, investigar-territorio, investigar-quinta-escena-podcast, auditar-fuente.
 
 **Cola de investigación**: 112 tareas (17 en curso, 95 pendientes): protagonistas, agrupaciones, compañías candidatas del catálogo oficial de títeres 2025 y del levantamiento interno, artistas mencionados, espacios y organizaciones, festivales, convocatorias, fuentes a auditar y las 38 comunas (prioridad alta en Los Andes, San Felipe de Aconcagua, Petorca y Quillota).
 
@@ -52,10 +52,10 @@ Bitácora por fase. Cada entrada: qué se hizo, qué falta, riesgos, decisiones,
 
 ### Próximos pasos
 
-1. Usuario revisa `docs/ARQUITECTURA.md`, `docs/MODELO_DATOS.md`, `docs/MAPA.md` y decide sobre las discrepancias de `docs/DE_CUENTO_EN_CUENTO.md` §9.
-2. Fase 2: diseño visual (identidad propia + relación con la de De Cuento en Cuento).
+1. Usuario revisa `docs/ARQUITECTURA.md`, `docs/MODELO_DATOS.md`, `docs/MAPA.md` y decide sobre las discrepancias de `docs/QUINTA_ESCENA_PODCAST.md` §9.
+2. Fase 2: diseño visual (identidad propia + relación con la de Quinta Escena Podcast).
 3. Fase 3: proyecto Supabase, migraciones, importador.
-4. En paralelo: correr `investigar-de-cuento-en-cuento` para registrar URLs de fuentes y `investigar-territorio` en las provincias interiores.
+4. En paralelo: correr `investigar-quinta-escena-podcast` para registrar URLs de fuentes y `investigar-territorio` en las provincias interiores.
 
 ---
 
@@ -71,9 +71,9 @@ El usuario revisó la Fase 1 y, ante la pregunta de si podía ver la página, re
 
 **Capa de datos** (`src/lib/data/`, `src/lib/queries/`): tipos espejo de `data/schemas/`; `visibility.ts` implementa el umbral de publicación (`published && verificado && score ≥ 70`) y un modo previsualización (activo por defecto fuera de producción) que muestra fichas `pendiente` con aviso «en verificación», nunca indexable (`isIndexable` exige publicable). Consultas por comuna, provincia, compañía, artista, obra y episodio; conteos por territorio.
 
-**Sistema visual** (`src/styles/tokens.css`, `globals.css`): paleta papel/tinta con un acento mar y uno cerro; tipografía de sistema (serif de despliegue, sans de texto, mono para metadatos); De Cuento en Cuento conserva su coral, amarillo y crema (`docs/DE_CUENTO_EN_CUENTO.md` §11) en franjas propias. Mobile first: navegación con menú de pantalla completa bajo 1180px, rejillas fluidas, mapa táctil.
+**Sistema visual** (`src/styles/tokens.css`, `globals.css`): paleta papel/tinta con un acento mar y uno cerro; tipografía de sistema (serif de despliegue, sans de texto, mono para metadatos); Quinta Escena Podcast conserva su coral, amarillo y crema (`docs/QUINTA_ESCENA_PODCAST.md` §11) en franjas propias. Mobile first: navegación con menú de pantalla completa bajo 1180px, rejillas fluidas, mapa táctil.
 
-**Páginas** (`src/app/`): portada (10 bloques), `/buscar` (índice en memoria con tokenización sin acentos, agrupado por tipo), `/mapa`, `/territorios` con provincia y comuna, `/companias`, `/artistas`, `/obras` con listado y ficha, `/oficios` (17 oficios, perfiles reales por oficio), `/de-cuento-en-cuento` con episodios, La Posta y protagonistas, `/cartelera`, `/convocatorias`, `/editorial`, `/formacion`, `/archivo`, `/espacios` con estado vacío honesto y llamada a proponer, `/participa` (formulario sin login, con `POST /api/participa`), `/datos` (política de verificación pública), `sitemap.xml` (solo fichas publicables), `robots.txt`, imagen Open Graph generada. Cada ficha muestra `VerificationBadge`, `SourceList` con nivel y fecha de consulta, y "Sigue explorando" (misma provincia). JSON-LD por tipo de página.
+**Páginas** (`src/app/`): portada (10 bloques), `/buscar` (índice en memoria con tokenización sin acentos, agrupado por tipo), `/mapa`, `/territorios` con provincia y comuna, `/companias`, `/artistas`, `/obras` con listado y ficha, `/oficios` (17 oficios, perfiles reales por oficio), `/quinta-escena-podcast` con episodios, La Posta y protagonistas, `/cartelera`, `/convocatorias`, `/editorial`, `/formacion`, `/archivo`, `/espacios` con estado vacío honesto y llamada a proponer, `/participa` (formulario sin login, con `POST /api/participa`), `/datos` (política de verificación pública), `sitemap.xml` (solo fichas publicables), `robots.txt`, imagen Open Graph generada. Cada ficha muestra `VerificationBadge`, `SourceList` con nivel y fecha de consulta, y "Sigue explorando" (misma provincia). JSON-LD por tipo de página.
 
 **Mapa regional** (`src/components/map/RegionMap.tsx`, `src/lib/geo/load.ts`): se descargó la División Político Administrativa 2023 (SUBDERE/IDE Chile, autorizada por Resolución DIFROL N.º 87 de 2023) y se procesó con `mapshaper` a `public/geo/valparaiso.topo.json` (~46 KB): 38 comunas, 7 provincias continentales disueltas, Isla de Pascua y Juan Fernández en capas propias. Documentado en `public/geo/FUENTES.md` con fuente, licencia y pasos de procesamiento, como exige `docs/MAPA.md`. Renderizado en servidor con `d3-geo` (`geoMercator` + `geoPath`), sin JavaScript para el primer pintado; cada comuna es un `<a>` enfocable con nombre accesible y conteo. Vista regional con recuadros insulares; vista de provincia enfocada, incluida Isla de Pascua (la isla pasa a ser el contenido principal cuando la provincia no tiene comunas continentales) y Valparaíso (Juan Fernández como recuadro dentro de su propia provincia). Se aprovechó el procesamiento para calcular y registrar en `data/territories/comunas.json` un punto interior (no el centroide geométrico exacto) por cada una de las 38 comunas, con su fuente, completando el dato que estaba en `null`.
 
@@ -118,14 +118,14 @@ El usuario pidió "una gran búsqueda" para llenar el sitio con información rea
 
 ### Qué se hizo
 
-Búsqueda y verificación con `WebSearch`/`WebFetch` (siguiendo `docs/INVESTIGACION.md` y las skills `investigar-de-cuento-en-cuento` y `verificar-datos`) sobre los siete protagonistas y sus obras/agrupaciones. Resultado: **5 registros pasaron a `verificado`** con fuentes públicas reales, dos quedaron con mejor puntaje sin llegar al umbral, y se actualizaron seis tareas de `research_queue.json`:
+Búsqueda y verificación con `WebSearch`/`WebFetch` (siguiendo `docs/INVESTIGACION.md` y las skills `investigar-quinta-escena-podcast` y `verificar-datos`) sobre los siete protagonistas y sus obras/agrupaciones. Resultado: **5 registros pasaron a `verificado`** con fuentes públicas reales, dos quedaron con mejor puntaje sin llegar al umbral, y se actualizaron seis tareas de `research_queue.json`:
 
 - **Hugo Hernández Urtubia** y **Compañía de Marionetas The Magic Show**: verificados (score 75) con [Diario El Trabajo, 24 de agosto de 2026](https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/), que confirma el reconocimiento SIGPA como cultor («más de 20 años de trayectoria», no los 25 exactos citados internamente) y la función del 25 de agosto de 2026 en la Escuela Mateo Cokljat de San Felipe. *Varieté de Marionetas Musicales* subió a score 62 (sigue `pendiente`: falta fuente propia de dirección, estreno y sinopsis).
 - **Nelson Rojas Torres**: verificado (score 70, en el límite) con una fuente institucional propia del Ministerio de las Culturas ([bitácora de residencias, página dedicada a él](https://bitacoraresidencias.cultura.gob.cl/conversaciones-entre-territorios-nelson-rojas-torres-con-vasili-carrillo-nova/)) que confirma su rol de gestor cultural en la residencia «Recolectores de Memoria» (Lota, 2018). Arte Escénico La Ligua subió a score 60 (se encontró y registró la cuenta de Instagram oficial del Festival Valle del Liwa, pero sin abrirla para confirmar contenido; sigue `pendiente`).
 - **Alan Fernández Caro**, **Compañía de Teatro La Lancha** y la obra **Llo Lle We**: se localizó [El Proa, 24 de diciembre de 2021](https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/), que confirma elenco completo (agregando a Diego Chamorro como director y actor, y a los músicos Francisco Luco y Pablo Urtubia), sinopsis y más de 23 funciones a esa fecha en la Plaza de Llolleo, Lo Abarca y Santiago. Alan Fernández y la compañía quedaron `verificado` (score 75); la obra quedó en score 63 (`pendiente`: la fuente es real pero antigua —casi 5 años— y no hay fuente nivel 1 propia de la obra).
 - **Carlos Muñoz Rivera / Festín de la Risa**: sin cambios de score. Dos artículos prometedores (sientevalpo.cl, elmartutino.cl) aparecieron en la búsqueda pero no se pudieron abrir (404 y 403); quedan como pista en `research_queue.json` (rq-002) para un próximo intento.
 
-En todos los casos se dejó `published: false`: la publicación sigue siendo una decisión explícita de una persona del equipo (`docs/CRITERIOS_VERIFICACION.md` §3), y para los siete protagonistas de la serie además falta la validación directa con cada persona (`docs/DE_CUENTO_EN_CUENTO.md` §10), anotada explícitamente en cada `verification.note`.
+En todos los casos se dejó `published: false`: la publicación sigue siendo una decisión explícita de una persona del equipo (`docs/CRITERIOS_VERIFICACION.md` §3), y para los siete protagonistas de la serie además falta la validación directa con cada persona (`docs/QUINTA_ESCENA_PODCAST.md` §10), anotada explícitamente en cada `verification.note`.
 
 `python3 scripts/validar_datos.py` sigue en 0 errores tras los cambios; las 13 pruebas de Vitest siguen en verde; se confirmó visualmente en el sitio local que las fichas de Hugo Hernández y de la Compañía de Teatro La Lancha ya muestran el estado "Ficha verificada".
 
@@ -192,7 +192,7 @@ El usuario eligió continuar la investigación por "espacios y cartelera primero
 
 ### Contexto
 
-El usuario pidió subir el sitio a Vercel. Se autenticó esta sesión con su cuenta de Vercel (flujo OAuth por dispositivo, con su autorización explícita), se vinculó al proyecto `escena-valparaiso` que él ya había creado, y se confirmó que el despliegue automático desde GitHub ya estaba activo: cada push a `main` se despliega solo a `https://escena-valparaiso.vercel.app`.
+El usuario pidió subir el sitio a Vercel. Se autenticó esta sesión con su cuenta de Vercel (flujo OAuth por dispositivo, con su autorización explícita), se vinculó al proyecto `quinta-escena` que él ya había creado, y se confirmó que el despliegue automático desde GitHub ya estaba activo: cada push a `main` se despliega solo a `https://quinta-escena.vercel.app`.
 
 Al revisar el sitio desplegado se encontraron y corrigieron dos problemas reales, y luego el usuario pidió explícitamente mostrar en la URL pública el contenido que hasta ese momento solo se veía en modo previsualización privado. Se le planteó la contrapartida (los siete perfiles de la serie no han sido validados con cada persona) antes de proceder, y reafirmó la decisión.
 
@@ -200,7 +200,7 @@ Al revisar el sitio desplegado se encontraron y corrigieron dos problemas reales
 
 1. **URL pública del sitio corregida**: `NEXT_PUBLIC_SITE_URL` había quedado configurada en Vercel con el valor de ejemplo (`http://localhost:3000`), horneado en el sitemap y las URLs canónicas de producción. Se reescribió `siteUrl()` (`src/lib/site.ts`) para que use las variables que Vercel expone automáticamente (`VERCEL_PROJECT_PRODUCTION_URL`, `VERCEL_URL`) en vez de depender de una variable configurada a mano, y se eliminó la variable mal configurada.
 2. **Vista previa privada creada** (`vercel deploy`, sin `--prod`) con `ESCENA_PREVIEW=1` como variable de entorno propia del ambiente *Preview*: una URL protegida por el login de Vercel del usuario, donde se podía revisar todo el contenido en verificación sin exponerlo públicamente.
-3. **Decisión explícita de publicar el contenido en verificación en producción**: a pedido directo del usuario, se agregó `ESCENA_PREVIEW=1` también al ambiente *Production* y se redesplegó. Esto activa el modo previsualización (`previewEnabled()`, `src/lib/data/visibility.ts`) para cualquier visitante de `escena-valparaiso.vercel.app`, no solo para el equipo.
+3. **Decisión explícita de publicar el contenido en verificación en producción**: a pedido directo del usuario, se agregó `ESCENA_PREVIEW=1` también al ambiente *Production* y se redesplegó. Esto activa el modo previsualización (`previewEnabled()`, `src/lib/data/visibility.ts`) para cualquier visitante de `quinta-escena.vercel.app`, no solo para el equipo.
 
 ### Qué significa esto en la práctica
 
@@ -211,7 +211,7 @@ Al revisar el sitio desplegado se encontraron y corrigieron dos problemas reales
 
 ### Riesgos
 
-- **Los siete protagonistas de la serie no han validado su ficha.** `docs/DE_CUENTO_EN_CUENTO.md` §10 exige esa validación antes de publicar, y ahora sus fichas (incluidas las 5 con score ≥ 70) son visibles públicamente aunque de forma honesta (con el aviso de verificación). Si alguna persona pide corrección o retiro, atenderlo en menos de 7 días según `docs/CRITERIOS_VERIFICACION.md` §7.
+- **Los siete protagonistas de la serie no han validado su ficha.** `docs/QUINTA_ESCENA_PODCAST.md` §10 exige esa validación antes de publicar, y ahora sus fichas (incluidas las 5 con score ≥ 70) son visibles públicamente aunque de forma honesta (con el aviso de verificación). Si alguna persona pide corrección o retiro, atenderlo en menos de 7 días según `docs/CRITERIOS_VERIFICACION.md` §7.
 - Revertir es tan simple como quitar `ESCENA_PREVIEW` del ambiente Production en Vercel (`vercel env rm ESCENA_PREVIEW production`) y redesplegar.
 
 ### Próximos pasos

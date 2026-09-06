@@ -1,6 +1,6 @@
 # Investigación
 
-Cómo se encuentran, documentan y verifican las entidades de ESCENA VALPARAÍSO. Las skills en `.claude/skills/` aplican esta metodología por tipo.
+Cómo se encuentran, documentan y verifican las entidades de QUINTA ESCENA. Las skills en `.claude/skills/` aplican esta metodología por tipo.
 
 ## 1. Regla fundamental
 
@@ -98,7 +98,7 @@ Estados: `pending`, `in_progress`, `done`, `discarded`. Prioridad: `high` (prota
 | 3 | Espacios escénicos: teatros, salas, centros culturales, museos, independientes, municipales, universitarios | `data/venues/` | `buscar-espacios-escenicos` |
 | 4 | Cartelera regional (con fecha verificada y fuente; nunca copiada automáticamente) | `data/events/` | `buscar-cartelera` |
 | 5 | Fondos, convocatorias y oportunidades (regionales, Fondos de Cultura, municipios, universidades, festivales, residencias) | `data/calls/` | `buscar-convocatorias` |
-| 6 | Historia de las artes escénicas de la región (alimenta Archivo, Editorial, Memoria y De Cuento en Cuento) | `data/archive/`, editorial | `buscar-archivo-teatral` |
+| 6 | Historia de las artes escénicas de la región (alimenta Archivo, Editorial, Memoria y Quinta Escena Podcast) | `data/archive/`, editorial | `buscar-archivo-teatral` |
 
 Cada investigación produce registros con fuente, score y estado `pendiente`; la verificación es un paso aparte (`verificar-datos`, `auditar-fuente`).
 
@@ -116,5 +116,5 @@ Cada investigación produce registros con fuente, score y estado `pendiente`; la
 | `buscar-archivo-teatral` | Levanta memoria y archivo |
 | `verificar-datos` | Aplica criterios de verificación y score |
 | `investigar-territorio` | Investiga una comuna completa |
-| `investigar-de-cuento-en-cuento` | Completa datos de la serie desde los documentos del proyecto |
+| `investigar-quinta-escena-podcast` | Completa datos de la serie desde los documentos del proyecto |
 | `auditar-fuente` | Evalúa una fuente: nivel, vigencia, fiabilidad |

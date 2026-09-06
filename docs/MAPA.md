@@ -23,7 +23,7 @@ Un mapa **exclusivo de la Región de Valparaíso**, no del mundo ni de Iberoamé
 | 2 | Quiénes lo hacen | compañías, artistas | comuna de sede (centroide) o sede verificada |
 | 3 | Dónde trabajan | sedes, salas de ensayo, talleres declarados | dirección verificada y autorizada |
 | 4 | Qué contenidos existen | editorial, archivo, formación | comuna asociada |
-| 5 | De Cuento en Cuento | episodios, locaciones naturales, ruta de La Posta | comuna + locación natural |
+| 5 | Quinta Escena Podcast | episodios, locaciones naturales, ruta de La Posta | comuna + locación natural |
 | 6 | Espacios escénicos | teatros, centros culturales, salas, espacios no convencionales | dirección verificada |
 
 Cada capa se activa con un chip; en móvil, un selector horizontal. Al tocar una comuna se abre un panel inferior con el resumen por capa y enlace a `/territorios/<comuna>`.

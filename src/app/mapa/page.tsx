@@ -11,11 +11,11 @@ import { pageMetadata } from "@/lib/seo/metadata";
 
 export const metadata: Metadata = pageMetadata({
   title: "Mapa de las artes escénicas de la Región de Valparaíso",
-  description: "Mapa regional de compañías, artistas, espacios, cartelera, contenidos y episodios de De Cuento en Cuento por provincia y comuna, con Isla de Pascua y Juan Fernández.",
+  description: "Mapa regional de compañías, artistas, espacios, cartelera, contenidos y episodios de Quinta Escena Podcast por provincia y comuna, con Isla de Pascua y Juan Fernández.",
   path: "/mapa",
 });
 
-const LAYERS = ["Qué está pasando", "Quiénes lo hacen", "Dónde trabajan", "Qué contenidos existen", "De Cuento en Cuento", "Espacios escénicos"];
+const LAYERS = ["Qué está pasando", "Quiénes lo hacen", "Dónde trabajan", "Qué contenidos existen", "Quinta Escena Podcast", "Espacios escénicos"];
 
 export default function MapPage() {
   const geo = loadRegionGeo();

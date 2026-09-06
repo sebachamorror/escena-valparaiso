@@ -104,7 +104,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
               {a.funding_awards.length > 0 && <Block title="Fondos" id="fondos"><FundingList items={a.funding_awards} /></Block>}
               {a.festivals.length > 0 && <Block title="Festivales" id="festivales"><FestivalList items={a.festivals} /></Block>}
               {episodes.length > 0 && (
-                <Block title="En De Cuento en Cuento" id="dcc"><div className="grid-2">{episodes.map((e) => <EpisodeCard key={e.slug} e={e} protagonistName={a.name} />)}</div></Block>
+                <Block title="En Quinta Escena Podcast" id="dcc"><div className="grid-2">{episodes.map((e) => <EpisodeCard key={e.slug} e={e} protagonistName={a.name} />)}</div></Block>
               )}
               <SourceList sources={a.sources} />
               {a.verification.note && <p className="small muted">Nota de verificación: {a.verification.note}</p>}

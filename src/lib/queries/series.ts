@@ -12,7 +12,7 @@ export function episodeUrlSlug(ep: Episode): string {
 }
 
 export function episodeUrl(ep: Episode): string {
-  return `/de-cuento-en-cuento/episodios/${episodeUrlSlug(ep)}`;
+  return `/quinta-escena-podcast/episodios/${episodeUrlSlug(ep)}`;
 }
 
 export const getEpisodeByUrlSlug = cache((urlSlug: string): Episode | undefined => {

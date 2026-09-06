@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "escena-valparaiso/research_task.schema.json",
+  "$id": "quinta-escena/research_task.schema.json",
   "title": "Tarea de la cola de investigación",
   "type": "object",
   "required": ["target", "target_type", "status", "priority", "origin", "added_at"],

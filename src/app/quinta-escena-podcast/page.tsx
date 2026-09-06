@@ -13,9 +13,9 @@ import { pageMetadata } from "@/lib/seo/metadata";
 import dcc from "@/components/dcc/dcc.module.css";
 
 export const metadata: Metadata = pageMetadata({
-  title: "De Cuento en Cuento · serie original",
+  title: "Quinta Escena Podcast · serie original",
   description: "Un juglar recorre la Región de Valparaíso en un furgón amarillo llamado Molière para descubrir a quienes mantienen vivas sus artes escénicas. Siete capítulos, siete provincias, de la cordillera al mar.",
-  path: "/de-cuento-en-cuento",
+  path: "/quinta-escena-podcast",
 });
 
 export default function SeriesPage() {
@@ -28,8 +28,8 @@ export default function SeriesPage() {
     <>
       <div className={dcc.band}>
         <div className={`wrap ${dcc.bandInner}`}>
-          <p className={dcc.kicker}>Serie original de ESCENA VALPARAÍSO · Temporada {s.season} · {s.status === "planificada" ? "en preparación" : s.status}</p>
-          <h1 className={dcc.title} style={{ marginTop: "var(--s-3)" }}>De Cuento <em>en</em> Cuento</h1>
+          <p className={dcc.kicker}>Serie original de QUINTA ESCENA · Temporada {s.season} · {s.status === "planificada" ? "en preparación" : s.status}</p>
+          <h1 className={dcc.title} style={{ marginTop: "var(--s-3)" }}>Quinta Escena <em>Podcast</em></h1>
           <p className={dcc.descriptor} style={{ marginTop: "var(--s-2)" }}>{s.descriptor}</p>
           <p className="lead" style={{ marginTop: "var(--s-4)", color: "inherit" }}>{s.subtitle}</p>
           <RouteStrip episodes={episodes} />
@@ -62,16 +62,16 @@ export default function SeriesPage() {
         </section>
 
         <section className="section" aria-labelledby="episodios">
-          <SectionHead id="episodios" title="Siete capítulos" sub="De la cordillera al mar. Partida y retorno desde San Antonio." action={<Link href="/de-cuento-en-cuento/protagonistas" className="link-more">Protagonistas</Link>} />
+          <SectionHead id="episodios" title="Siete capítulos" sub="De la cordillera al mar. Partida y retorno desde San Antonio." action={<Link href="/quinta-escena-podcast/protagonistas" className="link-more">Protagonistas</Link>} />
           <div className="grid-3">
             {episodes.map((e) => <EpisodeCard key={e.slug} e={e} protagonistName={e.protagonist_artist ? getArtist(e.protagonist_artist)?.name : null} />)}
           </div>
         </section>
 
         <section className="section" aria-labelledby="posta">
-          <SectionHead id="posta" title="La Posta" sub="Un objeto y un mensaje viajan en Molière hasta el siguiente territorio." action={<Link href="/de-cuento-en-cuento/la-posta" className="link-more">Las siete entregas</Link>} />
+          <SectionHead id="posta" title="La Posta" sub="Un objeto y un mensaje viajan en Molière hasta el siguiente territorio." action={<Link href="/quinta-escena-podcast/la-posta" className="link-more">Las siete entregas</Link>} />
           <PostaTimeline handovers={posta.handovers.slice(0, 3)} />
-          <p><Link href="/de-cuento-en-cuento/la-posta" className="btn btn-sm">Ver la posta completa</Link></p>
+          <p><Link href="/quinta-escena-podcast/la-posta" className="btn btn-sm">Ver la posta completa</Link></p>
         </section>
 
         <section className="section" aria-labelledby="compromisos">

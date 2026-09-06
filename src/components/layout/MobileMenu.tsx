@@ -41,7 +41,7 @@ export function MobileMenu() {
       {open && (
         <div id="menu-principal" className={styles.panel} role="dialog" aria-modal="true" aria-label={t.menu}>
           <div className={styles.panelTop}>
-            <span className="eyebrow">ESCENA VALPARAÍSO</span>
+            <span className="eyebrow">QUINTA ESCENA</span>
             <button ref={closeRef} type="button" className={styles.iconBtn} onClick={() => setOpen(false)}>
               {t.close}
             </button>

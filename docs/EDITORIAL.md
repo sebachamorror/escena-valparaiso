@@ -30,9 +30,9 @@ Toda publicación enlaza a las fichas de las entidades que menciona y aparece en
 
 17 oficios: actuación, dramaturgia, dirección, iluminación, sonido, escenografía, vestuario, utilería, maquillaje, títeres, producción, gestión, mediación, técnica, música escénica, circo, narración oral.
 
-Cada oficio tiene una página que reúne artículos, videos, entrevistas, tutoriales, perfiles profesionales de la región y episodios de De Cuento en Cuento donde ese oficio se muestra. Un oficio sin contenido muestra un estado vacío con llamada a proponer.
+Cada oficio tiene una página que reúne artículos, videos, entrevistas, tutoriales, perfiles profesionales de la región y episodios de Quinta Escena Podcast donde ese oficio se muestra. Un oficio sin contenido muestra un estado vacío con llamada a proponer.
 
-## 7. Relación con De Cuento en Cuento
+## 7. Relación con Quinta Escena Podcast
 
 Cada episodio genera, como mínimo: un perfil del protagonista, una pieza de "detrás de cámaras" y una nota territorial ("qué más pasa en esta provincia"). Estas piezas son publicaciones normales con la etiqueta de la serie.
 
