@@ -296,3 +296,33 @@ El usuario pidió una búsqueda mayor en toda la web de teatro, compañías y pa
 2. Resolver la discrepancia de edición del Festival Valle del Liwa (`rq-155`) y reintentar el acceso a `festivalvalledelliwa.cl` (`rq-156`).
 3. Seguir la pista de la itinerancia "Mujeres en la Escena" (Quillota 23-sep-2026, Quilpué/Colliguay 24-oct-2026) buscando una fuente oficial (Ministerio, gestora o compañías) antes de registrarla como cartelera.
 4. Completar las fichas de compañía nuevas que quedaron sin comuna de sede (La Barconeta, Vaccaro Puppets, Hypókritas) contactando directamente por los correos públicos ya hallados, o revisando sus redes sociales desde un entorno con acceso a Instagram.
+
+---
+
+## Propuesta 2027: contenido editable y exportación a PPTX · sesión 2026-09-06
+
+### Contexto
+
+El usuario va a seguir editando el texto de `/propuesta` por un tiempo, y pidió dos cosas: (1) que la estructura del código haga esos cambios baratos de aplicar, y (2) que en paralelo exista siempre una versión que pueda subir a Canva y editar a mano. También pidió más fotografías propuestas (manteniendo la estética de los cuadros existentes) y que las capturas de pantalla muestren `quinta-escena.cl` en vez del dominio de Vercel, aclarando que es un mockup y que el dominio está libre para registrar.
+
+### Qué se hizo
+
+- **Contenido separado del layout**: todo el texto de la propuesta (30 páginas) se movió a `src/app/propuesta/content.json`, con un esquema de bloques (`p`, `h3`, `quote`, `list`, `flow`, `table`, `cards`, `shot`, `placeholder`, `twoColLists`). `src/app/propuesta/page.tsx` pasó a ser un renderizador genérico que itera ese JSON. Editar texto ahora es editar strings en un JSON, no JSX anidado.
+- **8 fotografías nuevas propuestas** (además de las 3 ya existentes): paisaje regional, captura de una publicación real de Instagram/TikTok, búsqueda activa en terreno, equipo de registro audiovisual, el juglar caracterizado, intérprete de LSCh, paisaje de Rapa Nui y (ya existente) Molière al cierre. Mismo cuadro punteado que las anteriores.
+- **Apartado de estética** en la página "La plataforma web": tipografías (Anton, Space Grotesk, Space Mono) y paleta de color, respondiendo también la pregunta directa del usuario sobre qué tipografías se usan.
+- **Capturas con dominio mockup**: la barra de navegador de cada captura ahora muestra `quinta-escena.cl` en vez de la URL de Vercel, con una etiqueta "MOCKUP" junto a la URL y una nota explícita la primera vez que aparece una captura: el dominio no está registrado, pero se confirmó su disponibilidad en NIC Chile (nic.cl) el 6 de septiembre de 2026.
+- **Exportación a PowerPoint**: `scripts/export-propuesta-pptx.mjs` (usa `pptxgenjs`, agregado como devDependency) lee el mismo `content.json` y genera un `.pptx` de 30 diapositivas (tamaño A4 vertical, igual proporción que el PDF) con textos, tablas, tarjetas de color y cuadros punteados como elementos editables de verdad, listo para subir a Canva. Se corrió `node scripts/export-propuesta-pptx.mjs`; se verificó con `python-pptx` que ninguna diapositiva desborda el alto de la página y que las imágenes quedaron incrustadas. No se pudo renderizar visualmente el .pptx en este entorno (no hay LibreOffice ni PowerPoint disponibles): la fidelidad visual final se confirma al abrirlo en Canva.
+- **Corregido un bug de impresión** encontrado en el camino: el número de página (esquina superior derecha) quedaba mal alineado en modo impresión cuando el título de una página ocupaba una sola línea larga, superponiéndose con el texto. Se corrigió el offset vertical específico para impresión.
+
+### Flujo de trabajo hacia adelante
+
+Cuando el usuario mande actualizaciones de texto: editar `content.json` (cambio pequeño y mecánico) → correr `node scripts/export-propuesta-pptx.mjs` para regenerar el `.pptx` → regenerar el PDF desde la página en producción → mandar ambos archivos. La página web, el PDF y el PPTX comparten una sola fuente de verdad.
+
+### Verificación
+
+`python3 scripts/validar_datos.py` no aplica (esto no es contenido de `data/`). `npm run typecheck`, `npm test` (13 pruebas) y `npm run build` en verde. Conteo de páginas verificado con Playwright imprimiendo a PDF: exactos 30/30, sin desbordes ni páginas en blanco, en dos iteraciones tras el bug de posicionamiento.
+
+### Próximos pasos
+
+1. Abrir el `.pptx` en Canva y confirmar que la fidelidad visual (tipografías Anton/Space Grotesk, colores, cuadros punteados) es aceptable; ajustar el generador si algo se ve mal.
+2. Si el usuario decide registrar `quinta-escena.cl`, actualizar la nota de la página 8 y evaluar si conviene mover el sitio real a ese dominio.

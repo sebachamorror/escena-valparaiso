@@ -1,0 +1,434 @@
+{
+  "totalPages": 30,
+  "cover": {
+    "eyebrow": "Fondo de Artes Escénicas · Línea Difusión Digital · Concurso 2027",
+    "titleLines": ["Quinta Escena", "Propuesta de Difusión Digital"],
+    "subtitle": "de las artes escénicas de la Región de Valparaíso",
+    "tagline": "La escena está ahí. Vamos a buscarla.",
+    "meta": [
+      ["Ámbito estratégico", "1 · Contenidos Digitales y Fidelización de Públicos"],
+      ["Responsable", "Compañía de Teatro La Lancha SpA"],
+      ["Territorio", "Región de Valparaíso"],
+      ["Documento", "Propuesta · septiembre 2026"]
+    ]
+  },
+  "pages": [
+    {
+      "id": "sintesis",
+      "num": "—",
+      "kicker": "Síntesis ejecutiva",
+      "title": "Un sistema, no una plataforma suelta",
+      "blocks": [
+        { "type": "p", "text": "QUINTA ESCENA es un medio de difusión digital dedicado a las artes escénicas de la Región de Valparaíso. La propuesta articula un medio editorial, una plataforma web, un mapa regional y QUINTA ESCENA PODCAST, una producción audiovisual y sonora itinerante que recorre las siete provincias continentales durante la primera etapa, transformando historias territoriales de artistas, compañías y espacios en contenidos capaces de generar descubrimiento, conducir a una exploración digital y convertir esa curiosidad en nuevas posibilidades de encuentro." },
+        { "type": "flow", "items": ["persona", "historia", "curiosidad", "territorio", "otros artistas", "mapa", "actividad", "participación", "retorno"] },
+        { "type": "table", "headers": ["Componente", "Definición"], "rows": [
+          ["Objetivo", "Ampliar y diversificar públicos, haciendo más visibles, descubribles y conectables las artes escénicas regionales."],
+          ["Motor principal", "7 episodios de QUINTA ESCENA PODCAST + contenidos verticales, audio, perfiles y participación."],
+          ["Infraestructura", "Sitio web + mapa regional + perfiles + sistema editorial y participativo."],
+          ["Disciplinas", "Teatro, títeres, circo/clown y narración oral, con participación significativa durante el proyecto."],
+          ["Públicos", "Principal: adultos 25–44 vinculados a decisiones culturales familiares. Descubrimiento: 15–29. Público sectorial: agentes escénicos."],
+          ["Accesibilidad", "Subtítulos, interpretación profesional en LSCh, versiones sonoras y diseño web accesible."],
+          ["Duración", "Hasta 12 meses; primera etapa territorial concentrada en las siete provincias continentales."]
+        ] }
+      ]
+    },
+    {
+      "id": "descripcion",
+      "num": "1",
+      "kicker": "Descripción de la propuesta",
+      "title": "Cuatro dimensiones que habitualmente aparecen separadas",
+      "blocks": [
+        { "type": "p", "text": "QUINTA ESCENA es un medio de difusión digital dedicado a las artes escénicas de la Región de Valparaíso. Su propósito es hacer visible, descubrible y conectable una actividad escénica que existe en todo el territorio regional, pero cuya información se encuentra dispersa entre redes sociales, organizaciones, instituciones, sitios web, publicaciones puntuales y circuitos profesionales." },
+        { "type": "list", "items": [
+          "**Un medio digital**, que comunica y editorializa la actividad escénica.",
+          "**Una plataforma web**, que organiza información permanente sobre compañías, artistas, obras, temporadas, funciones, panoramas y espacios.",
+          "**Un mapa regional**, que permite visualizar territorialmente quiénes hacen artes escénicas y dónde ocurren.",
+          "**QUINTA ESCENA PODCAST**, una producción audiovisual y sonora itinerante que sale físicamente a buscar a los artistas y sus territorios."
+        ] },
+        { "type": "p", "text": "La plataforma no constituye el proyecto completo: es la infraestructura que permite que el descubrimiento producido por el medio tenga dónde continuar. El podcast tampoco es un producto aislado: es el principal mecanismo editorial y audiovisual de circulación durante la primera etapa." },
+        { "type": "quote", "text": "La búsqueda territorial produce historias; las historias producen contenidos; los contenidos producen descubrimiento; el descubrimiento conduce a QUINTA ESCENA; QUINTA ESCENA permite seguir descubriendo la escena regional." }
+      ]
+    },
+    {
+      "id": "problema",
+      "num": "2",
+      "kicker": "El problema que aborda",
+      "title": "Existe una escena regional, pero no una percepción compartida de ella",
+      "lead": "La pregunta que origina QUINTA ESCENA es sencilla: ¿cómo puede una persona descubrir que en su propia región existe una escena escénica mucho mayor de la que conoce?",
+      "blocks": [
+        { "type": "p", "text": "La Región de Valparaíso es territorialmente extensa y culturalmente diversa: comprende el territorio continental desde la cordillera hasta el océano y también territorios insulares como Rapa Nui. Esta extensión produce distancias entre las comunidades culturales. La actividad escénica se desarrolla en múltiples provincias y comunas, pero gran parte de la producción, circulación y visibilidad se concentra en los principales centros urbanos." },
+        { "type": "p", "text": "La dificultad no está exclusivamente en conseguir información. Está en encontrarla, comprenderla y sentir interés por ella." },
+        { "type": "cards", "columns": 2, "items": [
+          { "title": "13,11%", "text": "Participación en obras de teatro, la menor de las actividades culturales medidas (Estrategia Quinquenal Regional de Cultura 2024–2029).", "bg": "gold" },
+          { "title": "375 espacios", "text": "De uso cultural en la región, el 28% del total nacional. La dificultad no se explica por falta de espacios o de actividad, sino por la brecha entre la oferta disponible y la capacidad de los públicos para descubrirla.", "bg": "sky" }
+        ] },
+        { "type": "placeholder", "text": "Paisaje representativo de la región: cordillera, valle y borde costero en una sola imagen panorámica, mostrando la extensión del territorio." }
+      ]
+    },
+    {
+      "id": "dificultad",
+      "num": "3",
+      "kicker": "Una dificultad particular",
+      "title": "La información se reúne, pero no necesariamente circula",
+      "blocks": [
+        { "type": "p", "text": "Existen organizaciones, redes, instituciones, municipalidades, centros culturales y agrupaciones que cumplen funciones importantes de articulación del sector. Pero muchas de estas redes tienen como principal usuario a la propia comunidad cultural: los artistas se comunican entre artistas; las compañías, entre compañías; las instituciones, con instituciones. La información circula dentro del ecosistema, pero no necesariamente consigue salir de él." },
+        { "type": "p", "text": "A eso se suma la temporalidad de las redes sociales. Una publicación puede anunciar una función y desaparecer de la conversación después de algunos días. Una convocatoria puede quedar enterrada. Un artista puede tener una trayectoria extensa, pero no resultar fácilmente encontrable mediante una búsqueda cotidiana." },
+        { "type": "p", "text": "Durante la preparación del proyecto, identificar agentes escénicos de distintas provincias requirió combinar búsquedas en internet, redes sociales, contactos personales y llamadas telefónicas. Incluso personas con larga trayectoria aparecieron fuera de los mecanismos habituales de búsqueda digital." },
+        { "type": "quote", "text": "Si para un equipo especializado resulta difícil encontrar la escena regional, para una persona que no pertenece al sector resulta aún más difícil. QUINTA ESCENA se propone reducir esa distancia." }
+      ]
+    },
+    {
+      "id": "informacion-quieta",
+      "num": "3.1",
+      "kicker": "Cuando la información existe",
+      "title": "Pero queda quieta en un lugar",
+      "lead": "El problema no es la ausencia total de herramientas, sino la forma en que la información se organiza, circula y llega —o no llega— a los públicos generales.",
+      "blocks": [
+        { "type": "p", "text": "La Región ya cuenta con distintos instrumentos digitales que reúnen información cultural: Chile Cultura (ex Elige Cultura) del Ministerio de las Culturas; a escala local, Valpocultura, la agenda del Teatro Municipal, Cartelera Teatral Valparaíso, telon.cl y Entretelones-Valpo; y catálogos especializados como el de compañías de teatro tradicional de títeres, de la Dirección Regional del Servicio Nacional del Patrimonio Cultural. Cada uno cumple una función concreta, pero ninguno construye por sí mismo una puerta de entrada territorial para descubrir la escena regional completa." },
+        { "type": "p", "text": "En otras regiones se han desarrollado instrumentos similares: un catálogo en el Maule, un Catastro Regional del Activo Cultural en Antofagasta (diciembre de 2025), un catastro en Los Lagos y una cartografía en levantamiento en Los Ríos. Su orientación principal está vinculada a la gestión sectorial, la programación o el diseño de políticas públicas." },
+        { "type": "quote", "text": "La oportunidad de QUINTA ESCENA aparece en ese espacio intermedio: no sustituye agendas, catálogos ni ticketeras. La diferencia no está solamente en reunir información. Está en hacer que esa información quiera ser encontrada." }
+      ]
+    },
+    {
+      "id": "evidencia",
+      "num": "5",
+      "kicker": "Evidencia digital que orienta la estrategia",
+      "title": "El comportamiento real de las audiencias, no solo supuestos",
+      "blocks": [
+        { "type": "p", "text": "Durante julio de 2026, la cuenta @sebachamorro alcanzó aproximadamente 234.000 visualizaciones, con un 81% de personas no seguidoras. En una muestra de 16 publicaciones se registraron 550.955 visualizaciones acumuladas; los contenidos de territorio y oficio concentraron el 83% de las visualizaciones y el 96% de los compartidos. Una publicación colaborativa alcanzó 112.446 visualizaciones, 80.515 cuentas y 704 seguidores nuevos." },
+        { "type": "quote", "text": "Cuando una práctica escénica se presenta asociada a una persona, un territorio y una experiencia concreta, aumenta su capacidad de circular fuera de la comunidad cultural inmediata." },
+        { "type": "p", "text": "Por eso la estrategia no se construye desde publicaciones informativas aisladas, sino desde: **persona + territorio + práctica + experiencia + relato.** El contenido vertical se produce específicamente para el lenguaje de cada plataforma, no como recorte de un video horizontal; la experiencia anterior muestra que el formato Reel es una fuente relevante de descubrimiento." },
+        { "type": "placeholder", "text": "Captura de pantalla de una publicación real de Instagram o TikTok de @sebachamorro con alto número de visualizaciones (recorte directo de la app, no un diseño)." }
+      ]
+    },
+    {
+      "id": "medio",
+      "num": "6",
+      "kicker": "Quinta Escena: el medio",
+      "title": "La escena de la Quinta Región",
+      "lead": "La Región de Valparaíso fue conocida durante décadas como la Quinta Región. QUINTA ESCENA resignifica ese nombre y propone una segunda lectura: la escena también ocurre fuera del escenario convencional.",
+      "blocks": [
+        { "type": "flow", "items": ["en las calles", "en los parques", "en los territorios rurales", "en los espacios comunitarios", "en los talleres", "en los viajes", "en las plazas", "en internet"] },
+        { "type": "p", "text": "QUINTA ESCENA será, por tanto, un medio cultural regional, no un portal institucional. Su función será descubrir, seleccionar, producir, contextualizar, conectar y hacer circular información y contenidos relacionados con las artes escénicas." },
+        { "type": "shot", "src": "/propuesta/screenshot-home.png", "path": "/", "alt": "Portada de QUINTA ESCENA con el mapa regional y el buscador", "caption": "La portada del sitio, a modo de ejemplo.", "mockupNote": true },
+        { "type": "p", "class": "small muted", "text": "Las capturas de este documento son maquetas de la plataforma real, con el dominio **quinta-escena.cl** a modo de ejemplo: aún no está registrado, pero se confirmó su disponibilidad en NIC Chile (nic.cl) el 6 de septiembre de 2026." }
+      ]
+    },
+    {
+      "id": "plataforma",
+      "num": "7",
+      "kicker": "La plataforma web",
+      "title": "El principal soporte de permanencia del medio",
+      "lead": "Mientras las redes sociales están orientadas al descubrimiento y la circulación, el sitio web permite profundizar y continuar el vínculo.",
+      "blocks": [
+        { "type": "list", "items": [
+          "**Compañías:** agrupaciones y colectivos escénicos regionales.",
+          "**Artistas:** intérpretes, directores, dramaturgos, narradores, titiriteros, artistas circenses, músicos escénicos y otros oficios.",
+          "**Obras y proyectos, temporadas y funciones, panoramas y espacios.**",
+          "**Editorial** y **QUINTA ESCENA PODCAST:** capítulos, cápsulas, audios y materiales derivados.",
+          "**Mapa regional:** representación territorial de compañías, artistas, espacios y actividades."
+        ] },
+        { "type": "p", "text": "La plataforma no reemplaza los canales propios de los artistas: deriva tráfico hacia ellos, facilitando el encuentro." },
+        { "type": "shot", "src": "/propuesta/screenshot-companias.png", "path": "/companias", "alt": "Directorio de compañías de teatro y artes escénicas", "caption": "Compañías y agrupaciones, filtrables por comuna." },
+        { "type": "h3", "text": "Identidad visual" },
+        { "type": "p", "text": "Tres tipografías de Google Fonts: **Anton** para los títulos (mayúsculas, estilo de póster), **Space Grotesk** para el texto y **Space Mono** para datos y metadatos. Base de papel y tinta con seis colores saturados que rotan por ficha (rosa, lima, oro, cian, violeta, menta), bordes gruesos y sombra dura, inspirados en la gráfica de festival." }
+      ]
+    },
+    {
+      "id": "mapa",
+      "num": "8",
+      "kicker": "El mapa",
+      "title": "Hacer visible la región como escena",
+      "lead": "No solamente permite ubicar geográficamente a un artista: construye una representación distinta del territorio.",
+      "blocks": [
+        { "type": "shot", "src": "/propuesta/screenshot-mapa.png", "path": "/mapa", "alt": "Mapa regional con las ocho provincias y capas de registros", "caption": "Mapa de las ocho provincias, geometría oficial, sin coordenadas inventadas." },
+        { "type": "p", "text": "Una persona podrá mirar la Región de Valparaíso y descubrir quiénes hacen artes escénicas, dónde están, qué hacen, qué obras desarrollan, qué espacios existen y qué actividades ocurren. El mapa se alimenta inicialmente por los agentes encontrados durante la ejecución del proyecto y crece mediante participación y revisión editorial: los artistas y organizaciones pueden proponer información sobre sí mismos o sobre terceros, el equipo realiza búsqueda activa en fuentes públicas, y toda información se revisa antes de incorporarse." }
+      ]
+    },
+    {
+      "id": "podcast-intro",
+      "num": "9–10",
+      "kicker": "Quinta Escena Podcast",
+      "title": "No es un podcast de entrevistas",
+      "lead": "No se busca instalar una mesa, dos micrófonos y conversar frente a una cámara. El programa es una puesta en escena itinerante.",
+      "blocks": [
+        { "type": "p", "text": "Su conductor será un artista escénico capaz de combinar actuación, música, humor, movimiento y creación digital. El viaje se realiza a bordo de **Molière**, la camioneta de teatro itinerante de La Lancha, que funciona simultáneamente como vehículo, set móvil, objeto dramatúrgico, identidad visual y espacio de memoria." },
+        { "type": "p", "text": "El artista invitado se encuentra con el conductor en espacios abiertos de su territorio: se camina, se conversa, se realizan acciones, se toca música, se conocen objetos, se visitan lugares. Se habla de los proyectos y la trayectoria del invitado, pero también de cómo se construye la escena en ese territorio. La primera etapa considera las siete provincias continentales: Los Andes, San Felipe de Aconcagua, Petorca, Quillota, Marga Marga, Valparaíso y San Antonio. Rapa Nui queda planteada como una futura ampliación." },
+        { "type": "placeholder", "text": "Molière, el furgón amarillo de teatro itinerante, estacionado en un territorio de la región, con el juglar y el artista o compañía protagonista junto al vehículo abierto." }
+      ]
+    },
+    {
+      "id": "intemperie-posta",
+      "num": "11–12",
+      "kicker": "La intemperie y La Posta",
+      "title": "El territorio también es materia escénica",
+      "lead": "La grabación al aire libre no responde solo a una necesidad de producción: es parte del concepto.",
+      "blocks": [
+        { "type": "p", "text": "El programa se desarrolla en parques, plazas, cerros, bordes costeros, caminos, paisajes rurales y otros espacios significativos. El artista no aparece separado de su territorio: el territorio es parte de su retrato. Así, el medio presenta simultáneamente quién hace la escena, dónde se hace, qué propone y qué significa hacerlo allí." },
+        { "type": "p", "text": "Cada encuentro deja un objeto en Molière destinado al próximo participante —una marioneta, un instrumento, un elemento de vestuario, una fotografía, un objeto de trabajo— junto a un mensaje. **La Posta** cumple tres funciones: dramaturgia (conecta los capítulos en una sola historia), fidelización (genera expectativa por lo que llegará al próximo territorio) y vinculación (pone en relación directa a artistas que quizás no tenían contacto previo)." },
+        { "type": "placeholder", "text": "El juglar y el artista protagonista conversando en un espacio abierto de su territorio —una plaza, un cerro, una playa— y, junto a ellos, el objeto que quedará entregado en La Posta." }
+      ]
+    },
+    {
+      "id": "siete-territorios",
+      "num": "13",
+      "kicker": "Siete territorios, siete puertas de entrada",
+      "title": "Sin pretender representar toda la escena regional",
+      "lead": "Ese sería un objetivo imposible. Los siete encuentros funcionan como puertas de entrada.",
+      "blocks": [
+        { "type": "flow", "items": ["una persona", "una disciplina", "una práctica", "un territorio", "una comunidad", "una problemática", "una forma de hacer escena"] },
+        { "type": "p", "text": "La selección inicial contempla teatro, títeres, circo/clown y narración oral, cumpliendo la exigencia de la convocatoria de al menos dos disciplinas. La selección concreta de participantes se revisa y ratifica antes de la postulación definitiva, especialmente respecto de cartas de compromiso y disponibilidad." },
+        { "type": "shot", "src": "/propuesta/screenshot-podcast.png", "path": "/quinta-escena-podcast", "alt": "Portada de la serie con la ruta de los siete episodios", "caption": "La ruta de la temporada 1, de la cordillera al mar." }
+      ]
+    },
+    {
+      "id": "publicos",
+      "num": "14",
+      "kicker": "Los públicos",
+      "title": "Tres públicos, tres lenguajes",
+      "blocks": [
+        { "type": "cards", "columns": 3, "items": [
+          { "title": "25–44 años", "text": "Público principal, con niñas, niños y adolescentes a cargo. Se les habla desde historias, humor, personajes, territorios, música, curiosidades y experiencias, no desde el lenguaje institucional del teatro.", "bg": null },
+          { "title": "15–29 años", "text": "Público de descubrimiento. Recibe contenidos verticales, breves y dinámicos. El primer objetivo no es convertirlo en espectador teatral: es despertar curiosidad.", "bg": "lime" },
+          { "title": "Sectorial", "text": "Artistas, compañías, productores, programadores, gestores, docentes y espacios usan QUINTA ESCENA como herramienta de consulta, encuentro y visibilidad.", "bg": "sky" }
+        ] },
+        { "type": "p", "text": "La accesibilidad se integra desde la producción, no se añade después: subtítulos, interpretación en lengua de señas, versiones sonoras y un diseño web accesible." }
+      ]
+    },
+    {
+      "id": "arquitectura",
+      "num": "15",
+      "kicker": "Arquitectura digital del recorrido",
+      "title": "Cinco movimientos",
+      "lead": "Este recorrido evita que la estrategia mida el éxito únicamente en seguidores. La pregunta será: ¿qué hizo el público después de descubrirnos?",
+      "blocks": [
+        { "type": "cards", "columns": 3, "items": [
+          { "title": "Descubrir", "text": "Una cápsula, una acción, una música, un objeto o un paisaje · Instagram / TikTok", "bg": null },
+          { "title": "Conocer", "text": "Quién es ese artista y qué hace · YouTube / podcast / audio", "bg": "gold" },
+          { "title": "Profundizar", "text": "La historia, el territorio, la práctica y los proyectos · QUINTA ESCENA", "bg": "sky" },
+          { "title": "Encontrar", "text": "Otros artistas, compañías, espacios, obras y actividades · Mapa / perfiles / agenda", "bg": "lime" },
+          { "title": "Participar", "text": "Recomendar, proponer, compartir, incorporarse · Sitio web / redes", "bg": "violet", "color": "#fff" }
+        ] }
+      ]
+    },
+    {
+      "id": "participacion",
+      "num": "16–17",
+      "kicker": "Participación y búsqueda activa",
+      "title": "La ciudadanía como fuente de descubrimiento, no de publicación automática",
+      "blocks": [
+        { "type": "flow", "items": ["¿A quién deberíamos conocer en tu provincia?", "¿Qué compañía falta en nuestro mapa?", "¿Qué actividad está ocurriendo cerca de ti?"] },
+        { "type": "p", "text": "La plataforma no publica automáticamente las respuestas: alimentan un proceso editorial. El equipo revisa existencia del agente, actividad comprobable, vinculación territorial, información básica, contacto y pertinencia dentro de las disciplinas del proyecto." },
+        { "type": "p", "text": "El equipo también desarrolla **búsqueda activa**: revisión de sitios web, redes sociales, información pública, programas y publicaciones culturales, y contacto directo con artistas, compañías, espacios, municipios y organizaciones. El proyecto no funciona como un archivo de investigación histórica —las bases excluyen ese objetivo—; la búsqueda tiene una finalidad práctica: hacer posible la difusión y el descubrimiento de la actividad escénica regional." },
+        { "type": "placeholder", "text": "El equipo realizando búsqueda activa en terreno: contacto directo con un artista, una compañía o una oficina municipal de cultura." }
+      ]
+    },
+    {
+      "id": "plan-contenidos",
+      "num": "18",
+      "kicker": "Plan de contenidos",
+      "title": "Cada jornada territorial produce múltiples piezas",
+      "blocks": [
+        { "type": "table", "headers": ["Pieza", "Descripción"], "rows": [
+          ["7 episodios", "QUINTA ESCENA PODCAST, ~20–30 minutos cada uno."],
+          ["7 cápsulas de objeto", "La historia de un objeto significativo del artista."],
+          ["7 cápsulas de territorio", "Una historia, caminata o situación vinculada al lugar."],
+          ["7 cápsulas de La Posta", "El objeto y mensaje que viajan al siguiente participante."],
+          ["7 cápsulas de acción", "Situaciones breves que muestran la práctica escénica de forma lúdica."],
+          ["7 versiones sonoras", "Adaptadas para plataformas de audio."],
+          ["7 perfiles iniciales", "Cada artista queda conectado con su territorio y sus propios canales."],
+          ["3 ciclos de convocatoria", "Destinados a ampliar la identificación de agentes y actividades."]
+        ] },
+        { "type": "placeholder", "text": "Equipo de registro audiovisual grabando una jornada territorial: cámara, sonido y dirección trabajando en terreno." }
+      ]
+    },
+    {
+      "id": "redes",
+      "num": "19",
+      "kicker": "Redes sociales",
+      "title": "Un canal, una función",
+      "blocks": [
+        { "type": "cards", "columns": 3, "items": [
+          { "title": "Instagram", "text": "Identidad y comunidad: descubrimiento, cápsulas, Reels, historias, encuestas, colaboraciones y participación.", "bg": null },
+          { "title": "TikTok", "text": "Descubrimiento: humor, acciones, objetos, música, paisaje, situaciones inesperadas, desafíos.", "bg": "ink", "color": "var(--paper)" },
+          { "title": "YouTube", "text": "Profundización y permanencia: aquí viven los episodios completos.", "bg": "gold" },
+          { "title": "Audio", "text": "Accesibilidad y permanencia: escuchar la serie sin necesidad de mirar una pantalla.", "bg": "sky" },
+          { "title": "Sitio web", "text": "Principal espacio de organización, permanencia y conexión.", "bg": "lime" }
+        ] }
+      ]
+    },
+    {
+      "id": "colaborativa",
+      "num": "20–21",
+      "kicker": "Publicación colaborativa y enfoque comunicacional",
+      "title": "Cada artista llega acompañado por su propia comunidad",
+      "blocks": [
+        { "type": "p", "text": "La experiencia anterior muestra que la colaboración entre cuentas amplía significativamente el alcance: una pieza colaborativa entre tres cuentas registró 112.446 visualizaciones, 80.515 cuentas alcanzadas y 704 seguidores nuevos. Las publicaciones colaborativas no son una acción excepcional: son parte de la arquitectura. La combinación activa simultáneamente la comunidad del artista, la comunidad del medio y la audiencia de descubrimiento." },
+        { "type": "p", "text": "El proyecto evita el lenguaje institucional tradicional —\"actividad cultural\", \"oferta artística\", \"sector escénico\", \"programación regional\"— y se construye desde acciones y preguntas:" },
+        { "type": "flow", "items": ["¿Qué hace este artista?", "¿Qué hay dentro de Molière?", "¿Qué objeto le dejaron al próximo artista?", "¿Quién está haciendo escena al otro lado de la región?"] }
+      ]
+    },
+    {
+      "id": "identidad-narrativa",
+      "num": "22–23",
+      "kicker": "Identidad narrativa",
+      "title": "Un juglar que sale a buscar una escena que sabe que existe",
+      "lead": "El conductor no se presenta como una autoridad que explica desde fuera. Es alguien que pregunta, prueba, escucha, se sorprende, aprende, toca, juega, se equivoca y conoce. La audiencia aprende junto a él.",
+      "blocks": [
+        { "type": "p", "text": "Cada provincia tiene un capítulo; cada capítulo conduce al siguiente. La temporada se estructura como un viaje: **salida** (Molière parte), **encuentro** (el juglar conoce al artista), **territorio** (la conversación se desplaza al espacio abierto), **descubrimiento** (el público conoce su práctica), **objeto** (algo entra a Molière), **mensaje** (algo queda destinado al siguiente artista) y **continuidad** (la camioneta vuelve a partir). El último momento de un capítulo se transforma en la primera imagen del próximo." },
+        { "type": "placeholder", "text": "El juglar caracterizado, con vestuario u objeto escénico, en el momento de un encuentro con un artista o compañía protagonista." }
+      ]
+    },
+    {
+      "id": "resultado-teoria",
+      "num": "24–25",
+      "kicker": "Resultado digital perseguido y teoría de cambio",
+      "title": "Una nueva puerta de entrada, no siete videos",
+      "blocks": [
+        { "type": "p", "text": "Los siete episodios son el motor inicial; la plataforma, la infraestructura; el mapa, la visualización territorial; la comunidad, el mecanismo de crecimiento; las redes, el mecanismo de descubrimiento; la participación, el mecanismo de ampliación; la búsqueda activa, el mecanismo de incorporación; y la accesibilidad, una condición transversal." },
+        { "type": "p", "text": "QUINTA ESCENA parte de cinco observaciones: existe actividad escénica; está territorialmente dispersa; la información está digitalmente fragmentada; los públicos nuevos no necesariamente la buscan; y los contenidos vinculados con personas, prácticas y territorios circulan fuera del circuito cultural habitual." },
+        { "type": "flow", "items": ["territorio", "encuentro", "relato", "contenido", "descubrimiento", "web", "exploración", "participación", "vínculo"] }
+      ]
+    },
+    {
+      "id": "indicadores",
+      "num": "26",
+      "kicker": "Indicadores",
+      "title": "Producción, alcance, profundización, conversión, participación y accesibilidad",
+      "blocks": [
+        { "type": "table", "headers": ["Dimensión", "Indicadores"], "rows": [
+          ["Producción", "7 episodios · mínimo 21 verticales · 7 versiones sonoras · 7 perfiles · 3 ciclos de participación · mapa regional operativo."],
+          ["Alcance", "Visualizaciones, cuentas alcanzadas, % de no seguidoras, compartidos, guardados, seguidores nuevos."],
+          ["Profundización", "Tiempo de reproducción, retención, reproducciones completas, escucha de versiones sonoras."],
+          ["Conversión hacia el ecosistema", "Visitas al sitio y a perfiles, clics hacia canales propios de artistas, consultas del mapa."],
+          ["Participación", "Preguntas recibidas, recomendaciones de artistas, actividades propuestas, nuevos registros verificados."],
+          ["Accesibilidad", "% de contenidos subtitulados, capítulos con LSCh, versiones sonoras disponibles, cumplimiento de criterios web."]
+        ] },
+        { "type": "p", "class": "small muted", "text": "La convocatoria valora explícitamente la ampliación y diversificación de audiencias, los componentes interactivos y participativos, y la sostenibilidad de las plataformas y vínculos con los públicos." }
+      ]
+    },
+    {
+      "id": "equipo",
+      "num": "27–28",
+      "kicker": "Equipo y tecnología",
+      "title": "La capacidad de producción ya existe",
+      "blocks": [
+        { "type": "list", "items": [
+          "**Dirección y conducción:** artista escénico con experiencia en actuación, música, dirección y creación de contenidos.",
+          "**Realización audiovisual, fotografía y cámara, sonido:** equipo profesional con experiencia cinematográfica y documental.",
+          "**Producción:** coordinación territorial, rutas, participantes y logística.",
+          "**Edición y postproducción, desarrollo digital, accesibilidad.**"
+        ] },
+        { "type": "p", "text": "El proyecto cuenta además con Molière, la camioneta de teatro itinerante de La Lancha, como infraestructura móvil para producción, transporte e identidad. El equipamiento audiovisual y sonoro permite grabar simultáneamente imagen cinematográfica, registro documental, audio profesional y piezas verticales: una sola jornada territorial produce episodio + cápsulas + audio + fotografías + participación + ficha + material para redes." },
+        { "type": "placeholder", "text": "El equipo de producción y el equipamiento audiovisual y sonoro utilizado en un registro en terreno." }
+      ]
+    },
+    {
+      "id": "accesibilidad",
+      "num": "29–30",
+      "kicker": "Accesibilidad y sostenibilidad",
+      "title": "Lo que permanece después de la primera temporada",
+      "blocks": [
+        { "type": "p", "text": "La accesibilidad es un componente estructural, no una exigencia técnica añadida al final: subtítulos, interpretación profesional en lengua de señas, versiones sonoras, diseño web responsive y accesible, organización clara de la información y acceso libre a los contenidos. La propuesta contempla 100% de subtitulado y LSCh en los siete capítulos." },
+        { "type": "p", "text": "Quedan instalados el medio digital, el dominio y sitio web, el mapa, los perfiles, los episodios, los contenidos derivados, la comunidad, la base editorial, los procedimientos de incorporación y verificación, y la red inicial de agentes. La primera temporada no es el final del proyecto: es la instalación de una infraestructura editorial desde la cual pueden desarrollarse nuevas temporadas y recorridos." },
+        { "type": "placeholder", "text": "Intérprete de lengua de señas chilena (LSCh) junto a una pantalla con subtítulos activos, durante la edición o difusión de un capítulo." }
+      ]
+    },
+    {
+      "id": "proyeccion",
+      "num": "31–32",
+      "kicker": "Proyección territorial y encaje con la convocatoria",
+      "title": "Rapa Nui, y un ámbito estratégico específico",
+      "blocks": [
+        { "type": "p", "text": "La primera etapa recorre el territorio continental, pero el concepto de QUINTA ESCENA no termina en esas siete provincias: la Región de Valparaíso comprende también Rapa Nui. Su incorporación futura es una posibilidad de expansión, no una obligación de la primera etapa, lo que permite que la primera temporada sea operacionalmente realista sin reducir la identidad regional del proyecto." },
+        { "type": "p", "text": "La propuesta se ubica deliberadamente en el **Ámbito Estratégico 1: Contenidos Digitales y Fidelización de Públicos.** QUINTA ESCENA no se limita a crear una página web, no es una plataforma de venta de entradas, no es un proyecto de archivo ni de investigación, y no consiste en crear un montaje escénico: la plataforma es parte de una estrategia editorial y de difusión, el podcast es una herramienta de circulación, las redes son mecanismos de descubrimiento, el mapa convierte ese descubrimiento en posibilidad de encontrar, y la participación permite ampliar la red." },
+        { "type": "placeholder", "text": "Paisaje de Rapa Nui (Isla de Pascua), como proyección futura del recorrido más allá de la primera temporada." }
+      ]
+    },
+    {
+      "id": "por-que-difusion",
+      "num": "33",
+      "kicker": "Por qué el proyecto es de difusión",
+      "title": "No producimos contenidos para llenar una plataforma",
+      "blocks": [
+        { "type": "quote", "text": "Construimos un medio que produce contenidos para que la escena pueda encontrarse." },
+        { "type": "p", "text": "El proyecto no persigue como fin principal registrar artistas: persigue que esos artistas sean descubribles. No persigue solamente construir un mapa: persigue que alguien quiera mirar ese mapa. No persigue solamente realizar un podcast: persigue que el podcast lleve personas hacia una escena que desconocían." },
+        { "type": "flow", "items": ["indiferencia", "descubrimiento", "curiosidad", "conocimiento", "participación", "vínculo"] }
+      ]
+    },
+    {
+      "id": "cronograma",
+      "num": "34",
+      "kicker": "Cronograma propuesto",
+      "title": "Doce meses, entre marzo y abril de 2027",
+      "lead": "La convocatoria permite proyectos de hasta 12 meses y exige iniciar entre el 1 de marzo y el 30 de abril de 2027.",
+      "blocks": [
+        { "type": "table", "headers": ["Meses", "Etapa"], "rows": [
+          ["1–2", "Diseño editorial y territorial: identidad, arquitectura del medio, diseño web, criterios editoriales, selección de participantes, diseño de rutas y de accesibilidad."],
+          ["2–3", "Instalación digital: construcción del sitio y el mapa, carga de perfiles iniciales, sistemas gráficos, canales digitales."],
+          ["3–7", "Recorrido territorial: siete jornadas, una provincia por recorrido; grabación, registro vertical y sonoro, fotografía, participación, La Posta."],
+          ["4–9", "Postproducción: montaje, edición, diseño sonoro, música, color, subtitulado, LSCh, versiones verticales y de audio."],
+          ["6–11", "Publicación: campaña seriada, estrenos, publicaciones colaborativas, cápsulas, historias, participación, actualización del mapa."],
+          ["6–12", "Ampliación del ecosistema: convocatorias, incorporación de nuevos agentes, verificación, actualización de perfiles, métricas."],
+          ["11–12", "Continuidad: evaluación, análisis de audiencias, organización de contenidos, traspaso y mantenimiento, proyección futura."]
+        ] }
+      ]
+    },
+    {
+      "id": "productos",
+      "num": "35",
+      "kicker": "Productos, resultados e impacto",
+      "title": "De la indiferencia al vínculo",
+      "blocks": [
+        { "type": "twoColLists", "left": { "heading": "Productos", "items": [
+          "7 episodios de QUINTA ESCENA PODCAST",
+          "21 o más contenidos verticales derivados",
+          "7 versiones sonoras · 7 perfiles iniciales",
+          "Mapa regional y sistema de participación",
+          "Sistema editorial de incorporación y verificación",
+          "Contenido accesible"
+        ] }, "right": { "heading": "Resultados", "items": [
+          "Mayor visibilidad de artistas de las provincias",
+          "Mayor circulación fuera de la comunidad cultural habitual",
+          "Mayor descubrimiento de actividades regionales",
+          "Nueva relación entre artistas y públicos",
+          "Incorporación progresiva de nuevos agentes",
+          "Instalación de un medio digital especializado"
+        ] } },
+        { "type": "quote", "text": "El impacto esperado es que las artes escénicas de la Región de Valparaíso sean más visibles, más descubribles y más conectables para públicos que hoy no necesariamente participan del circuito." }
+      ]
+    },
+    {
+      "id": "cierre",
+      "num": "36–37",
+      "kicker": "Idea central y cierre conceptual",
+      "title": "La escena ya existe. No necesitamos inventarla.",
+      "closing": true,
+      "blocks": [
+        { "type": "p", "text": "Necesitamos hacer posible que las personas puedan encontrarla. Hay una actriz trabajando en un lugar que alguien desconoce. Hay una compañía ensayando a pocos kilómetros de una familia que nunca ha oído hablar de ella. Hay un artista circense desarrollando una trayectoria en una provincia que rara vez aparece en las conversaciones centrales de la escena. Hay un festival, una obra, un taller, una compañía, un espacio, una historia. Todo eso existe. El problema es que muchas veces no logra encontrarse." },
+        { "type": "p", "text": "La primera temporada será una expedición. Un actor, músico, acróbata y creador de contenidos partirá en Molière, recorrerá las provincias continentales, preguntará, conocerá, jugará, escuchará, compartirá y encontrará artistas. Cada encuentro dejará una historia; cada historia producirá contenido; cada contenido llevará hacia una nueva puerta. Y detrás de esa puerta aparecerá algo mucho mayor: una región escénica." },
+        { "type": "quote", "text": "QUINTA ESCENA reúne, descubre y difunde las artes escénicas de la Región de Valparaíso. QUINTA ESCENA PODCAST sale a buscarlas. La escena está ahí. Vamos a buscarla." }
+      ]
+    },
+    {
+      "id": "matriz",
+      "num": "Anexo",
+      "kicker": "Cierre de la postulación",
+      "title": "Matriz de respuesta a la convocatoria",
+      "blocks": [
+        { "type": "table", "headers": ["Elemento exigido", "Respuesta de QUINTA ESCENA"], "rows": [
+          ["Descripción", "Medio digital + plataforma web + mapa + podcast itinerante como sistema integrado."],
+          ["Disciplinas", "Teatro, títeres, circo/clown y narración oral."],
+          ["Públicos y justificación", "Público principal 25–44; descubrimiento 15–29; ecosistema profesional secundario; accesibilidad transversal."],
+          ["Canales", "Instagram, TikTok, YouTube, audio y sitio web; publicaciones colaborativas."],
+          ["Enfoque comunicacional", "Narrativa territorial, humor, preguntas, personajes, objetos, viaje y experiencia."],
+          ["Participación y alianzas", "Propuestas ciudadanas, colaboración con artistas y organizaciones, búsqueda activa y verificación editorial."],
+          ["Hitos", "Diseño, instalación digital, 7 recorridos, postproducción, publicación seriada, ampliación del ecosistema y evaluación."],
+          ["Acciones y contenidos", "7 episodios, 21+ verticales, 7 audios, 7 perfiles, 3 ciclos de participación, mapa regional."],
+          ["Tecnología", "Producción simultánea horizontal/vertical/audio; web, mapa y herramientas de IA con validación editorial."],
+          ["Accesibilidad", "100% de contenidos principales subtitulados; LSCh en los 7 capítulos; versiones sonoras y web accesible."]
+        ] }
+      ]
+    }
+  ]
+}
