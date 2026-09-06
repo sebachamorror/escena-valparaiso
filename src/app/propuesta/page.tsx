@@ -108,7 +108,8 @@ type Block =
   | { type: "placeholder"; text: string }
   | { type: "twoColLists"; left: { heading: string; items: string[] }; right: { heading: string; items: string[] } }
   | { type: "logos"; items: { src: string; label: string }[] }
-  | { type: "mockups"; items: { src: string; label: string }[] };
+  | { type: "mockups"; items: { src: string; label: string }[] }
+  | { type: "people"; caption?: string; items: { src: string; name: string; role: string; bg?: string | null }[] };
 
 function bgVar(bg?: string | null) {
   return bg ? `var(--${bg})` : undefined;
@@ -204,6 +205,26 @@ function Block({ block }: { block: Block }) {
               <figcaption>{it.label}</figcaption>
             </figure>
           ))}
+        </div>
+      );
+    case "people":
+      return (
+        <div>
+          <div className={styles.peopleGrid}>
+            {block.items.map((it) => (
+              <figure key={it.name} className={styles.person}>
+                <div className={styles.personPhoto} style={{ boxShadow: `4px 4px 0 ${bgVar(it.bg) ?? "var(--ink)"}` }}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={it.src} alt={it.name} />
+                </div>
+                <figcaption>
+                  <span className={styles.personName}>{it.name}</span>
+                  <span className={styles.personRole}>{it.role}</span>
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+          {block.caption && <p className={styles.peopleCaption}>{block.caption}</p>}
         </div>
       );
     case "twoColLists":

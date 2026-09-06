@@ -166,7 +166,7 @@
       "title": "No es un podcast de entrevistas",
       "lead": "No se busca instalar una mesa, dos micrófonos y conversar frente a una cámara. El programa es una puesta en escena itinerante.",
       "blocks": [
-        { "type": "p", "text": "Su conductor será un artista escénico capaz de combinar actuación, música, humor, movimiento y creación digital. El viaje se realiza a bordo de **Molière**, la camioneta de teatro itinerante de La Lancha, que funciona simultáneamente como vehículo, set móvil, objeto dramatúrgico, identidad visual y espacio de memoria." },
+        { "type": "p", "text": "Su conductor será un artista escénico capaz de combinar actuación, música, humor, movimiento, diseño web y creación de contenidos. El viaje se realiza a bordo de **Molière**, la camioneta de teatro itinerante de La Lancha, que funciona simultáneamente como vehículo, set móvil, objeto dramatúrgico, identidad visual y espacio de memoria." },
         { "type": "p", "text": "El artista invitado se encuentra con el conductor en espacios abiertos de su territorio: se camina, se conversa, se realizan acciones, se toca música, se conocen objetos, se visitan lugares. Se habla de los proyectos y la trayectoria del invitado, pero también de cómo se construye la escena en ese territorio. La primera etapa considera las siete provincias continentales: Los Andes, San Felipe de Aconcagua, Petorca, Quillota, Marga Marga, Valparaíso y San Antonio. Rapa Nui queda planteada como una futura ampliación." },
         { "type": "placeholder", "text": "Molière, el furgón amarillo de teatro itinerante, estacionado en un territorio de la región, con el juglar y el artista o compañía protagonista junto al vehículo abierto." }
       ]
@@ -305,7 +305,17 @@
       "lead": "El conductor no se presenta como una autoridad que explica desde fuera. Es alguien que pregunta, prueba, escucha, se sorprende, aprende, toca, juega, se equivoca y conoce. La audiencia aprende junto a él.",
       "blocks": [
         { "type": "p", "text": "Cada provincia tiene un capítulo; cada capítulo conduce al siguiente. La temporada se estructura como un viaje: **salida** (Molière parte), **encuentro** (el juglar conoce al artista), **territorio** (la conversación se desplaza al espacio abierto), **descubrimiento** (el público conoce su práctica), **objeto** (algo entra a Molière), **mensaje** (algo queda destinado al siguiente artista) y **continuidad** (la camioneta vuelve a partir). El último momento de un capítulo se transforma en la primera imagen del próximo." },
-        { "type": "placeholder", "text": "El juglar caracterizado, con vestuario u objeto escénico, en el momento de un encuentro con un artista o compañía protagonista." }
+        { "type": "placeholder", "text": "El juglar caracterizado, con vestuario u objeto escénico, en el momento de un encuentro con un artista o compañía protagonista." },
+        { "type": "h3", "text": "Algunos de los artistas ya identificados en el territorio" },
+        { "type": "people", "caption": "Artistas de la región documentados por QUINTA ESCENA, con fuentes verificadas en data/artists.", "items": [
+          { "src": "/propuesta/entrevistados/alan-fernandez.jpg", "name": "Alan Fernández Caro", "role": "San Antonio · Teatro", "bg": "pink" },
+          { "src": "/propuesta/entrevistados/carlos-munoz.jpg", "name": "Carlos Muñoz Rivera", "role": "Putaendo · Clown y circo", "bg": "lime" },
+          { "src": "/propuesta/entrevistados/constanza-mendez.jpg", "name": "Constanza Méndez Laínes", "role": "Viña del Mar · Teatro", "bg": "gold" },
+          { "src": "/propuesta/entrevistados/hugo-hernandez.jpg", "name": "Hugo Hernández Urtubia", "role": "Los Andes · Títeres", "bg": "sky" },
+          { "src": "/propuesta/entrevistados/natalia-zuniga.jpg", "name": "Natalia Zúñiga Ortiz", "role": "Quillota · Narración oral", "bg": "violet" },
+          { "src": "/propuesta/entrevistados/nelson-rojas.jpg", "name": "Nelson Rojas Torres", "role": "La Ligua · Teatro y música escénica", "bg": "mint" },
+          { "src": "/propuesta/entrevistados/victor-opazo.jpg", "name": "Víctor Opazo Herrera", "role": "Villa Alemana · Teatro", "bg": "pink" }
+        ] }
       ]
     },
     {
@@ -343,13 +353,19 @@
       "title": "La capacidad de producción ya existe",
       "blocks": [
         { "type": "list", "items": [
-          "**Dirección y conducción:** artista escénico con experiencia en actuación, música, dirección y creación de contenidos.",
+          "**Dirección y conducción:** artista escénico con experiencia en actuación, música, dirección, diseño web y creación de contenidos.",
           "**Realización audiovisual, fotografía y cámara, sonido:** equipo profesional con experiencia cinematográfica y documental.",
           "**Producción:** coordinación territorial, rutas, participantes y logística.",
           "**Edición y postproducción, desarrollo digital, accesibilidad.**"
         ] },
         { "type": "p", "text": "El proyecto cuenta además con Molière, la camioneta de teatro itinerante de La Lancha, como infraestructura móvil para producción, transporte e identidad. El equipamiento audiovisual y sonoro permite grabar simultáneamente imagen cinematográfica, registro documental, audio profesional y piezas verticales: una sola jornada territorial produce episodio + cápsulas + audio + fotografías + participación + ficha + material para redes." },
-        { "type": "placeholder", "text": "El equipo de producción y el equipamiento audiovisual y sonoro utilizado en un registro en terreno." }
+        { "type": "people", "caption": "Equipo de producción de QUINTA ESCENA PODCAST.", "items": [
+          { "src": "/propuesta/equipo/diego-chamorro.jpg", "name": "Diego Chamorro", "role": "Conducción, actuación, música, diseño web y creación de contenidos", "bg": "gold" },
+          { "src": "/propuesta/equipo/bastian-contreras.jpg", "name": "Bastián Contreras", "role": "Equipo de producción", "bg": "sky" },
+          { "src": "/propuesta/equipo/gonzalo-villarroel.jpg", "name": "Gonzalo Villarroel", "role": "Equipo de producción", "bg": "pink" },
+          { "src": "/propuesta/equipo/luis-vasquez.jpg", "name": "Luis Vásquez", "role": "Equipo de producción", "bg": "lime" },
+          { "src": "/propuesta/equipo/tomas-urra.jpg", "name": "Tomás Urra", "role": "Equipo de producción", "bg": "violet" }
+        ] }
       ]
     },
     {
@@ -435,7 +451,7 @@
       "closing": true,
       "blocks": [
         { "type": "p", "text": "Necesitamos hacer posible que las personas puedan encontrarla. Hay una actriz trabajando en un lugar que alguien desconoce. Hay una compañía ensayando a pocos kilómetros de una familia que nunca ha oído hablar de ella. Hay un artista circense desarrollando una trayectoria en una provincia que rara vez aparece en las conversaciones centrales de la escena. Hay un festival, una obra, un taller, una compañía, un espacio, una historia. Todo eso existe. El problema es que muchas veces no logra encontrarse." },
-        { "type": "p", "text": "La primera temporada será una expedición. Un actor, músico, acróbata y creador de contenidos partirá en Molière, recorrerá las provincias continentales, preguntará, conocerá, jugará, escuchará, compartirá y encontrará artistas. Cada encuentro dejará una historia; cada historia producirá contenido; cada contenido llevará hacia una nueva puerta. Y detrás de esa puerta aparecerá algo mucho mayor: una región escénica." },
+        { "type": "p", "text": "La primera temporada será una expedición. Un actor, músico, diseñador web y creador de contenidos partirá en Molière, recorrerá las provincias continentales, preguntará, conocerá, jugará, escuchará, compartirá y encontrará artistas. Cada encuentro dejará una historia; cada historia producirá contenido; cada contenido llevará hacia una nueva puerta. Y detrás de esa puerta aparecerá algo mucho mayor: una región escénica." },
         { "type": "quote", "text": "QUINTA ESCENA reúne, descubre y difunde las artes escénicas de la Región de Valparaíso. QUINTA ESCENA PODCAST sale a buscarlas. La escena está ahí. Vamos a buscarla." }
       ]
     },
