@@ -1,7 +1,7 @@
 .band { background: var(--dcc-cream); color: var(--dcc-ink); border-top: 1px solid var(--dcc-sand); border-bottom: 1px solid var(--dcc-sand); }
 .bandInner { padding-block: var(--s-7); }
 .kicker { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.14em; text-transform: uppercase; color: var(--dcc-coral-dark); }
-.title { font-family: var(--display); font-style: italic; font-weight: 500; font-size: var(--t-2xl); line-height: 1.05; letter-spacing: -0.02em; }
+.title { font-family: Georgia, "Iowan Old Style", serif; text-transform: none; font-style: italic; font-weight: 500; font-size: var(--t-2xl); line-height: 1.05; letter-spacing: -0.02em; }
 .title em { color: var(--dcc-coral-dark); font-style: normal; }
 .descriptor { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.7; }
 .btn { border-color: var(--dcc-coral-dark); color: var(--dcc-coral-dark); }

@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { UpcomingOccurrence } from "@/lib/queries/events";
 import { getVenue } from "@/lib/queries/venues";
 import { communeName } from "@/lib/data/territories";
+import { colorForSlug } from "@/lib/palette";
 import styles from "./cards.module.css";
 
 const WEEKDAYS = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
@@ -18,7 +19,7 @@ export function EventCard({ item }: { item: UpcomingOccurrence }) {
   const { event, occurrence } = item;
   const venue = occurrence.venue ? getVenue(occurrence.venue) : undefined;
   return (
-    <article className={styles.card}>
+    <article className={`${styles.card} ${styles[colorForSlug(event.slug)]}`}>
       <div className={styles.tags}>
         <span>{event.kind === "funcion" ? "Función" : event.kind}</span>
         {item.commune && <span>{communeName(item.commune)}</span>}

@@ -1,33 +1,48 @@
-/* ESCENA VALPARAÍSO — tokens de diseño (Fase 2, primera versión en código).
-   Estética editorial: papel, tinta, una sola tinta de acento (mar) y una secundaria
-   mínima (cerro). De Cuento en Cuento conserva su coral, amarillo y crema. */
+/* ESCENA VALPARAÍSO — tokens de diseño.
+   Base editorial (papel/tinta) + una paleta de acento saturada en bloques de
+   color, tipografía de póster para titulares. De Cuento en Cuento conserva su
+   propio coral, amarillo y crema (docs/DE_CUENTO_EN_CUENTO.md §11). */
 :root {
   color-scheme: light;
 
   /* Superficies y tinta */
-  --paper: #f5f2ea;
-  --paper-2: #ebe6d9;
-  --paper-3: #dfd8c8;
-  --ink: #16181b;
-  --ink-2: #41454c;
-  --ink-3: #6d727a;
-  --line: #d3cdbf;
-  --line-strong: #9f978a;
+  --paper: #f7f3ec;
+  --paper-2: #efe9dc;
+  --paper-3: #e2dac8;
+  --ink: #14141a;
+  --ink-2: #3a3a42;
+  --ink-3: #6b6b74;
+  --line: #d8d0ba;
+  --line-strong: #a39c86;
 
-  /* Acentos */
-  --sea: #0f5b6e;
+  /* Paleta de acento, en bloques de color (inspirada en la gráfica de festival) */
+  --pink: #ff4fa0;
+  --pink-ink: #57062f;
+  --lime: #c3f53a;
+  --lime-ink: #2b3a02;
+  --gold: #ffc93c;
+  --gold-ink: #4a3200;
+  --sky: #4fc7fa;
+  --sky-ink: #012c3d;
+  --violet: #9b6bf2;
+  --violet-ink: #250a4a;
+  --mint: #3fdba0;
+  --mint-ink: #023324;
+
+  /* Compat: nombres anteriores, apuntan a la paleta nueva */
+  --sea: #0f6b82;
   --sea-deep: #093c49;
-  --sea-soft: #d4e4e8;
+  --sea-soft: #d4eef4;
   --cerro: #9a5f22;
   --cerro-soft: #efe0cc;
 
   /* Estados de verificación */
-  --ok: #2c6b3f;
-  --ok-soft: #d8e8dc;
-  --warn: #8f6510;
-  --warn-soft: #f1e4c4;
-  --bad: #963131;
-  --bad-soft: #f0d6d6;
+  --ok: #1f7a3d;
+  --ok-soft: #d8f0dd;
+  --warn: #a86a00;
+  --warn-soft: var(--gold);
+  --bad: #b5273a;
+  --bad-soft: #f7d3d8;
 
   /* De Cuento en Cuento (docs/DE_CUENTO_EN_CUENTO.md §11) */
   --dcc-coral: #f2757f;
@@ -37,20 +52,20 @@
   --dcc-sand: #f2e9da;
   --dcc-ink: #2a2320;
 
-  /* Tipografía: pilas del sistema (fuentes locales se definen al cerrar la Fase 2) */
-  --display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Charter, Georgia, "Times New Roman", serif;
-  --text: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  /* Tipografía: display de póster (next/font/google, cargada en layout.tsx) */
+  --display: var(--font-display), "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --text: var(--font-text), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: var(--font-mono), ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
 
   --t-xs: 0.75rem;
-  --t-sm: 0.875rem;
+  --t-sm: 0.9rem;
   --t-md: 1.0625rem;
-  --t-lg: 1.25rem;
-  --t-xl: clamp(1.5rem, 1.1rem + 1.6vw, 2.1rem);
-  --t-2xl: clamp(2rem, 1.3rem + 2.8vw, 3.2rem);
-  --t-3xl: clamp(2.6rem, 1.6rem + 5vw, 5.4rem);
-  --lh-tight: 1.05;
-  --lh-snug: 1.25;
+  --t-lg: 1.3rem;
+  --t-xl: clamp(1.7rem, 1.2rem + 2vw, 2.6rem);
+  --t-2xl: clamp(2.3rem, 1.4rem + 3.6vw, 4rem);
+  --t-3xl: clamp(3rem, 1.6rem + 6.5vw, 6.6rem);
+  --lh-tight: 0.96;
+  --lh-snug: 1.15;
   --lh-text: 1.55;
 
   /* Espaciado y medidas */
@@ -68,8 +83,9 @@
   --measure: 64ch;
 
   --r-1: 3px;
-  --r-2: 8px;
+  --r-2: 10px;
   --r-pill: 999px;
+  --border: 2.5px;
 
-  --focus: 0 0 0 3px var(--paper), 0 0 0 6px var(--sea);
+  --focus: 0 0 0 3px var(--paper), 0 0 0 6px var(--ink);
 }

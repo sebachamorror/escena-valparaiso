@@ -1,28 +1,48 @@
 .card {
+  --card-bg: var(--paper);
+  --card-ink: var(--ink);
   display: grid; gap: var(--s-2); align-content: start;
-  border-top: 2px solid var(--ink); padding-top: var(--s-3);
+  background: var(--card-bg); color: var(--card-ink);
+  border: var(--border) solid var(--ink); border-radius: var(--r-2);
+  padding: var(--s-4);
+  box-shadow: 5px 5px 0 var(--ink);
   position: relative;
+  transition: transform 0.12s, box-shadow 0.12s;
 }
-.card h3 { font-size: 1.35rem; line-height: 1.2; }
+.card:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--ink); }
+.card h3 { font-size: 1.4rem; line-height: 1.05; font-family: var(--display); font-weight: 400; text-transform: uppercase; letter-spacing: 0.002em; }
 .card h3 a { text-decoration: none; }
 .card h3 a::after { content: ""; position: absolute; inset: 0; }
-.card h3 a:hover { color: var(--sea-deep); }
-.card:hover { border-top-color: var(--sea); }
-.meta { font-size: var(--t-sm); color: var(--ink-2); }
-.excerpt { font-size: var(--t-sm); color: var(--ink-2); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.card h3 a:hover { color: inherit; }
+.meta { font-size: var(--t-sm); color: var(--card-ink); opacity: 0.85; font-weight: 500; }
+.excerpt { font-size: var(--t-sm); color: var(--card-ink); opacity: 0.8; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .row { display: flex; gap: var(--s-3); align-items: center; }
-.tags { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-2); font-family: var(--mono); font-size: var(--t-xs); color: var(--ink-3); letter-spacing: 0.04em; text-transform: uppercase; }
+.tags { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-2); font-family: var(--mono); font-weight: 700; font-size: var(--t-xs); color: var(--card-ink); letter-spacing: 0.04em; text-transform: uppercase; opacity: 0.75; }
 .tags span + span::before { content: "·"; margin-right: var(--s-2); }
-.state { position: absolute; right: 0; top: var(--s-3); font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--warn); }
+.state {
+  position: absolute; right: var(--s-3); top: var(--s-3); font-family: var(--mono); font-size: 0.6rem;
+  font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink); background: var(--paper);
+  border: 1.5px solid var(--ink); border-radius: var(--r-pill); padding: 0.15rem 0.5rem;
+}
 
-/* Tarjeta de territorio */
-.territory { border-top-color: var(--line-strong); }
+/* Colores del bloque, rotados por slug (src/lib/palette.ts) */
+.pink { --card-bg: var(--pink); --card-ink: var(--pink-ink); }
+.lime { --card-bg: var(--lime); --card-ink: var(--lime-ink); }
+.gold { --card-bg: var(--gold); --card-ink: var(--gold-ink); }
+.sky { --card-bg: var(--sky); --card-ink: var(--sky-ink); }
+.violet { --card-bg: var(--violet); --card-ink: #fff; }
+.mint { --card-bg: var(--mint); --card-ink: var(--mint-ink); }
+
+/* Tarjeta de territorio: neutra, para no competir con el mapa */
+.territory { --card-bg: var(--paper); --card-ink: var(--ink); box-shadow: 4px 4px 0 var(--line-strong); border-color: var(--line-strong); }
+.territory:hover { box-shadow: 6px 6px 0 var(--ink); border-color: var(--ink); }
 .territory h3 { font-size: 1.2rem; }
 .count { font-family: var(--mono); font-variant-numeric: tabular-nums; font-size: var(--t-xs); color: var(--ink-3); letter-spacing: 0.04em; }
-.count strong { color: var(--ink); font-weight: 600; }
+.count strong { color: var(--ink); font-weight: 700; }
 
-/* Tarjeta de episodio (identidad De Cuento en Cuento) */
-.episode { border-top-color: var(--dcc-coral-dark); background: var(--dcc-cream); padding: var(--s-4); border-radius: 0 0 var(--r-2) var(--r-2); }
-.episode:hover { border-top-color: var(--dcc-coral); }
-.epNum { font-family: var(--display); font-size: 2.4rem; line-height: 1; color: var(--dcc-coral-dark); font-style: italic; }
-.epTramo { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.12em; text-transform: uppercase; color: var(--dcc-ink); opacity: 0.7; }
+/* Tarjeta de episodio (identidad De Cuento en Cuento, coral y amarillo propios) */
+.episode { --card-bg: var(--dcc-cream); --card-ink: var(--dcc-ink); border-color: var(--dcc-coral-dark); box-shadow: 5px 5px 0 var(--dcc-coral-dark); }
+.episode:hover { box-shadow: 7px 7px 0 var(--dcc-coral-dark); }
+.episode h3 { font-family: var(--display); }
+.epNum { font-family: var(--display); font-size: 2.6rem; line-height: 1; color: var(--dcc-coral-dark); }
+.epTramo { font-family: var(--mono); font-weight: 700; font-size: var(--t-xs); letter-spacing: 0.12em; text-transform: uppercase; color: var(--dcc-ink); opacity: 0.7; }

@@ -4,11 +4,12 @@ import { communeName } from "@/lib/data/territories";
 import { disciplineName, STATUS_LABEL } from "@/lib/data/vocab";
 import { plainText } from "@/lib/markdown";
 import { isPublishable } from "@/lib/data/visibility";
+import { colorForSlug } from "@/lib/palette";
 import styles from "./cards.module.css";
 
 export function CompanyCard({ c }: { c: Company }) {
   return (
-    <article className={styles.card}>
+    <article className={`${styles.card} ${styles[colorForSlug(c.slug)]}`}>
       {!isPublishable(c) && <span className={styles.state}>En verificación</span>}
       <div className={styles.tags}><span>Compañía</span><span>{communeName(c.commune)}</span></div>
       <h3><Link href={`/companias/${c.slug}`}>{c.name}</Link></h3>

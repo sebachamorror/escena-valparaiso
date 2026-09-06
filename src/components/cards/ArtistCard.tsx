@@ -5,11 +5,12 @@ import { craftName } from "@/lib/data/vocab";
 import { plainText } from "@/lib/markdown";
 import { isPublishable } from "@/lib/data/visibility";
 import { Avatar } from "@/components/ui/Avatar";
+import { colorForSlug } from "@/lib/palette";
 import styles from "./cards.module.css";
 
 export function ArtistCard({ a }: { a: Artist }) {
   return (
-    <article className={styles.card}>
+    <article className={`${styles.card} ${styles[colorForSlug(a.slug)]}`}>
       {!isPublishable(a) && <span className={styles.state}>En verificación</span>}
       <div className={styles.tags}><span>Artista</span><span>{communeName(a.commune)}</span></div>
       <div className={styles.row}>
