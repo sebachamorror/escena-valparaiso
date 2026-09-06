@@ -5,9 +5,10 @@
   position: sticky; top: 0; z-index: 50;
 }
 .bar { display: flex; align-items: center; justify-content: space-between; gap: var(--s-4); min-height: 64px; }
-.brand { text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; line-height: 1; }
-.brandName { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.01em; font-size: 1.3rem; }
-.brandName span { background: var(--pink); color: var(--pink-ink); padding: 0.05em 0.3rem; border-radius: 3px; }
+.brand { text-decoration: none; display: inline-flex; align-items: flex-start; line-height: 1; }
+.brandName { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.02em; font-size: 1.15rem; display: flex; flex-direction: column; align-items: flex-start; gap: 0.3rem; }
+.brandTop { color: var(--ink); }
+.brandBottom { background: var(--pink); color: var(--pink-ink); padding: 0.1em 0.5rem; border-radius: 3px; }
 .brandSub { display: none; }
 .nav { display: none; }
 .navList { list-style: none; display: flex; gap: 0.85rem; flex-wrap: nowrap; white-space: nowrap; }
@@ -39,14 +40,16 @@
 .panelSecondary a { font-family: var(--text); font-size: var(--t-md); font-weight: 600; padding: var(--s-3) 0; }
 
 /* Footer */
-.footer { border-top: var(--border) solid var(--ink); margin-top: var(--s-8); padding-block: var(--s-7) var(--s-6); background: var(--paper-2); }
+.footer { border-top: var(--border) solid var(--ink); margin-top: var(--s-8); padding-block: var(--s-7) var(--s-6); background: var(--ink); color: var(--paper); }
+.footer :global(.muted) { color: var(--paper); opacity: 0.7; }
+.footer :global(.eyebrow) { color: var(--gold); }
 .footerGrid { display: grid; gap: var(--s-6); grid-template-columns: 1fr; }
 @media (min-width: 720px) { .footerGrid { grid-template-columns: 1.4fr 1fr 1fr; } }
-.footerTitle { font-family: var(--display); text-transform: uppercase; font-size: 1.7rem; margin-bottom: var(--s-2); }
+.footerTitle { font-family: var(--display); text-transform: uppercase; font-size: 1.7rem; margin-bottom: var(--s-2); color: var(--pink); }
 .footerList { list-style: none; display: grid; gap: var(--s-1); }
-.footerList a { text-decoration: none; font-size: var(--t-sm); }
-.footerList a:hover { text-decoration: underline; }
-.footerBottom { margin-top: var(--s-6); padding-top: var(--s-4); border-top: 1px solid var(--line); font-size: var(--t-xs); color: var(--ink-3); display: flex; flex-wrap: wrap; gap: var(--s-3) var(--s-5); }
+.footerList a { text-decoration: none; font-size: var(--t-sm); color: var(--paper); }
+.footerList a:hover { text-decoration: underline; color: var(--gold); }
+.footerBottom { margin-top: var(--s-6); padding-top: var(--s-4); border-top: 1px solid rgba(255,255,255,0.2); font-size: var(--t-xs); color: var(--paper); opacity: 0.65; display: flex; flex-wrap: wrap; gap: var(--s-3) var(--s-5); }
 
 /* Migas, cabeceras */
 .crumbs { list-style: none; display: flex; flex-wrap: wrap; gap: var(--s-2); font-size: var(--t-xs); font-family: var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-3); }

@@ -29,6 +29,14 @@
   --mint: #3fdba0;
   --mint-ink: #023324;
 
+  /* Versiones pálidas de la paleta, para lavados de fondo grandes donde el color pleno pesa demasiado */
+  --pink-pale: #ffe3f1;
+  --lime-pale: #eefacb;
+  --gold-pale: #fff1cc;
+  --sky-pale: #dcf3fd;
+  --violet-pale: #ece1fd;
+  --mint-pale: #d7f9ec;
+
   /* Compat: nombres anteriores, apuntan a la paleta nueva */
   --sea: #0f6b82;
   --sea-deep: #093c49;

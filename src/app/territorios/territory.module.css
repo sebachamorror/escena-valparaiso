@@ -1,8 +1,12 @@
 .grid { display: grid; gap: var(--s-6); }
-.counts { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 0; border: 1px solid var(--ink); border-radius: var(--r-2); overflow: hidden; margin-top: var(--s-5); }
-.count { padding: var(--s-3) var(--s-4); border-right: 1px solid var(--line); display: grid; }
+.counts { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 0; border: var(--border) solid var(--ink); border-radius: var(--r-2); overflow: hidden; margin-top: var(--s-5); box-shadow: 6px 6px 0 var(--ink); }
+.count { padding: var(--s-3) var(--s-4); border-right: var(--border) solid var(--ink); display: grid; }
 .count:last-child { border-right: 0; }
+.count:nth-child(1) { background: var(--pink); }
+.count:nth-child(2) { background: var(--lime); }
+.count:nth-child(3) { background: var(--gold); }
+.count:nth-child(4) { background: var(--sky); }
 .count strong { font-family: var(--display); font-size: 2rem; line-height: 1; }
-.count span { font-family: var(--mono); font-size: var(--t-xs); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); margin-top: var(--s-1); }
+.count span { font-family: var(--mono); font-weight: 700; font-size: var(--t-xs); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink); opacity: 0.75; margin-top: var(--s-1); }
 .mapGrid { display: grid; gap: var(--s-5); align-items: start; }
 @media (min-width: 900px) { .mapGrid { grid-template-columns: minmax(0, 480px) 1fr; } }

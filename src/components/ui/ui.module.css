@@ -1,6 +1,6 @@
 .empty {
-  border: var(--border) dashed var(--line-strong); border-radius: var(--r-2);
-  padding: var(--s-5); display: grid; gap: var(--s-3); background: transparent;
+  border: var(--border) dashed var(--ink); border-radius: var(--r-2);
+  padding: var(--s-5); display: grid; gap: var(--s-3); background: var(--mint-pale);
 }
 .empty p { margin: 0; max-width: 60ch; }
 .emptyActions { display: flex; gap: var(--s-3); flex-wrap: wrap; }
