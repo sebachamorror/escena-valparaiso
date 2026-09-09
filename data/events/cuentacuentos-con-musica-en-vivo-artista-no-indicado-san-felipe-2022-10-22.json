@@ -1,0 +1,52 @@
+{
+  "slug": "cuentacuentos-con-musica-en-vivo-artista-no-indicado-san-felipe-2022-10-22",
+  "type": "event",
+  "title": "Cuentacuentos con música en vivo; artista no indicado.",
+  "kind": "funcion",
+  "work": null,
+  "company": null,
+  "organizer_text": null,
+  "disciplines": [],
+  "audience": null,
+  "description_md": "Cuentacuentos con música en vivo; artista no indicado.",
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2022-10-22T12:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "teatro-municipal-de-san-felipe",
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://eltrabajo.cl/portal/vuelve-teatro-infantil-con-cuentacuentos-al-teatro-municipal-de-san-felipe/",
+      "title": "Vuelve Teatro Infantil con Cuentacuentos al Teatro Municipal de San Felipe",
+      "publisher": "Diario El Trabajo (San Felipe)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 20 de octubre de 2022: ciclo Teatro Infantil (último sábado de cada mes), 'Fábulas fabulosas' el 22 de octubre de 2022, 12:00, entrada liberada."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

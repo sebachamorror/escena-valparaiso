@@ -1,0 +1,46 @@
+{
+  "slug": "la-traviata-lirica-disidente",
+  "type": "work",
+  "title": "La Traviata (Lírica Disidente)",
+  "authorship": null,
+  "direction": null,
+  "companies": [],
+  "credits": [],
+  "disciplines": [
+    "opera"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": null,
+  "communes": [],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.munivina.cl/noticias/teatro-municipal-de-vina-del-mar-lanza-temporada-2026-con-mas-de-60-espectaculos/",
+      "title": "Teatro Municipal de Viña del Mar lanza temporada 2026 con más de 60 espectáculos",
+      "publisher": "Ilustre Municipalidad de Viña del Mar",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 17 de abril de 2026: más de 60 presentaciones; 'La Traviata' en octubre de 2026 con el Colectivo Artístico Lírica Disidente; 'El Cascanueces' a fin de año."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

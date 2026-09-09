@@ -1,0 +1,69 @@
+{
+  "slug": "teatro-municipal-de-casablanca",
+  "type": "venue",
+  "name": "Teatro Municipal de Casablanca",
+  "short_name": null,
+  "venue_type": "teatro",
+  "owner": "municipal",
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "casablanca",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://municipalidadcasablanca.cl/index.php?Itemid=109&catid=8&id=1600%3Aconoce-todo-lo-que-trae-teatro-a-mil-para-casablanca&option=com_content&view=article",
+      "title": "Conoce todo lo que trae Teatro a Mil para Casablanca",
+      "publisher": "Ilustre Municipalidad de Casablanca",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 15 de enero de 2025; el municipio lleva 10 años con el convenio Teatro a Mil."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

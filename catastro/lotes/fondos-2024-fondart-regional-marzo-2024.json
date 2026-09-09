@@ -1,0 +1,95 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondart Regional 2024: 100 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondart-regional-marzo-2024",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/03/SELECCIONADOS-FDRT-REGIONAL2024-SEGUNDO-LLAMADO.pdf",
+   "titulo": "Seleccionados Fondart Regional 2024 segundo llamado (marzo 2024)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Formación artística comunitaria desde el Anfiteatro Lui Mongo",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2024,
+   "folio": "723123",
+   "monto": 9783352,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-regional-marzo-2024"
+   ],
+   "notas": "Responsable según nómina: Anfiteatro Barón Lui Mongo Centro Cultural Deportivo Y Comunitario. Página 22 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Anfiteatro Barón Lui Mongo Centro Cultural Deportivo Y Comunitario"
+  },
+  {
+   "proyecto": "Escuela de luthería de Valparaíso, Ciudad musical",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2024,
+   "folio": "722193",
+   "monto": 19920416,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-regional-marzo-2024"
+   ],
+   "notas": "Responsable según nómina: Luis Felipe Del Valle Gandulfo. Página 22 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Luis Felipe Del Valle Gandulfo"
+  },
+  {
+   "proyecto": "Catálogo digital de la obra visual de Juan Luis Martínez",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2024,
+   "folio": "723519",
+   "monto": 18247993,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-regional-marzo-2024"
+   ],
+   "notas": "Responsable según nómina: Fundación Juan Luis Martínez. Página 24 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Fundación Juan Luis Martínez"
+  },
+  {
+   "proyecto": "En cuerpo y obra serie de televisión que difunde el trabajo de artistas locales de la Región de Valparaíso",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2024,
+   "folio": "714381",
+   "monto": 22843998,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-regional-marzo-2024"
+   ],
+   "notas": "Responsable según nómina: Universidad Viña del Mar. Página 25 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Universidad Viña del Mar"
+  },
+  {
+   "proyecto": "La desintegración de la figura humana en la obra de Edgar del Canto",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2024,
+   "folio": "719727",
+   "monto": 22500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-regional-marzo-2024"
+   ],
+   "notas": "Responsable según nómina: Edgar Alejandro Del Canto Velis. Página 25 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Edgar Alejandro Del Canto Velis"
+  }
+ ]
+}

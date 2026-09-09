@@ -1,0 +1,69 @@
+{
+  "slug": "centro-cultural-camilo-mori",
+  "type": "venue",
+  "name": "Centro Cultural Camilo Mori",
+  "short_name": null,
+  "venue_type": "centro-cultural",
+  "owner": null,
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "el-quisco",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mas-de-60-actividades-artisticas-gratuitas-ofrecera-la-red-de-espacios-culturales-de-la-region-de-valparaiso/",
+      "title": "Más de 60 actividades artísticas gratuitas ofrecerá la Red de Espacios Culturales de la Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de octubre de 2020. Lista los 27 espacios de la Red de Espacios Culturales regional y actividades entre octubre de 2020 y marzo de 2021 sin fechas exactas."
+    },
+    {
+      "url": "https://diariolaquinta.cl/2025/07/29/cultura-terrapolis-obra-que-aborda-la-crisis-medioambiental-de-quintero-y-puchuncavi-vuelve-a-la-region-de-valparaiso/",
+      "title": "'Terrapolis': Obra que aborda la crisis medioambiental de Quintero y Puchuncaví vuelve a la Región de Valparaíso",
+      "publisher": "Diario La Quinta",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 29 de julio de 2025 con gira regional de agosto de 2025."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

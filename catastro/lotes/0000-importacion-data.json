@@ -1,0 +1,2428 @@
+{
+ "capa": 0,
+ "consulta": "importacion data/",
+ "fuentes": [
+  {
+   "clave": "venue-centro-cultural-de-los-andes-0",
+   "url": "https://www.losandes.cl/centro-cultural/",
+   "titulo": "Centro Cultural — Ilustre Municipalidad de Los Andes",
+   "publicador": "Ilustre Municipalidad de Los Andes",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma dirección, teléfono, correo y oferta de talleres."
+  },
+  {
+   "clave": "venue-centro-cultural-san-antonio-0",
+   "url": "https://www.sanantonio.cl/alcaldia/departamento-de-cultura/centro-cultural-san-antonio.html",
+   "titulo": "Centro Cultural San Antonio",
+   "publicador": "Ilustre Municipalidad de San Antonio",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma dirección, programación gratuita y vínculo con planes de estudio."
+  },
+  {
+   "clave": "venue-parque-cultural-de-valparaiso-0",
+   "url": "https://parquecultural.cl/ubicacion/",
+   "titulo": "Ubicación — Parque Cultural Valparaíso",
+   "publicador": "Parque Cultural de Valparaíso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma dirección (Cumming 590, Cerro Cárcel) y correo de contacto."
+  },
+  {
+   "clave": "venue-parque-cultural-de-valparaiso-1",
+   "url": "https://es.wikipedia.org/wiki/Parque_Cultural_de_Valpara%C3%ADso",
+   "titulo": "Parque Cultural de Valparaíso",
+   "publicador": "Wikipedia",
+   "tipo": "otro",
+   "calidad": "E",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Solo como referencia secundaria de la inauguración en octubre de 2011; no se usa como única fuente."
+  },
+  {
+   "clave": "venue-teatro-municipal-juan-bustos-ramirez-0",
+   "url": "https://www.gob.cl/noticias/mandataria-inauguro-el-teatro-municipal-juan-bustos-en-quilpue/",
+   "titulo": "Mandataria inauguró el Teatro Municipal Juan Bustos en Quilpué",
+   "publicador": "Gobierno de Chile (gob.cl)",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma historia (Teatro Velarde 1940), restauración, reapertura el 12 de diciembre de 2017 y nuevas instalaciones. No incluye dirección ni capacidad exacta."
+  },
+  {
+   "clave": "venue-teatro-municipal-juan-bustos-ramirez-1",
+   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2017/12/14/quilpue-inauguro-el-nuevo-teatro-municipal-juan-bustos-ramirez.shtml",
+   "titulo": "Quilpué inauguró el nuevo Teatro Municipal Juan Bustos Ramírez",
+   "publicador": "BioBioChile",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Corrobora la reapertura de diciembre de 2017."
+  },
+  {
+   "clave": "venue-teatro-municipal-pompeya-0",
+   "url": "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/teatro-pompeya-y-sus-portales-de-villa-alemana",
+   "titulo": "Teatro Pompeya y sus Portales de Villa Alemana",
+   "publicador": "Consejo de Monumentos Nacionales de Chile",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma dirección, declaratoria de monumento histórico (2008), estilo, construcción 1925, inauguración 1926, capacidad de 500 personas, daño 2010, restauración 2011-2012 y reapertura el 29 de octubre de 2012."
+  },
+  {
+   "clave": "venue-teatro-municipal-pompeya-1",
+   "url": "https://munivillalemana.gob.cl/2026/07/teatro-pompeya-villa-alemana-celebra-100-anos/",
+   "titulo": "Teatro Pompeya de Villa Alemana celebra 100 años de historia como símbolo del patrimonio y la cultura local",
+   "publicador": "Ilustre Municipalidad de Villa Alemana",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma que sigue activo y celebrando su historia en julio de 2026; no se abrió en detalle."
+  },
+  {
+   "clave": "venue-teatro-rodolfo-bravo-0",
+   "url": "https://publicosyterritorios.cultura.gob.cl/local/teatro-rodolfo-bravo-del-centro-cultural-municipal-leopoldo-silva-reynoard-de-quillota/",
+   "titulo": "Teatro Rodolfo Bravo del Centro Cultural Municipal Leopoldo Silva Reynoard de Quillota",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Unidad de Públicos y Territorios",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma el nombre oficial completo del teatro. No entrega dirección ni capacidad."
+  },
+  {
+   "clave": "venue-teatro-rodolfo-bravo-1",
+   "url": "https://g5noticias.cl/2021/01/21/teatro-del-centro-cultural-de-quillota-reabre-a-publico-este-viernes/",
+   "titulo": "Teatro del Centro Cultural de Quillota reabre a público este viernes",
+   "publicador": "G5 Noticias",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Publicada el 21 de enero de 2021. Confirma la reapertura del 22 de enero de 2021 y el nombre «Rodolfo Bravo»."
+  },
+  {
+   "clave": "venue-teatromuseo-del-titere-y-el-payaso-0",
+   "url": "https://www.teatromuseo.cl/",
+   "titulo": "Sitio oficial de la Fundación Teatromuseo del Títere y el Payaso",
+   "publicador": "Fundación Teatromuseo del Títere y el Payaso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma dirección (Cumming 795, Valparaíso) y teléfono."
+  },
+  {
+   "clave": "venue-teatromuseo-del-titere-y-el-payaso-1",
+   "url": "https://semanaeducacionartistica.cultura.gob.cl/contenidos/fundacion-teatromuseo-del-titere-y-el-payaso/",
+   "titulo": "Fundación Teatromuseo del Títere y el Payaso — Semana de la Educación Artística",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma inauguración en julio de 2007 en la ex capilla de San Judas Tadeo, y la escuela internacional, museo y teatro."
+  },
+  {
+   "clave": "company-arte-escenico-la-ligua-0",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 3 (cita El Observador, Festival Valle del Liwa 2024)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Nota de El Observador sobre Valle del Liwa 2024 aún sin URL propia localizada."
+  },
+  {
+   "clave": "company-arte-escenico-la-ligua-1",
+   "url": "https://www.instagram.com/festivalvalledelliwa/",
+   "titulo": "Festival de Teatro y Todas las Artes Valle del Liwa (cuenta oficial)",
+   "publicador": "Festival Valle del Liwa",
+   "tipo": "red-social",
+   "calidad": "D",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Cuenta encontrada por búsqueda; no se abrió para confirmar contenido (Instagram no es accesible para este asistente). Cuenta como nivel 1 solo para existencia, no para trayectoria ni fondos; falta que un verificador humano la revise."
+  },
+  {
+   "clave": "company-asamblea-titiritera-attich-v-0",
+   "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+   "titulo": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+   "publicador": "G5 Noticias",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma que ATTICH V, junto a la Seremi de las Culturas, organiza el IV Festival Ventolera; lista las compañías participantes con su comuna."
+  },
+  {
+   "clave": "company-asamblea-titiritera-attich-v-1",
+   "url": "https://g5noticias.cl/2026/03/16/festival-caleta-de-titeres-ofrecera-funciones-sobre-lanchas-en-valparaiso/",
+   "titulo": "Festival \"Caleta de Títeres\" ofrecerá funciones sobre lanchas en Valparaíso",
+   "publicador": "G5 Noticias",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma organizadores del Festival Caleta de Títeres II (22 de marzo de 2026, Muelle Prat) y compañías participantes."
+  },
+  {
+   "clave": "company-asamblea-titiritera-attich-v-2",
+   "url": "https://www.theclinic.cl/2026/03/16/hasta-con-funciones-de-titeres-sobre-lanchas-valparaiso-se-prepara-para-celebrar-el-dia-mundial-del-titere-y-la-marioneta-2026/",
+   "titulo": "Hasta con funciones de títeres sobre lanchas: Valparaíso se prepara para celebrar el Día Mundial del Títere y la Marioneta 2026",
+   "publicador": "The Clinic",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma fecha, lugar, obras programadas y modalidad de inscripción del Festival Caleta de Títeres II (2026), segunda edición tras la de 2025."
+  },
+  {
+   "clave": "company-asamblea-titiritera-attich-v-3",
+   "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+   "titulo": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso",
+   "publicador": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Cuatro de las seis compañías del catálogo (Titiricaos, La Barconeta, La Capuchina, Vaccaro Puppets) declaran formar parte de la \"Asamblea Titiritera ATTICH Quinta Región\"."
+  },
+  {
+   "clave": "company-colectiva-la-capuchina-0",
+   "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+   "titulo": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso (ficha Compañía La Capuchina, p. 10)",
+   "publicador": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Catálogo 2025, publicado en patrimonioinmaterial.gob.cl. Texto extraído directamente del PDF oficial. Confirma \"Nace el 2018 en Valparaíso\"."
+  },
+  {
+   "clave": "company-colectiva-la-capuchina-1",
+   "url": "https://www.sigpa.cl/ficha-colectivo/colectiva-artistica-medioambiental-la-capuchina",
+   "titulo": "SIGPA — Colectiva Artística Medioambiental La Capuchina",
+   "publicador": "Servicio Nacional del Patrimonio Cultural (SIGPA)",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Registro SIGPA CC6995... (id CC7603), fecha de registro 30-09-2024. Confirma comuna Valparaíso e integrantes fundadoras Waleska Vilches Valdivia y Ana Sagredo Núñez."
+  },
+  {
+   "clave": "company-colectiva-la-capuchina-2",
+   "url": "https://www.teatromuseo.cl/noticia/agosto-se-despide-con-broche-de-oro-un-estreno_65",
+   "titulo": "Agosto se despide con broche de oro: un estreno (programación del estreno de La Ruta de la Quebrada)",
+   "publicador": "Fundación TeatroMuseo del Títere y el Payaso",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Menciona el estreno de La Ruta de la Quebrada (Cerro Las Cañas, El Litre) y una convocatoria 2023 del Ministerio de las Culturas; el artículo no consigna año de publicación explícito, se infiere 2023 por el contexto."
+  },
+  {
+   "clave": "company-colectiva-la-capuchina-3",
+   "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+   "titulo": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+   "publicador": "G5 Noticias",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Lista a \"Compañía Capuchina (Valparaíso)\" entre las compañías participantes del IV Festival Ventolera, 20 de octubre de 2024."
+  },
+  {
+   "clave": "company-compania-de-munecos-marionautas-0",
+   "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+   "titulo": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso (ficha Compañía Marionautas, p. 6)",
+   "publicador": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Catálogo 2025, publicado en patrimonioinmaterial.gob.cl. Texto extraído directamente del PDF oficial. Confirma comuna (\"Actualmente habita la ciudad de Quilpué\"), correo y teléfono de contacto público, y trayectoria."
+  },
+  {
+   "clave": "company-compania-de-munecos-marionautas-1",
+   "url": "https://www.instagram.com/elmundodelostiteres/",
+   "titulo": "El Mundo de los Títeres (@elmundodelostiteres) — cuenta con ubicación pública \"Quilpué\"",
+   "publicador": "Compañía de Muñecos Marionautas",
+   "tipo": "red-social",
+   "calidad": "D",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Cuenta encontrada por búsqueda web; el handle coincide exactamente con el publicado en el catálogo oficial. No se abrió directamente (Instagram no es accesible para este asistente); cuenta como nivel 1 solo para existencia y comuna, no para trayectoria."
+  },
+  {
+   "clave": "company-compania-de-teatro-alegria-0",
+   "url": null,
+   "titulo": "Carta de compromiso — Villa alemana.pdf (25 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente."
+  },
+  {
+   "clave": "company-compania-de-teatro-alegria-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Municipalidad de Villa Alemana, Registro de organizaciones Ley 19.862)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Registro Ley 19.862 es verificable en registros19862.cl; URL pendiente."
+  },
+  {
+   "clave": "company-compania-de-teatro-la-lancha-0",
+   "url": null,
+   "titulo": "Carta de compromiso — San Antonio.pdf (21 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. El RUT de la sociedad, presente en la carta, no se replica."
+  },
+  {
+   "clave": "company-compania-de-teatro-la-lancha-1",
+   "url": null,
+   "titulo": "Propuesta de difusión Quinta Escena Podcast (versión vigente)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente."
+  },
+  {
+   "clave": "company-compania-de-teatro-la-lancha-2",
+   "url": "https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/",
+   "titulo": "Compañía de teatro La Lancha se ha lucido con su obra Llo Lle We, la historia de San Antonio",
+   "publicador": "El Proa",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Publicada el 24 de diciembre de 2021. Confirma la existencia y actividad de la compañía con Llo Lle We, con más de 23 funciones a esa fecha."
+  },
+  {
+   "clave": "company-festin-de-la-risa-0",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 2 (cita Universidad de Chile, Teatromuseo, Parque Cultural de Valparaíso)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URLs pendientes."
+  },
+  {
+   "clave": "company-festin-de-la-risa-1",
+   "url": null,
+   "titulo": "Compañías candidatas por provincia (levantamiento interno, 4 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Documento de trabajo; confirmar con la compañía."
+  },
+  {
+   "clave": "company-fundacion-oani-de-teatro-0",
+   "url": "https://oaniteatro.com/compania/",
+   "titulo": "OANI — Fundación OANI de Teatro (sitio oficial)",
+   "publicador": "Fundación OANI de Teatro",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Fetch directo del sitio oficial."
+  },
+  {
+   "clave": "company-fundacion-oani-de-teatro-1",
+   "url": "https://oaniteatro.com/",
+   "titulo": "OANI Home",
+   "publicador": "Fundación OANI de Teatro",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Fetch directo confirmando enlaces de redes sociales (@oaniteatro en Facebook, Instagram y X) y agenda de actividades de 2025-2026."
+  },
+  {
+   "clave": "company-fundacion-oani-de-teatro-2",
+   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/01/26/estreno-de-nosotrxs-de-oani-teatro-se-presentara-en-calle-y-sitios-no-convencionales-de-valparaiso.shtml",
+   "titulo": "Estreno de «NOSOTRXS» de OANI Teatro: se presentará en calle y sitios no convencionales de Valparaíso",
+   "publicador": "BioBioChile",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma «28 años» de trayectoria a enero de 2026 (coherente con fundación en 1998) y el financiamiento Fondart 2025 de NOSOTRXS."
+  },
+  {
+   "clave": "company-fundacion-oani-de-teatro-3",
+   "url": "https://parquecultural.cl/2019/09/12/valparaiso-celebra-los-30-anos-del-teatro-lambe-lambe/",
+   "titulo": "Valparaíso celebra los 30 años del teatro Lambe Lambe",
+   "publicador": "Parque Cultural de Valparaíso",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": null
+  },
+  {
+   "clave": "company-guaico-titeres-0",
+   "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+   "titulo": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso (ficha Compañía Guaico Títeres, p. 7)",
+   "publicador": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Catálogo 2025, publicado en patrimonioinmaterial.gob.cl. Texto extraído directamente del PDF oficial; las fotografías del catálogo son crédito de una integrante o colaboradora de Guaico Títeres. No indica comuna de forma explícita."
+  },
+  {
+   "clave": "company-guaico-titeres-1",
+   "url": "https://www.sigpa.cl/ficha-colectivo/guaico-titeres",
+   "titulo": "SIGPA — Guaico Títeres",
+   "publicador": "Servicio Nacional del Patrimonio Cultural (SIGPA)",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Registro SIGPA CC6995, fecha de registro 08-03-2023. Confirma comuna Valparaíso (cerro Playa Ancha) y técnicas de manipulación de títeres; no entrega nombres individuales de integrantes."
+  },
+  {
+   "clave": "company-la-enredadera-0",
+   "url": "https://gam.cl/es/que-hacer-en-gam/danza/la-caracol/",
+   "titulo": "La Caracol — Danza",
+   "publicador": "Centro Cultural Gabriela Mistral (GAM)",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Página de programación del GAM con biografía del colectivo y de la obra."
+  },
+  {
+   "clave": "company-la-enredadera-1",
+   "url": "https://www.elmostrador.cl/braga/2021/07/08/la-caracol-obra-de-danza-para-la-infancia-que-muestra-la-defensa-de-los-derechos-de-la-ninez/",
+   "titulo": "«La Caracol»: obra de danza para la infancia que muestra la defensa de los derechos de la niñez",
+   "publicador": "El Mostrador",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": null
+  },
+  {
+   "clave": "company-la-enredadera-2",
+   "url": "https://radio.uchile.cl/2024/08/22/la-caracol-el-montaje-familiar-para-hablar-sobre-derechos-de-ninas-y-ninos-que-arriba-al-gam/",
+   "titulo": "«La Caracol»: el montaje familiar para hablar sobre derechos de niñas y niños que arriba al GAM",
+   "publicador": "Diario y Radio Universidad de Chile",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": null
+  },
+  {
+   "clave": "company-la-enredadera-3",
+   "url": "https://diariolaquinta.cl/2026/07/31/proyecto-mujeres-en-escena-llevara-teatro-danza-y-circo-a-seis-provincias-de-la-region-de-valparaiso/",
+   "titulo": "Proyecto «Mujeres en Escena» llevará teatro, danza y circo a seis provincias de la Región de Valparaíso",
+   "publicador": "Diario La Quinta",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma actividad vigente al 31 de julio de 2026 y la gira hasta enero de 2027."
+  },
+  {
+   "clave": "company-la-enredadera-4",
+   "url": "https://ritoquefm.cl/mujeres-en-la-escena-la-red-cooperativa-que-desafia-al-centralismo-y-recorre-el-valparaiso-profundo/",
+   "titulo": "Mujeres en la escena: la red cooperativa que desafía al centralismo y recorre el Valparaíso profundo",
+   "publicador": "Ritoque FM",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Describe a la agrupación que presenta «La Caracol» en la gira 2026 como interregional (Región de Valparaíso y Región del Biobío), lo que podría referirse a la formación ampliada de esta gira y no a la sede fundacional del colectivo (Valparaíso, según GAM). Se registran ambas versiones."
+  },
+  {
+   "clave": "company-ludus-teatro-0",
+   "url": "https://semanaeducacionartistica.cultura.gob.cl/author/ludus-teatro/",
+   "titulo": "LUDUS TEATRO | #SEA2024",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Semana de la Educación Artística",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "URL localizada por buscador; el contenido citado proviene del resumen generado por el buscador. El intento de este asistente de abrir la página directamente (WebFetch) devolvió error 404 el 2026-09-05, por lo que no se pudo confirmar leyendo la página completa. Requiere que un verificador humano la revise."
+  },
+  {
+   "clave": "company-ludus-teatro-1",
+   "url": "https://radio.uchile.cl/2021/11/09/companias-de-teatro-familiar-llevan-sus-producciones-a-cinco-comunas-de-la-region-de-valparaiso/",
+   "titulo": "Compañías de teatro familiar llevan sus producciones a cinco comunas de la Región de Valparaíso",
+   "publicador": "Diario y Radio Universidad de Chile",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma la obra «Don Tilde desmemoriado» de Ludus Teatro en el Teatro Municipal Juan Bustos Ramírez de Quilpué, 14 de noviembre de 2021."
+  },
+  {
+   "clave": "company-ludus-teatro-2",
+   "url": "https://web-old.parquecultural.cl/2016/08/30/don-tilde-desmemoriado-2/",
+   "titulo": "«Don Tilde desmemoriado» — Cia Teatro Ludus",
+   "publicador": "Parque Cultural de Valparaíso",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Registra una función de agosto de 2016 en la Sala Estudio del Parque Cultural de Valparaíso; no confirma comuna de origen de la compañía."
+  },
+  {
+   "clave": "company-productora-abc-arte-bienestar-y-cultura-0",
+   "url": null,
+   "titulo": "Carta de compromiso — Quillota.pdf (27 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente."
+  },
+  {
+   "clave": "company-productora-abc-arte-bienestar-y-cultura-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 4",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente."
+  },
+  {
+   "clave": "company-teatro-la-peste-0",
+   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/teatro/2025/11/13/teatro-la-peste-celebra-25-anos-con-adaptacion-de-novela-de-diamela-eltit.shtml",
+   "titulo": "Teatro La Peste celebra 25 años con adaptación de novela de Diamela Eltit",
+   "publicador": "BioBioChile",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma 25 años de trayectoria a noviembre de 2025 y el estreno de SUMAR, archivos del fracaso el 13 de noviembre de 2025."
+  },
+  {
+   "clave": "company-teatro-la-peste-1",
+   "url": "https://www.uv.cl/archivo-noticias-uv/28396-teatro-la-peste-conmemora-25-anos-con-obra-error-en-sala-negra-uv",
+   "titulo": "Teatro La Peste conmemora 25 años con obra «Error» en Sala Negra UV",
+   "publicador": "Universidad de Valparaíso",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Fuente institucional (universidad) que confirma comuna (Valparaíso, «compañía porteña»), director y trayectoria."
+  },
+  {
+   "clave": "company-teatro-la-peste-2",
+   "url": "https://parquecultural.cl/events/sumar-teatro-la-peste/",
+   "titulo": "Sumar - Teatro La Peste",
+   "publicador": "Parque Cultural de Valparaíso",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": null
+  },
+  {
+   "clave": "company-teatro-la-peste-3",
+   "url": "https://www.eldesconcierto.cl/2016/04/08/dialogo-politico-teatral-con-danilo-llanos-director-de-la-obra-error/",
+   "titulo": "Diálogo político-teatral con Danilo Llanos, director de la obra «Error»",
+   "publicador": "El Desconcierto",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Entrevista con detalle sobre fundadoras, núcleo estable, Fondart 2001 y el Encuentro de Teatro Porteño Independiente desde 2004; contenido citado a partir del resumen del buscador."
+  },
+  {
+   "clave": "company-teatro-la-peste-4",
+   "url": "https://www.valparaisocreativo.cl/valparaiso-tiene-algo-que-decir-al-mundo-teatro-la-peste-impulsa-un-plan-para-internacionalizar-el-teatro-regional/",
+   "titulo": "«Valparaíso tiene algo que decir al mundo»: Teatro La Peste impulsa un plan para internacionalizar el teatro regional",
+   "publicador": "Valparaíso Creativo",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "El intento de este asistente de abrir la página directamente devolvió un aviso de hosting suspendido (ihosting.cl); el contenido citado proviene del resumen generado por el buscador, no de una lectura directa de la página. Requiere verificación humana."
+  },
+  {
+   "clave": "company-the-magic-show-0",
+   "url": null,
+   "titulo": "Carta de compromiso — Los Andes.pdf (31 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente."
+  },
+  {
+   "clave": "company-the-magic-show-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 1 (cita SIGPA, Diario El Trabajo)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente)."
+  },
+  {
+   "clave": "company-the-magic-show-2",
+   "url": "https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/",
+   "titulo": "El arte de dar vida: Dos titiriteros del valle son reconocidos como cultores",
+   "publicador": "Diario El Trabajo",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Publicada el 24 de agosto de 2026. Confirma la función de Varieté de Marionetas Musicales del 25 de agosto de 2026 en la Escuela Mateo Cokljat de San Felipe."
+  },
+  {
+   "clave": "company-titeres-humedal-rio-maipo-0",
+   "url": "https://www.ivoox.com/en/entrevista-a-eduardo-romero-director-compania-audios-mp3_rf_71461265_1.html",
+   "titulo": "Entrevista a Eduardo Romero, Director de la Compañía de Teatro Humedal del Río Maipo",
+   "publicador": "ChilenaFM de San Antonio (iVoox)",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "El resumen de la entrevista ubica a la compañía en Santo Domingo (a 8 km al sur de San Antonio, junto al río Maipo), lo que difiere de la comuna «San Antonio» anotada al abrir esta tarea en la cola de investigación. La entrevista es del 15 de junio de 2021."
+  },
+  {
+   "clave": "company-titeres-humedal-rio-maipo-1",
+   "url": "https://www.facebook.com/people/Compa%C3%B1ia-titeres-humedal-rio-maipo/100068390424438/",
+   "titulo": "Compañia titeres humedal rio maipo",
+   "publicador": "Compañía Títeres Humedal Río Maipo (Facebook oficial)",
+   "tipo": "red-social",
+   "calidad": "D",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Página con 205 seguidores localizada por buscador; no se abrió directamente para confirmar fecha de la última publicación (Facebook no es accesible para este asistente)."
+  },
+  {
+   "clave": "company-titiricaos-0",
+   "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+   "titulo": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso (ficha Compañía Titiricaos, p. 8)",
+   "publicador": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Catálogo 2025, publicado en patrimonioinmaterial.gob.cl. Texto extraído directamente del PDF oficial. No indica comuna de sede de forma explícita."
+  },
+  {
+   "clave": "company-titiricaos-1",
+   "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+   "titulo": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+   "publicador": "G5 Noticias",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Lista explícitamente a \"Titiricaos (Valparaíso)\" entre las compañías participantes del IV Festival Ventolera, 20 de octubre de 2024. Esta es la única fuente que confirma la comuna de sede."
+  },
+  {
+   "clave": "work-ayayai-0",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 2",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URL pendiente."
+  },
+  {
+   "clave": "work-el-loco-y-la-triste-0",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Compañía de Teatro Alegría en Perú)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URL pendiente."
+  },
+  {
+   "clave": "work-llo-lle-we-0",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 7 (cita El Proa y Dossier Viaje Inmóvil — Llo Lle We)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. El Proa ya localizado y registrado como fuente propia (ver fuente siguiente); el Dossier Viaje Inmóvil sigue sin URL."
+  },
+  {
+   "clave": "work-llo-lle-we-1",
+   "url": "https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/",
+   "titulo": "Compañía de teatro La Lancha se ha lucido con su obra Llo Lle We, la historia de San Antonio",
+   "publicador": "El Proa",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Publicada el 24 de diciembre de 2021. Confirma elenco, dirección, sinopsis y funciones; no especifica una fecha de estreno."
+  },
+  {
+   "clave": "work-variete-de-marionetas-musicales-0",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 1 (cita Diario El Trabajo)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente)."
+  },
+  {
+   "clave": "work-variete-de-marionetas-musicales-1",
+   "url": "https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/",
+   "titulo": "El arte de dar vida: Dos titiriteros del valle son reconocidos como cultores",
+   "publicador": "Diario El Trabajo",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma la función del 25 de agosto de 2026 en la Escuela Mateo Cokljat de San Felipe (Día Nacional del Titiritero y la Titiritera)."
+  },
+  {
+   "clave": "event-animas-de-dia-claro-san-antonio-2026-09-05-0",
+   "url": "https://centrocultural.sanantonio.cl/index.php/item/3100-san-antonio-da-la-bienvenida-a-septiembre-con-una-amplia-programacion-para-toda-la-familia",
+   "titulo": "San Antonio da la bienvenida a septiembre con una amplia programación para toda la familia",
+   "publicador": "Centro Cultural San Antonio / Ilustre Municipalidad de San Antonio",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma fecha (sábado 5 de septiembre), hora (19:00), lugar (Sala Civita Aranda) y compañía (El Ojo Teatro) de la función, y que la programación de septiembre es gratuita para la comunidad."
+  },
+  {
+   "clave": "event-circo-saltimbanqui-san-antonio-2026-09-26-0",
+   "url": "https://centrocultural.sanantonio.cl/index.php/item/3100-san-antonio-da-la-bienvenida-a-septiembre-con-una-amplia-programacion-para-toda-la-familia",
+   "titulo": "San Antonio da la bienvenida a septiembre con una amplia programación para toda la familia",
+   "publicador": "Centro Cultural San Antonio / Ilustre Municipalidad de San Antonio",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma las dos funciones (17:00 y 18:00) del sábado 26 de septiembre en el Patio de la Niñez, con Saltimbanqui Circus descrita como compañía local, y que la programación de septiembre es gratuita para la comunidad."
+  },
+  {
+   "clave": "event-el-gran-circo-imaginario-teatromuseo-2026-09-13-0",
+   "url": "https://teatromuseo.cl/cartelera",
+   "titulo": "Cartelera — Fundación Teatromuseo",
+   "publicador": "Fundación Teatromuseo del Títere y el Payaso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Fecha y hora confirmadas el mismo día del levantamiento en la cartelera oficial del espacio."
+  },
+  {
+   "clave": "event-en-este-instante-teatromuseo-2026-09-06-0",
+   "url": "https://teatromuseo.cl/cartelera",
+   "titulo": "Cartelera — Fundación Teatromuseo",
+   "publicador": "Fundación Teatromuseo del Títere y el Payaso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Fecha y hora confirmadas el mismo día del levantamiento en la cartelera oficial del espacio."
+  },
+  {
+   "clave": "event-festival-caleta-de-titeres-2026-0",
+   "url": "https://www.cultura.gob.cl/agendacultural/festival-caleta-de-titeres-ofrecera-funciones-sobre-lanchas-en-valparaiso/",
+   "titulo": "Festival \"Caleta de Títeres\" ofrecerá funciones sobre lanchas en Valparaíso",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma organizadores (ATTICH V, Teatromuseo, Empresa Portuaria Valparaíso, Centex, Seremi de las Culturas), fecha (22 de marzo de 2026) y funciones sobre lanchas."
+  },
+  {
+   "clave": "event-festival-caleta-de-titeres-2026-1",
+   "url": "https://www.theclinic.cl/2026/03/16/hasta-con-funciones-de-titeres-sobre-lanchas-valparaiso-se-prepara-para-celebrar-el-dia-mundial-del-titere-y-la-marioneta-2026/",
+   "titulo": "Hasta con funciones de títeres sobre lanchas: Valparaíso se prepara para celebrar el Día Mundial del Títere y la Marioneta 2026",
+   "publicador": "The Clinic",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma segunda edición consecutiva, horario (desde 13:00) y funciones en lanchas entre 17:00 y 18:15."
+  },
+  {
+   "clave": "event-festival-caleta-de-titeres-2026-2",
+   "url": "https://www.elciudadano.com/arte-cultura/marionetas-se-toman-el-muelle-prat-en-una-nueva-edicion-de-caleta-de-titeres/03/17/",
+   "titulo": "Marionetas se toman el Muelle Prat en una nueva edición de \"Caleta de Títeres\"",
+   "publicador": "El Ciudadano",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma compañías (Talán-Talán, Compañía Terrestre, Lorenzo Títeres, Compañía La Bululú, Compañía La Barconeta) y obras programadas."
+  },
+  {
+   "clave": "event-festival-litoral-teatral-2026-0",
+   "url": "https://diariolaquinta.cl/2026/04/09/festival-litoral-teatral-2026-arranca-este-domingo-en-san-antonio/",
+   "titulo": "Festival Litoral Teatral 2026 arranca este domingo en San Antonio",
+   "publicador": "Diario La Quinta",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Cita textual: \"A 10 años de su primera versión en 2016\"; confirma organizador (Centro Cultural San Antonio), financiamiento (Fondo de Artes Escénicas del Ministerio de las Culturas) y funciones del 12, 19, 25 y 26 de abril."
+  },
+  {
+   "clave": "event-festival-litoral-teatral-2026-1",
+   "url": "https://centrocultural.sanantonio.cl/index.php/item/3077-destacadas-obras-trae-a-san-antonio-el-festival-litoral-teatral-2026",
+   "titulo": "Destacadas obras trae a San Antonio el Festival Litoral Teatral 2026",
+   "publicador": "Centro Cultural San Antonio",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma 13 compañías, 12 espectáculos y las funciones del 19, 25 y 26 de abril de 2026."
+  },
+  {
+   "clave": "event-festival-litoral-teatral-2026-2",
+   "url": "https://centrocultural.sanantonio.cl/index.php/item/3079-exito-total-del-festival-litoral-teatral-2026",
+   "titulo": "Éxito total del Festival Litoral Teatral 2026",
+   "publicador": "Centro Cultural San Antonio",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Balance final: más de tres mil asistentes; confirma financiamiento del Fondo de Artes Escénicas (postulación 2025) y el marco de la década desde 2016."
+  },
+  {
+   "clave": "event-festival-litoral-teatral-2026-3",
+   "url": "https://elproa.cl/2026/04/circo-y-mascaras-en-la-segunda-semana-del-festival-litoral-teatral/",
+   "titulo": "Circo y máscaras en la segunda semana del Festival Litoral Teatral",
+   "publicador": "El Proa",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma la función del viernes 17 de abril de 2026, 19:00 horas, de Circo Ancestral en Sala Civita Aranda."
+  },
+  {
+   "clave": "event-festival-teatro-container-2024-0",
+   "url": "https://festivalteatrocontainer.cl/festival-teatro-container/",
+   "titulo": "VIII Festival Teatro Container 2024",
+   "publicador": "Teatro Container",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Sitio oficial del festival. Confirma fechas (21 al 23 de noviembre de 2024), historia (fundado en 2008, dieciséis años, octava edición) y líneas de programación."
+  },
+  {
+   "clave": "event-festival-teatro-container-2024-1",
+   "url": "https://www.elmostrador.cl/cultura/agenda/2024/11/20/festival-teatro-container-en-valparaiso/",
+   "titulo": "Festival Teatro Container en Valparaíso",
+   "publicador": "El Mostrador",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma fechas, financiamiento declarado por el director Nicolás Eyzaguirre y listado de compañías/obras participantes."
+  },
+  {
+   "clave": "event-festival-teatro-container-2024-2",
+   "url": "https://g5noticias.cl/2024/11/20/festival-teatro-container-regresa-a-las-calles-de-valparaiso-en-su-octava-version-artes-vivas-comunidad-y-ciudad/",
+   "titulo": "Festival Teatro Container regresa a las calles de Valparaíso en su octava versión: artes vivas, comunidad y ciudad",
+   "publicador": "G5 Noticias",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma el regreso del festival tras cuatro años sin realizarse y el lema \"Practicar la calle\"."
+  },
+  {
+   "clave": "event-festival-ventolera-2024-0",
+   "url": "https://www.cultura.gob.cl/agendacultural/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+   "titulo": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma organizador (Asamblea Titiritera ATTICH V con Seremi de las Culturas), fecha, sede y taller con Giovanni Vaccaro."
+  },
+  {
+   "clave": "event-festival-ventolera-2024-1",
+   "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+   "titulo": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+   "publicador": "G5 Noticias",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Confirma la lista completa de compañías participantes y horario de las funciones (desde las 16:00 horas)."
+  },
+  {
+   "clave": "event-puerto-a-puerta-valparaiso-2024-0",
+   "url": "https://oaniteatro.com/puerto-a-puerta-valparaiso/",
+   "titulo": "Puerto a Puerta Valparaíso",
+   "publicador": "OANI Teatro",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Sitio oficial de una de las compañías coproductoras. Confirma fechas (1 y 8 de diciembre de 2024), horario, ubicación y coorganizador (Centro Cultural Teatro Container)."
+  },
+  {
+   "clave": "event-puerto-a-puerta-valparaiso-2024-1",
+   "url": "https://oaniteatro.com/itinerancia-puerto-a-puerta/",
+   "titulo": "Itinerancia \"Puerto a Puerta\"",
+   "publicador": "OANI Teatro",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Describe la itinerancia paralela por El Quisco, El Tabo, San Antonio y Santo Domingo en 2024, financiada por el Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas Itinerantes Regionales (convocatoria 2024)."
+  },
+  {
+   "clave": "event-sola-teatromuseo-2026-09-05-0",
+   "url": "https://teatromuseo.cl/cartelera",
+   "titulo": "Cartelera — Fundación Teatromuseo",
+   "publicador": "Fundación Teatromuseo del Títere y el Payaso",
+   "tipo": "oficial",
+   "calidad": "B",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Fecha y hora confirmadas el mismo día del levantamiento en la cartelera oficial del espacio."
+  },
+  {
+   "clave": "artist-alan-fernandez-caro-0",
+   "url": null,
+   "titulo": "Carta de compromiso y autorización de participación — San Antonio.pdf (21 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+  },
+  {
+   "clave": "artist-alan-fernandez-caro-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 7 (cita El Proa, Dossier Viaje Inmóvil — Llo Lle We, perfil profesional)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. El Proa ya localizado y registrado como fuente propia (ver fuente siguiente); el Dossier Viaje Inmóvil sigue sin URL."
+  },
+  {
+   "clave": "artist-alan-fernandez-caro-2",
+   "url": "https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/",
+   "titulo": "Compañía de teatro La Lancha se ha lucido con su obra Llo Lle We, la historia de San Antonio",
+   "publicador": "El Proa",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Publicada el 24 de diciembre de 2021. Confirma su rol como Pilpilén en Llo Lle We."
+  },
+  {
+   "clave": "artist-carlos-munoz-rivera-0",
+   "url": null,
+   "titulo": "Carta de compromiso y autorización de participación — Putaendo.pdf (19 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+  },
+  {
+   "clave": "artist-carlos-munoz-rivera-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 2 (cita Universidad de Chile, Teatromuseo, Parque Cultural de Valparaíso, Fondos de Cultura resultados 2025, Fundación BAT)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URLs pendientes de localizar."
+  },
+  {
+   "clave": "artist-constanza-mendez-laines-0",
+   "url": null,
+   "titulo": "Carta de compromiso y autorización de participación — Viña del Mar.pdf (26 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+  },
+  {
+   "clave": "artist-constanza-mendez-laines-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 6 (cita perfil profesional y Escuela Naval, Academia Cultural 2022)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Nivel de información medio según la investigación; profundizar."
+  },
+  {
+   "clave": "artist-hugo-hernandez-urtubia-0",
+   "url": null,
+   "titulo": "Carta de compromiso y autorización de participación — Los Andes.pdf (31 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Documento firmado por la persona. Contiene datos personales que no se replican."
+  },
+  {
+   "clave": "artist-hugo-hernandez-urtubia-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 1 (cita SIGPA, Diario El Trabajo, Rosa FM)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente). URL de la ficha SIGPA (CI8699) y de Rosa FM aún pendientes."
+  },
+  {
+   "clave": "artist-hugo-hernandez-urtubia-2",
+   "url": "https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/",
+   "titulo": "El arte de dar vida: Dos titiriteros del valle son reconocidos como cultores",
+   "publicador": "Diario El Trabajo",
+   "tipo": "prensa",
+   "calidad": "C",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Publicada el 24 de agosto de 2026. Confirma «más de 20 años de trayectoria» (no los 25 exactos que cita la investigación madre) y el reconocimiento SIGPA como cultor."
+  },
+  {
+   "clave": "artist-natalia-zuniga-ortiz-0",
+   "url": null,
+   "titulo": "Carta de compromiso y autorización de participación — Quillota.pdf (27 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+  },
+  {
+   "clave": "artist-natalia-zuniga-ortiz-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 4 (cita Antología Enjambre, Fondos de Cultura, Municipalidad de Quillota)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URLs pendientes; folios de Fondos de Cultura verificables en fondosdecultura.cl."
+  },
+  {
+   "clave": "artist-nelson-rojas-torres-0",
+   "url": null,
+   "titulo": "Carta de compromiso y autorización de participación — La Ligua.pdf (22 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+  },
+  {
+   "clave": "artist-nelson-rojas-torres-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 3 (cita El Observador, Ministerio de las Culturas — Recolectores de Memoria, Teatro del Silencio)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Recolectores de Memoria ya localizado y registrado como fuente propia (ver fuente siguiente). Nota de El Observador sobre Valle del Liwa 2024 sigue pendiente."
+  },
+  {
+   "clave": "artist-nelson-rojas-torres-2",
+   "url": "https://bitacoraresidencias.cultura.gob.cl/conversaciones-entre-territorios-nelson-rojas-torres-con-vasili-carrillo-nova/",
+   "titulo": "Conversaciones entre territorios, Nelson Rojas Torres con Vasili Carrillo Nova",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Bitácora Residencias de Arte Colaborativo",
+   "tipo": "institucional",
+   "calidad": "A",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Página institucional dedicada a su participación en la residencia «Recolectores de Memoria» (Lota, 2018), lo describe como «reconocido artista, gestor cultural y dirigente social» de La Ligua."
+  },
+  {
+   "clave": "artist-victor-opazo-herrera-0",
+   "url": null,
+   "titulo": "Carta de compromiso y autorización de participación — Villa alemana.pdf (25 de agosto de 2026)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+  },
+  {
+   "clave": "artist-victor-opazo-herrera-1",
+   "url": null,
+   "titulo": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Municipalidad de Villa Alemana, Compañía de Teatro Alegría en Perú, Registro de organizaciones Ley 19.862)",
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "tipo": "documento-proyecto",
+   "calidad": "F",
+   "fecha_consulta": "2026-09-05",
+   "notas": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URLs pendientes."
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Arte Escénico La Ligua",
+   "nombre_oficial": null,
+   "comuna": "la-ligua",
+   "comunas_trabajo": [
+    "petorca",
+    "cabildo"
+   ],
+   "anio_creacion": null,
+   "director": null,
+   "integrantes": [
+    "Nelson Hernán Rojas Torres (director)"
+   ],
+   "tipo": "teatro comunitario",
+   "disciplinas": [
+    "teatro",
+    "teatro-comunitario"
+   ],
+   "descripcion": "Organización de teatro y gestión cultural de La Ligua dirigida por Nelson Rojas Torres. Organiza el Festival de Teatro y Todas las Artes Valle del Liwa, que lleva teatro a localidades rurales y urbanas de la Provincia de Petorca.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [
+    {
+     "nombre": "Festival de Teatro y Todas las Artes Valle del Liwa",
+     "fechas": [
+      "2024"
+     ],
+     "comuna": "Provincia de Petorca"
+    }
+   ],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-arte-escenico-la-ligua-0",
+    "company-arte-escenico-la-ligua-1"
+   ],
+   "notas": "Importado de data/companies/arte-escenico-la-ligua.json (score 60)."
+  },
+  {
+   "nombre": "Asamblea Titiritera ATTICH V Región",
+   "nombre_oficial": null,
+   "comuna": "valparaiso",
+   "comunas_trabajo": [],
+   "anio_creacion": null,
+   "director": null,
+   "integrantes": [],
+   "tipo": "compañía de títeres",
+   "disciplinas": [
+    "titeres"
+   ],
+   "descripcion": "Agrupación regional de titiriteras y titiriteros de la Región de Valparaíso, vinculada a la Asamblea de Titiriteros y Titiriteras de Chile (ATTICH). Organiza el Festival Ventolera y el Festival Caleta de Títeres.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [
+    {
+     "nombre": "Festival Ventolera",
+     "fechas": [
+      "2024"
+     ],
+     "comuna": "Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso"
+    },
+    {
+     "nombre": "Festival Caleta de Títeres",
+     "fechas": [
+      "2026"
+     ],
+     "comuna": "Muelle Prat, Valparaíso"
+    }
+   ],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-asamblea-titiritera-attich-v-0",
+    "company-asamblea-titiritera-attich-v-1",
+    "company-asamblea-titiritera-attich-v-2",
+    "company-asamblea-titiritera-attich-v-3"
+   ],
+   "notas": "Importado de data/companies/asamblea-titiritera-attich-v.json (score 80)."
+  },
+  {
+   "nombre": "Colectiva Artística Medioambiental La Capuchina",
+   "nombre_oficial": null,
+   "comuna": "valparaiso",
+   "comunas_trabajo": [],
+   "anio_creacion": 2018,
+   "director": null,
+   "integrantes": [
+    "Waleska Vilches Valdivia (integrante fundadora)",
+    "Ana Sagredo Núñez (integrante fundadora)"
+   ],
+   "tipo": "compañía de títeres",
+   "disciplinas": [
+    "titeres",
+    "musica-escenica"
+   ],
+   "descripcion": "Colectiva de artes escénicas y teatro tradicional de títeres de Valparaíso, nacida en 2018, centrada en educación medioambiental, música original y trabajo comunitario en jardines infantiles, escuelas y espacios no convencionales.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [
+    {
+     "nombre": "IV Festival Ventolera",
+     "fechas": [
+      "2024"
+     ],
+     "comuna": "Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso"
+    }
+   ],
+   "instagram": "https://www.instagram.com/la_capuchina/",
+   "facebook": null,
+   "youtube": null,
+   "tiktok": "https://www.tiktok.com/@lacapuchina9537",
+   "web": null,
+   "correo": "colectivalacapuchina@gmail.com",
+   "fuentes": [
+    "company-colectiva-la-capuchina-0",
+    "company-colectiva-la-capuchina-1",
+    "company-colectiva-la-capuchina-2",
+    "company-colectiva-la-capuchina-3"
+   ],
+   "notas": "Importado de data/companies/colectiva-la-capuchina.json (score 78)."
+  },
+  {
+   "nombre": "Compañía de Muñecos Marionautas",
+   "nombre_oficial": null,
+   "comuna": "quilpue",
+   "comunas_trabajo": [],
+   "anio_creacion": null,
+   "director": null,
+   "integrantes": [
+    "Rafael Brozzi (dirección)"
+   ],
+   "tipo": "compañía de títeres",
+   "disciplinas": [
+    "titeres"
+   ],
+   "descripcion": "Compañía de marionetas y títeres con enfoque educativo y de entretención, dirigida por Rafael Brozzi. Con sede en Quilpué, ha recorrido escenarios de una veintena de países.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [],
+   "instagram": "https://www.instagram.com/elmundodelostiteres/",
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": "marionautas@gmail.com",
+   "fuentes": [
+    "company-compania-de-munecos-marionautas-0",
+    "company-compania-de-munecos-marionautas-1"
+   ],
+   "notas": "Importado de data/companies/compania-de-munecos-marionautas.json (score 75)."
+  },
+  {
+   "nombre": "Compañía de Teatro Alegría",
+   "nombre_oficial": null,
+   "comuna": "villa-alemana",
+   "comunas_trabajo": [],
+   "anio_creacion": 2012,
+   "director": null,
+   "integrantes": [
+    "Sofía Espinoza (elenco de El Loco y la Triste)",
+    "Lucy Salgado (elenco de El Loco y la Triste)",
+    "Víctor Eduardo Opazo Herrera (integrante y representante)"
+   ],
+   "tipo": "teatro comunitario",
+   "disciplinas": [
+    "teatro",
+    "teatro-comunitario"
+   ],
+   "descripcion": "Compañía de teatro comunitario de Villa Alemana, nacida en 2012 con alrededor de quince actores y actrices. Obtuvo personalidad jurídica en julio de 2012, lo que le permitió postular a fondos públicos y subvenciones.",
+   "obras": [
+    "El Loco y la Triste"
+   ],
+   "espacios": [],
+   "festivales": [],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-compania-de-teatro-alegria-0",
+    "company-compania-de-teatro-alegria-1"
+   ],
+   "notas": "Importado de data/companies/compania-de-teatro-alegria.json (score 65)."
+  },
+  {
+   "nombre": "Compañía de Teatro La Lancha",
+   "nombre_oficial": "Compañía de Teatro La Lancha SpA",
+   "comuna": "san-antonio",
+   "comunas_trabajo": [],
+   "anio_creacion": null,
+   "director": "Diego Chamorro",
+   "integrantes": [
+    "Diego Chamorro (director)",
+    "Paz Olivares (elenco de Llo Lle We)",
+    "Valeria Morales (elenco de Llo Lle We)",
+    "Francisco Luco (musicalización)",
+    "Pablo Urtubia (musicalización)",
+    "Alan Sebastián Fernández Caro (actor y gestor)"
+   ],
+   "tipo": "teatro infantil/familiar",
+   "disciplinas": [
+    "teatro",
+    "teatro-familiar",
+    "juglaria"
+   ],
+   "descripcion": "Compañía de teatro de San Antonio dirigida por Diego Chamorro. Trabaja teatro, memoria e identidad territorial del litoral; responsable del proyecto Quinta Escena Podcast.",
+   "obras": [
+    "Llo Lle We"
+   ],
+   "espacios": [],
+   "festivales": [],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-compania-de-teatro-la-lancha-0",
+    "company-compania-de-teatro-la-lancha-1",
+    "company-compania-de-teatro-la-lancha-2"
+   ],
+   "notas": "Importado de data/companies/compania-de-teatro-la-lancha.json (score 75).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Festín de la Risa",
+   "nombre_oficial": null,
+   "comuna": "valparaiso",
+   "comunas_trabajo": [
+    "putaendo"
+   ],
+   "anio_creacion": 2009,
+   "director": null,
+   "integrantes": [
+    "Felipe Godoy (Tony Pitilla)",
+    "Katherine Cisternas (Tony Petunia)",
+    "Carlos Andrés Muñoz Rivera (integrante (Tony Pinganilla))"
+   ],
+   "tipo": "compañía de circo",
+   "disciplinas": [
+    "clown",
+    "circo",
+    "teatro-callejero"
+   ],
+   "descripcion": "Compañía de clown nacida en 2009 en el Teatromuseo del Títere y el Payaso de Valparaíso, a partir de un encuentro entre artistas del clown y el mimo. Desde 2014 la conforman Carlos Muñoz (Tony Pinganilla), Felipe Godoy (Tony Pitilla) y Katherine Cisternas (Tony Petunia). Mezcla clown, teatro, circo, calle, humor físico, acrobacia cómica, improvisación, música y tradición circense, con números clásicos del payaso.",
+   "obras": [
+    "Ayayai"
+   ],
+   "espacios": [],
+   "festivales": [
+    {
+     "nombre": "Jallalla Festi Circo",
+     "fechas": [
+      "2022"
+     ],
+     "comuna": "Arica"
+    },
+    {
+     "nombre": "Gira regional de teatro familiar",
+     "fechas": [
+      "2021"
+     ],
+     "comuna": "Calle Larga"
+    }
+   ],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-festin-de-la-risa-0",
+    "company-festin-de-la-risa-1"
+   ],
+   "notas": "Importado de data/companies/festin-de-la-risa.json (score 55)."
+  },
+  {
+   "nombre": "Fundación OANI de Teatro",
+   "nombre_oficial": "Fundación OANI de Teatro",
+   "comuna": "valparaiso",
+   "comunas_trabajo": [],
+   "anio_creacion": 1998,
+   "director": "Camila Landon Vío",
+   "integrantes": [
+    "Camila Landon Vío (directora presidenta, actriz)",
+    "Andrés Landon Vío (director secretario, compositor y productor musical)",
+    "Gloria Vío Grossi (directora tesorera, asesora de proyectos)"
+   ],
+   "tipo": "compañía de títeres",
+   "disciplinas": [
+    "titeres",
+    "lambe-lambe",
+    "teatro-familiar"
+   ],
+   "descripcion": "Compañía y fundación de Teatro de Formas Animadas con sede en Valparaíso, pionera en la difusión del Teatro Lambe-Lambe (teatro miniatura) en Chile desde 2007. Organiza el FESTILAMBE de Valparaíso y realiza tardes familiares y residencias en Casa OANI y en el Parque Cultural de Valparaíso.",
+   "obras": [],
+   "espacios": [
+    "Parque Cultural de Valparaíso"
+   ],
+   "festivales": [
+    {
+     "nombre": "FESTILAMBE de Valparaíso",
+     "fechas": [
+      "2026"
+     ],
+     "comuna": "Casa OANI, Valparaíso"
+    }
+   ],
+   "instagram": "https://www.instagram.com/oaniteatro/",
+   "facebook": "https://www.facebook.com/oaniteatro/",
+   "youtube": null,
+   "tiktok": null,
+   "web": "https://oaniteatro.com",
+   "correo": "produccion@oaniteatro.com",
+   "fuentes": [
+    "company-fundacion-oani-de-teatro-0",
+    "company-fundacion-oani-de-teatro-1",
+    "company-fundacion-oani-de-teatro-2",
+    "company-fundacion-oani-de-teatro-3"
+   ],
+   "notas": "Importado de data/companies/fundacion-oani-de-teatro.json (score 90).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Guaico Títeres",
+   "nombre_oficial": null,
+   "comuna": "valparaiso",
+   "comunas_trabajo": [],
+   "anio_creacion": null,
+   "director": null,
+   "integrantes": [],
+   "tipo": "compañía de títeres",
+   "disciplinas": [
+    "titeres"
+   ],
+   "descripcion": "Compañía familiar de teatro tradicional de títeres de educación intercultural mapuche, con casa taller en el cerro Playa Ancha de Valparaíso.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [],
+   "instagram": "https://www.instagram.com/guaicotiteres/",
+   "facebook": "https://www.facebook.com/guaico.titeres",
+   "youtube": "https://www.youtube.com/user/guaicotiteres",
+   "tiktok": null,
+   "web": "https://guaicotiteres.com/",
+   "correo": "guaicotiteres@gmail.com",
+   "fuentes": [
+    "company-guaico-titeres-0",
+    "company-guaico-titeres-1"
+   ],
+   "notas": "Importado de data/companies/guaico-titeres.json (score 73)."
+  },
+  {
+   "nombre": "La Enredadera",
+   "nombre_oficial": "Colectivo Escénico La Enredadera",
+   "comuna": "valparaiso",
+   "comunas_trabajo": [],
+   "anio_creacion": 2014,
+   "director": null,
+   "integrantes": [
+    "Laura Corona (dirección coreográfica)",
+    "Milenka Cucurella (intérprete)",
+    "Mariela Díaz (intérprete)",
+    "Andrea Garrido (dirección e interpretación, gira Mujeres en Escena 2026)",
+    "Francisco Cooper (composición musical, colaborador en La Caracol)"
+   ],
+   "tipo": "compañía de danza",
+   "disciplinas": [
+    "danza"
+   ],
+   "descripcion": "Colectivo escénico de danza para la primera infancia, fundado en Valparaíso en 2014, dirigido por la coreógrafa Laura Corona. Su obra «La Caracol» aborda el respeto, la diversidad y el cuidado del medio ambiente para bebés y niñas y niños desde los 6 meses.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [
+    {
+     "nombre": "Gira regional de teatro familiar 2021",
+     "fechas": [
+      "2021"
+     ],
+     "comuna": "Centro Cultural de San Antonio"
+    },
+    {
+     "nombre": "Mujeres en Escena",
+     "fechas": [
+      "2026"
+     ],
+     "comuna": "La Calera, El Quisco y Quilpué"
+    }
+   ],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-la-enredadera-0",
+    "company-la-enredadera-1",
+    "company-la-enredadera-2",
+    "company-la-enredadera-3",
+    "company-la-enredadera-4"
+   ],
+   "notas": "Importado de data/companies/la-enredadera.json (score 75)."
+  },
+  {
+   "nombre": "Ludus Teatro",
+   "nombre_oficial": null,
+   "comuna": "concon",
+   "comunas_trabajo": [
+    "quilpue"
+   ],
+   "anio_creacion": 2010,
+   "director": null,
+   "integrantes": [],
+   "tipo": "teatro infantil/familiar",
+   "disciplinas": [
+    "teatro-familiar"
+   ],
+   "descripcion": "Compañía de teatro familiar y educativo con sede en el sector Las Pataguas, comuna de Concón, fundada en 2010 para poner el arte interpretativo al servicio del desarrollo integral de niñas, niños y jóvenes.",
+   "obras": [],
+   "espacios": [
+    "Teatro Municipal Juan Bustos Ramírez",
+    "Parque Cultural de Valparaíso"
+   ],
+   "festivales": [
+    {
+     "nombre": "Gira regional de teatro familiar 2021",
+     "fechas": [
+      "2021"
+     ],
+     "comuna": "Teatro Municipal Juan Bustos Ramírez, Quilpué"
+    }
+   ],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-ludus-teatro-0",
+    "company-ludus-teatro-1",
+    "company-ludus-teatro-2"
+   ],
+   "notas": "Importado de data/companies/ludus-teatro.json (score 55)."
+  },
+  {
+   "nombre": "Productora ABC: Arte, Bienestar y Cultura",
+   "nombre_oficial": null,
+   "comuna": "quillota",
+   "comunas_trabajo": [],
+   "anio_creacion": null,
+   "director": null,
+   "integrantes": [
+    "Natalia Vanessa Zúñiga Ortiz (directora)"
+   ],
+   "tipo": "teatro infantil/familiar",
+   "disciplinas": [
+    "narracion-oral",
+    "teatro",
+    "teatro-familiar"
+   ],
+   "descripcion": "Productora de Quillota dirigida por Natalia Zúñiga Ortiz. Cuentacuentos, docencia, talleres de teatro y trabajo socioemocional con niñas, niños, jóvenes y personas mayores.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-productora-abc-arte-bienestar-y-cultura-0",
+    "company-productora-abc-arte-bienestar-y-cultura-1"
+   ],
+   "notas": "Importado de data/companies/productora-abc-arte-bienestar-y-cultura.json (score 55)."
+  },
+  {
+   "nombre": "Centro de Investigación Teatro La Peste",
+   "nombre_oficial": null,
+   "comuna": "valparaiso",
+   "comunas_trabajo": [],
+   "anio_creacion": 2000,
+   "director": "Danilo Llanos",
+   "integrantes": [
+    "Danilo Llanos (director, actor y dramaturgo, fundador)",
+    "Katty Sagredo (integrante del núcleo estable)",
+    "Katty López (integrante del núcleo estable)",
+    "Daniela Misle (integrante del núcleo estable)"
+   ],
+   "tipo": "compañía de teatro",
+   "disciplinas": [
+    "teatro",
+    "teatro-experimental"
+   ],
+   "descripcion": "Compañía y centro de investigación teatral porteño, fundado alrededor del año 2000, con más de 30 estrenos y trabajo ininterrumpido en creación, gestión, formación, mediación y trabajo territorial desde Valparaíso. Dirigido por Danilo Llanos.",
+   "obras": [],
+   "espacios": [
+    "Parque Cultural de Valparaíso"
+   ],
+   "festivales": [
+    {
+     "nombre": "Encuentro de Teatro Porteño Independiente",
+     "fechas": [
+      "2004"
+     ],
+     "comuna": "Valparaíso"
+    }
+   ],
+   "instagram": "https://www.instagram.com/teatrolapeste/",
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-teatro-la-peste-0",
+    "company-teatro-la-peste-1",
+    "company-teatro-la-peste-2",
+    "company-teatro-la-peste-3",
+    "company-teatro-la-peste-4"
+   ],
+   "notas": "Importado de data/companies/teatro-la-peste.json (score 80)."
+  },
+  {
+   "nombre": "Compañía de Marionetas The Magic Show",
+   "nombre_oficial": null,
+   "comuna": "los-andes",
+   "comunas_trabajo": [],
+   "anio_creacion": null,
+   "director": null,
+   "integrantes": [
+    "Hugo Hernández Urtubia (creador y director)"
+   ],
+   "tipo": "compañía de títeres",
+   "disciplinas": [
+    "titeres",
+    "teatro-familiar"
+   ],
+   "descripcion": "Compañía de títeres y marionetas de Los Andes creada por Hugo Hernández Urtubia. Espectáculos y actividades en Chile y fuera del país; marionetas musicales, marionetas gigantes, trabajo callejero y formación de niños y niñas.",
+   "obras": [
+    "Varieté de Marionetas Musicales"
+   ],
+   "espacios": [],
+   "festivales": [],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-the-magic-show-0",
+    "company-the-magic-show-1",
+    "company-the-magic-show-2"
+   ],
+   "notas": "Importado de data/companies/the-magic-show.json (score 75).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Títeres Humedal Río Maipo",
+   "nombre_oficial": null,
+   "comuna": "santo-domingo",
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "anio_creacion": null,
+   "director": "Eduardo Romero",
+   "integrantes": [
+    "Eduardo Romero (director ejecutivo)"
+   ],
+   "tipo": "compañía de títeres",
+   "disciplinas": [
+    "titeres"
+   ],
+   "descripcion": "Compañía de teatro de títeres de material reciclado dedicada a la educación ambiental, ligada al Humedal Río Maipo, en el límite entre las comunas de San Antonio y Santo Domingo. Dirigida por Eduardo Romero.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [],
+   "instagram": null,
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": null,
+   "fuentes": [
+    "company-titeres-humedal-rio-maipo-0",
+    "company-titeres-humedal-rio-maipo-1"
+   ],
+   "notas": "Importado de data/companies/titeres-humedal-rio-maipo.json (score 50)."
+  },
+  {
+   "nombre": "Titiricaos",
+   "nombre_oficial": null,
+   "comuna": "valparaiso",
+   "comunas_trabajo": [],
+   "anio_creacion": null,
+   "director": null,
+   "integrantes": [
+    "Paola Escudero Navia (dirección)"
+   ],
+   "tipo": "compañía de títeres",
+   "disciplinas": [
+    "titeres"
+   ],
+   "descripcion": "Compañía de teatro tradicional de títeres de Valparaíso, dirigida por Paola Escudero Navia, activa desde el año 2000, que usa el títere como herramienta de mediación social, memoria histórica y terapia.",
+   "obras": [],
+   "espacios": [],
+   "festivales": [
+    {
+     "nombre": "IV Festival Ventolera",
+     "fechas": [
+      "2024"
+     ],
+     "comuna": "Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso"
+    }
+   ],
+   "instagram": "https://www.instagram.com/_titiricaos_/",
+   "facebook": null,
+   "youtube": null,
+   "tiktok": null,
+   "web": null,
+   "correo": "historiapalu@gmail.com",
+   "fuentes": [
+    "company-titiricaos-0",
+    "company-titiricaos-1"
+   ],
+   "notas": "Importado de data/companies/titiricaos.json (score 72)."
+  }
+ ],
+ "espacios": [
+  {
+   "nombre": "Centro Cultural de Los Andes",
+   "alias": [],
+   "comuna": "los-andes",
+   "direccion": "Maipú 475, Los Andes",
+   "tipo_espacio": "Centro cultural",
+   "capacidad": null,
+   "administracion": "Ilustre Municipalidad de Los Andes",
+   "programacion_teatral": "sí",
+   "web": "https://www.losandes.cl/centro-cultural/",
+   "instagram": null,
+   "facebook": null,
+   "correo": "contacto@munilosandes.cl",
+   "lat": null,
+   "lng": null,
+   "descripcion": "Espacio municipal de encuentro, aprendizaje y creación. Ofrece talleres artísticos y culturales para la comunidad: música (piano, guitarra, canto), danza (ballet, contemporáneo, jazz, tango) y artes visuales (dibujo, pintura, teatro, fotografía).",
+   "fuentes": [
+    "venue-centro-cultural-de-los-andes-0"
+   ],
+   "notas": "Importado de data/venues/centro-cultural-de-los-andes.json (score 78).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Centro Cultural San Antonio",
+   "alias": [],
+   "comuna": "san-antonio",
+   "direccion": "Antofagasta 545, Barrancas, San Antonio",
+   "tipo_espacio": "Centro cultural",
+   "capacidad": null,
+   "administracion": "Ilustre Municipalidad de San Antonio",
+   "programacion_teatral": "sí",
+   "web": "https://centrocultural.sanantonio.cl/",
+   "instagram": "https://www.instagram.com/centroculturalsanantonio/",
+   "facebook": null,
+   "correo": "CentroCultural@sanantonio.cl",
+   "lat": null,
+   "lng": null,
+   "descripcion": "Espacio cultural municipal de referencia de la comuna de San Antonio. Programa una cartelera gratuita de cine, música en vivo y teatro, además de actividades vinculadas a los planes de estudio en horario escolar. Sede del Festival Litoral Teatral.",
+   "fuentes": [
+    "venue-centro-cultural-san-antonio-0"
+   ],
+   "notas": "Importado de data/venues/centro-cultural-san-antonio.json (score 80).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Parque Cultural de Valparaíso",
+   "alias": [
+    "PCdV"
+   ],
+   "comuna": "valparaiso",
+   "direccion": "Cumming 590, Cerro Cárcel, Valparaíso",
+   "tipo_espacio": "Centro cultural",
+   "capacidad": null,
+   "administracion": null,
+   "programacion_teatral": "sí",
+   "web": "https://parquecultural.cl/",
+   "instagram": null,
+   "facebook": null,
+   "correo": "contacto@pcdv.cl",
+   "lat": null,
+   "lng": null,
+   "descripcion": "Complejo arquitectónico construido sobre la ex Cárcel de Valparaíso, en Cerro Cárcel, inaugurado en octubre de 2011. Incluye un teatro, oficinas y salas de ensayo de danza, teatro, circo y música. Programa ciclos de teatro infantil y actividades familiares, como el «Parque en Verano».",
+   "fuentes": [
+    "venue-parque-cultural-de-valparaiso-0",
+    "venue-parque-cultural-de-valparaiso-1"
+   ],
+   "notas": "Importado de data/venues/parque-cultural-de-valparaiso.json (score 78).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Teatro Municipal Juan Bustos Ramírez",
+   "alias": [
+    "Teatro Juan Bustos"
+   ],
+   "comuna": "quilpue",
+   "direccion": null,
+   "tipo_espacio": "Teatro",
+   "capacidad": null,
+   "administracion": "Ilustre Municipalidad de Quilpué",
+   "programacion_teatral": "sí",
+   "web": null,
+   "instagram": null,
+   "facebook": null,
+   "correo": null,
+   "lat": null,
+   "lng": null,
+   "descripcion": "Inaugurado el 7 de diciembre de 1940 como Teatro Velarde, de estilo art decó. Ante riesgo de demolición, el municipio de Quilpué lo adquirió para conservarlo como patrimonio comunal; tras una restauración de 1.270 millones de pesos que recuperó puertas, lámparas y rejas originales y sumó equipamiento escénico y de iluminación, reabrió como Teatro Municipal Juan Bustos Ramírez el 12 de diciembre de 2017, con escenario principal, camarines, microcine, salas de ensayo y oficinas administrativas.",
+   "fuentes": [
+    "venue-teatro-municipal-juan-bustos-ramirez-0",
+    "venue-teatro-municipal-juan-bustos-ramirez-1"
+   ],
+   "notas": "Importado de data/venues/teatro-municipal-juan-bustos-ramirez.json (score 68)."
+  },
+  {
+   "nombre": "Teatro Municipal Pompeya",
+   "alias": [
+    "Teatro Pompeya"
+   ],
+   "comuna": "villa-alemana",
+   "direccion": "Paseo peatonal Los Héroes, entre Avenida Valparaíso y calle Santiago, Villa Alemana",
+   "tipo_espacio": "Teatro",
+   "capacidad": 500,
+   "administracion": "Ilustre Municipalidad de Villa Alemana",
+   "programacion_teatral": "sí",
+   "web": null,
+   "instagram": null,
+   "facebook": "https://www.facebook.com/TeatroPompeya/",
+   "correo": null,
+   "lat": null,
+   "lng": null,
+   "descripcion": "Construido en 1925 por los arquitectos Aquiles Landoff y Renato Schiavon a iniciativa de Domingo Composto, e inaugurado el 25 de septiembre de 1926 como sala de cine de barrio, con capacidad para 500 personas entre platea y galería. Declarado Monumento Histórico Nacional en 2008. Dañado gravemente en el terremoto de 2010, fue restaurado entre 2011 y 2012 con una inversión de 830 millones de pesos y reabrió el 29 de octubre de 2012 como Teatro Municipal Pompeya, hoy propiedad de la Municipalidad de Villa Alemana.",
+   "fuentes": [
+    "venue-teatro-municipal-pompeya-0",
+    "venue-teatro-municipal-pompeya-1"
+   ],
+   "notas": "Importado de data/venues/teatro-municipal-pompeya.json (score 82).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Teatro Rodolfo Bravo del Centro Cultural Municipal Leopoldo Silva Reynoard",
+   "alias": [
+    "Teatro Rodolfo Bravo"
+   ],
+   "comuna": "quillota",
+   "direccion": null,
+   "tipo_espacio": "Teatro",
+   "capacidad": null,
+   "administracion": "Ilustre Municipalidad de Quillota",
+   "programacion_teatral": "sí",
+   "web": null,
+   "instagram": "https://x.com/qtacultural",
+   "facebook": "https://www.facebook.com/centroculturalquillota/",
+   "correo": null,
+   "lat": null,
+   "lng": null,
+   "descripcion": "Sala teatral del Centro Cultural Municipal Leopoldo Silva Reynoard de Quillota. Reabrió al público el 22 de enero de 2021 tras el cierre por la pandemia, con programación semanal y protocolos de aforo y sanitización; el municipio complementó la temporada con intervenciones culturales en barrios para llegar a quienes no podían asistir a la sala.",
+   "fuentes": [
+    "venue-teatro-rodolfo-bravo-0",
+    "venue-teatro-rodolfo-bravo-1"
+   ],
+   "notas": "Importado de data/venues/teatro-rodolfo-bravo.json (score 62)."
+  },
+  {
+   "nombre": "Fundación Teatromuseo del Títere y el Payaso",
+   "alias": [
+    "Teatromuseo"
+   ],
+   "comuna": "valparaiso",
+   "direccion": "Cumming 795, Cerro Cárcel, Valparaíso",
+   "tipo_espacio": "Teatro",
+   "capacidad": null,
+   "administracion": "Fundación Teatromuseo del Títere y el Payaso (privada, sin fines de lucro)",
+   "programacion_teatral": null,
+   "web": "https://www.teatromuseo.cl/",
+   "instagram": null,
+   "facebook": "https://www.facebook.com/teatromuseo/",
+   "correo": "(+56) 32 259 2226",
+   "lat": null,
+   "lng": null,
+   "descripcion": "Fundada en 2007 en la antigua capilla de San Judas Tadeo, en Cerro Cárcel, junto al mirador Plaza Bismarck. Reúne una escuela internacional de formación, un museo especializado y un teatro con programación familiar permanente dedicados a los títeres y el payaso. Sede del Festival Caleta de Títeres y espacio de origen de la compañía Festín de la Risa.",
+   "fuentes": [
+    "venue-teatromuseo-del-titere-y-el-payaso-0",
+    "venue-teatromuseo-del-titere-y-el-payaso-1"
+   ],
+   "notas": "Importado de data/venues/teatromuseo-del-titere-y-el-payaso.json (score 80).",
+   "estado": "VERIFICADO"
+  }
+ ],
+ "obras": [
+  {
+   "nombre": "Ayayai",
+   "compania": "Festín de la Risa",
+   "director": null,
+   "dramaturgo": "Festín de la Risa (creación colectiva)",
+   "anio_estreno": null,
+   "genero": "clown",
+   "publico": "familiar",
+   "duracion": null,
+   "comunas": [
+    "valparaiso"
+   ],
+   "espacios": [],
+   "descripcion": "Espectáculo de clown que mezcla humor físico, improvisación, ternura y números clásicos de payasería.",
+   "fuentes": [
+    "work-ayayai-0"
+   ],
+   "notas": "Importado de data/works/ayayai.json (score 55)."
+  },
+  {
+   "nombre": "El Loco y la Triste",
+   "compania": "Compañía de Teatro Alegría",
+   "director": null,
+   "dramaturgo": "Juan Radrigán",
+   "anio_estreno": null,
+   "genero": "teatro",
+   "publico": "adulto",
+   "duracion": null,
+   "comunas": [
+    "villa-alemana"
+   ],
+   "espacios": [],
+   "descripcion": null,
+   "fuentes": [
+    "work-el-loco-y-la-triste-0"
+   ],
+   "notas": "Importado de data/works/el-loco-y-la-triste.json (score 55)."
+  },
+  {
+   "nombre": "Llo Lle We",
+   "compania": "Compañía de Teatro La Lancha",
+   "director": "Diego Chamorro",
+   "dramaturgo": null,
+   "anio_estreno": null,
+   "genero": "teatro",
+   "publico": "todo-publico",
+   "duracion": null,
+   "comunas": [
+    "san-antonio"
+   ],
+   "espacios": [],
+   "descripcion": "Montaje sobre la historia de la desembocadura del río Maipo y el territorio de San Antonio: pueblos originarios, patrimonio local, memoria y educación, contada «desde el Big Bang hasta el presente». Presentado en la Plaza de Llolleo para acercar la historia local a la comunidad.",
+   "fuentes": [
+    "work-llo-lle-we-0",
+    "work-llo-lle-we-1"
+   ],
+   "notas": "Importado de data/works/llo-lle-we.json (score 63)."
+  },
+  {
+   "nombre": "Varieté de Marionetas Musicales",
+   "compania": "Compañía de Marionetas The Magic Show",
+   "director": null,
+   "dramaturgo": null,
+   "anio_estreno": null,
+   "genero": "titeres",
+   "publico": "familiar",
+   "duracion": null,
+   "comunas": [
+    "los-andes"
+   ],
+   "espacios": [],
+   "descripcion": null,
+   "fuentes": [
+    "work-variete-de-marionetas-musicales-0",
+    "work-variete-de-marionetas-musicales-1"
+   ],
+   "notas": "Importado de data/works/variete-de-marionetas-musicales.json (score 62)."
+  }
+ ],
+ "funciones": [
+  {
+   "obra": "Ánimas de día claro",
+   "compania": null,
+   "fecha": "2026-09-05",
+   "hora": "19:00",
+   "comuna": "san-antonio",
+   "espacio": "Centro Cultural San Antonio",
+   "tipo_funcion": "gratuita",
+   "precio": "Gratuita",
+   "descripcion": "Montaje de teatro costumbrista sobre la obra de Alejandro Sieveking, presentado por la Compañía El Ojo Teatro en la Sala Civita Aranda del Centro Cultural San Antonio.",
+   "fuentes": [
+    "event-animas-de-dia-claro-san-antonio-2026-09-05-0"
+   ],
+   "notas": "Importado de data/events/animas-de-dia-claro-san-antonio-2026-09-05.json (score 78).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "obra": "Circo con Saltimbanqui Circus",
+   "compania": null,
+   "fecha": "2026-09-26",
+   "hora": "17:00",
+   "comuna": "san-antonio",
+   "espacio": "Centro Cultural San Antonio",
+   "tipo_funcion": "gratuita",
+   "precio": "Gratuita",
+   "descripcion": "Dos funciones de circo de Saltimbanqui Circus, compañía local de San Antonio, en el Patio de la Niñez del Centro Cultural San Antonio.",
+   "fuentes": [
+    "event-circo-saltimbanqui-san-antonio-2026-09-26-0"
+   ],
+   "notas": "Importado de data/events/circo-saltimbanqui-san-antonio-2026-09-26.json (score 76).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "obra": "Circo con Saltimbanqui Circus",
+   "compania": null,
+   "fecha": "2026-09-26",
+   "hora": "18:00",
+   "comuna": "san-antonio",
+   "espacio": "Centro Cultural San Antonio",
+   "tipo_funcion": "gratuita",
+   "precio": "Gratuita",
+   "descripcion": "Dos funciones de circo de Saltimbanqui Circus, compañía local de San Antonio, en el Patio de la Niñez del Centro Cultural San Antonio.",
+   "fuentes": [
+    "event-circo-saltimbanqui-san-antonio-2026-09-26-0"
+   ],
+   "notas": "Importado de data/events/circo-saltimbanqui-san-antonio-2026-09-26.json (score 76).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "obra": "El gran circo imaginario",
+   "compania": null,
+   "fecha": "2026-09-13",
+   "hora": "16:30",
+   "comuna": "valparaiso",
+   "espacio": "Fundación Teatromuseo del Títere y el Payaso",
+   "tipo_funcion": null,
+   "precio": null,
+   "descripcion": "Experiencia de teatro-circo con números y personajes circenses clásicos, pensada para espacios no convencionales y público familiar.",
+   "fuentes": [
+    "event-el-gran-circo-imaginario-teatromuseo-2026-09-13-0"
+   ],
+   "notas": "Importado de data/events/el-gran-circo-imaginario-teatromuseo-2026-09-13.json (score 80).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "obra": "En este instante",
+   "compania": null,
+   "fecha": "2026-09-06",
+   "hora": "16:30",
+   "comuna": "valparaiso",
+   "espacio": "Fundación Teatromuseo del Títere y el Payaso",
+   "tipo_funcion": null,
+   "precio": null,
+   "descripcion": "Un payaso barrendero encantador transforma las tareas cotidianas en aventuras cómicas con participación del público.",
+   "fuentes": [
+    "event-en-este-instante-teatromuseo-2026-09-06-0"
+   ],
+   "notas": "Importado de data/events/en-este-instante-teatromuseo-2026-09-06.json (score 80).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "obra": "Sola",
+   "compania": null,
+   "fecha": "2026-09-05",
+   "hora": "19:00",
+   "comuna": "valparaiso",
+   "espacio": "Fundación Teatromuseo del Títere y el Payaso",
+   "tipo_funcion": null,
+   "precio": null,
+   "descripcion": "Unipersonal protagonizado por «la Señora María», un personaje de 80 años que ofrece lecturas de tarot, limpias energéticas y consejos espirituales a través del humor y la improvisación.",
+   "fuentes": [
+    "event-sola-teatromuseo-2026-09-05-0"
+   ],
+   "notas": "Importado de data/events/sola-teatromuseo-2026-09-05.json (score 80).",
+   "estado": "VERIFICADO"
+  }
+ ],
+ "festivales": [
+  {
+   "nombre": "II Festival Caleta de Títeres",
+   "comuna": null,
+   "organizacion": "Asamblea Titiritera ATTICH V, Fundación TeatroMuseo del Títere y el Payaso, Empresa Portuaria Valparaíso, Centex y Seremi de las Culturas, las Artes y el Patrimonio",
+   "espacios": [],
+   "fechas": [
+    "2026-03-22"
+   ],
+   "web": null,
+   "descripcion": "Segunda edición del Festival Caleta de Títeres, que celebra el Día Mundial del Títere y la Marioneta (21 de marzo) transformando el Muelle Prat de Valparaíso en escenario. Programa más de quince números de títeres y marionetas, exhibición de marionetas gigantes y un especial de Teatro Lambe-Lambe desde las 13:00 horas, con reconocimiento a personalidades del oficio. Entre las 17:00 y las 18:15 horas se realizan cuatro funciones a bordo de lanchas en la bahía. Compañías y obras mencionadas: Talán-Talán, Compañía Terrestre, Lorenzo Títeres, Compañía La Bululú y Compañía La Barconeta; obras \"Olvídame\", \"Océano Pacífico\", \"El Gato Aníbal\" y \"Las Cantoras del Puerto\". Requiere inscripción previa mediante formulario del Ministerio de las Culturas.",
+   "fuentes": [
+    "event-festival-caleta-de-titeres-2026-0",
+    "event-festival-caleta-de-titeres-2026-1",
+    "event-festival-caleta-de-titeres-2026-2"
+   ],
+   "notas": "Importado de data/events/festival-caleta-de-titeres-2026.json (score 85).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Festival Litoral Teatral",
+   "comuna": "san-antonio",
+   "organizacion": "Centro Cultural San Antonio (Ilustre Municipalidad de San Antonio)",
+   "espacios": [
+    "Centro Cultural San Antonio"
+   ],
+   "fechas": [
+    "2026-04-12"
+   ],
+   "web": "https://centrocultural.sanantonio.cl/",
+   "descripcion": "Décima edición del Festival Litoral Teatral, a diez años de su primera versión en 2016 (con receso por la pandemia). Programación gratuita de teatro, danza, circo y teatro de máscaras en la Sala Civita Aranda del Centro Cultural San Antonio y en distintos puntos de la comuna, con funciones especiales para estudiantes y foco en la circulación de compañías de la Región de Valparaíso. Participaron 13 compañías con 12 espectáculos, entre ellas Teatro Imagen (\"La Reina Isabel cantaba rancheras\", obra inaugural), Circo Ancestral (\"La nave de los locos y LocOnas\", dirección de Andrés Del Bosque), Cooperativa Teatral de Valparaíso (\"La Tendalá\"), Ensamble Vocal Comunitario (\"Monumentos\"), Saltimbanqui Circus y Teatro El Ojo (\"La remolienda\", obra de cierre). Financiado por el Fondo de Artes Escénicas del Ministerio de las Culturas, las Artes y el Patrimonio (convocatoria 2025).",
+   "fuentes": [
+    "event-festival-litoral-teatral-2026-0",
+    "event-festival-litoral-teatral-2026-1",
+    "event-festival-litoral-teatral-2026-2",
+    "event-festival-litoral-teatral-2026-3"
+   ],
+   "notas": "Importado de data/events/festival-litoral-teatral-2026.json (score 82).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "VIII Festival Teatro Container",
+   "comuna": null,
+   "organizacion": "Centro Cultural Teatro Container (CCTC), con apoyo de Paisaje Público e Iberescena",
+   "espacios": [],
+   "fechas": [
+    "2024-11-21"
+   ],
+   "web": "https://festivalteatrocontainer.cl/",
+   "descripcion": "Octava edición del Festival Teatro Container, con el lema \"Practicar la calle\", tras dieciséis años de historia del Centro Cultural Teatro Container (CCTC, fundado en 2008) y el regreso del festival después de cuatro años sin realizarse. Organizado en dos líneas, \"Intimidad\" (dentro del contenedor) y \"Ciudad\" (espacio público), con el contenedor \"Cocina Pública\" recorriendo distintos puntos de Valparaíso. Según su director, Nicolás Eyzaguirre, esta edición se realizó \"sin haber obtenido fondos concursables ni otras fuentes de financiamiento\", sostenida en la solidaridad y el apoyo mutuo. Compañías y obras participantes: Cía. Ensamble Específico (\"Un artista del hambre\"), Andrea Paz & Silere Arts (\"Proyecto X\"), Rodrigo Chaverini (\"Frames\"), Oani Teatro (\"Trilogía de Valparaíso\"), Alumbra Creando (cuentacuentos), Festín de la Risa (clown) y Paula Sacur (\"Costa Marfil\").",
+   "fuentes": [
+    "event-festival-teatro-container-2024-0",
+    "event-festival-teatro-container-2024-1",
+    "event-festival-teatro-container-2024-2"
+   ],
+   "notas": "Importado de data/events/festival-teatro-container-2024.json (score 78).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "IV Festival Ventolera: Títeres en Primavera",
+   "comuna": null,
+   "organizacion": "Asamblea Titiritera ATTICH V, junto a la Seremi de las Culturas, la Municipalidad de Valparaíso y el Centro Comunitario Las Cañas",
+   "espacios": [],
+   "fechas": [
+    "2024-10-20"
+   ],
+   "web": null,
+   "descripcion": "Cuarta edición del Festival Ventolera, orientado a promover la creación, producción, exhibición y circulación de obras de titiriteros y marionetistas del territorio regional. Incluyó un taller de construcción de títeres de boca a cargo de Giovanni Vaccaro (15:00 horas, materiales gratuitos) y funciones desde las 16:00 horas de compañías de la Región de Valparaíso y una invitada de La Serena. Compañías participantes: Gabisha Títeres, Nina Títeres y Cuentacuentos, Compañía Moviendo Hilos, Compañía Capuchina, Compañía Vilkún de Marionetas, Títeres Helecho Marionatas, Compañía Correquetepillo, Titiricaos e Ingrid Vergara (La Serena, fuera de la región).",
+   "fuentes": [
+    "event-festival-ventolera-2024-0",
+    "event-festival-ventolera-2024-1"
+   ],
+   "notas": "Importado de data/events/festival-ventolera-2024.json (score 75).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Puerto a Puerta Valparaíso",
+   "comuna": null,
+   "organizacion": "Centro Cultural Teatro Container y Fundación OANI de Teatro (coproducción), con financiamiento de la Seremi de las Culturas, las Artes y el Patrimonio",
+   "espacios": [],
+   "fechas": [
+    "2024-12-01"
+   ],
+   "web": "https://oaniteatro.com/puerto-a-puerta-valparaiso/",
+   "descripcion": "Itinerancia de un contenedor marítimo transformado en cocina y escenario que recorre las calles de Valparaíso para \"reivindicar el espacio público\" con teatro, danza, narración oral y gastronomía como acto de convivencia (\"Cocina Pública\"). Es una coproducción del Centro Cultural Teatro Container y la Fundación OANI de Teatro. Forma parte de una itinerancia más amplia del mismo proyecto (\"Puerto a Puerta\") por comunas de la provincia de San Antonio (El Quisco, El Tabo, San Antonio y Santo Domingo) en 2024, financiada por el Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas Itinerantes Regionales, convocatoria 2024, del Ministerio de las Culturas.",
+   "fuentes": [
+    "event-puerto-a-puerta-valparaiso-2024-0",
+    "event-puerto-a-puerta-valparaiso-2024-1"
+   ],
+   "notas": "Importado de data/events/puerto-a-puerta-valparaiso-2024.json (score 60)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Alan Sebastián Fernández Caro",
+   "roles": [
+    "Actor/actriz",
+    "Gestor/a cultural",
+    "Productor/a"
+   ],
+   "companias": [
+    "Compañía de Teatro La Lancha"
+   ],
+   "comuna": "san-antonio",
+   "obras_dirigidas": [],
+   "formacion": "{\"title\": \"Derecho (egreso)\", \"institution\": \"[NO ENCONTRADO]\", \"year\": null, \"source_index\": 1}",
+   "trayectoria": "Integrante del elenco de *Llo Lle We* (personaje Pilpilén), montaje sobre la historia de la desembocadura del río Maipo dirigido por Diego Chamorro y presentado en la Plaza de Llolleo. Participa en una compañía de teatro independiente desde 2020 en gestión, producción e interpretación. Su formación incluye estudios de Turismo Aventura, Ciencias Sociales y Jurídicas y egreso de Derecho.",
+   "instagram": null,
+   "web": null,
+   "fuentes": [
+    "artist-alan-fernandez-caro-0",
+    "artist-alan-fernandez-caro-1",
+    "artist-alan-fernandez-caro-2"
+   ],
+   "notas": "Importado de data/artists/alan-fernandez-caro.json (score 75).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Carlos Andrés Muñoz Rivera",
+   "roles": [
+    "Artista circense",
+    "Actor/actriz",
+    "Gestor/a cultural"
+   ],
+   "companias": [
+    "Festín de la Risa"
+   ],
+   "comuna": "putaendo",
+   "obras_dirigidas": [],
+   "formacion": null,
+   "trayectoria": "Con Festín de la Risa ha realizado giras internacionales por Ecuador, Perú, Colombia, Brasil y Bolivia, y posteriormente por Francia, España, Portugal e Italia (gira 2024 con el espectáculo *Ayayai*). En 2022 la compañía participó en el Jallalla Festi Circo (Arica) y en 2023 celebró sus diez años en el Parque Cultural de Valparaíso. Responsable del proyecto «Trashumantes, en la búsqueda de nuevos caminos creativos» (folio 749091), presentado al Fondo de Artes Escénicas 2025, con 97 puntos y lista de espera. En 2021 fue responsable del proyecto circense «desolación en el distrito 6», seleccionado en una convocatoria del Parque Cultural de Valparaíso.",
+   "instagram": null,
+   "web": null,
+   "fuentes": [
+    "artist-carlos-munoz-rivera-0",
+    "artist-carlos-munoz-rivera-1"
+   ],
+   "notas": "Importado de data/artists/carlos-munoz-rivera.json (score 65)."
+  },
+  {
+   "nombre": "Constanza Jesús Méndez Laínes",
+   "roles": [
+    "Actor/actriz",
+    "Mediador/a"
+   ],
+   "companias": [
+    "Hypókritas"
+   ],
+   "comuna": "vina-del-mar",
+   "obras_dirigidas": [],
+   "formacion": "{\"title\": \"Actuación\", \"institution\": \"Duoc UC\", \"year\": null, \"source_index\": 1}; {\"title\": \"Fonoaudiología\", \"institution\": \"Universidad de Valparaíso\", \"year\": null, \"source_index\": 1}",
+   "trayectoria": "Profesora de Teatro en la Escuela Naval Arturo Prat desde 2020 (círculos culturales) y profesora ayudante de Expresión Oral desde 2014. En 2022 coadaptó *La Remolienda*, de Alejandro Sieveking, para la Academia Cultural de la Escuela Naval.",
+   "instagram": null,
+   "web": null,
+   "fuentes": [
+    "artist-constanza-mendez-laines-0",
+    "artist-constanza-mendez-laines-1"
+   ],
+   "notas": "Importado de data/artists/constanza-mendez-laines.json (score 60). Vínculos declarados: Hypókritas (integrante)."
+  },
+  {
+   "nombre": "Hugo Hernández Urtubia",
+   "roles": [
+    "Titiritero/a"
+   ],
+   "companias": [
+    "Compañía de Marionetas The Magic Show"
+   ],
+   "comuna": "los-andes",
+   "obras_dirigidas": [],
+   "formacion": null,
+   "trayectoria": "Incorporado en 2026 al Sistema de Información para la Gestión del Patrimonio Cultural Inmaterial (SIGPA) como cultor individual de Teatro tradicional de títeres, identificador CI8699, con 25 años de trayectoria registrados. Antes de consolidarse como marionetista trabajó en formación con niños y niñas (talleres de marionetas gigantes). En 2026 fue reconocido públicamente como cultor en el marco del primer Día Nacional del Titiritero y la Titiritera.",
+   "instagram": null,
+   "web": null,
+   "fuentes": [
+    "artist-hugo-hernandez-urtubia-0",
+    "artist-hugo-hernandez-urtubia-1",
+    "artist-hugo-hernandez-urtubia-2"
+   ],
+   "notas": "Importado de data/artists/hugo-hernandez-urtubia.json (score 75).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Natalia Vanessa Zúñiga Ortiz",
+   "roles": [
+    "Narrador/a oral",
+    "Actor/actriz",
+    "Dramaturgo/a",
+    "Mediador/a",
+    "Gestor/a cultural"
+   ],
+   "companias": [
+    "Productora ABC: Arte, Bienestar y Cultura",
+    "Teatro Ánima",
+    "Compañía de Teatro Espontáneo de Quillota"
+   ],
+   "comuna": "quillota",
+   "obras_dirigidas": [],
+   "formacion": "{\"title\": \"Diplomado en Dramaturgia (Fondos de Cultura 2021 y 2022)\", \"institution\": \"[NO ENCONTRADO]\", \"year\": 2022, \"source_index\": 1}; {\"title\": \"Especialización en método Alba Emoting (Fondos de Cultura 2023)\", \"institution\": \"[NO ENCONTRADO]\", \"year\": 2023, \"source_index\": 1}",
+   "trayectoria": "Actriz de Teatro Ánima (aprox. 2016–2019) en *El viaje de los caracoles* y *Orejas sucias*; integrante de la Compañía de Teatro Espontáneo de Quillota (2017–2019). Manipuladora de teatro en miniatura (Lambe-Lambe) en *Arrullo para un hombre de mar*; intervenciones de Lambe-Lambe en la Feria del Libro Tricentenario de Quillota. Autora de la dramaturgia *Pieza Chica* (Fondo Nacional del Libro y la Lectura 2019). Seleccionada por Fondos de Cultura para Diplomado en Dramaturgia (2021, folio 593604; 2022, folio 629208) y para especialización en Alba Emoting (2023). En 2022 realizó una función de cuentacuentos contratada por la Municipalidad de Quillota en el Colegio Valle de Quillota.",
+   "instagram": null,
+   "web": null,
+   "fuentes": [
+    "artist-natalia-zuniga-ortiz-0",
+    "artist-natalia-zuniga-ortiz-1"
+   ],
+   "notas": "Importado de data/artists/natalia-zuniga-ortiz.json (score 65). Vínculos declarados: Teatro Ánima (actriz, aprox. 2016–2019); Compañía de Teatro Espontáneo de Quillota (2017–2019)."
+  },
+  {
+   "nombre": "Nelson Hernán Rojas Torres",
+   "roles": [
+    "Director/a",
+    "Gestor/a cultural",
+    "Músico/a escénico",
+    "Actor/actriz"
+   ],
+   "companias": [
+    "Arte Escénico La Ligua",
+    "Teatro del Silencio"
+   ],
+   "comuna": "la-ligua",
+   "obras_dirigidas": [],
+   "formacion": null,
+   "trayectoria": "El Festival Valle del Liwa alcanzó su quinta edición en 2024; la edición 2023 fue financiada mediante el 7% FNDR del Gobierno Regional de Valparaíso. En 2018 participó en la residencia de arte colaborativo Recolectores de Memoria (Lota). Es compositor, percusionista y músico en proyectos del Teatro del Silencio (director musical en *Inferno*).",
+   "instagram": null,
+   "web": null,
+   "fuentes": [
+    "artist-nelson-rojas-torres-0",
+    "artist-nelson-rojas-torres-1",
+    "artist-nelson-rojas-torres-2"
+   ],
+   "notas": "Importado de data/artists/nelson-rojas-torres.json (score 70). Vínculos declarados: Teatro del Silencio (compositor y percusionista).",
+   "estado": "VERIFICADO"
+  },
+  {
+   "nombre": "Víctor Eduardo Opazo Herrera",
+   "roles": [
+    "Actor/actriz",
+    "Director/a",
+    "Gestor/a cultural",
+    "Músico/a escénico"
+   ],
+   "companias": [
+    "Compañía de Teatro Alegría"
+   ],
+   "comuna": "villa-alemana",
+   "obras_dirigidas": [],
+   "formacion": null,
+   "trayectoria": "Integrante del elenco de *El Loco y la Triste*, de Juan Radrigán, montaje que la compañía llevó en 2018 a San Juan de Lurigancho (Perú) con funciones gratuitas en colegios, instituciones y espacios comunitarios. En 2022 participó en el Primer Encuentro de Artistas, Gestores y Cultores de Villa Alemana, donde planteó que el desarrollo artístico territorial debe comenzar «desde nosotros mismos, desde las bases».",
+   "instagram": null,
+   "web": null,
+   "fuentes": [
+    "artist-victor-opazo-herrera-0",
+    "artist-victor-opazo-herrera-1"
+   ],
+   "notas": "Importado de data/artists/victor-opazo-herrera.json (score 65)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "7% FNDR Cultura — Festival Valle del Liwa (tercera versión)",
+   "organizacion": "Arte Escénico La Ligua",
+   "fondo": "Gobierno Regional de Valparaíso",
+   "anio": 2023,
+   "folio": null,
+   "monto": null,
+   "comuna": "la-ligua",
+   "disciplina": "teatro",
+   "descripcion": "Adjudicatario formal por confirmar.",
+   "compania": "Arte Escénico La Ligua",
+   "fuentes": [
+    "company-arte-escenico-la-ligua-0",
+    "company-arte-escenico-la-ligua-1"
+   ]
+  },
+  {
+   "proyecto": "Convocatoria 2023, Ministerio de las Culturas, las Artes y el Patrimonio (obra La Ruta de la Quebrada)",
+   "organizacion": "Colectiva Artística Medioambiental La Capuchina",
+   "fondo": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "anio": 2023,
+   "folio": null,
+   "monto": null,
+   "comuna": "valparaiso",
+   "disciplina": "titeres",
+   "descripcion": "Citado por la Fundación TeatroMuseo del Títere y el Payaso en la programación de su estreno; folio, línea y monto no confirmados por este asistente.",
+   "compania": "Colectiva Artística Medioambiental La Capuchina",
+   "fuentes": [
+    "company-colectiva-la-capuchina-0",
+    "company-colectiva-la-capuchina-1",
+    "company-colectiva-la-capuchina-2",
+    "company-colectiva-la-capuchina-3"
+   ]
+  },
+  {
+   "proyecto": "Subvención municipal (equipamiento)",
+   "organizacion": "Compañía de Teatro Alegría",
+   "fondo": "Municipalidad de Villa Alemana",
+   "anio": 2022,
+   "folio": null,
+   "monto": null,
+   "comuna": "villa-alemana",
+   "disciplina": "teatro",
+   "descripcion": null,
+   "compania": "Compañía de Teatro Alegría",
+   "fuentes": [
+    "company-compania-de-teatro-alegria-0",
+    "company-compania-de-teatro-alegria-1"
+   ]
+  },
+  {
+   "proyecto": "Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas — Creación y Producción Escénica (obra NOSOTRXS)",
+   "organizacion": "Fundación OANI de Teatro",
+   "fondo": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "anio": 2025,
+   "folio": null,
+   "monto": null,
+   "comuna": "valparaiso",
+   "disciplina": "titeres",
+   "descripcion": "Convocatoria 2025; estreno de la obra en enero de 2026.",
+   "compania": "Fundación OANI de Teatro",
+   "fuentes": [
+    "company-fundacion-oani-de-teatro-0",
+    "company-fundacion-oani-de-teatro-1",
+    "company-fundacion-oani-de-teatro-2",
+    "company-fundacion-oani-de-teatro-3"
+   ]
+  },
+  {
+   "proyecto": "Comunidades Escénicas — Programa de Artes Escénicas Itinerantes Regionales (coproducción «Puerto a Puerta» con Teatro Container)",
+   "organizacion": "Fundación OANI de Teatro",
+   "fondo": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "anio": 2024,
+   "folio": null,
+   "monto": null,
+   "comuna": "valparaiso",
+   "disciplina": "titeres",
+   "descripcion": null,
+   "compania": "Fundación OANI de Teatro",
+   "fuentes": [
+    "company-fundacion-oani-de-teatro-0",
+    "company-fundacion-oani-de-teatro-1",
+    "company-fundacion-oani-de-teatro-2",
+    "company-fundacion-oani-de-teatro-3"
+   ]
+  },
+  {
+   "proyecto": "Apoyo del Ministerio de las Culturas, las Artes y el Patrimonio para «La Caracol»",
+   "organizacion": "La Enredadera",
+   "fondo": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "anio": 2021,
+   "folio": null,
+   "monto": null,
+   "comuna": "valparaiso",
+   "disciplina": "danza",
+   "descripcion": "Fondo y folio exactos por confirmar.",
+   "compania": "La Enredadera",
+   "fuentes": [
+    "company-la-enredadera-0",
+    "company-la-enredadera-1",
+    "company-la-enredadera-2",
+    "company-la-enredadera-3",
+    "company-la-enredadera-4"
+   ]
+  },
+  {
+   "proyecto": "Programa Itinerantes Regionales, Fondo de Artes Escénicas — proyecto «Mujeres en Escena»",
+   "organizacion": "La Enredadera",
+   "fondo": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "anio": 2026,
+   "folio": null,
+   "monto": null,
+   "comuna": "valparaiso",
+   "disciplina": "danza",
+   "descripcion": "Proyecto liderado por la gestora Alexandra Farías Aguirre; La Enredadera es una de siete compañías participantes.",
+   "compania": "La Enredadera",
+   "fuentes": [
+    "company-la-enredadera-0",
+    "company-la-enredadera-1",
+    "company-la-enredadera-2",
+    "company-la-enredadera-3",
+    "company-la-enredadera-4"
+   ]
+  },
+  {
+   "proyecto": "Fondart (montaje surgido de taller de Juan Radrigán)",
+   "organizacion": "Centro de Investigación Teatro La Peste",
+   "fondo": "Ministerio de las Culturas, las Artes y el Patrimonio (FONDART)",
+   "anio": 2001,
+   "folio": null,
+   "monto": null,
+   "comuna": "valparaiso",
+   "disciplina": "teatro",
+   "descripcion": null,
+   "compania": "Centro de Investigación Teatro La Peste",
+   "fuentes": [
+    "company-teatro-la-peste-0",
+    "company-teatro-la-peste-1",
+    "company-teatro-la-peste-2",
+    "company-teatro-la-peste-3",
+    "company-teatro-la-peste-4"
+   ]
+  },
+  {
+   "proyecto": "Valparaíso Creativo — plan de internacionalización del teatro regional",
+   "organizacion": "Centro de Investigación Teatro La Peste",
+   "fondo": "Valparaíso Creativo",
+   "anio": 2025,
+   "folio": null,
+   "monto": null,
+   "comuna": "valparaiso",
+   "disciplina": "teatro",
+   "descripcion": "Cofinancia el acompañamiento a siete compañías de la región; folio y monto no confirmados.",
+   "compania": "Centro de Investigación Teatro La Peste",
+   "fuentes": [
+    "company-teatro-la-peste-0",
+    "company-teatro-la-peste-1",
+    "company-teatro-la-peste-2",
+    "company-teatro-la-peste-3",
+    "company-teatro-la-peste-4"
+   ]
+  }
+ ]
+}

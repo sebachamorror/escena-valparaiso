@@ -1,0 +1,93 @@
+{
+  "slug": "sebastian-ayala-alveal",
+  "type": "artist",
+  "name": "Sebastián Ayala Alveal",
+  "artistic_name": null,
+  "commune": "valparaiso",
+  "commune_basis": "prensa",
+  "crafts": [
+    "dramaturgia"
+  ],
+  "disciplines": [
+    "teatro"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": null,
+  "companies": [
+    {
+      "company": "compania-teatro-a-la-deriva",
+      "role": "Dramaturgo/a",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/05/Seleccionados-2dollamado-Circulacion-inter-AAEE2023-1.pdf",
+      "title": "Seleccionados Circulación Internacional de Artes Escénicas 2023 (segundo llamado)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/01/SELECCIONADOS-FAAEE-2022.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2022",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

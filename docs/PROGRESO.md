@@ -370,3 +370,32 @@ Los mockups traían cifras y contenido completamente inventados (seguidores, vis
 ### Verificación
 
 `npm run typecheck`, `npm test` (13 pruebas) y `npm run build` en verde. Conteo de páginas verificado con Playwright: 31/31, sin desbordes. Revisión visual del sitio (logo en header, desktop y mobile) y del PDF (las tres capturas nuevas, a tamaño completo).
+
+---
+
+## Catastro del ecosistema teatral regional e integración a `data/` · sesión 2026-09-08/09
+
+### Contexto
+
+El usuario pidió, en `/loop`, un catastro lo más completo posible del ecosistema teatral y de artes escénicas de la Región de Valparaíso: compañías, espacios, festivales, obras, funciones, financiamiento y personas, por las 38 comunas, con fuente y estado de verificación en cada registro (brief íntegro en `catastro/BRIEF.md`). Se trabajó como una investigación aparte de `data/` (que exige `confidence_score >= 70` y `verification.status = verificado` para publicar), priorizando cantidad de descubrimientos con trazabilidad por sobre fichas perfectas pero escasas (Regla 10 de `CLAUDE.md`).
+
+### Qué se hizo
+
+**Catastro** (`catastro/`, scripts en `scripts/catastro/`): infraestructura reejecutable —`agregar.py` (ingesta de lotes con deduplicación y búsqueda inversa espacio→programación→obra→compañía→director), `consultas.py` (cola de 399 consultas por capa del brief y por comuna), `duplicados.py`, `estadisticas.py`, `exportar.py` (CSV + GeoJSON), `informes.py` (Markdown), `validar.py`, `fondos_pdf.py` (extrae de las nóminas PDF de Fondos de Cultura 2022–2026 con PyMuPDF, única dependencia externa del catastro). Varios ciclos de investigación (capas 1, 3, 4, 5 y 9 del brief) dejaron: 118 compañías/organizaciones, 136 obras, 77 funciones, 89 espacios, 243 personas, 45 festivales, 398 proyectos de financiamiento y 181 fuentes (78 de calidad A). Bitácora y cifras exactas por ciclo en `catastro/ESTADO.md`. El `/loop` de investigación sigue activo (capas 2, 6, 7, 8 y el resto de la 9 pendientes) y no forma parte de esta entrega.
+
+**Integración al modelo de datos real del sitio** (`scripts/catastro/exportar_a_data.py`): convierte el catastro a `data/companies`, `data/venues`, `data/works`, `data/events` y `data/artists`, validado contra `data/schemas/`. Regla dura del script: solo crea o enriquece una ficha cuando los campos obligatorios del esquema están cubiertos por un dato real (por ejemplo, `commune` es obligatorio y no nulo en compañías y espacios: las 43 compañías y 214 personas del catastro sin comuna confirmada quedaron fuera de `data/`, documentadas igual en `catastro/informes/export-a-data-omitidos.txt`); nunca se inventó una comuna, año o disciplina para completar un campo requerido. Dos rutas por registro: si el archivo ya existía en `data/` (se reconoce por la nota que dejó la importación original), se enriquece de forma aditiva —listas, campos vacíos, fuentes nuevas por URL— sin tocar `published`, `verification` ni `status`, porque esos ya habían sido revisados; si es un descubrimiento nuevo del catastro, se crea con `published: false` y `verification.status` derivado del estado del catastro (VERIFICADO → verificado/85, PARCIAL y DESCUBIERTO → pendiente/60 o 35), nunca `published: true` salvo score ≥ 70, igual que exige la Regla 3.
+
+**Bug encontrado y corregido en el camino**: la primera versión de la conversión de festivales sobrescribía por completo el archivo existente en vez de fusionarlo cuando el slug ya existía en el sitio, perdiendo título, descripción, ocurrencias y fuentes ya investigados de 5 festivales (`festival-litoral-teatral-2026`, `festival-caleta-de-titeres-2026`, `festival-teatro-container-2024`, `festival-ventolera-2024`, `puerto-a-puerta-valparaiso-2024`). Se detectó revisando `git diff` antes de dar por buena la corrida, se revirtió `data/events/` a `HEAD` (`git checkout --`) y se reescribió la ruta de fusión de eventos (`merge_occurrences`, que agrega ocurrencias nuevas por fecha sin duplicar ni tocar las existentes) antes de volver a correr el script.
+
+**Resultado final**: `data/companies` 60 archivos (44 nuevos + 16 enriquecidos), `data/venues` 87 (80 + 7), `data/works` 77 (73 + 4), `data/events` 93 (83 + 5 enriquecidos, sin duplicar los que ya existían), `data/artists` 28 (21 + 7). `python3 scripts/validar_datos.py` → **0 errores, 0 avisos** sobre el sitio completo (esquemas, referencias cruzadas, vocabularios, territorio, patrón de RUT, regla `published ⇒ verificado y score ≥ 70`). Ningún registro nuevo quedó publicado: todo queda como borrador a la espera de revisión editorial, tal como exige la Regla 3.
+
+### Verificación
+
+`python3 scripts/validar_datos.py` en verde (0/0). `git diff` revisado archivo por archivo en los casos de fusión (compañías, espacios, obras, eventos) para confirmar que no se perdió contenido ya revisado. No se corrió `npm run build` en esta sesión (cambio es solo de datos, no de código de la aplicación).
+
+### Qué falta
+
+- Revisión editorial de las ~301 fichas nuevas antes de publicar cualquiera (decidir cuáles pasan el umbral, completar `status`/`last_activity_at` que quedaron en "desconocido" por defecto).
+- Completar comuna de las 43 compañías y 214 personas que quedaron fuera de `data/` por no tener comuna confirmada (siguen documentadas en `catastro/datos/`).
+- Seguir el `/loop` del catastro (capas 2, 6, 7, 8 y el resto de la 9) y volver a correr `exportar_a_data.py` cuando avance.
+- No se hizo `git add`/`git commit` de los cambios en `data/`: quedan como cambios locales sin confirmar a la espera de que el usuario decida cómo commitear (todo junto o por colección).

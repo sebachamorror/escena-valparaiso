@@ -1,0 +1,45 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondo de Artes Escénicas 2024: 1 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondo-de-artes-escenicas-residencias-internacionales",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/08/SELECCIONADOS-RESIDENCIAS-AAEE.pdf",
+   "titulo": "Seleccionados Programa de Residencias Internacionales en Artes Escénicas 2024",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Fundación OANI de Teatro",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-residencias-internacionales"
+   ],
+   "notas": "Responsable del proyecto «EL CUERPO COMO ESCENARIO DE LAS MINIATURAS» (Fondo de Artes Escénicas 2024, Residencias Internacionales). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "EL CUERPO COMO ESCENARIO DE LAS MINIATURAS",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias Internacionales",
+   "anio": 2024,
+   "folio": "784226",
+   "monto": 10655490,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-residencias-internacionales"
+   ],
+   "notas": "Responsable según nómina: Fundación OANI de Teatro. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Fundación OANI de Teatro",
+   "compania": "Fundación OANI de Teatro"
+  }
+ ]
+}

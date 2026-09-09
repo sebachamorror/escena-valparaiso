@@ -1,0 +1,48 @@
+{
+  "slug": "la-estrategia-de-elias",
+  "type": "work",
+  "title": "La estrategia de Elías",
+  "authorship": null,
+  "direction": null,
+  "companies": [
+    "fundacion-oani-de-teatro"
+  ],
+  "credits": [],
+  "disciplines": [
+    "titeres"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": null,
+  "communes": [],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://oaniteatro.com/",
+      "title": "OANI Home",
+      "publisher": "Fundación OANI de Teatro",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Fetch directo confirmando enlaces de redes sociales (@oaniteatro en Facebook, Instagram y X) y agenda de actividades de 2025-2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

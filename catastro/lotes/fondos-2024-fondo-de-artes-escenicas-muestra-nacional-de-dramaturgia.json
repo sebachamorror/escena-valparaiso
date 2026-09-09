@@ -1,0 +1,46 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondo de Artes Escénicas 2024: 1 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondo-de-artes-escenicas-muestra-nacional-de-dramaturgia",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/01/SELECCIONADOS-MND-2023_AAEE-RESULTADOS-MND.pdf",
+   "titulo": "Seleccionados XXI Muestra Nacional de Dramaturgia",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [
+  {
+   "nombre": "Christian Orlando Ortega Torres",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-muestra-nacional-de-dramaturgia"
+   ],
+   "notas": "Responsable del proyecto «Ensayo sobre el ensayo —Divagaciones shakesperianas en torno al teatro, la vejez y la familia—» (Fondo de Artes Escénicas 2024, Trayectoria). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Ensayo sobre el ensayo —Divagaciones shakesperianas en torno al teatro, la vejez y la familia—",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Trayectoria",
+   "anio": 2024,
+   "folio": "731718",
+   "monto": 5000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-muestra-nacional-de-dramaturgia"
+   ],
+   "notas": "Responsable según nómina: Christian Orlando Ortega Torres. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Christian Orlando Ortega Torres"
+  }
+ ]
+}

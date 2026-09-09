@@ -1,0 +1,72 @@
+{
+  "slug": "la-remolienda",
+  "type": "work",
+  "title": "La Remolienda",
+  "authorship": "Alejandro Sieveking",
+  "direction": null,
+  "companies": [
+    "taller-municipal-de-teatro-de-quillota"
+  ],
+  "credits": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": "Muestra de proceso interactiva del grupo juvenil-adulto en el hall del Centro Cultural (5 de julio de 2025, jornada Artes Integradas).",
+  "communes": [],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://quillota.cl/municipalidad/wp-content/uploads/2025/08/Quillota-Cultural-JULIO_-2025.pdf",
+      "title": "Quillota Cultural — julio 2025 (publicación digital mensual de la Dirección de Cultura)",
+      "publisher": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Boletín de 112 páginas leído con PyMuPDF. Contiene estreno de 'El motín contra Portales' (12 de julio de 2025), actividades del Taller Municipal de Teatro, 'Tibia' y el XXI Festival Nacional de Danza de Los Andes."
+    },
+    {
+      "url": "https://quillota.cl/municipalidad/wp-content/uploads/2025/10/Quillota-Cultural-septiembre_-2025.pdf",
+      "title": "Quillota Cultural — septiembre 2025 (publicación digital mensual de la Dirección de Cultura)",
+      "publisher": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Boletín de 105 páginas leído con PyMuPDF. Seminario de voz del Taller Municipal de Teatro (Pablo Valencia), salida pedagógica al Teatro Municipal de Viña del Mar ('El Húsar de la Muerte', La Patogallina, 30 de septiembre de 2025)."
+    },
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/3077-destacadas-obras-trae-a-san-antonio-el-festival-litoral-teatral-2026",
+      "title": "Destacadas obras trae a San Antonio el Festival Litoral Teatral 2026",
+      "publisher": "Centro Cultural San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma 13 compañías, 12 espectáculos y las funciones del 19, 25 y 26 de abril de 2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

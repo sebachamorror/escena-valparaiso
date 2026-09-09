@@ -1,0 +1,48 @@
+{
+  "slug": "el-carnaval-de-la-alegria",
+  "type": "work",
+  "title": "El carnaval de la alegría",
+  "authorship": null,
+  "direction": null,
+  "companies": [
+    "fundacion-teatromuseo-del-titere-y-el-payaso"
+  ],
+  "credits": [],
+  "disciplines": [
+    "titeres"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": null,
+  "communes": [],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/2966-festival-de-teatro-litoral-teatral-2024",
+      "title": "Festival de Teatro Litoral Teatral 2024",
+      "publisher": "Centro Cultural San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Festival del 10 al 21 de enero de 2024; actividades al aire libre gratuitas, funciones en sala con reserva; las fechas por obra no aparecen en la nota."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

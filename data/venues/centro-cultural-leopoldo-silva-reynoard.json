@@ -1,0 +1,153 @@
+{
+  "slug": "centro-cultural-leopoldo-silva-reynoard",
+  "type": "venue",
+  "name": "Centro Cultural Leopoldo Silva Reynoard",
+  "short_name": "Centro Cultural Leopoldo Silva",
+  "venue_type": "centro-cultural",
+  "owner": "municipal",
+  "place": {
+    "name": null,
+    "address": "Avenida 21 de Mayo 200, Quillota",
+    "commune": "quillota",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mas-de-60-actividades-artisticas-gratuitas-ofrecera-la-red-de-espacios-culturales-de-la-region-de-valparaiso/",
+      "title": "Más de 60 actividades artísticas gratuitas ofrecerá la Red de Espacios Culturales de la Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de octubre de 2020. Lista los 27 espacios de la Red de Espacios Culturales regional y actividades entre octubre de 2020 y marzo de 2021 sin fechas exactas."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/redcultura/espacios-culturales-bajo-convenio-region-de-valparaiso/",
+      "title": "Espacios Culturales Bajo Convenio Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Programa Red Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Seis espacios bajo convenio Red Cultura."
+    },
+    {
+      "url": "https://chilecultura.gob.cl/events/3197/",
+      "title": "Ciclo de Teatro Familiar de Quillota",
+      "publisher": "Chile Cultura — Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Ficha de evento de 2019: cuatro obras en tres días (18, 19 y 20 de julio de 2019), $2.000, Centro Cultural Leopoldo Silva Reynoard, Avenida 21 de Mayo 200, Quillota. La ficha no asigna cada obra a un día."
+    },
+    {
+      "url": "https://g5noticias.cl/2026/09/08/el-centro-cultural-leopoldo-silva-reynoard-despliega-una-variada-cartelera-de-arte-cine-teatro-y-folklore-para-esta-semana/",
+      "title": "El Centro Cultural Leopoldo Silva Reynoard despliega una variada cartelera de arte, cine, teatro y folklore para esta semana",
+      "publisher": "G5noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 8 de septiembre de 2026 (programación municipal de Quillota)."
+    },
+    {
+      "url": "https://quillota.cl/municipalidad/wp-content/uploads/2025/08/Quillota-Cultural-JULIO_-2025.pdf",
+      "title": "Quillota Cultural — julio 2025 (publicación digital mensual de la Dirección de Cultura)",
+      "publisher": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Boletín de 112 páginas leído con PyMuPDF. Contiene estreno de 'El motín contra Portales' (12 de julio de 2025), actividades del Taller Municipal de Teatro, 'Tibia' y el XXI Festival Nacional de Danza de Los Andes."
+    },
+    {
+      "url": "https://quillota.cl/municipalidad/wp-content/uploads/2025/10/Quillota-Cultural-septiembre_-2025.pdf",
+      "title": "Quillota Cultural — septiembre 2025 (publicación digital mensual de la Dirección de Cultura)",
+      "publisher": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Boletín de 105 páginas leído con PyMuPDF. Seminario de voz del Taller Municipal de Teatro (Pablo Valencia), salida pedagógica al Teatro Municipal de Viña del Mar ('El Húsar de la Muerte', La Patogallina, 30 de septiembre de 2025)."
+    },
+    {
+      "url": "https://teatroamil.cl/articulos/festival-sintesis-teatral-valparaiso-2019/",
+      "title": "Festival Síntesis encabeza celebración del Día Nacional del Teatro en Valparaíso",
+      "publisher": "Fundación Teatro a Mil",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuarta versión (2019): 6 al 26 de mayo, 23 obras, 5 estrenos, más de 30 presentaciones en 8 espacios; extensión a San Antonio, Quillota, Quilpué, San Felipe y Olmué."
+    },
+    {
+      "url": "https://parquecultural.cl/2019/05/03/festival-sintesis-teatral-valparaiso-encabeza-celebracion-del-mes-del-teatro/",
+      "title": "Festival Síntesis Teatral Valparaíso encabeza celebración del mes del teatro",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 3 de mayo de 2019; organiza Laboratorio Anatomía Teatral (dir. Claudio Rodríguez); programa completo en laboratorioanatomiateatral.cl/folleto-fstv19."
+    },
+    {
+      "url": "https://parquecultural.cl/2020/05/10/festival-sintesis-teatral-valparaiso-adapta-su-programacion-y-formato-para-celebrar-primera-version-via-streaming/",
+      "title": "Festival Síntesis Teatral Valparaíso adapta su programación y formato para celebrar primera versión vía streaming",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Quinta versión (mayo de 2020) por streaming, producida por Parque Cultural, Centex y Laboratorio Anatomía Teatral (según resumen del buscador)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

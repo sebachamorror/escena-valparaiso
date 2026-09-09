@@ -1,18 +1,91 @@
 {
-  "slug": "festival-ventolera-2024", "type": "event", "title": "IV Festival Ventolera: Títeres en Primavera",
-  "kind": "festival", "work": null, "company": null, "organizer_text": "Asamblea Titiritera ATTICH V, junto a la Seremi de las Culturas, la Municipalidad de Valparaíso y el Centro Comunitario Las Cañas",
-  "disciplines": ["titeres"], "audience": "familiar",
+  "slug": "festival-ventolera-2024",
+  "type": "event",
+  "title": "IV Festival Ventolera: Títeres en Primavera",
+  "kind": "festival",
+  "work": null,
+  "company": null,
+  "organizer_text": "Asamblea Titiritera ATTICH V, junto a la Seremi de las Culturas, la Municipalidad de Valparaíso y el Centro Comunitario Las Cañas",
+  "disciplines": [
+    "titeres"
+  ],
+  "audience": "familiar",
   "description_md": "Cuarta edición del Festival Ventolera, orientado a promover la creación, producción, exhibición y circulación de obras de titiriteros y marionetistas del territorio regional. Incluyó un taller de construcción de títeres de boca a cargo de Giovanni Vaccaro (15:00 horas, materiales gratuitos) y funciones desde las 16:00 horas de compañías de la Región de Valparaíso y una invitada de La Serena. Compañías participantes: Gabisha Títeres, Nina Títeres y Cuentacuentos, Compañía Moviendo Hilos, Compañía Capuchina, Compañía Vilkún de Marionetas, Títeres Helecho Marionatas, Compañía Correquetepillo, Titiricaos e Ingrid Vergara (La Serena, fuera de la región).",
-  "price": null, "is_free": true, "booking_url": null, "accessibility": [],
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
   "occurrences": [
-    { "starts_at": "2024-10-20T15:00:00-03:00", "ends_at": null, "time_unknown": false, "venue": null, "place": { "name": "Centro Comunitario Las Cañas", "address": "Camino Uno #1115, Cerro Las Cañas, Valparaíso", "commune": "valparaiso", "lat": null, "lng": null, "precision": "unknown", "geocode_source": null, "geocoded_at": null }, "price": null, "note": "Taller de construcción de títeres a las 15:00; funciones de compañías desde las 16:00. No hay ficha propia de este espacio en data/venues/ todavía." }
+    {
+      "starts_at": "2024-10-20T15:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": null,
+      "place": {
+        "name": "Centro Comunitario Las Cañas",
+        "address": "Camino Uno #1115, Cerro Las Cañas, Valparaíso",
+        "commune": "valparaiso",
+        "lat": null,
+        "lng": null,
+        "precision": "unknown",
+        "geocode_source": null,
+        "geocoded_at": null
+      },
+      "price": null,
+      "note": "Taller de construcción de títeres a las 15:00; funciones de compañías desde las 16:00. No hay ficha propia de este espacio en data/venues/ todavía."
+    },
+    {
+      "starts_at": "2024-10-20T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    }
   ],
   "last_checked_at": "2026-09-05",
   "media": [],
   "sources": [
-    { "url": "https://www.cultura.gob.cl/agendacultural/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/", "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región", "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio", "type": "institucional", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "occurrences", "description"], "notes": "Confirma organizador (Asamblea Titiritera ATTICH V con Seremi de las Culturas), fecha, sede y taller con Giovanni Vaccaro." },
-    { "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/", "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región", "publisher": "G5 Noticias", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description", "occurrences"], "notes": "Confirma la lista completa de compañías participantes y horario de las funciones (desde las 16:00 horas)." }
+    {
+      "url": "https://www.cultura.gob.cl/agendacultural/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "occurrences",
+        "description"
+      ],
+      "notes": "Confirma organizador (Asamblea Titiritera ATTICH V con Seremi de las Culturas), fecha, sede y taller con Giovanni Vaccaro."
+    },
+    {
+      "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "G5 Noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "description",
+        "occurrences"
+      ],
+      "notes": "Confirma la lista completa de compañías participantes y horario de las funciones (desde las 16:00 horas)."
+    }
   ],
-  "verification": { "status": "verificado", "confidence_score": 75, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2026-10-01", "note": "Fuente institucional (Ministerio de las Culturas) y prensa regional coinciden. Es la última edición encontrada (IV, octubre 2024); no se localizó una V edición (2025 o 2026) al 5 de septiembre de 2026, por lo que su vigencia debe revisarse pronto. Falta ficha propia de la organizadora (Asamblea Titiritera ATTICH V, ya en cola como rq-045) y del Centro Comunitario Las Cañas." },
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 75,
+    "verified_at": "2026-09-05",
+    "verified_by": "investigación asistida (sesión 2026-09-05)",
+    "next_review_at": "2026-10-01",
+    "note": "Fuente institucional (Ministerio de las Culturas) y prensa regional coinciden. Es la última edición encontrada (IV, octubre 2024); no se localizó una V edición (2025 o 2026) al 5 de septiembre de 2026, por lo que su vigencia debe revisarse pronto. Falta ficha propia de la organizadora (Asamblea Titiritera ATTICH V, ya en cola como rq-045) y del Centro Comunitario Las Cañas."
+  },
   "published": false
 }

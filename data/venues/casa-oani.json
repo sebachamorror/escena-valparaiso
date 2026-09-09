@@ -1,0 +1,57 @@
+{
+  "slug": "casa-oani",
+  "type": "venue",
+  "name": "Casa OANI",
+  "short_name": null,
+  "venue_type": "espacio-independiente",
+  "owner": "independiente (Fundación OANI de Teatro)",
+  "place": {
+    "name": null,
+    "address": "Lo Venegas 489, Cerro Cárcel, Valparaíso",
+    "commune": "valparaiso",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": "https://oaniteatro.com/",
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://oaniteatro.com/",
+      "title": "OANI Home",
+      "publisher": "Fundación OANI de Teatro",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Fetch directo confirmando enlaces de redes sociales (@oaniteatro en Facebook, Instagram y X) y agenda de actividades de 2025-2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

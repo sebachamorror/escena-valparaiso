@@ -1,0 +1,6148 @@
+[
+ {
+  "id": "PER-0001",
+  "nombre": "Diego Chamorro",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0006"
+  ],
+  "comuna": "san-antonio",
+  "provincia": "san-antonio",
+  "obras_dirigidas": [
+   "OBR-0002"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0024",
+   "FUE-0025",
+   "FUE-0026",
+   "FUE-0056"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0002",
+  "nombre": "Camila Landon Vío",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0008"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0029",
+   "FUE-0030",
+   "FUE-0031",
+   "FUE-0032"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0003",
+  "nombre": "Danilo Llanos",
+  "roles": [
+   "Director/a",
+   "Dramaturgo/a"
+  ],
+  "companias": [
+   "COMP-0013"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0044",
+   "FUE-0045",
+   "FUE-0046",
+   "FUE-0047",
+   "FUE-0048",
+   "FUE-0124"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Figura como Danilo Patricio Llanos Quezada, responsable de 'FIN; último episodio Trilogía de la Catástrofe' (trayectoria 2022)."
+ },
+ {
+  "id": "PER-0004",
+  "nombre": "Eduardo Romero",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0015"
+  ],
+  "comuna": "santo-domingo",
+  "provincia": "san-antonio",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0052",
+   "FUE-0053"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0005",
+  "nombre": "Festín de la Risa (creación colectiva)",
+  "roles": [
+   "Dramaturgo/a"
+  ],
+  "companias": [
+   "COMP-0007"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0054"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0006",
+  "nombre": "Juan Radrigán",
+  "roles": [
+   "Dramaturgo/a"
+  ],
+  "companias": [
+   "COMP-0005"
+  ],
+  "comuna": "villa-alemana",
+  "provincia": "marga-marga",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0055",
+   "FUE-0161"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0007",
+  "nombre": "Alan Sebastián Fernández Caro",
+  "roles": [
+   "Actor/actriz",
+   "Gestor/a cultural",
+   "Productor/a"
+  ],
+  "companias": [
+   "COMP-0006"
+  ],
+  "comuna": "san-antonio",
+  "provincia": "san-antonio",
+  "obras_dirigidas": [],
+  "formacion": "{\"title\": \"Derecho (egreso)\", \"institution\": \"[NO ENCONTRADO]\", \"year\": null, \"source_index\": 1}",
+  "trayectoria": "Integrante del elenco de *Llo Lle We* (personaje Pilpilén), montaje sobre la historia de la desembocadura del río Maipo dirigido por Diego Chamorro y presentado en la Plaza de Llolleo. Participa en una compañía de teatro independiente desde 2020 en gestión, producción e interpretación. Su formación incluye estudios de Turismo Aventura, Ciencias Sociales y Jurídicas y egreso de Derecho.",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0072",
+   "FUE-0073",
+   "FUE-0026"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/artists/alan-fernandez-caro.json (score 75)."
+ },
+ {
+  "id": "PER-0008",
+  "nombre": "Carlos Andrés Muñoz Rivera",
+  "roles": [
+   "Artista circense",
+   "Actor/actriz",
+   "Gestor/a cultural",
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [
+   "COMP-0007"
+  ],
+  "comuna": "putaendo",
+  "provincia": "san-felipe-de-aconcagua",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "Con Festín de la Risa ha realizado giras internacionales por Ecuador, Perú, Colombia, Brasil y Bolivia, y posteriormente por Francia, España, Portugal e Italia (gira 2024 con el espectáculo *Ayayai*). En 2022 la compañía participó en el Jallalla Festi Circo (Arica) y en 2023 celebró sus diez años en el Parque Cultural de Valparaíso. Responsable del proyecto «Trashumantes, en la búsqueda de nuevos caminos creativos» (folio 749091), presentado al Fondo de Artes Escénicas 2025, con 97 puntos y lista de espera. En 2021 fue responsable del proyecto circense «desolación en el distrito 6», seleccionado en una convocatoria del Parque Cultural de Valparaíso.",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0074",
+   "FUE-0075",
+   "FUE-0098"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/artists/carlos-munoz-rivera.json (score 65). Responsable del proyecto «Trashumantes, en la búsqueda de nuevos caminos creativos» (Fondo de Artes Escénicas 2025, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0009",
+  "nombre": "Constanza Jesús Méndez Laínes",
+  "roles": [
+   "Actor/actriz",
+   "Mediador/a"
+  ],
+  "companias": [
+   "COMP-0017"
+  ],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [],
+  "formacion": "{\"title\": \"Actuación\", \"institution\": \"Duoc UC\", \"year\": null, \"source_index\": 1}; {\"title\": \"Fonoaudiología\", \"institution\": \"Universidad de Valparaíso\", \"year\": null, \"source_index\": 1}",
+  "trayectoria": "Profesora de Teatro en la Escuela Naval Arturo Prat desde 2020 (círculos culturales) y profesora ayudante de Expresión Oral desde 2014. En 2022 coadaptó *La Remolienda*, de Alejandro Sieveking, para la Academia Cultural de la Escuela Naval.",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0076",
+   "FUE-0077"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/artists/constanza-mendez-laines.json (score 60). Vínculos declarados: Hypókritas (integrante)."
+ },
+ {
+  "id": "PER-0010",
+  "nombre": "Hugo Hernández Urtubia",
+  "roles": [
+   "Titiritero/a",
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0014",
+   "COMP-0115"
+  ],
+  "comuna": "los-andes",
+  "provincia": "los-andes",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "Incorporado en 2026 al Sistema de Información para la Gestión del Patrimonio Cultural Inmaterial (SIGPA) como cultor individual de Teatro tradicional de títeres, identificador CI8699, con 25 años de trayectoria registrados. Antes de consolidarse como marionetista trabajó en formación con niños y niñas (talleres de marionetas gigantes). En 2026 fue reconocido públicamente como cultor en el marco del primer Día Nacional del Titiritero y la Titiritera.",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0078",
+   "FUE-0079",
+   "FUE-0051",
+   "FUE-0169"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/artists/hugo-hernandez-urtubia.json (score 75). Perfil en El Trabajo (22 de marzo de 2026): marionetas de hilo, títeres de guante y figuras de gran formato; formación en Barcelona."
+ },
+ {
+  "id": "PER-0011",
+  "nombre": "Natalia Vanessa Zúñiga Ortiz",
+  "roles": [
+   "Narrador/a oral",
+   "Actor/actriz",
+   "Dramaturgo/a",
+   "Mediador/a",
+   "Gestor/a cultural",
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [
+   "COMP-0012",
+   "COMP-0018",
+   "COMP-0019"
+  ],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "obras_dirigidas": [],
+  "formacion": "{\"title\": \"Diplomado en Dramaturgia (Fondos de Cultura 2021 y 2022)\", \"institution\": \"[NO ENCONTRADO]\", \"year\": 2022, \"source_index\": 1}; {\"title\": \"Especialización en método Alba Emoting (Fondos de Cultura 2023)\", \"institution\": \"[NO ENCONTRADO]\", \"year\": 2023, \"source_index\": 1}",
+  "trayectoria": "Actriz de Teatro Ánima (aprox. 2016–2019) en *El viaje de los caracoles* y *Orejas sucias*; integrante de la Compañía de Teatro Espontáneo de Quillota (2017–2019). Manipuladora de teatro en miniatura (Lambe-Lambe) en *Arrullo para un hombre de mar*; intervenciones de Lambe-Lambe en la Feria del Libro Tricentenario de Quillota. Autora de la dramaturgia *Pieza Chica* (Fondo Nacional del Libro y la Lectura 2019). Seleccionada por Fondos de Cultura para Diplomado en Dramaturgia (2021, folio 593604; 2022, folio 629208) y para especialización en Alba Emoting (2023). En 2022 realizó una función de cuentacuentos contratada por la Municipalidad de Quillota en el Colegio Valle de Quillota.",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0080",
+   "FUE-0081",
+   "FUE-0117"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/artists/natalia-zuniga-ortiz.json (score 65). Vínculos declarados: Teatro Ánima (actriz, aprox. 2016–2019); Compañía de Teatro Espontáneo de Quillota (2017–2019). Responsable del proyecto «Alba emoting» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0012",
+  "nombre": "Nelson Hernán Rojas Torres",
+  "roles": [
+   "Director/a",
+   "Gestor/a cultural",
+   "Músico/a escénico",
+   "Actor/actriz"
+  ],
+  "companias": [
+   "COMP-0001",
+   "COMP-0020"
+  ],
+  "comuna": "la-ligua",
+  "provincia": "petorca",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "El Festival Valle del Liwa alcanzó su quinta edición en 2024; la edición 2023 fue financiada mediante el 7% FNDR del Gobierno Regional de Valparaíso. En 2018 participó en la residencia de arte colaborativo Recolectores de Memoria (Lota). Es compositor, percusionista y músico en proyectos del Teatro del Silencio (director musical en *Inferno*).",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0082",
+   "FUE-0083",
+   "FUE-0084"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/artists/nelson-rojas-torres.json (score 70). Vínculos declarados: Teatro del Silencio (compositor y percusionista)."
+ },
+ {
+  "id": "PER-0013",
+  "nombre": "Víctor Eduardo Opazo Herrera",
+  "roles": [
+   "Actor/actriz",
+   "Director/a",
+   "Gestor/a cultural",
+   "Músico/a escénico"
+  ],
+  "companias": [
+   "COMP-0005"
+  ],
+  "comuna": "villa-alemana",
+  "provincia": "marga-marga",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "Integrante del elenco de *El Loco y la Triste*, de Juan Radrigán, montaje que la compañía llevó en 2018 a San Juan de Lurigancho (Perú) con funciones gratuitas en colegios, instituciones y espacios comunitarios. En 2022 participó en el Primer Encuentro de Artistas, Gestores y Cultores de Villa Alemana, donde planteó que el desarrollo artístico territorial debe comenzar «desde nosotros mismos, desde las bases».",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0085",
+   "FUE-0086"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/artists/victor-opazo-herrera.json (score 65)."
+ },
+ {
+  "id": "PER-0014",
+  "nombre": "Rafael Brozzi",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0004"
+  ],
+  "comuna": "quilpue",
+  "provincia": "marga-marga",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0018",
+   "FUE-0087"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0015",
+  "nombre": "Paola Escudero Navia",
+  "roles": [
+   "Director/a",
+   "Titiritero/a"
+  ],
+  "companias": [
+   "COMP-0016"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [
+   "OBR-0056"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0018",
+   "FUE-0117"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable de 'A la Memoria de Carla Korman' (títeres 2023)."
+ },
+ {
+  "id": "PER-0016",
+  "nombre": "Giovanni Vaccaro",
+  "roles": [
+   "Titiritero/a",
+   "Actor/actriz",
+   "Narrador/a oral"
+  ],
+  "companias": [
+   "COMP-0024"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "Actor profesional, titiritero, pedagogo teatral y cuentacuentos; fundador de Vaccaro Puppets. Primer lugar en el Festival de Teatro Juan Edmundo González (2003 y 2005).",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0018"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0017",
+  "nombre": "Miguel Muñoz",
+  "roles": [
+   "Dramaturgo/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0089"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Citado como autor o director de la obra 'Mentira' (Sala UPLA, 2020-2021); el rol exacto no se especifica en la fuente."
+ },
+ {
+  "id": "PER-0018",
+  "nombre": "George Casanova",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0045"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [
+   "OBR-0025"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0019",
+  "nombre": "Carina Victoria Aspillaga Bórquez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Residencia para la creación de S.O.M.A: acciones mínimas para no somatizar» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Finalización de Maestría en Teatro y Artes Performáticas en la Universidad de las Artes» (Fondo de Artes Escénicas 2025, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0020",
+  "nombre": "Roberto Nicolás Arellano Acuña",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «HERRAMIENTAS DE SERVICIO; UNA ODA A LA VOCACIÓN CULINARIA» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0021",
+  "nombre": "Marcela Ursula Rendic Parera",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Experimento nº 4: Parpadeo. Intrucciones para aparecer en la oscuridad» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0022",
+  "nombre": "Javiera De Luna Vilches Suárez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Antípodas de Valparaíso» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0023",
+  "nombre": "Francisca Victoria del Rosario Vargas Barraza",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «MARÍTIMA: Residencia de lo inasible. Ondas que se mueven, (re)suenan y hablan.» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0024",
+  "nombre": "Kjesed Ana Victoria Faundes Encina",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Memorias de un naufragio» (Fondo de Artes Escénicas 2026, Composición escénica/ Dramaturgia). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0025",
+  "nombre": "Felipe Arturo Lira Araya",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La Marioneta de Dios» (Fondo de Artes Escénicas 2026, Composición escénica/ Composición coreográfica). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Miniserie: Inventor de Alma» (Fondo de Artes Escénicas 2022, Trayectoria/Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0026",
+  "nombre": "Jairo Alejandro Urtubia Mendoza",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Tensiones coreográficas» (Fondo de Artes Escénicas 2026, Composición escénica/ Composición coreográfica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0027",
+  "nombre": "Nicol Andrea Sánchez Santis",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «IN TENSIÒN» (Fondo de Artes Escénicas 2026, Composición escénica/ Composición coreográfica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0028",
+  "nombre": "Roberto Andrés González Oxa",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Tito Lastarria» (Fondo de Artes Escénicas 2026, Composición escénica/ Actos y rutinas circenses). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0029",
+  "nombre": "Claudio Nicolás Lazcano Pozo",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Décimas por Travesura en Valparaíso, Laguna Verde, Placilla y Viña del Mar.» (Fondo de Artes Escénicas 2026, Composición escénica / Composición para narración oral). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0030",
+  "nombre": "Pablo Andrés Olivares Dubart",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La Odisea desde Odiseo» (Fondo de Artes Escénicas 2026, Composición escénica / Composición para narración oral). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0031",
+  "nombre": "Anaí Valentina Núñez Riveros",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0096"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «YinYang» (Fondo de Artes Escénicas 2026, Composición escénica / Guión, diseño y/o construcción de títeres). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Shakespeare en miniatura / España 2026» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0032",
+  "nombre": "Tomás Fernando Vidal Castañón",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Creación de caja lambe lambe Miguelina y el faro de extrañezas.» (Fondo de Artes Escénicas 2026, Composición escénica / Guión, diseño y/o construcción de títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0033",
+  "nombre": "Gabriel Alejandro Castro Barra",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «“Atahualpa, el último canto del Sol”» (Fondo de Artes Escénicas 2026, Composición escénica / Guión, diseño y/o construcción de títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0034",
+  "nombre": "Se-Rok Park",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diasporica» (Fondo de Artes Escénicas 2026, Composición escénica / Interdisciplinar). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Especialización en técnicas coreanas interdisciplinarias y estrategias performativas transculturales» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0035",
+  "nombre": "Cecilia Belén Céspedes Concha",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «De tal Pelo, tal Astilla. Obra Interdisciplinaria» (Fondo de Artes Escénicas 2026, Composición escénica / Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0036",
+  "nombre": "Elier Elizabeth Arana Rojas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Creación de Cuentos Sensoriales para la Infancia, \"Entre Solsticios y Equinoccios\"» (Fondo de Artes Escénicas 2026, Composición escénica / Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0037",
+  "nombre": "José Antonio Soto Luer",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0117",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La cuna de fuego: Montaje escénico por Palestina» (Fondo de Artes Escénicas 2026, Teatro). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Circulación Pulso de un hombre homosexual latinoamericano» (Fondo de Artes Escénicas 2026, Grupo A). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Pulso de un hombre homosexual latinoamericano» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región). Responsable del proyecto «La reminiscencia del hombre que parecía un siervo» (Fondo de Artes Escénicas 2022, Creación y Producción/Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0038",
+  "nombre": "Verónica Isabel González Becerra",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Puesta en escena BÉSAME MACHO. Mujeres Infinitas» (Fondo de Artes Escénicas 2026, Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0039",
+  "nombre": "daniela alondra trincado muñoz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «VALPO RIAL» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0040",
+  "nombre": "Javiera Inés Walker Alarcón",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Creación y Producción de la obra de danza contemporánea MUDANZA» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0041",
+  "nombre": "Laura Cristina Corona Espinoza",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «EL MIMBRAL. Cuento danzado para la infancia» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región). Responsable del proyecto «HUACA - Cartografía danzada de un territorio -» (Fondo de Artes Escénicas 2025, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0042",
+  "nombre": "Paz Carolina Varas Pérez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Creación y producción de la obra de Danza Contemporanea E.P.O.C. Entidad Poderosa de Orden y Control» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0043",
+  "nombre": "Mariela Carla Peralta Ferroni",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «PROYECTO DE CREACIÓN Y PRODUCCIÓN DE LA OBRA DE DANZA CONTEMPORÁNEA : CORPUS SENSORIAL» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0044",
+  "nombre": "Ingrid Alejandra Flores Mondaca",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Más allá de las ruinas, un espectáculo de ciencia ficción dirigido por Ingrid Flores Moncada» (Fondo de Artes Escénicas 2026, Circo). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Más allá de las ruinas, un espectáculo de ciencia ficción dirigido por Ingrid Flores Moncada» (Fondo de Artes Escénicas 2025, Circo). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0045",
+  "nombre": "Viviana De lourdes Hernandez Silva",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «El niño y los sortilegios de M. Ravel - Fantasía lirica en clave de fabula.» (Fondo de Artes Escénicas 2026, Ópera). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Ardid de amor - Una comedia de enredos en el chile colonial, opera de Roberto Puelma» (Fondo de Artes Escénicas 2025, Ópera). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0046",
+  "nombre": "Zenith Claudia Navarrete Ruiz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0098",
+   "FUE-0105",
+   "FUE-0110",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Cuéntame de Valparaíso Bohemio.» (Fondo de Artes Escénicas 2026, Narración Oral). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Memorias en Tren: Lo que me han contado» (Fondo de Artes Escénicas 2026, Grupo A). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Secretos de mujeres» (Fondo de Artes Escénicas 2025, Narración oral). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Tecnicas Teatrales para la Narración Oral Escénica» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Wellcome to the Train - Bienvenidos al Tren» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Memorias en tren» (Fondo de Artes Escénicas 2022, Composición Escénica/Cuentos y/o Mecanismos para la Narración Oral). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0047",
+  "nombre": "Priscila Marlene Figueroa Uribe",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Kamishibai Itinerante, cuentacuentos sonoro para promover nuestra identidad del valle a la ciudad» (Fondo de Artes Escénicas 2026, Narración Oral). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0048",
+  "nombre": "Magda Raquel Sánchez Martínez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Cuentos del mundo: Historias que viajan» (Fondo de Artes Escénicas 2026, Narración Oral). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Primer Festival Itinerante de Narración Oral del Valle del Aconcagua» (Fondo de Artes Escénicas 2026, Regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0049",
+  "nombre": "Jasson Guillermo Guaico Nuñez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «NIÑO ZOMBIE y el oráculo personal.» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0050",
+  "nombre": "Eric Estrada Vega",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «\"El viaje de Mamadú\" Un encuentro con la raíz en el sur del mundo» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0051",
+  "nombre": "Sebastián Fernando Farah Rodríguez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «VIDA Y HAZAÑAS DEL SEÑOR ERIK SATIE, FONOMETRÓGRAFO» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Formación Lambesur» (Fondo de Artes Escénicas 2025, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0052",
+  "nombre": "René Leonardo Rojas Escalona",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Un marciano en Júpiter creación y producción de obra de teatro de marionetas por la diversidad y la inclusión social» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0053",
+  "nombre": "Daniel Alexis Silva Escobar",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «El Piuchén de Paihuén: Miniatura escénica del misterio campesino.» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0054",
+  "nombre": "Stefanis Magdalena Duarte Pinto",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «VACIO. Tercera parte de la trilogía de la distancia.» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región). Responsable del proyecto «\"Del Teatro del Silencio a la Ruta del Teatro de Calle\"» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0055",
+  "nombre": "Olinda Inés Melchor Lara",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «“Con la cabeza en las nubes”, obra teatral en formato distendido pensado en todas las infancias» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0056",
+  "nombre": "Eduardo Nicolás Cancino Said",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Derrumbe: La piedra que supo que antes fue estrella.» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0057",
+  "nombre": "Milca Nicole Galea Robles",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0108",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La Cultura de la Orilla» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Corredor Danza Valparaíso - Feria Internacional de Danza Tanzmesse NRW» (Fondo de Artes Escénicas 2024, Asistencia a Instancias Internacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Cooperativa Corredor Danza Valparaíso, asociatividad como estrategia para la sustentabilidad del trabajo» (Fondo de Artes Escénicas 2022, Fomento a la Asociatividad). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0058",
+  "nombre": "Alexandra Mabes Villegas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circulación Nacional Cu/ cuerpo infinito» (Fondo de Artes Escénicas 2026, Grupo A). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0059",
+  "nombre": "Patricio Alejandro Nuñez rojas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «\"Tripulación Paraíso, abriendo horizontes, Circulación Esperanza\"» (Fondo de Artes Escénicas 2026, Grupo B). Comuna no indicada en la nómina (solo región). Responsable del proyecto «\"TRIPULACION PARAISO\",DISPARATE CIRCO ROCK, PURO CIRCO CHILENO.» (Fondo de Artes Escénicas 2022, Trayectoria/Circo). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0060",
+  "nombre": "Nicole Constanza Rencoret Torres",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Encuentro cultural con la comunidad. Itinerancia teatral por la región de OHiggins y del Maule» (Fondo de Artes Escénicas 2026, Grupo B). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0061",
+  "nombre": "Sara Sophia Cecchetto Schmidlin",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circulación de montaje de narración oral \"Cuentos de Verde y Mar\"» (Fondo de Artes Escénicas 2026, Grupo B). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Joaquín y el Burro obra interdisciplinar para la primera infancia» (Fondo de Artes Escénicas 2022, Trayectoria/ Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0062",
+  "nombre": "Ruby Camila Parraguez Padilla",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Memorias de la danza escénica en la región de Valparaíso: Por una historia de la danza regional, 1973- 2025» (Fondo de Artes Escénicas 2026, Investigación teórica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0063",
+  "nombre": "Valentina Fuentes Durán",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0098",
+   "FUE-0117",
+   "FUE-0124",
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «VOCES ESCÉNICAS: programa de perfeccionamiento vocal para artistas escénicos» (Fondo de Artes Escénicas 2026, Profesionalización del sector). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Voces Escénicas: programa de perfeccionamiento vocal para artistas escénicos» (Fondo de Artes Escénicas 2025, Profesionalización del sector). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Biomecánica para la eficacia de la producción vocal en la actuación teatral» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Formación en el Centro Internacional Artístico Roy Hart» (Fondo de Artes Escénicas 2022, Becas de Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Residencia artística Centro Artístico Internacional Roy Hart» (Fondo de Artes Escénicas 2022, Participación en Instancias Internacionales - Formato Individual o Dúo - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0064",
+  "nombre": "Paloma Gabriela Molina Fuentealba",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Tejiendo Identidades: Marionetas del Mar y la Tierra» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0065",
+  "nombre": "Alexandra Catalina Farías Aguirre",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Programa Formativo “Saberes Futuro: prácticas escénicas para socias/os del Centro de Quilpué de la Unión Nacional y vecinas/os de El Retiro y El Sol”.» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0066",
+  "nombre": "Pablo Ignacio Abarca Carrazana",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)",
+   "Gestor/a cultural"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0095",
+   "FUE-0099",
+   "FUE-0104",
+   "FUE-0105",
+   "FUE-0117",
+   "FUE-0118",
+   "FUE-0124",
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «ENAES: 3era Escuela de Artes Escénicas para la Comunidad Sorda» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región). Responsable del proyecto «ENAI 2026 Quinto Encuentro de Artes Escénicas para la Comunidad Sorda» (Fondo de Artes Escénicas 2026, Nacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «ENAI 2025 Cuarto Encuentro de Artes Escénicas para la Comunidad Sorda» (Fondo de Artes Escénicas 2025, Festivales y encuentros nacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Residencia de Creación: Teatro de Sordos y Vernáculo Visual» (Fondo de Artes Escénicas 2024, Residencias de creación). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Tercer Encuentro de narración accesible e inclusiva: ENAI 2024 Valparaíso» (Fondo de Artes Escénicas 2024, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Pasantía en Teatro corporal accesible para la comunidad sorda» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Escuela de Artes Escénicas para la comunidad sorda ARTESCESOR modalidad Presencial» (Fondo de Artes Escénicas 2024, Profesionalización del sector). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Pasantía Área de Investigaciones en Mimo UBA Argentina» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Segundo Encuentro de narración accesible e inclusiva: ENAI 2023» (Fondo de Artes Escénicas 2023, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «\"Cuéntamelo a los ojos\": espectáculo de narración gestual para la comunidad sorda» (Fondo de Artes Escénicas 2022, Creación y Producción/Narración Oral). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Primer Encuentro regional de narración inclusiva: contemos con otros sentidos» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Regionales). Comuna no indicada en la nómina (solo región). Responsable de ENAI (2022–2026), ENAES (2026), ARTESCESOR (2024), 'Cuéntamelo a los ojos' (2022) y residencia 'Teatro de Sordos y Vernáculo Visual' (2024): artes escénicas y comunidad sorda."
+ },
+ {
+  "id": "PER-0067",
+  "nombre": "María Luisa Gutiérrez Godoy",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Estudios de Magíster en Patrimonio, Universidad de Valparaíso: Metodologías Escénicas para la Mediación del Patrimonio Inmaterial» (Fondo de Artes Escénicas 2026, Magíster, máster o maestría). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0068",
+  "nombre": "Nicolas Fernando Mayorga Ramirez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «beca para Magister en Practicas Coreográficas / Nicolás Mayorga Ramírez» (Fondo de Artes Escénicas 2026, Magíster, máster o maestría). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0069",
+  "nombre": "Jacinta María Egaña Kaulen",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095",
+   "FUE-0098",
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Formación en Teatro Balinés: profundizando el puente en Indonesia y Chile» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Azul y el bosque extinto, montaje interdisciplinar para infancias» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Escuela de máscara y movimiento para la creación escénica» (Fondo de Artes Escénicas 2025, Profesionalización del sector). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Formación en Teatro Topeng, un puente entre Indonesia y Chile» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0070",
+  "nombre": "Catherine Jara Rebolledo",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Perfeccionamiento intensivo y especializado en la disciplina del Clown, Argentina.» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0071",
+  "nombre": "María Ignacia Millán Azagra",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Territorios que cuidan: salud, cultura y comunidad desde la Gestión Cultural» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0072",
+  "nombre": "Carlos Andrés Craig Sepúlveda",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095",
+   "FUE-0117",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado en Teatro aplicado en educación, salud y comunidad» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Programa de formación en artes escénicas, para personas mayores de la comunidad de Villa Alemana» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Programa de formación en artes escénicas, para personas mayores de la comunidad de Villa Alemana» (Fondo de Artes Escénicas 2022, Públicos y Comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0073",
+  "nombre": "Dixi Candy Gonzalez Gamboa",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095",
+   "FUE-0109",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Programa de profundización y perfeccionamiento teórico-práctico en nar ración oral contemporánea. con el Maestro Juan Martin Tapia» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Participación en XI Encuentro Internacional de Narradores Orales \"·Cántaro de Cuentos\". Itagui Colombia.» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Programa de formación en Método Alba Emoting» (Fondo de Artes Escénicas 2022, Becas de Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0074",
+  "nombre": "Luisa Mackarena Navarro Cubillos",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Especialización y certificación en rigging para las Artes Escénicas y el trabajo seguro en altura.» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0075",
+  "nombre": "Iván Enrique Torres Pino",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Curso online de perfeccionamiento técnico en Cuerda Lisa» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0076",
+  "nombre": "Sara Camila Solis Peña",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [
+   "COMP-0021"
+  ],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095",
+   "FUE-0099"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «II Festival de Artes Escénicas , Autocuidado y Salud Mental SIENTO TEATRO» (Fondo de Artes Escénicas 2026, Regionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Primer Festival de Artes Escénicas , Autocuidado y Salud Mental SIENTO TEATRO» (Fondo de Artes Escénicas 2025, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región). Responsable del Festival de Artes Escénicas, Autocuidado y Salud Mental Siento Teatro (2025, 2026)."
+ },
+ {
+  "id": "PER-0077",
+  "nombre": "Camila Paz Guerrero Escobar",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095",
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Primer festival de artes escénicas en escaleras, Valparaíso.» (Fondo de Artes Escénicas 2026, Regionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Forças da natureza» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0078",
+  "nombre": "Katherine Patricia Salvo Rios",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «22º Festival Danza Quilpué Danza» (Fondo de Artes Escénicas 2026, Regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0079",
+  "nombre": "Carla Paz Cepeda Cortés",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0096"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circo Pa’l Barrio: Circulación Internacional Compañía Disparate Circo» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0080",
+  "nombre": "Carlos Andrés Basualdo Gómez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0096",
+   "FUE-0098",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Participación en Festival Internacional ContArte 2026» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Si te lo cuento, ¿lo leerías? Textos clásicos narrados oralmente» (Fondo de Artes Escénicas 2025, Narración oral). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Don Quijote te ha enviado una solicitud de amistad. Textos clásicos para un público joven.» (Fondo de Artes Escénicas 2023, Composición para narración oral). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0081",
+  "nombre": "Manuel Alejandro Díaz Salas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0096"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Agenciamiento y fortalecimiento de redes internacionales en festivales e instituciones culturales de España» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0082",
+  "nombre": "Diego Sebastián Chamorro Ramírez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Huidobro Viene Navegando + Registro» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Gira de Llo Lle We : Ko Rüpü, el camino del agua» (Fondo de Artes Escénicas 2023, Circulación de montajes escénicos). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0083",
+  "nombre": "María José Franco Campos",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «\"La Ruta de Hilo Rojo\"» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0084",
+  "nombre": "Paula Andrea Jirkal Briones",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circulación nacional \"Todo esto está en ti\"; obra de circo contemporáneo inspirada en la poesía de Raul Zurita» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región). Responsable del proyecto «“Todo esto está en ti o la locura será la dolorosa pasión de estos paisajes” Obra de circo contemporáneo inspirada en la poesía de Raul Zurita.» (Fondo de Artes Escénicas 2023, Circo). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0085",
+  "nombre": "Natalia Francisca Cuéllar Díaz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circulación nacional obra \"KI, la respiración del tiempo\"» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0086",
+  "nombre": "Lucía Francisca Silva Vegas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circulación Caudal, por la liberación de las aguas de Teatro LaWasha» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Creación y Producción de la obra infantil La Llave Secreta, por la liberación de las aguas.» (Fondo de Artes Escénicas 2022, Creación y Producción/Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0087",
+  "nombre": "Milenka Cucurella Farías",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [
+   "COMP-0010"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Residencia Exploración del lenguaje creativo para la primera infancia. Colectivo Escénico La Enredadera.» (Fondo de Artes Escénicas 2025, Residencias de creación). Comuna no indicada en la nómina (solo región). Residencia de creación para la primera infancia con el Colectivo Escénico La Enredadera (2025)."
+ },
+ {
+  "id": "PER-0088",
+  "nombre": "Francisco Javier Díaz Pacheco",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «RAQ III: Residencias de Arte Queer. 'Memorias Queer de Valparaíso'» (Fondo de Artes Escénicas 2025, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0089",
+  "nombre": "Christopher Camilo Ortega Silva",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Residencia Litismo: re- conocer cuerpo + sonido + palabra» (Fondo de Artes Escénicas 2025, Residencias de creación). Comuna no indicada en la nómina (solo región). Responsable del proyecto «INFORME PARA UNA ACADEMIA» (Fondo de Artes Escénicas 2022, Creación y Producción/Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0090",
+  "nombre": "Marco Ignacio Orellana Pavez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Máquina, de gloria y olvido» (Fondo de Artes Escénicas 2025, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0091",
+  "nombre": "Franco Ignacio Oviedo Maldonado",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La Invivible» (Fondo de Artes Escénicas 2025, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0092",
+  "nombre": "Valentina Michelle Orellana Reyes",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Creación y Producción de la obra de danza contemporánea \"La Última Danza de La Pincoya\"» (Fondo de Artes Escénicas 2025, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0093",
+  "nombre": "Sibila Sotomayor Van Rysseghem",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Acción/Nebulosa: Laboratorio de investigación performativa antifascista - colectivo LASTESIS» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Pasantía de investigación: performance & activismos» (Fondo de Artes Escénicas 2022, Becas de Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0094",
+  "nombre": "Pascuala Ilabaca Argandoña",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «\"No me nombren a mi sola\"» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0095",
+  "nombre": "Juliana da Silva Martins",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Contrahílo - mujeres que tejen en el aire» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región). Responsable del proyecto «CONTRAHÍLO - MUJERES QUE TEJEN EN EL AIRE» (Fondo de Artes Escénicas 2022, Residencias de Creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0096",
+  "nombre": "Oscar Andrés Gonzalez Bosque",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La Nave de los locos, locOnas y Alacalufes. Teatro circo ancestral» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0097",
+  "nombre": "Julieta Tamara Saavedra Barraza",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «EL TIEMPO NO ESPERA Monólogos del Adulto Mayor _ Una propuesta de Montaje escénico por Julieta y compañía» (Fondo de Artes Escénicas 2025, Narración oral). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0098",
+  "nombre": "David Gabriel Valdivia Argandoña",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «“El Trueno de Milén”, una ópera de cámara por la inclusión de la neurodivergencia en las artes escénicas» (Fondo de Artes Escénicas 2025, Ópera). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0099",
+  "nombre": "Maritza Alejandra Farías Cerpa",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «NINA» (Fondo de Artes Escénicas 2025, Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0100",
+  "nombre": "Camila Fernanda Pichuante Cruz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La Ventana de Eva , espectaculo de teatro objeto» (Fondo de Artes Escénicas 2025, Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0101",
+  "nombre": "Verónica Lucía Sentis Herrmann",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0124"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "PER-0220",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Actualización y rediseño plataforma digital sobre teatro de Valparaíso www.historiadelteatro envalparaiso.cl» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Descorriendo tupidos velos: cartografía teatral de directoras porteñas en el siglo XXI» (Fondo de Artes Escénicas 2022, Investigación Teórica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0102",
+  "nombre": "CentroCultural de Arte Español Flamenco Triana",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Mejoramiento de la Ficha Técnica de la compañía viñamarina Flamenco Triana» (Fondo de Artes Escénicas 2025, Compañías de las Artes Escénicas). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0103",
+  "nombre": "Martin Esteban Farias Zuñiga",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Bertolt Brecht en Chile: una historia de la teoría y la práctica brechtiana 1930-1973» (Fondo de Artes Escénicas 2025, Investigación teórica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0104",
+  "nombre": "Kathleen Whitlock Leaning",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Arte + Ciencia: respuestas neurofisiológicas y experiencia subjetiva de estudiantes de teatro» (Fondo de Artes Escénicas 2025, Investigación teórica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0105",
+  "nombre": "Cristian Antonio González Rivera",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Valparaíso como documento: 2° versión de seminarios de especialización y reflexión crítica de teatro documental» (Fondo de Artes Escénicas 2025, Profesionalización del sector). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Postulación Máster de Formación Permanente en Gestión de Empresas e Instituciones Culturales en España» (Fondo de Artes Escénicas 2024, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0106",
+  "nombre": "Catalina Andrea Tapia Vargas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «PortaDanza, haciendo tribu con mujeres y bebés danzantes. Fortaleciendo la comunidad a través de la Danza y el Porteo.» (Fondo de Artes Escénicas 2025, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0107",
+  "nombre": "Sandra Carola Lema Ruiz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Memorias en escena: Taller de creación de historias por medio de la animación de objetos y la narración oral» (Fondo de Artes Escénicas 2025, Públicos y comunidades). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Diplomado en Teatro Aplicado PUC de Chile» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0108",
+  "nombre": "Francisca Belén Zaldívar Guzmán",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Taller de teatro para personas trans en Valparaíso y Quillota» (Fondo de Artes Escénicas 2025, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0109",
+  "nombre": "María Daniela Villanueva Tolosa",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099",
+   "FUE-0118"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «EN PRACTICA Festival de Danza Contacto Improvisación Valparaíso/ IV versión» (Fondo de Artes Escénicas 2025, Festivales y encuentros nacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «III Encuentro EN PRACTICA danza contacto improvisación Valparaíso» (Fondo de Artes Escénicas 2023, Festivales y encuentros nacionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0110",
+  "nombre": "Nicolás Eduardo Vásquez Muñoz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «ENOI 2025 - Ópera con Identidad» (Fondo de Artes Escénicas 2025, Festivales y encuentros nacionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0111",
+  "nombre": "Katherine Ruth Cisternas Collao",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «A Rienda Suelta 4° Festival Internacional de Artes Cómicas» (Fondo de Artes Escénicas 2025, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0112",
+  "nombre": "Angélica Estefanía Díaz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099",
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «2° Edición Ciclo de teatro en San Pedro de Putupur» (Fondo de Artes Escénicas 2025, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Ciclo de Teatro en San Pedro de Putupur» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0113",
+  "nombre": "Mayra Belén Eltit Fuentes",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099",
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Continuidad de Estudios en el Programa Magíster en Prácticas Coreográficas de la Universidad de Chile» (Fondo de Artes Escénicas 2025, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Estudios en el Programa Magíster en Prácticas Coreográficas en la Universidad de Chile» (Fondo de Artes Escénicas 2024, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0114",
+  "nombre": "Camille Paola Aracena Maureira",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Teatro e identidad territorial del Valle del Aconcagua» (Fondo de Artes Escénicas 2025, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0115",
+  "nombre": "Paola Andrea Montano Ortiz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Participación en el Programa de formación ODIN HOME, Nueve días de formación, performances, películas, trueques y antropología teatral a cargo de Eugenio Barba y los actores del Odin Teatret del 16 al 25 de julio de 2025» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0116",
+  "nombre": "Nicolás Alexander Cabrera Corral",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado en dramaturgia realizado en la universidad de chile.» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0117",
+  "nombre": "Jorge Luis Vargas Azócar",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Estudio para el perfeccionamiento técnico en las artes escénicas» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0118",
+  "nombre": "Daniela Raquel Yáñez Rojas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado en Gestión Cultural» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «DISPOSITIVOS Y SINESTESIAS, DANZAS PARA RECORDAR LA SIMPLEZA» (Fondo de Artes Escénicas 2023, Composición coreográfica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0119",
+  "nombre": "Cecilia Andrea Ravelo García",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «ESPECIALIZACIÓN EN PRODUCCIÓN Y GESTIÓN DE TEATRO E CALLE» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0120",
+  "nombre": "Pola Javiera Uribe Chávez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Formación en Teatro aplicado en educación, salud y comunidad» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0121",
+  "nombre": "Amanda Soledad Puentes Ottone",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado en Pedagoía Teatral» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0122",
+  "nombre": "Antonieta Francisca Albornoz Molina",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Proyecto de estudio para diploma de Postítulo en Gestión Cultural -Virtual sincrónico- de la Universidad de Chile, admisión 2025.» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0123",
+  "nombre": "Estefanía Beatriz Villalobos Vergara",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado en Teatro Aplicado. Universidad Católica de Chile» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0124",
+  "nombre": "María Juliana Castro Stevani",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099",
+   "FUE-0124",
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Especialización en clown poético: escuela internacional de clown El Semillero» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Diplomado Internacional de Clown. Universidad del Bosque- Bogotá, Colombia» (Fondo de Artes Escénicas 2022, Becas de Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Residencia de creación: La cuestión» (Fondo de Artes Escénicas 2022, Participación en Instancias Internacionales - Formato Individual o Dúo - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0125",
+  "nombre": "Marcela Beatriz Olivares Diaz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado en Teatro aplicado en educación, salud y comunidad» (Fondo de Artes Escénicas 2025, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0126",
+  "nombre": "Irene Isola Yañez Torres",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0105",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «ENOI 2024 - Conecta con la ópera» (Fondo de Artes Escénicas 2024, Festivales y Encuentros Nacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Bastián y Bastiana, una ópera mágica en la isla de Chiloé» (Fondo de Artes Escénicas 2023, Ópera). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0127",
+  "nombre": "Kathia Javiera Schulz Hernandez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0105",
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «IV Festival latinoamericano de actividades escénicas con temáticas de género TEGE» (Fondo de Artes Escénicas 2024, Festivales y Encuentros Nacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «II Festival latinoamericano de actividades escénicas con temáticas de género» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Nacionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0128",
+  "nombre": "Rubén Darío Mercado Valdivieso",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Post grado de Magister en artes con mención en estudios y prácticas teatrales UC» (Fondo de Artes Escénicas 2024, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0129",
+  "nombre": "Vicente Leonardo Díaz Paillalef",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Financiamiento Magister en Artes, mención Practicas y Estudios Teatrales, Pontificia Universidad Católica de Chile» (Fondo de Artes Escénicas 2024, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0130",
+  "nombre": "Elias Cohen Braumuller",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0105",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Human Specific Performance. Perfeccionamiento performativo en Dinamarca.» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Coyote» (Fondo de Artes Escénicas 2023, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0131",
+  "nombre": "Valeska Alejandra Minchel Lisboa",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0105",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Formación intensiva en danza contemporánea Festival Deltebre Danza 2020» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Gran Comedor: Residencia en espacio patrimonial Ex Hotel Royal» (Fondo de Artes Escénicas 2023, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0132",
+  "nombre": "Lisseth Carolina Fuentes Cisternas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Especialización en el Método Alba Emoting Nivel Facilitadora» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0133",
+  "nombre": "Paula Alejandra Céspedes Vergara",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0105",
+   "FUE-0118"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Postgrado en Producción y gestión de espectáculos y festivales» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región). Responsable del proyecto «GESTA 6ta versión del Festival de artes escénicas de mujeres» (Fondo de Artes Escénicas 2023, Festivales y encuentros nacionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0134",
+  "nombre": "Circulo Teatral Independien Te Cti",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0107"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «\"31 Años de Resistencia y Creación Teatral: Plan de Gestión de la Compañía de Teatro Escuela IluCión para la Creación y Circulación de Montajes Escénicos\"» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0135",
+  "nombre": "Gabriel Nicolás Contreras Hernández",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0109",
+   "FUE-0117"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "PER-0221",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circulación Internacional La memoria de los sésiles, Astillero Teatro 2024.» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región). Responsable del proyecto «La memoria de los sésiles» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0136",
+  "nombre": "Enrique Ignacio Crohare Niño",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0110"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Un botón en mi cabeza gira Colombia 2024» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0137",
+  "nombre": "Gabriela Natalia Fernández Chang",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0110",
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circulación Internacional \"Cuentos que Unen\" camino a Buga 2024» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Circulación Internacional: Ciclo de Cuentos para la Igualdad: Vientos de Cuentos y Cuentos de Niñ@s Fantástic@s» (Fondo de Artes Escénicas 2022, Circulación de Montajes Escénicos - Formato Individual o Dúo - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0138",
+  "nombre": "Nicolás Da Fonseca",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0110"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Participación en festival Master Crew» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0139",
+  "nombre": "Christian Orlando Ortega Torres",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0111"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Ensayo sobre el ensayo —Divagaciones shakesperianas en torno al teatro, la vejez y la familia—» (Fondo de Artes Escénicas 2024, Trayectoria). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0140",
+  "nombre": "Paula Alejandra Sacur Muñoz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0112"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Fenómenx humanx» (Fondo de Artes Escénicas 2024, Única). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0141",
+  "nombre": "María Paz Pizarro Jara",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado en Teatro Aplicado» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0142",
+  "nombre": "Maureen Cecilia Guitart Maturana",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado de Extensión en Diseño Escénico» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0143",
+  "nombre": "María Cristina Alcaide Cepeda",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Formación y Certificación Método Alba Emoting» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0144",
+  "nombre": "Ivana Paz Urtubia Vargas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado en Dirección Escénica» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0145",
+  "nombre": "Francia Yandira Pacheco Westphal",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Especialización en Pedagogía Teatral modalidad presencial.» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0146",
+  "nombre": "Ulysis Abarquez Soza",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diplomado de Extensión en Dramaturgia» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0147",
+  "nombre": "Roberto Manuel Mancilla Cruz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Máster Universitario en Estudios Teatrales, Universidad Autónoma de Barcelona e Instituto del Teatro de Barcelona» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0148",
+  "nombre": "María Francisca Pérez Moraga",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Magister en Artes mención Estudios y Practicas Teatrales» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0149",
+  "nombre": "Roberto Abel Pino Sandoval",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Arte para la emergencia: El arte, la autonomía y el teatro en los procesos de contención y reparación del trauma social.» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0150",
+  "nombre": "Alvaro Recabarren Parodi",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Diseño y Construccion Escenografica - Mecánica Escenica» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0151",
+  "nombre": "Lucía Puime Vivas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0124",
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Camino Híbrido – Cursar el Magister en Antropologías Latinoamericanas de la UAH como complemento fundamental al estudio y la creación escénica con perspectiva territorial –» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Camino Híbrido – Cursar el Magister en Antropologías Latinoamericanas de la UAH como complemento fundamental al estudio y la creación escénica con perspectiva territorial –» (Fondo de Artes Escénicas 2022, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región). Responsable del proyecto «CRUZA Cuerpo y Territorio en Movimiento - Residencia Creativa junto a la artista Fer Piñeirúa en Uruguay» (Fondo de Artes Escénicas 2022, Participación en Instancias Internacionales - Formato Individual o Dúo - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0152",
+  "nombre": "Emilio Andrés Arriagada Cordero",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Máster en Dramaturgia» (Fondo de Artes Escénicas 2023, Becas Chile Crea - Fondo de Artes Escénicas). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0153",
+  "nombre": "Valeria Correa Rojas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Circulación del espectáculo Cuentos que me contó un pajarito en establecimientos educacionales y plazas de la cuarta, quinta y sexta región» (Fondo de Artes Escénicas 2023, Circulación de montajes escénicos). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0154",
+  "nombre": "Jenny Maribel Pino Madariaga",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Residencia de Creación Proyecto “Alterung”» (Fondo de Artes Escénicas 2023, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0155",
+  "nombre": "Manuela Paz Razeto Iglesias",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Residencia de Creación e Investigación de Lenguaje Sensorial en Centro Cultural Espacio Diana» (Fondo de Artes Escénicas 2023, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0156",
+  "nombre": "Josefina Díaz Honores",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La Invivible» (Fondo de Artes Escénicas 2023, Composición coreográfica). Comuna no indicada en la nómina (solo región). Responsable del proyecto «La invivible» (Fondo de Artes Escénicas 2022, Composición Escénica/Composición Coreográfica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0157",
+  "nombre": "Gonzalo Ignacio Olave Navarro",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Asamblea» (Fondo de Artes Escénicas 2023, Composición para narración oral). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Chalo te cuenta el cuento a la hora del té» (Fondo de Artes Escénicas 2023, Medios de difusión). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0158",
+  "nombre": "Virginia Marcela Silva Ponce",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Tejido de raíz» (Fondo de Artes Escénicas 2023, Composición para narración oral). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Tejido de raíz» (Fondo de Artes Escénicas 2022, Composición Escénica/Cuentos y/o Mecanismos para la Narración Oral). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0159",
+  "nombre": "Oscar Humberto Berrios Inostroza",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Creación dramaturgica de la obra \"testigo válido\"» (Fondo de Artes Escénicas 2023, Dramaturgia). Comuna no indicada en la nómina (solo región). Responsable del proyecto «El barniz del desierto» (Fondo de Artes Escénicas 2023, Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0160",
+  "nombre": "Sebastián Eduardo Ayala Alveal",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0120",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «El beso de amor eterno» (Fondo de Artes Escénicas 2023, Dramaturgia). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Agenda de internacionalización y apropiación de conocimiento en gestión, creación y producción en artes escénicas. Intercambio entre la Compañía Teatro a la Deriva de Valparaíso y Red Fábricas de Creación de Barcelona» (Fondo de Artes Escénicas 2023, Circulación Internacional). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Circulación Nacional montaje escénico transdisciplinar El fuego que llevamos dentro. Por la memoria de Nicole Saavedra Bahamondes.» (Fondo de Artes Escénicas 2022, Circulación Nacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0161",
+  "nombre": "Fernando Alberto Mena Rojas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Chileno» (Fondo de Artes Escénicas 2023, Dramaturgia). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Chileno» (Fondo de Artes Escénicas 2022, Composición Escénica/Dramaturgia). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0162",
+  "nombre": "Katherine Elizabeth Lopez Soto",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «INMOLAR» (Fondo de Artes Escénicas 2023, Dramaturgia). Comuna no indicada en la nómina (solo región). Responsable del proyecto «MIXTAS» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0163",
+  "nombre": "Miguel Angel Soto Echeverria",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «INSANIA» (Fondo de Artes Escénicas 2023, Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0164",
+  "nombre": "Claudia Andrea Bravo Bonulef",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «\"Historias para Imaginar\" : Cápsulas de Cuentacuentos para recintos de salud» (Fondo de Artes Escénicas 2023, NARRACIÓN ORAL). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Festival de Teatro en Villa Alemana: Escena en Riel» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0165",
+  "nombre": "Mónica Alejandra Álvarez Figueroa",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «\"El Empresario\" (W.A. Mozart) - Peripecias de un agente teatral en el Chile de hoy» (Fondo de Artes Escénicas 2023, Ópera). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0166",
+  "nombre": "Angela Paulina Sepulveda Rojas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La historia de una mujer que regaba su planta con una cuchara» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0167",
+  "nombre": "Alejandra Estrella Thayer Joui",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Alicia Morel y los reinos de la Tierra» (Fondo de Artes Escénicas 2023, Títeres). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Los Reinos de la Tierra (Centenario Alicia Morel)» (Fondo de Artes Escénicas 2022, Creación y Producción/Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0168",
+  "nombre": "Paola Alejandra Escudero Navia",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «A la Memoria de Carla korman» (Fondo de Artes Escénicas 2023, Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0169",
+  "nombre": "Luciana Gabriela Mosca Spinetto",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Partes y Piezas» (Fondo de Artes Escénicas 2023, Circo). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0170",
+  "nombre": "Ana Catherine Sagredo Núñez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La Ruta de La Quebrada. Relatos, Canciones y Recetas de una Comunidad» (Fondo de Artes Escénicas 2023, Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0171",
+  "nombre": "Paulina Bronfman Colovatti",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Prácticas escénicas y performativas como estrategia ecológica en Chile (2010-2021).» (Fondo de Artes Escénicas 2023, Investigación teórica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0172",
+  "nombre": "Daniela Paz Nuñez Gonzalez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Remontaje Obra Polución Diálogos con Pedro Lemebel Colectivo La Fuga» (Fondo de Artes Escénicas 2023, Remontajes escénicos). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0173",
+  "nombre": "Carlos Andrés Craig Sepulveds",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0124"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "PER-0072",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Programa de formación en artes escénicas, para personas mayores de la comunidad de Villa Alemana» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Programa de formación en artes escénicas, para personas mayores de la comunidad de Villa Alemana» (Fondo de Artes Escénicas 2022, Públicos y Comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0174",
+  "nombre": "Mariela Leonor Diaz Rivera",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «3ra Versión: Proceso formativo Comparsa de Figurines Zorritos manada de Puertas Negras.» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0175",
+  "nombre": "Natalia Francisca Silva Valenzuela",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0118",
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «SATORI: ENCUENTRO LABORATORIOS ESCÉNICOS VALPARAÍSO» (Fondo de Artes Escénicas 2023, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Residencia de creación KayaLab en LabPerm di Castaldo, Italia» (Fondo de Artes Escénicas 2022, Participación en Instancias Internacionales - Formato Grupal (3 o más participantes) - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0176",
+  "nombre": "Nathalia Denisse Mardones Subiabre",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0119"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Agenda de vinculación internacional para la Agrupación de Teatro e Investigación Otro Cuerpo: Consolidando nuestro proyecto binacional de Accesibilidad para las artes escénicas.» (Fondo de Artes Escénicas 2023, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0177",
+  "nombre": "Eliana Eugenia Huerta Pasten",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0120"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Corredor Danza Valparaíso, Gira USA y México. Afianzando Redes de Internacionalización para la Danza» (Fondo de Artes Escénicas 2023, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0178",
+  "nombre": "María José Farfal Díaz",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Formación Nivel Instructora en el Método de Alba Emoting» (Fondo de Artes Escénicas 2022, Becas de Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0179",
+  "nombre": "Ignacio Barrales Pizarro",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Estudios en el programa de Magíster en Teoría e Historia del Arte en la Universidad de Chile» (Fondo de Artes Escénicas 2022, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0180",
+  "nombre": "Ébana Garín Coronel",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Finalización de master en Teatro Universidad de las artes Amsterdam» (Fondo de Artes Escénicas 2022, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0181",
+  "nombre": "Jonathan Andrés Bórquez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Continuidad de estudios, 2º año (2022), Maestrìa Profesional en Danza Énfasis Formación Dancística, Escuela de Danza, Universidad Nacional de Costa Rica» (Fondo de Artes Escénicas 2022, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Salamandra, Diálogos in Memoriam...» (Fondo de Artes Escénicas 2022, Creación y Producción/Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0182",
+  "nombre": "Nicolás José Eyzaguirre Bravo",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Master en Proyectos Culturales en el Espacio Público. Paris 1» (Fondo de Artes Escénicas 2022, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0183",
+  "nombre": "Allyson Marjorie Muñoz Palma",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Máster en Psicodrama Psicoanalítico para la aplicación del psicodrama como herramienta metodológica y terapéutica dentro del aula enfocada en NNA (niños, niñas y adolescentes) de Educación Básica de la comuna de Quintero, región de Valparaíso.» (Fondo de Artes Escénicas 2022, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0184",
+  "nombre": "Daffne Andrea Valdés Vargas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Resistencia o la reivindicación de un derecho colectivo» (Fondo de Artes Escénicas 2022, Circulación Nacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0185",
+  "nombre": "Fabiola Stefany Díaz Romero",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «AMA DE EXTREMO A EXTREMO CIRCULACIÓN ONLINE» (Fondo de Artes Escénicas 2022, Circulación Nacional). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0186",
+  "nombre": "Maríajosé Razon Valencia",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Escritura de obra dramática \"La familia Reor\"» (Fondo de Artes Escénicas 2022, Composición Escénica/Dramaturgia). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0187",
+  "nombre": "Bruce George Malcolm Gibbons Fell",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Proyecto de Escritura de obra DOS PAREJAS GRITÁNDOSE EN UN LIVING COMEDOR» (Fondo de Artes Escénicas 2022, Composición Escénica/Dramaturgia). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0188",
+  "nombre": "Miguel Antonio Farías Vásquez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Rosita - vodevil en dos actos» (Fondo de Artes Escénicas 2022, Composición Escénica/Composición de Ópera). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Ópera contemporánea: Lo político como elemento constitutivo en óperas chilenas y argentinas post- dictadura.» (Fondo de Artes Escénicas 2022, Investigación Teórica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0189",
+  "nombre": "Sandra Rojas Farías",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Gorrión» (Fondo de Artes Escénicas 2022, Composición Escénica / Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0190",
+  "nombre": "Enoe Caroline Coulon Dendal",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «ANDERSEN + LORCA o cómo ir hilvanando un cuento con retazos de poemas» (Fondo de Artes Escénicas 2022, Residencias de Creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0191",
+  "nombre": "Juan Esteban Meza Cartes",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Residencia Quásar: Materialidad vocal y corporalidad sonora» (Fondo de Artes Escénicas 2022, Residencias de Creación). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0192",
+  "nombre": "Bárbara Andrea Pestan Florás",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Terrapolis» (Fondo de Artes Escénicas 2022, Creación y Producción/Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0193",
+  "nombre": "Waleska Arleth Vilches Valdivia",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Nativos Polinizadores, Espectáculo callejero con Títeres de gran Formato» (Fondo de Artes Escénicas 2022, Creación y Producción/Títeres). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0194",
+  "nombre": "Camilo Andres Romero Rojas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Clowntra todos espectáculo clown con adultos mayores, basado en Macbeth de William Shakespeare» (Fondo de Artes Escénicas 2022, Creación y Producción /Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0195",
+  "nombre": "Danilo Patricio Llanos Quezada",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «\"FIN; último episodio Trilogía de la Catástrofe\"» (Fondo de Artes Escénicas 2022, Trayectoria/Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0196",
+  "nombre": "Enrique Alejandro Saldes Aliaga",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «LA CASA TRANSPARENTE (O LOS SUEÑOS DEL HABITANTE)» (Fondo de Artes Escénicas 2022, Trayectoria/Danza). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0197",
+  "nombre": "Vanesa Andrea Torres Pita",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Actos Impuros: Proyecto interdisciplinar a partir de la obra de Pier Paolo Pasolini, en el año de su centenario.» (Fondo de Artes Escénicas 2022, Trayectoria/ Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0198",
+  "nombre": "Camila Cristina Landon Vío",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «desHIELO» (Fondo de Artes Escénicas 2022, Trayectoria/ Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0199",
+  "nombre": "Myriam Elizabeth Chavez Gonzalez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Únete al Baile! (...de las que sobran) Transdisciplinas para la Libertad.» (Fondo de Artes Escénicas 2022, Trayectoria/ Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0200",
+  "nombre": "Abril Alejandra Sandoval Espinoza",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «La infancia es la casa que habitaremos para siempre.» (Fondo de Artes Escénicas 2022, Producción de Montajes Escénicos). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0201",
+  "nombre": "Christian David Oyarzún Navarrete",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Remontaje Mujer de Preñez Húngara 2022» (Fondo de Artes Escénicas 2022, Remontajes Escénicos). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0202",
+  "nombre": "María Angélica Luzzi Olsen",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Remontaje Obra de Teatro EL ABISMO DE LOS PÁJAROS» (Fondo de Artes Escénicas 2022, Remontajes Escénicos). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0203",
+  "nombre": "Jorge Antonio Espinoza Galindo",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Primer Programa Anual de Formación Regional en Diseño Escénico para la Macro Zona Centro» (Fondo de Artes Escénicas 2022, Profesionalización del Sector). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0204",
+  "nombre": "Elena Lucas Acero",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «FAM Formación en Artes del Movimiento I Edición La anormalidad de los anormales» (Fondo de Artes Escénicas 2022, Profesionalización del Sector). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0205",
+  "nombre": "Romina Andrea Simon Gómez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «VOCES DOCENTES: Programa formación vocal técnica y expresiva para educadoras y educadores de párvulos» (Fondo de Artes Escénicas 2022, Públicos y Comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0206",
+  "nombre": "Daniela Ida Álvarez López",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «ENTRAR EN LA DANZA - Programa de Corredor Danza Valparaíso para la formación y sensibilización de públicos en danza contemporánea.» (Fondo de Artes Escénicas 2022, Públicos y Comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0207",
+  "nombre": "constanza paz castillo montroni",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Taller virtual de arte teatral para personas mayores. Juego teatral digital 60+.» (Fondo de Artes Escénicas 2022, Públicos y Comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0208",
+  "nombre": "Ricardo adrian Delgado Celis",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Taller de Tango Terapia» (Fondo de Artes Escénicas 2022, Públicos y Comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0209",
+  "nombre": "Vanessa Francisca Salas Pando",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Memoria y Territorio: Teatro autobiográfico para adultos mayores en Villa Alemana» (Fondo de Artes Escénicas 2022, Públicos y Comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0210",
+  "nombre": "Amanda Adelaida Borgoño Infante",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Primer Festival de Dramaturgia de Mujeres Porteñas ¡DEJA TU DRAMA VOLAR! Mujeres Creando Teatro, Valparaíso 2022» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0211",
+  "nombre": "Mariela Soledad Laterra",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «ENCUENTRO LABORATORIOS ESCÉNICOS VALPARAÍSO» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0212",
+  "nombre": "El Pueblo de Piuretlandia",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Primer Encuentro de Artes Escénicas e Inclusión Inversa de Valparaíso - Chile 2022» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Regionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0213",
+  "nombre": "Claudio Omar Rodríguez Espinoza",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «GÓMEZ de Diamela Eltit en Gira por Colombia» (Fondo de Artes Escénicas 2022, Circulación de Montajes Escénicos - Formato Grupal (3 o más participantes) - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0214",
+  "nombre": "Camila Antonia Guggiana Stuparich",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Hijo Pródigo en Buenos Aires» (Fondo de Artes Escénicas 2022, Circulación de Montajes Escénicos - Formato Grupal (3 o más participantes) - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0215",
+  "nombre": "Zimri Bani Orellana Rojas",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Creación performática y soluciones de accesibilidad para las artes vivas: Residencia Internacional de Otro Cuerpo en Guadalajara México» (Fondo de Artes Escénicas 2022, Participación en Instancias Internacionales - Formato Grupal (3 o más participantes) - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0216",
+  "nombre": "Andrés del Bosque",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0075"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Figura como Oscar Andrés González Bosque en la nómina 2025 ('La Nave de los locos, locOnas y Alacalufes'); la prensa lo nombra Andrés Del Bosque como director de Circo Ancestral."
+ },
+ {
+  "id": "PER-0217",
+  "nombre": "Ingrid Flores Mondaca",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [
+   "OBR-0045"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0218",
+  "nombre": "Diamela Eltit (texto)",
+  "roles": [
+   "Dramaturgo/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0219",
+  "nombre": "Myriam Espinoza Vergara",
+  "roles": [
+   "Actor/actriz",
+   "Director/a"
+  ],
+  "companias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "Actriz y directora porteña con 50 años dedicados al teatro social en Valparaíso, según el proyecto de archivos escénicos de la Universidad de Valparaíso (Fondo de Artes Escénicas 2023).",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0220",
+  "nombre": "Verónica Sentis Herrmann",
+  "roles": [
+   "Investigador/a",
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "Investigadora teatral; responsable de la plataforma historiadelteatroenvalparaiso.cl (actualización 2025) y de la investigación 'Descorriendo tupidos velos: cartografía teatral de directoras porteñas en el siglo XXI' (2022).",
+  "instagram": null,
+  "web": "https://historiadelteatroenvalparaiso.cl/",
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0124",
+   "FUE-0135"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Actualización y rediseño plataforma digital sobre teatro de Valparaíso www.historiadelteatro envalparaiso.cl» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Descorriendo tupidos velos: cartografía teatral de directoras porteñas en el siglo XXI» (Fondo de Artes Escénicas 2022, Investigación Teórica). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0221",
+  "nombre": "Gabriel Contreras Hernández",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [
+   "COMP-0040"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0109"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable de 'La memoria de los sésiles' (2023) y su circulación internacional con Astillero Teatro (2024). Responsable del proyecto «Circulación Internacional La memoria de los sésiles, Astillero Teatro 2024.» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región). Responsable del proyecto «La memoria de los sésiles» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "PER-0222",
+  "nombre": "Zenith Navarrete Ruiz",
+  "roles": [
+   "Narrador/a oral"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0109",
+   "FUE-0098",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Figura como Zenith Claudia Navarrete Ruiz: 'Memorias en tren' (2022, 2024, 2026), 'Secretos de mujeres' (2025), 'Cuéntame de Valparaíso Bohemio' (2026), técnicas teatrales para la narración oral escénica (2024)."
+ },
+ {
+  "id": "PER-0223",
+  "nombre": "Sebastián Ayala Alveal",
+  "roles": [
+   "Dramaturgo/a",
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [
+   "COMP-0080"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0120",
+   "FUE-0124"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Figura como Sebastián Eduardo Ayala Alveal: dramaturgia 'El beso de amor eterno' (2023), intercambio Teatro a la Deriva–Barcelona (2023), circulación 'El fuego que llevamos dentro' (2022)."
+ },
+ {
+  "id": "PER-0224",
+  "nombre": "Diego Chamorro Ramírez",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [
+   "COMP-0006"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0098"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Figura como Diego Sebastián Chamorro Ramírez: 'Gira de Llo Lle We' (2023) y 'Huidobro Viene Navegando + Registro' (2025)."
+ },
+ {
+  "id": "PER-0225",
+  "nombre": "Carlos Muñoz Rivera",
+  "roles": [
+   "Responsable de proyecto (Fondos Cultura)"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Figura como Carlos Andrés Muñoz Rivera: residencia 'Trashumantes, en la búsqueda de nuevos caminos creativos' (2025, folio 749091, $9.815.578)."
+ },
+ {
+  "id": "PER-0226",
+  "nombre": "Bárbara Pestan",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0100"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0144",
+   "FUE-0145"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0227",
+  "nombre": "Horacio Videla",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0108"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0158"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0228",
+  "nombre": "Ivo Herrera",
+  "roles": [
+   "Director/a",
+   "Dramaturgo/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [
+   "OBR-0101"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0159"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0229",
+  "nombre": "Gonzalo Pinto",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [
+   "OBR-0103"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0161"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0230",
+  "nombre": "Alonso Machuca",
+  "roles": [
+   "Diseñador/a escénico"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0159"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Diseño integral de 'El motín contra Portales' (2025)."
+ },
+ {
+  "id": "PER-0231",
+  "nombre": "Pablo Valencia",
+  "roles": [
+   "Docente de voz escénica"
+  ],
+  "companias": [],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0160"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Dirigió el seminario 'Voz para la escena teatral' del Taller Municipal de Teatro de Quillota (septiembre de 2025)."
+ },
+ {
+  "id": "PER-0232",
+  "nombre": "Diego Belmar",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0050"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Dirigió 'Voces por la memoria' (Festival Litoral Teatral 2024)."
+ },
+ {
+  "id": "PER-0233",
+  "nombre": "Nina Legrand",
+  "roles": [
+   "Director/a",
+   "Titiritero/a",
+   "Narrador/a oral",
+   "Arteterapeuta comunitaria"
+  ],
+  "companias": [
+   "COMP-0086"
+  ],
+  "comuna": "san-felipe",
+  "provincia": "san-felipe-de-aconcagua",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "'Ninatitiricuenta': titiritera, cuentacuentos y arteterapeuta comunitaria con más de dos décadas de trabajo en el Valle del Aconcagua; títeres tipo muppet, teatro de objetos, máscaras y lambe lambe; talleres y mediación lectora en escuelas y comunidades.",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0169"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0234",
+  "nombre": "Felipe Zambrano Miguieles",
+  "roles": [
+   "Director/a",
+   "Dramaturgo/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [
+   "OBR-0114"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0179"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0235",
+  "nombre": "Gustavo Meza",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [
+   "OBR-0116"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0236",
+  "nombre": "Julieta Saavedra",
+  "roles": [
+   "Director/a",
+   "Dramaturgo/a",
+   "Actor/actriz",
+   "Narrador/a oral"
+  ],
+  "companias": [
+   "COMP-0076"
+  ],
+  "comuna": "villa-alemana",
+  "provincia": "marga-marga",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "Dramaturga y narradora residente en Villa Alemana; conduce el taller 'Cuentos que nacen del alma' con personas mayores de la Provincia de Marga Marga; 'El tiempo no espera' (2025) es su primera obra de gran formato, financiada por el Fondo de Artes Escénicas 2025.",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0171",
+   "FUE-0172"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0237",
+  "nombre": "Juan Toro",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0123"
+  ],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0174"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0238",
+  "nombre": "Pita Torres",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [
+   "OBR-0128"
+  ],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0239",
+  "nombre": "Gabriela Fernández Chan",
+  "roles": [
+   "Actor/actriz",
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0076"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0171"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Actriz y directora de teatro peruana; elenco de 'El tiempo no espera' (2025). Figura como Gabriela Natalia Fernández Chang en nóminas de Fondos Cultura (narración oral)."
+ },
+ {
+  "id": "PER-0240",
+  "nombre": "Natalia Zúñiga",
+  "roles": [
+   "Actor/actriz"
+  ],
+  "companias": [
+   "COMP-0018"
+  ],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0174"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Integrante de Teatro Ánima según Ivo Herrera (2019)."
+ },
+ {
+  "id": "PER-0241",
+  "nombre": "Rodolfo Bravo",
+  "roles": [
+   "Actor/actriz",
+   "Docente de teatro"
+  ],
+  "companias": [],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": "Actor y profesor formador quillotano (años 1920–2001) según Ivo Herrera; el teatro del Centro Cultural Leopoldo Silva Reynoard lleva su nombre.",
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0174"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "PER-0242",
+  "nombre": "Rodolfo Godoy",
+  "roles": [
+   "Docente de teatro"
+  ],
+  "companias": [],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0174"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Profesor del taller de teatro del Colegio Nuestra Señora del Huerto desde los años 60 (Ivo Herrera, 2019)."
+ },
+ {
+  "id": "PER-0243",
+  "nombre": "Carolina Cifras",
+  "roles": [
+   "Coreógrafo/a",
+   "Bailarín/a"
+  ],
+  "companias": [],
+  "comuna": "limache",
+  "provincia": "marga-marga",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Artista de danza de Limache; 'FUSIS' en el Mes del Teatro 2022."
+ },
+ {
+  "id": "PER-0244",
+  "nombre": "Aníbal Gaete",
+  "roles": [
+   "Actor/actriz"
+  ],
+  "companias": [],
+  "comuna": "olmue",
+  "provincia": "marga-marga",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Musical 'Cabaret' en el Mes del Teatro 2022 (Olmué según la nota ministerial)."
+ },
+ {
+  "id": "PER-0245",
+  "nombre": "Claudio Rodríguez",
+  "roles": [
+   "Director/a"
+  ],
+  "companias": [
+   "COMP-0124"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0177",
+   "FUE-0176"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Director de Laboratorio Anatomía Teatral y del Festival Síntesis Teatral."
+ },
+ {
+  "id": "PER-0246",
+  "nombre": "Omar Saavedra",
+  "roles": [
+   "Dramaturgo/a"
+  ],
+  "companias": [],
+  "comuna": null,
+  "provincia": null,
+  "obras_dirigidas": [],
+  "formacion": null,
+  "trayectoria": null,
+  "instagram": null,
+  "web": null,
+  "fuentes": [
+   "FUE-0176"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Ella & Ella' (2018), repuesta en el Festival Síntesis Teatral 2019."
+ }
+]

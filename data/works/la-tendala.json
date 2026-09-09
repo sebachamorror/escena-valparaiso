@@ -1,0 +1,50 @@
+{
+  "slug": "la-tendala",
+  "type": "work",
+  "title": "La Tendalá",
+  "authorship": null,
+  "direction": null,
+  "companies": [
+    "cooperativa-de-artes-escenicas-de-valparaiso"
+  ],
+  "credits": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": null,
+  "communes": [
+    "san-antonio"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/3077-destacadas-obras-trae-a-san-antonio-el-festival-litoral-teatral-2026",
+      "title": "Destacadas obras trae a San Antonio el Festival Litoral Teatral 2026",
+      "publisher": "Centro Cultural San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma 13 compañías, 12 espectáculos y las funciones del 19, 25 y 26 de abril de 2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

@@ -1,0 +1,1605 @@
+{
+ "capa": 5,
+ "consulta": "Q-0061",
+ "resumen": "Fondo de Artes Escénicas 2026: 68 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2026-fondo-de-artes-escenicas-enero-2026",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2026/01/seleccionados-aaee-2026-enero.pdf",
+   "titulo": "Nóminas de seleccionados Fondo de Artes Escénicas 2026 (líneas Creación Escénica, Montajes, Circulación Nacional, Difusión Digital, Equipamiento, Investigación, Programas Formativos)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Organizacion Comunitaria Artistica Cultural y Educativa la Washa",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «“El Chungungo y la Voz del Mar”» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Puerto Escena SPA",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Red Salas de Teatro Valparaíso» (Fondo de Artes Escénicas 2026, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Actividades Teatrales Yorka Ojeda Banz E.i.r.l.",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Premio Telón a las Artes Escénicas Nacionales» (Fondo de Artes Escénicas 2026, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Compañia El Baúl",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Equipar la Memoria Viva: 32 Años del Baúl y su Proyección Técnica para el Teatro del Mañana» (Fondo de Artes Escénicas 2026, Compañías de las Artes Escénicas). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Teatro la Lancha Spa",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Equipamiento profesional para la escena itinerante - La Lancha, Teatro y Patrimonio» (Fondo de Artes Escénicas 2026, Compañías de las Artes Escénicas). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Colectivo interdisciplinario Musgo",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Ensamble Vocal Comunitario: Quinta versión» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Cooperativa Corredor Danza Valparaíso Ltda.",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Entremos en Movimiento Programa de Corredor Danza Valparíso para la formación y sensibilización de públicos en danza contemporánea» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Carina Victoria Aspillaga Bórquez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Residencia para la creación de S.O.M.A: acciones mínimas para no somatizar» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Roberto Nicolás Arellano Acuña",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «HERRAMIENTAS DE SERVICIO; UNA ODA A LA VOCACIÓN CULINARIA» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Marcela Ursula Rendic Parera",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Experimento nº 4: Parpadeo. Intrucciones para aparecer en la oscuridad» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Javiera De Luna Vilches Suárez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Antípodas de Valparaíso» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Francisca Victoria del Rosario Vargas Barraza",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «MARÍTIMA: Residencia de lo inasible. Ondas que se mueven, (re)suenan y hablan.» (Fondo de Artes Escénicas 2026, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Kjesed Ana Victoria Faundes Encina",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Memorias de un naufragio» (Fondo de Artes Escénicas 2026, Composición escénica/ Dramaturgia). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Felipe Arturo Lira Araya",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «La Marioneta de Dios» (Fondo de Artes Escénicas 2026, Composición escénica/ Composición coreográfica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Jairo Alejandro Urtubia Mendoza",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Tensiones coreográficas» (Fondo de Artes Escénicas 2026, Composición escénica/ Composición coreográfica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Nicol Andrea Sánchez Santis",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «IN TENSIÒN» (Fondo de Artes Escénicas 2026, Composición escénica/ Composición coreográfica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Roberto Andrés González Oxa",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Tito Lastarria» (Fondo de Artes Escénicas 2026, Composición escénica/ Actos y rutinas circenses). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Claudio Nicolás Lazcano Pozo",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Décimas por Travesura en Valparaíso, Laguna Verde, Placilla y Viña del Mar.» (Fondo de Artes Escénicas 2026, Composición escénica / Composición para narración oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Pablo Andrés Olivares Dubart",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «La Odisea desde Odiseo» (Fondo de Artes Escénicas 2026, Composición escénica / Composición para narración oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Anaí Valentina Núñez Riveros",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «YinYang» (Fondo de Artes Escénicas 2026, Composición escénica / Guión, diseño y/o construcción de títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Tomás Fernando Vidal Castañón",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Creación de caja lambe lambe Miguelina y el faro de extrañezas.» (Fondo de Artes Escénicas 2026, Composición escénica / Guión, diseño y/o construcción de títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Gabriel Alejandro Castro Barra",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «“Atahualpa, el último canto del Sol”» (Fondo de Artes Escénicas 2026, Composición escénica / Guión, diseño y/o construcción de títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Se-Rok Park",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Diasporica» (Fondo de Artes Escénicas 2026, Composición escénica / Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Cecilia Belén Céspedes Concha",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «De tal Pelo, tal Astilla. Obra Interdisciplinaria» (Fondo de Artes Escénicas 2026, Composición escénica / Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Elier Elizabeth Arana Rojas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Creación de Cuentos Sensoriales para la Infancia, \"Entre Solsticios y Equinoccios\"» (Fondo de Artes Escénicas 2026, Composición escénica / Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "José Antonio Soto Luer",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «La cuna de fuego: Montaje escénico por Palestina» (Fondo de Artes Escénicas 2026, Teatro). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Verónica Isabel González Becerra",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Puesta en escena BÉSAME MACHO. Mujeres Infinitas» (Fondo de Artes Escénicas 2026, Teatro). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "daniela alondra trincado muñoz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «VALPO RIAL» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Javiera Inés Walker Alarcón",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Creación y Producción de la obra de danza contemporánea MUDANZA» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Laura Cristina Corona Espinoza",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «EL MIMBRAL. Cuento danzado para la infancia» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Paz Carolina Varas Pérez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Creación y producción de la obra de Danza Contemporanea E.P.O.C. Entidad Poderosa de Orden y Control» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Mariela Carla Peralta Ferroni",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «PROYECTO DE CREACIÓN Y PRODUCCIÓN DE LA OBRA DE DANZA CONTEMPORÁNEA : CORPUS SENSORIAL» (Fondo de Artes Escénicas 2026, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Ingrid Alejandra Flores Mondaca",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Más allá de las ruinas, un espectáculo de ciencia ficción dirigido por Ingrid Flores Moncada» (Fondo de Artes Escénicas 2026, Circo). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Viviana De lourdes Hernandez Silva",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «El niño y los sortilegios de M. Ravel - Fantasía lirica en clave de fabula.» (Fondo de Artes Escénicas 2026, Ópera). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Zenith Claudia Navarrete Ruiz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Cuéntame de Valparaíso Bohemio.» (Fondo de Artes Escénicas 2026, Narración Oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Priscila Marlene Figueroa Uribe",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Kamishibai Itinerante, cuentacuentos sonoro para promover nuestra identidad del valle a la ciudad» (Fondo de Artes Escénicas 2026, Narración Oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Magda Raquel Sánchez Martínez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Cuentos del mundo: Historias que viajan» (Fondo de Artes Escénicas 2026, Narración Oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Jasson Guillermo Guaico Nuñez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «NIÑO ZOMBIE y el oráculo personal.» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Eric Estrada Vega",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «\"El viaje de Mamadú\" Un encuentro con la raíz en el sur del mundo» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Sebastián Fernando Farah Rodríguez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «VIDA Y HAZAÑAS DEL SEÑOR ERIK SATIE, FONOMETRÓGRAFO» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "René Leonardo Rojas Escalona",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Un marciano en Júpiter creación y producción de obra de teatro de marionetas por la diversidad y la inclusión social» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Daniel Alexis Silva Escobar",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «El Piuchén de Paihuén: Miniatura escénica del misterio campesino.» (Fondo de Artes Escénicas 2026, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Stefanis Magdalena Duarte Pinto",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «VACIO. Tercera parte de la trilogía de la distancia.» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Olinda Inés Melchor Lara",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «“Con la cabeza en las nubes”, obra teatral en formato distendido pensado en todas las infancias» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Eduardo Nicolás Cancino Said",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Derrumbe: La piedra que supo que antes fue estrella.» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Milca Nicole Galea Robles",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «La Cultura de la Orilla» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "José Antonio Soto Luer",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Circulación Pulso de un hombre homosexual latinoamericano» (Fondo de Artes Escénicas 2026, Grupo A). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Zenith Claudia Navarrete Ruiz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Memorias en Tren: Lo que me han contado» (Fondo de Artes Escénicas 2026, Grupo A). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Alexandra Mabes Villegas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Circulación Nacional Cu/ cuerpo infinito» (Fondo de Artes Escénicas 2026, Grupo A). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Patricio Alejandro Nuñez rojas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «\"Tripulación Paraíso, abriendo horizontes, Circulación Esperanza\"» (Fondo de Artes Escénicas 2026, Grupo B). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Nicole Constanza Rencoret Torres",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Encuentro cultural con la comunidad. Itinerancia teatral por la región de OHiggins y del Maule» (Fondo de Artes Escénicas 2026, Grupo B). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Sara Sophia Cecchetto Schmidlin",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Circulación de montaje de narración oral \"Cuentos de Verde y Mar\"» (Fondo de Artes Escénicas 2026, Grupo B). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Ruby Camila Parraguez Padilla",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Memorias de la danza escénica en la región de Valparaíso: Por una historia de la danza regional, 1973- 2025» (Fondo de Artes Escénicas 2026, Investigación teórica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Valentina Fuentes Durán",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «VOCES ESCÉNICAS: programa de perfeccionamiento vocal para artistas escénicos» (Fondo de Artes Escénicas 2026, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Paloma Gabriela Molina Fuentealba",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Tejiendo Identidades: Marionetas del Mar y la Tierra» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Alexandra Catalina Farías Aguirre",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «Programa Formativo “Saberes Futuro: prácticas escénicas para socias/os del Centro de Quilpué de la Unión Nacional y vecinas/os de El Retiro y El Sol”.» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Pablo Ignacio Abarca Carrazana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable del proyecto «ENAES: 3era Escuela de Artes Escénicas para la Comunidad Sorda» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Residencia para la creación de S.O.M.A: acciones mínimas para no somatizar",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2026,
+   "folio": "827878",
+   "monto": 9915832,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Carina Victoria Aspillaga Bórquez. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Carina Victoria Aspillaga Bórquez"
+  },
+  {
+   "proyecto": "HERRAMIENTAS DE SERVICIO; UNA ODA A LA VOCACIÓN CULINARIA",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2026,
+   "folio": "835135",
+   "monto": 9568167,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Roberto Nicolás Arellano Acuña. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Roberto Nicolás Arellano Acuña"
+  },
+  {
+   "proyecto": "Experimento nº 4: Parpadeo. Intrucciones para aparecer en la oscuridad",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2026,
+   "folio": "823427",
+   "monto": 9036937,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Marcela Ursula Rendic Parera. Página 3 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Marcela Ursula Rendic Parera"
+  },
+  {
+   "proyecto": "Antípodas de Valparaíso",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2026,
+   "folio": "835307",
+   "monto": 5931992,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Javiera De Luna Vilches Suárez. Página 3 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Javiera De Luna Vilches Suárez"
+  },
+  {
+   "proyecto": "MARÍTIMA: Residencia de lo inasible. Ondas que se mueven, (re)suenan y hablan.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2026,
+   "folio": "835569",
+   "monto": 9870009,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Francisca Victoria del Rosario Vargas Barraza. Página 3 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Francisca Victoria del Rosario Vargas Barraza"
+  },
+  {
+   "proyecto": "Memorias de un naufragio",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Dramaturgia",
+   "anio": 2026,
+   "folio": "833134",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Kjesed Ana Victoria Faundes Encina. Página 4 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Kjesed Ana Victoria Faundes Encina"
+  },
+  {
+   "proyecto": "El último otoño",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Dramaturgia",
+   "anio": 2026,
+   "folio": "837787",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "Hoy Tocan Las Gallinas Clandestinas",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Dramaturgia",
+   "anio": 2026,
+   "folio": "822825",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "La Marioneta de Dios",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2026,
+   "folio": "818801",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Felipe Arturo Lira Araya. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Felipe Arturo Lira Araya"
+  },
+  {
+   "proyecto": "Tensiones coreográficas",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2026,
+   "folio": "830831",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Jairo Alejandro Urtubia Mendoza. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Jairo Alejandro Urtubia Mendoza"
+  },
+  {
+   "proyecto": "IN TENSIÒN",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2026,
+   "folio": "840445",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Nicol Andrea Sánchez Santis. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Nicol Andrea Sánchez Santis"
+  },
+  {
+   "proyecto": "\"Práctica escénica contra la pedagogía del poder\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2026,
+   "folio": "812964",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 7 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "Purrún",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2026,
+   "folio": "837894",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 7 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "Tito Lastarria",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Actos y rutinas circenses",
+   "anio": 2026,
+   "folio": "840897",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Roberto Andrés González Oxa. Página 7 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Roberto Andrés González Oxa"
+  },
+  {
+   "proyecto": "Pulsando Lo Humano",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Actos y rutinas circenses",
+   "anio": 2026,
+   "folio": "823033",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "Décimas por Travesura en Valparaíso, Laguna Verde, Placilla y Viña del Mar.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Composición para narración oral",
+   "anio": 2026,
+   "folio": "837771",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Claudio Nicolás Lazcano Pozo. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Claudio Nicolás Lazcano Pozo"
+  },
+  {
+   "proyecto": "La Odisea desde Odiseo",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Composición para narración oral",
+   "anio": 2026,
+   "folio": "841668",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Pablo Andrés Olivares Dubart. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pablo Andrés Olivares Dubart"
+  },
+  {
+   "proyecto": "Los sonidos que imagino: obra de narración oral con Lengua de Señas Chilena",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Composición para narración oral",
+   "anio": 2026,
+   "folio": "839880",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "YinYang",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Guión, diseño y/o construcción de títeres",
+   "anio": 2026,
+   "folio": "814899",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Anaí Valentina Núñez Riveros. Página 10 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Anaí Valentina Núñez Riveros"
+  },
+  {
+   "proyecto": "Creación de caja lambe lambe Miguelina y el faro de extrañezas.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Guión, diseño y/o construcción de títeres",
+   "anio": 2026,
+   "folio": "835076",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Tomás Fernando Vidal Castañón. Página 10 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Tomás Fernando Vidal Castañón"
+  },
+  {
+   "proyecto": "“Atahualpa, el último canto del Sol”",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Guión, diseño y/o construcción de títeres",
+   "anio": 2026,
+   "folio": "825213",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Gabriel Alejandro Castro Barra. Página 10 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Gabriel Alejandro Castro Barra"
+  },
+  {
+   "proyecto": "Diasporica",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Interdisciplinar",
+   "anio": 2026,
+   "folio": "813861",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Se-Rok Park Park. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Se-Rok Park"
+  },
+  {
+   "proyecto": "De tal Pelo, tal Astilla. Obra Interdisciplinaria",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Interdisciplinar",
+   "anio": 2026,
+   "folio": "829408",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Cecilia Belén Céspedes Concha. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Cecilia Belén Céspedes Concha"
+  },
+  {
+   "proyecto": "Creación de Cuentos Sensoriales para la Infancia, \"Entre Solsticios y Equinoccios\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Interdisciplinar",
+   "anio": 2026,
+   "folio": "839662",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Elier Elizabeth Arana Rojas. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Elier Elizabeth Arana Rojas"
+  },
+  {
+   "proyecto": "Creación interdisciplinar - Bajo el reflector serán las sombras iluminadas-",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Interdisciplinar",
+   "anio": 2026,
+   "folio": "839793",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "Almorzart, artistas a la carta",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Interdisciplinar",
+   "anio": 2026,
+   "folio": "834793",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 12 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "KUNOICHIS. Mujeres Ninja.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica / Interdisciplinar",
+   "anio": 2026,
+   "folio": "837644",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: No aplica / anónimo. Página 12 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica / anónimo"
+  },
+  {
+   "proyecto": "La cuna de fuego: Montaje escénico por Palestina",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Teatro",
+   "anio": 2026,
+   "folio": "806111",
+   "monto": 28799944,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: José Antonio Soto Luer. Página 13 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "José Antonio Soto Luer"
+  },
+  {
+   "proyecto": "Puesta en escena BÉSAME MACHO. Mujeres Infinitas",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Teatro",
+   "anio": 2026,
+   "folio": "808259",
+   "monto": 16453509,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Verónica Isabel González Becerra. Página 14 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Verónica Isabel González Becerra"
+  },
+  {
+   "proyecto": "VALPO RIAL",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2026,
+   "folio": "821310",
+   "monto": 24451000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: daniela alondra trincado muñoz. Página 16 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "daniela alondra trincado muñoz"
+  },
+  {
+   "proyecto": "Creación y Producción de la obra de danza contemporánea MUDANZA",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2026,
+   "folio": "826631",
+   "monto": 24671182,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Javiera Inés Walker Alarcón. Página 16 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Javiera Inés Walker Alarcón"
+  },
+  {
+   "proyecto": "EL MIMBRAL. Cuento danzado para la infancia",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2026,
+   "folio": "820313",
+   "monto": 29111864,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Laura Cristina Corona Espinoza. Página 18 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Laura Cristina Corona Espinoza"
+  },
+  {
+   "proyecto": "Creación y producción de la obra de Danza Contemporanea E.P.O.C. Entidad Poderosa de Orden y Control",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2026,
+   "folio": "817410",
+   "monto": 29871515,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Paz Carolina Varas Pérez. Página 18 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paz Carolina Varas Pérez"
+  },
+  {
+   "proyecto": "PROYECTO DE CREACIÓN Y PRODUCCIÓN DE LA OBRA DE DANZA CONTEMPORÁNEA : CORPUS SENSORIAL",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2026,
+   "folio": "813131",
+   "monto": 28617375,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Mariela Carla Peralta Ferroni. Página 18 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Mariela Carla Peralta Ferroni"
+  },
+  {
+   "proyecto": "Más allá de las ruinas, un espectáculo de ciencia ficción dirigido por Ingrid Flores Moncada",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circo",
+   "anio": 2026,
+   "folio": "817256",
+   "monto": 29999999,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Ingrid Alejandra Flores Mondaca. Página 19 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Ingrid Alejandra Flores Mondaca"
+  },
+  {
+   "proyecto": "El niño y los sortilegios de M. Ravel - Fantasía lirica en clave de fabula.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Ópera",
+   "anio": 2026,
+   "folio": "823492",
+   "monto": 32200044,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Viviana De lourdes Hernandez Silva. Página 21 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Viviana De lourdes Hernandez Silva"
+  },
+  {
+   "proyecto": "Cuéntame de Valparaíso Bohemio.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Narración Oral",
+   "anio": 2026,
+   "folio": "812385",
+   "monto": 14347713,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Zenith Claudia Navarrete Ruiz. Página 22 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Zenith Claudia Navarrete Ruiz"
+  },
+  {
+   "proyecto": "Kamishibai Itinerante, cuentacuentos sonoro para promover nuestra identidad del valle a la ciudad",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Narración Oral",
+   "anio": 2026,
+   "folio": "819597",
+   "monto": 14954874,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Priscila Marlene Figueroa Uribe. Página 22 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Priscila Marlene Figueroa Uribe"
+  },
+  {
+   "proyecto": "Cuentos del mundo: Historias que viajan",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Narración Oral",
+   "anio": 2026,
+   "folio": "814730",
+   "monto": 14613913,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Magda Raquel Sánchez Martínez. Página 22 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Magda Raquel Sánchez Martínez"
+  },
+  {
+   "proyecto": "NIÑO ZOMBIE y el oráculo personal.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2026,
+   "folio": "808985",
+   "monto": 24999946,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Jasson Guillermo Guaico Nuñez. Página 23 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Jasson Guillermo Guaico Nuñez"
+  },
+  {
+   "proyecto": "\"El viaje de Mamadú\" Un encuentro con la raíz en el sur del mundo",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2026,
+   "folio": "826160",
+   "monto": 25000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Eric Eric Estrada Vega. Página 23 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Eric Estrada Vega"
+  },
+  {
+   "proyecto": "VIDA Y HAZAÑAS DEL SEÑOR ERIK SATIE, FONOMETRÓGRAFO",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2026,
+   "folio": "807275",
+   "monto": 24865303,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Sebastián Fernando Farah Rodríguez. Página 24 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sebastián Fernando Farah Rodríguez"
+  },
+  {
+   "proyecto": "Un marciano en Júpiter creación y producción de obra de teatro de marionetas por la diversidad y la inclusión social",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2026,
+   "folio": "831286",
+   "monto": 24674404,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: René Leonardo Rojas Escalona. Página 24 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "René Leonardo Rojas Escalona"
+  },
+  {
+   "proyecto": "El Piuchén de Paihuén: Miniatura escénica del misterio campesino.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2026,
+   "folio": "831704",
+   "monto": 17867993,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Daniel Alexis Silva Escobar. Página 24 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Daniel Alexis Silva Escobar"
+  },
+  {
+   "proyecto": "VACIO. Tercera parte de la trilogía de la distancia.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2026,
+   "folio": "825543",
+   "monto": 24952000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Stefanis Magdalena Duarte Pinto. Página 24 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Stefanis Magdalena Duarte Pinto"
+  },
+  {
+   "proyecto": "“Con la cabeza en las nubes”, obra teatral en formato distendido pensado en todas las infancias",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2026,
+   "folio": "813513",
+   "monto": 24731247,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: OLINDA INÉS MELCHOR LARA. Página 25 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Olinda Inés Melchor Lara"
+  },
+  {
+   "proyecto": "Derrumbe: La piedra que supo que antes fue estrella.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2026,
+   "folio": "823036",
+   "monto": 24997188,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: EDUARDO NICOLÁS CANCINO SAID. Página 25 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Eduardo Nicolás Cancino Said"
+  },
+  {
+   "proyecto": "“El Chungungo y la Voz del Mar”",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2026,
+   "folio": "808839",
+   "monto": 24963398,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: ORGANIZACION COMUNITARIA ARTISTICA CULTURAL Y EDUCATIVA LA WASHA. Página 25 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Organizacion Comunitaria Artistica Cultural y Educativa la Washa",
+   "compania": "Organizacion Comunitaria Artistica Cultural y Educativa la Washa"
+  },
+  {
+   "proyecto": "La Cultura de la Orilla",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2026,
+   "folio": "807914",
+   "monto": 24993957,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: MILCA NICOLE GALEA ROBLES. Página 26 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Milca Nicole Galea Robles"
+  },
+  {
+   "proyecto": "Circulación Pulso de un hombre homosexual latinoamericano",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Grupo A",
+   "anio": 2026,
+   "folio": "813328",
+   "monto": 16823849,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: José Antonio Soto Luer. Página 26 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "José Antonio Soto Luer"
+  },
+  {
+   "proyecto": "Memorias en Tren: Lo que me han contado",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Grupo A",
+   "anio": 2026,
+   "folio": "821787",
+   "monto": 14604405,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Zenith Claudia Navarrete Ruiz. Página 26 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Zenith Claudia Navarrete Ruiz"
+  },
+  {
+   "proyecto": "Circulación Nacional Cu/ cuerpo infinito",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Grupo A",
+   "anio": 2026,
+   "folio": "813280",
+   "monto": 16997334,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Alexandra Mabes Villegas. Página 28 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Alexandra Mabes Villegas"
+  },
+  {
+   "proyecto": "\"Tripulación Paraíso, abriendo horizontes, Circulación Esperanza\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Grupo B",
+   "anio": 2026,
+   "folio": "819326",
+   "monto": 22282659,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Patricio Alejandro Nuñez rojas. Página 29 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Patricio Alejandro Nuñez rojas"
+  },
+  {
+   "proyecto": "Encuentro cultural con la comunidad. Itinerancia teatral por la región de OHiggins y del Maule",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Grupo B",
+   "anio": 2026,
+   "folio": "838136",
+   "monto": 22218355,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Nicole Constanza Rencoret Torres. Página 29 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Nicole Constanza Rencoret Torres"
+  },
+  {
+   "proyecto": "Circulación de montaje de narración oral \"Cuentos de Verde y Mar\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Grupo B",
+   "anio": 2026,
+   "folio": "828464",
+   "monto": 10354984,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Sara Sophia Cecchetto Schmidlin. Página 30 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sara Sophia Cecchetto Schmidlin"
+  },
+  {
+   "proyecto": "Red Salas de Teatro Valparaíso",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2026,
+   "folio": "837728",
+   "monto": 14997869,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Puerto Escena SPA. Página 31 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Puerto Escena SPA",
+   "compania": "Puerto Escena SPA"
+  },
+  {
+   "proyecto": "Premio Telón a las Artes Escénicas Nacionales",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2026,
+   "folio": "840411",
+   "monto": 14975407,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: ACTIVIDADES TEATRALES YORKA OJEDA BANZ E.I.R.L.. Página 31 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Actividades Teatrales Yorka Ojeda Banz E.i.r.l.",
+   "compania": "Actividades Teatrales Yorka Ojeda Banz E.i.r.l."
+  },
+  {
+   "proyecto": "Equipar la Memoria Viva: 32 Años del Baúl y su Proyección Técnica para el Teatro del Mañana",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Compañías de las Artes Escénicas",
+   "anio": 2026,
+   "folio": "821794",
+   "monto": 12258990,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: COMPAÑIA EL BAÚL. Página 32 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Compañia El Baúl",
+   "compania": "Compañia El Baúl"
+  },
+  {
+   "proyecto": "Equipamiento profesional para la escena itinerante - La Lancha, Teatro y Patrimonio",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Compañías de las Artes Escénicas",
+   "anio": 2026,
+   "folio": "827145",
+   "monto": 14997500,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: TEATRO LA LANCHA SPA. Página 32 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Teatro la Lancha Spa",
+   "compania": "Teatro la Lancha Spa"
+  },
+  {
+   "proyecto": "Optimización técnica del Teatro Municipal de Valparaíso para el desarrollo de las artes escénicas",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Espacios con programación permanente de las Artes Escénicas",
+   "anio": 2026,
+   "folio": "835290",
+   "monto": 14378380,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: I. Municipalidad de Valparaíso. Página 34 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "I. Municipalidad de Valparaíso"
+  },
+  {
+   "proyecto": "Memorias de la danza escénica en la región de Valparaíso: Por una historia de la danza regional, 1973- 2025",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Investigación teórica",
+   "anio": 2026,
+   "folio": "833063",
+   "monto": 14992340,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Ruby Camila Parraguez Padilla. Página 38 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Ruby Camila Parraguez Padilla"
+  },
+  {
+   "proyecto": "Territorio en Escena: Taller de Escenotecnia",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2026,
+   "folio": "831354",
+   "monto": 9985383,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Ilustre Municipalidad de La Calera. Página 39 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Ilustre Municipalidad de La Calera"
+  },
+  {
+   "proyecto": "VOCES ESCÉNICAS: programa de perfeccionamiento vocal para artistas escénicos",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2026,
+   "folio": "828510",
+   "monto": 9999510,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Valentina Valentina Fuentes Durán. Página 42 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Valentina Fuentes Durán"
+  },
+  {
+   "proyecto": "Tejiendo Identidades: Marionetas del Mar y la Tierra",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2026,
+   "folio": "836956",
+   "monto": 7000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Paloma Gabriela Molina Fuentealba. Página 43 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paloma Gabriela Molina Fuentealba"
+  },
+  {
+   "proyecto": "Ensamble Vocal Comunitario: Quinta versión",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2026,
+   "folio": "837515",
+   "monto": 6985600,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Colectivo interdisciplinario Musgo. Página 43 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Colectivo interdisciplinario Musgo",
+   "compania": "Colectivo interdisciplinario Musgo"
+  },
+  {
+   "proyecto": "Programa Formativo “Saberes Futuro: prácticas escénicas para socias/os del Centro de Quilpué de la Unión Nacional y vecinas/os de El Retiro y El Sol”.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2026,
+   "folio": "839385",
+   "monto": 6999347,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Alexandra Catalina Farías Aguirre. Página 43 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Alexandra Catalina Farías Aguirre"
+  },
+  {
+   "proyecto": "Entremos en Movimiento Programa de Corredor Danza Valparíso para la formación y sensibilización de públicos en danza contemporánea",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2026,
+   "folio": "826772",
+   "monto": 6985897,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Cooperativa Corredor Danza Valparaíso Ltda.. Página 46 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Cooperativa Corredor Danza Valparaíso Ltda.",
+   "compania": "Cooperativa Corredor Danza Valparaíso Ltda."
+  },
+  {
+   "proyecto": "ENAES: 3era Escuela de Artes Escénicas para la Comunidad Sorda",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2026,
+   "folio": "840722",
+   "monto": 6907664,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Pablo Ignacio Abarca Carrazana. Página 46 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pablo Ignacio Abarca Carrazana"
+  }
+ ]
+}

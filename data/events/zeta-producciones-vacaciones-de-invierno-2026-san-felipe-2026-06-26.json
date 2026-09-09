@@ -1,0 +1,52 @@
+{
+  "slug": "zeta-producciones-vacaciones-de-invierno-2026-san-felipe-2026-06-26",
+  "type": "event",
+  "title": "Zeta Producciones; vacaciones de invierno 2026.",
+  "kind": "funcion",
+  "work": null,
+  "company": null,
+  "organizer_text": null,
+  "disciplines": [],
+  "audience": null,
+  "description_md": "Zeta Producciones; vacaciones de invierno 2026.",
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2026-06-26T17:30:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "teatro-municipal-de-san-felipe",
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.preludioradio.cl/teatro-municipal-de-san-felipe-en-vacaciones-de-invierno-presenta-espectaculos-gratuitos-para-toda-la-familia/",
+      "title": "Teatro Municipal de San Felipe en vacaciones de invierno presenta espectáculos gratuitos para toda la familia",
+      "publisher": "Preludio Radio",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 23 de junio de 2026: programa del 23 al 26 de junio de 2026; dirección 'Arturo Prat 1111, San Felipe'; director del teatro Francisco Alarcón."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

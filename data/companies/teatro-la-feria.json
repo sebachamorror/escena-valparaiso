@@ -1,0 +1,61 @@
+{
+  "slug": "teatro-la-feria",
+  "type": "company",
+  "name": "Teatro La Feria",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "quillota",
+  "other_communes": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "http://quillotaenlahistoria.blogspot.com/2019/09/el-teatro-en-quillota-iniciando-el.html?m=1",
+      "title": "El Teatro en Quillota, iniciando el siglo 21 (Notas Históricas y Literarias de Quillota)",
+      "publisher": "Ivo Herrera Ávila (blog Quillota en la Historia)",
+      "type": "otro",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Texto del 1 de septiembre de 2019 de Ivo Herrera Ávila (director teatral quillotano). Fuente secundaria de memoria local; requiere contraste."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

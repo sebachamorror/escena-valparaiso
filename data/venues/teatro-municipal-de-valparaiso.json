@@ -1,0 +1,81 @@
+{
+  "slug": "teatro-municipal-de-valparaiso",
+  "type": "venue",
+  "name": "Teatro Municipal de Valparaíso",
+  "short_name": null,
+  "venue_type": "teatro",
+  "owner": "municipal",
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "valparaiso",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2026/01/seleccionados-aaee-2026-enero.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2026 (líneas Creación Escénica, Montajes, Circulación Nacional, Difusión Digital, Equipamiento, Investigación, Programas Formativos)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.observador.cl/dramaturga-villalemanina-presenta-obra-en-el-teatro-de-valparaiso/",
+      "title": "Dramaturga villalemanina presenta obra en el Teatro de Valparaíso",
+      "publisher": "El Observador (Quillota)",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de agosto de 2025: función en el Teatro Municipal de Valparaíso, 7 de agosto de 2025, 16:30, entrada liberada."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

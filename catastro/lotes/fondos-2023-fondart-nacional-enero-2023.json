@@ -1,0 +1,110 @@
+{
+ "capa": 5,
+ "consulta": "Q-0063",
+ "resumen": "Fondart Nacional 2023: 127 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2023-fondart-nacional-enero-2023",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/seleccionados-FN-2023.pdf",
+   "titulo": "Seleccionados Fondart Nacional 2023",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "La luz: de imagen a lenguaje. El rol de la luz en la obra Ecotono.",
+   "fondo": "Fondart Nacional",
+   "linea": "Magíster, master y maestrías",
+   "anio": 2023,
+   "folio": "672265",
+   "monto": 3297159,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-nacional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Karin Mabel Astudillo Sánchez. Página 24 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Karin Mabel Astudillo Sánchez"
+  },
+  {
+   "proyecto": "Materialización Bioarchitectures CosmoEcology: la primera obra chilena de arte y ciencia en el espacio (ISS)",
+   "fondo": "Fondart Nacional",
+   "linea": "Artes visuales",
+   "anio": 2023,
+   "folio": "667709",
+   "monto": 12210014,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-nacional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Luis Bernardo Guzmán Martínez. Página 76 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Luis Bernardo Guzmán Martínez"
+  },
+  {
+   "proyecto": "Laberinto Coreográfico - Experiencia kinestésica del espacio arquitectónico",
+   "fondo": "Fondart Nacional",
+   "linea": "Arquitectura",
+   "anio": 2023,
+   "folio": "668664",
+   "monto": 13847000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-nacional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Paula Andrea Olmedo Latoja. Página 96 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paula Andrea Olmedo Latoja"
+  },
+  {
+   "proyecto": "Forma, construcción y tiempo. La radicalidad de la obra arquitectónica de Fabio Cruz Prieto (1956-2007)",
+   "fondo": "Fondart Nacional",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "653824",
+   "monto": 14927987,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-nacional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Igor de Moraes Fracalossi. Página 129 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Igor de Moraes Fracalossi"
+  },
+  {
+   "proyecto": "CATALOGACION OBRA GRAFICA DE ROBERTO MATTA DESDE 1943",
+   "fondo": "Fondart Nacional",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "669246",
+   "monto": 14987409,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-nacional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Galería de Arte Tarquinia. Página 129 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Galería de Arte Tarquinia"
+  },
+  {
+   "proyecto": "Catálogo de obra Draco Maturana",
+   "fondo": "Fondart Nacional",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "674621",
+   "monto": 10769200,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-nacional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Andrea Maturana Reichenstein. Página 133 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Andrea Maturana Reichenstein"
+  }
+ ]
+}

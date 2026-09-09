@@ -1,23 +1,150 @@
 {
-  "slug": "the-magic-show", "type": "company",
-  "name": "Compañía de Marionetas The Magic Show", "legal_name": null,
+  "slug": "the-magic-show",
+  "type": "company",
+  "name": "Compañía de Marionetas The Magic Show",
+  "legal_name": null,
   "description_md": "Compañía de títeres y marionetas de Los Andes creada por Hugo Hernández Urtubia. Espectáculos y actividades en Chile y fuera del país; marionetas musicales, marionetas gigantes, trabajo callejero y formación de niños y niñas.",
-  "commune": "los-andes", "other_communes": [],
-  "disciplines": ["titeres", "teatro-familiar"], "audiences": ["familiar", "infantil"],
-  "founded_year": null, "status": "activa", "last_activity_at": "2026-08-25",
-  "members": [ { "artist": "hugo-hernandez-urtubia", "role": "creador y director", "from_year": null, "to_year": null } ],
-  "members_text": [],
-  "works": ["variete-de-marionetas-musicales"], "venues": [], "place": null,
-  "email": null, "contact_authorized": false, "website": null,
-  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
-  "trajectory_md": "En agosto de 2026 presentó *Varieté de Marionetas Musicales* para estudiantes de la Escuela Mateo Cokljat de San Felipe, en las actividades nacionales del Día Nacional del Titiritero y la Titiritera.",
-  "recognitions": [], "funding_awards": [], "festivals": [],
-  "media": [], "media_candidates": [], "series": ["quinta-escena-podcast"], "tags": ["protagonista-podcast"],
-  "sources": [
-    { "url": null, "title": "Carta de compromiso — Los Andes.pdf (31 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": null },
-    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 1 (cita SIGPA, Diario El Trabajo)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "last_activity_at"], "notes": "Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente)." },
-    { "url": "https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/", "title": "El arte de dar vida: Dos titiriteros del valle son reconocidos como cultores", "publisher": "Diario El Trabajo", "type": "prensa", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "last_activity_at"], "notes": "Publicada el 24 de agosto de 2026. Confirma la función de Varieté de Marionetas Musicales del 25 de agosto de 2026 en la Escuela Mateo Cokljat de San Felipe." }
+  "commune": "los-andes",
+  "other_communes": [],
+  "disciplines": [
+    "titeres",
+    "teatro-familiar"
   ],
-  "verification": { "status": "verificado", "confidence_score": 75, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Verificado con fuente nivel 1 (carta) y nivel 2 pública (Diario El Trabajo, 24 de agosto de 2026), con actividad confirmada en agosto de 2026. Falta año de inicio, sitio y redes. No publicar sin validar con la persona (docs/QUINTA_ESCENA_PODCAST.md §10)." },
+  "audiences": [
+    "familiar",
+    "infantil"
+  ],
+  "founded_year": null,
+  "status": "activa",
+  "last_activity_at": "2026-08-25",
+  "members": [
+    {
+      "artist": "hugo-hernandez-urtubia",
+      "role": "creador y director",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "members_text": [
+    "Hugo Hernández Urtubia (creador y director)"
+  ],
+  "works": [
+    "variete-de-marionetas-musicales"
+  ],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": "En agosto de 2026 presentó *Varieté de Marionetas Musicales* para estudiantes de la Escuela Mateo Cokljat de San Felipe, en las actividades nacionales del Día Nacional del Titiritero y la Titiritera.",
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "media": [],
+  "media_candidates": [],
+  "series": [
+    "quinta-escena-podcast"
+  ],
+  "tags": [
+    "protagonista-podcast"
+  ],
+  "sources": [
+    {
+      "url": null,
+      "title": "Carta de compromiso — Los Andes.pdf (31 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "commune",
+        "discipline"
+      ],
+      "notes": null
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 1 (cita SIGPA, Diario El Trabajo)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "last_activity_at"
+      ],
+      "notes": "Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente)."
+    },
+    {
+      "url": "https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/",
+      "title": "El arte de dar vida: Dos titiriteros del valle son reconocidos como cultores",
+      "publisher": "Diario El Trabajo",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "last_activity_at"
+      ],
+      "notes": "Publicada el 24 de agosto de 2026. Confirma la función de Varieté de Marionetas Musicales del 25 de agosto de 2026 en la Escuela Mateo Cokljat de San Felipe."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 1 (cita Diario El Trabajo)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente)."
+    },
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — Los Andes.pdf (31 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Documento firmado por la persona. Contiene datos personales que no se replican."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 1 (cita SIGPA, Diario El Trabajo, Rosa FM)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente). URL de la ficha SIGPA (CI8699) y de Rosa FM aún pendientes."
+    }
+  ],
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 75,
+    "verified_at": "2026-09-05",
+    "verified_by": "investigación asistida (sesión 2026-09-05)",
+    "next_review_at": "2027-09-05",
+    "note": "Verificado con fuente nivel 1 (carta) y nivel 2 pública (Diario El Trabajo, 24 de agosto de 2026), con actividad confirmada en agosto de 2026. Falta año de inicio, sitio y redes. No publicar sin validar con la persona (docs/QUINTA_ESCENA_PODCAST.md §10)."
+  },
   "published": false
 }

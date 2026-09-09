@@ -1,0 +1,71 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondo de Artes Escénicas 2024: 2 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondo-de-artes-escenicas-asistencia-internacional",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/02/SELECCIONADOS-LINEA-DE-ASISTENCIA-A-INSTANCIAS-INTERNACIONALES.pdf",
+   "titulo": "Seleccionados Línea Asistencia a Instancias Internacionales en Artes Escénicas 2024",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Centro Cultural Teatro Container",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-asistencia-internacional"
+   ],
+   "notas": "Responsable del proyecto «Teatro container. Proyección internacional de las artes de calle» (Fondo de Artes Escénicas 2024, Asistencia a Instancias Internacionales). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Milca Nicole Galea Robles",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-asistencia-internacional"
+   ],
+   "notas": "Responsable del proyecto «Corredor Danza Valparaíso - Feria Internacional de Danza Tanzmesse NRW» (Fondo de Artes Escénicas 2024, Asistencia a Instancias Internacionales). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Corredor Danza Valparaíso - Feria Internacional de Danza Tanzmesse NRW",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Asistencia a Instancias Internacionales",
+   "anio": 2024,
+   "folio": "739106",
+   "monto": null,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-asistencia-internacional"
+   ],
+   "notas": "Responsable según nómina: MILCA NICOLE GALEA ROBLES. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Milca Nicole Galea Robles"
+  },
+  {
+   "proyecto": "Teatro container. Proyección internacional de las artes de calle",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Asistencia a Instancias Internacionales",
+   "anio": 2024,
+   "folio": "738993",
+   "monto": null,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-asistencia-internacional"
+   ],
+   "notas": "Responsable según nómina: CENTRO CULTURAL TEATRO CONTAINER. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Centro Cultural Teatro Container",
+   "compania": "Centro Cultural Teatro Container"
+  }
+ ]
+}

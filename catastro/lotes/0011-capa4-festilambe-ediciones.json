@@ -1,0 +1,11 @@
+{
+ "capa": 4,
+ "consulta": "Q-0043",
+ "resumen": "FESTILAMBE: ediciones 2014–2024 y 9ª en 2026 según festilambe.cl.",
+ "fuentes": [
+  {"clave": "festilambe-web", "url": "https://www.festilambe.cl/", "titulo": "FESTILAMBE de Valparaíso — Festival Internacional de Teatro Lambe Lambe de Chile (sitio oficial)", "publicador": "Fundación OANI de Teatro", "tipo": "oficial", "calidad": "B", "notas": "Consultado en septiembre de 2026: ocho ediciones realizadas (2014, 2015, 2016, 2017, 2018, 2020, 2023, 2024) y novena prevista para 2026; 25 espectáculos de teatro en miniatura simultáneos en cajas; participación de Brasil, Bolivia, Argentina, España, Uruguay, Perú, Paraguay, México, EE. UU., Venezuela, Inglaterra, Alemania, Colombia y Chile."}
+ ],
+ "festivales": [
+  {"nombre": "FESTILAMBE de Valparaíso", "comuna": "Valparaíso", "organizacion": "Fundación OANI de Teatro", "anio_creacion": 2014, "periodicidad": "anual con interrupciones (sin ediciones 2019, 2021, 2022, 2025)", "numero_versiones": 9, "fechas": ["2014", "2015", "2016", "2017", "2018", "2020", "2023", "2024", "2026"], "fuentes": ["festilambe-web"], "notas": "Formato: 25 espectáculos nacionales e internacionales de teatro lambe lambe presentados simultáneamente en cajas-casitas para un espectador a la vez. Apoyos municipales y regionales; colaboran Parque Cultural de Valparaíso, Casa OANI y Teatro de Marionetas. Contacto: contacto@festilambe.cl."}
+ ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "julieta-saavedra",
+  "type": "artist",
+  "name": "Julieta Saavedra",
+  "artistic_name": null,
+  "commune": "villa-alemana",
+  "commune_basis": "prensa",
+  "crafts": [
+    "actuacion",
+    "direccion",
+    "dramaturgia",
+    "narracion-oral"
+  ],
+  "disciplines": [
+    "narracion-oral",
+    "teatro"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": "Dramaturga y narradora residente en Villa Alemana; conduce el taller 'Cuentos que nacen del alma' con personas mayores de la Provincia de Marga Marga; 'El tiempo no espera' (2025) es su primera obra de gran formato, financiada por el Fondo de Artes Escénicas 2025.",
+  "companies": [
+    {
+      "company": "julieta-y-compania",
+      "role": "Director/a",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.observador.cl/villalemanina-estrena-obra-en-la-region-de-valparaiso/",
+      "title": "Villalemanina estrena obra en la Región de Valparaíso",
+      "publisher": "El Observador (Quillota)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 10 de abril de 2025: estreno de 'El Tiempo No Espera' en el Centro Cultural Gabriela Mistral de Villa Alemana y gira gratuita (Quillota 29 de mayo, Quilpué 6 de junio, Valparaíso Profundo 28 de junio, Parque Cultural 18 de julio de 2025)."
+    },
+    {
+      "url": "https://www.observador.cl/dramaturga-villalemanina-presenta-obra-en-el-teatro-de-valparaiso/",
+      "title": "Dramaturga villalemanina presenta obra en el Teatro de Valparaíso",
+      "publisher": "El Observador (Quillota)",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de agosto de 2025: función en el Teatro Municipal de Valparaíso, 7 de agosto de 2025, 16:30, entrada liberada."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

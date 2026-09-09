@@ -1,0 +1,494 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondo de Artes Escénicas 2024: 19 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondo-de-artes-escenicas-diciembre-2023",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/12/SELECCIONADOS-FC2024_AAEE.pdf",
+   "titulo": "Nómina de seleccionados Fondo Nacional de las Artes Escénicas 2024 (diciembre 2023)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Organización Comunitaria Artística Cultural y Deportiva La Coraje",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «PARAISOS CREATIVOS: 3er Encuentro de Educación Artística comprometida con las jóvenes audiencias» (Fondo de Artes Escénicas 2024, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Fundación OANI de Teatro",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «8vo FESTILAMBE de Valparaíso Festival Internacional de Teatro Lambe Lambe de Chile - Convocando Humanidad» (Fondo de Artes Escénicas 2024, Festivales y Encuentros Nacionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Fundacion Pájarx Entre Púas",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «DRAMA. Talleres de teatro con mujeres y diversidades privadas de libertad en la región de Valparaíso.» (Fondo de Artes Escénicas 2024, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Pablo Ignacio Abarca Carrazana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Tercer Encuentro de narración accesible e inclusiva: ENAI 2024 Valparaíso» (Fondo de Artes Escénicas 2024, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Irene Isola Yañez Torres",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «ENOI 2024 - Conecta con la ópera» (Fondo de Artes Escénicas 2024, Festivales y Encuentros Nacionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Kathia Javiera Schulz Hernandez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «IV Festival latinoamericano de actividades escénicas con temáticas de género TEGE» (Fondo de Artes Escénicas 2024, Festivales y Encuentros Nacionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Rubén Darío Mercado Valdivieso",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Post grado de Magister en artes con mención en estudios y prácticas teatrales UC» (Fondo de Artes Escénicas 2024, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Vicente Leonardo Díaz Paillalef",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Financiamiento Magister en Artes, mención Practicas y Estudios Teatrales, Pontificia Universidad Católica de Chile» (Fondo de Artes Escénicas 2024, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Cristian Antonio González Rivera",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Postulación Máster de Formación Permanente en Gestión de Empresas e Instituciones Culturales en España» (Fondo de Artes Escénicas 2024, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Mayra Belén Eltit Fuentes",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Estudios en el Programa Magíster en Prácticas Coreográficas en la Universidad de Chile» (Fondo de Artes Escénicas 2024, Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Jacinta María Egaña Kaulen",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Formación en Teatro Topeng, un puente entre Indonesia y Chile» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Elias Cohen Braumuller",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Human Specific Performance. Perfeccionamiento performativo en Dinamarca.» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Zenith Claudia Navarrete Ruiz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Tecnicas Teatrales para la Narración Oral Escénica» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Pablo Ignacio Abarca Carrazana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Pasantía en Teatro corporal accesible para la comunidad sorda» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Valeska Alejandra Minchel Lisboa",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Formación intensiva en danza contemporánea Festival Deltebre Danza 2020» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Lisseth Carolina Fuentes Cisternas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Especialización en el Método Alba Emoting Nivel Facilitadora» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Paula Alejandra Céspedes Vergara",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Postgrado en Producción y gestión de espectáculos y festivales» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Se-Rok Park",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Especialización en técnicas coreanas interdisciplinarias y estrategias performativas transculturales» (Fondo de Artes Escénicas 2024, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Pablo Ignacio Abarca Carrazana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable del proyecto «Escuela de Artes Escénicas para la comunidad sorda ARTESCESOR modalidad Presencial» (Fondo de Artes Escénicas 2024, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Tercer Encuentro de narración accesible e inclusiva: ENAI 2024 Valparaíso",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Festivales y encuentros regionales",
+   "anio": 2024,
+   "folio": "701500",
+   "monto": 27379724,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Pablo Ignacio Abarca Carrazana. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pablo Ignacio Abarca Carrazana"
+  },
+  {
+   "proyecto": "PARAISOS CREATIVOS: 3er Encuentro de Educación Artística comprometida con las jóvenes audiencias",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Festivales y encuentros regionales",
+   "anio": 2024,
+   "folio": "702350",
+   "monto": 26353675,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Organización Comunitaria Artística Cultural y Deportiva La Coraje. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Organización Comunitaria Artística Cultural y Deportiva La Coraje",
+   "compania": "Organización Comunitaria Artística Cultural y Deportiva La Coraje"
+  },
+  {
+   "proyecto": "8vo FESTILAMBE de Valparaíso Festival Internacional de Teatro Lambe Lambe de Chile - Convocando Humanidad",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Festivales y Encuentros Nacionales",
+   "anio": 2024,
+   "folio": "704632",
+   "monto": 43629626,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Fundación OANI de Teatro. Página 4 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Fundación OANI de Teatro",
+   "compania": "Fundación OANI de Teatro"
+  },
+  {
+   "proyecto": "ENOI 2024 - Conecta con la ópera",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Festivales y Encuentros Nacionales",
+   "anio": 2024,
+   "folio": "707663",
+   "monto": 51137044,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Irene Isola Yañez Torres. Página 4 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Irene Isola Yañez Torres"
+  },
+  {
+   "proyecto": "IV Festival latinoamericano de actividades escénicas con temáticas de género TEGE",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Festivales y Encuentros Nacionales",
+   "anio": 2024,
+   "folio": "699840",
+   "monto": 40359799,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Kathia Javiera Schulz Hernandez. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Kathia Javiera Schulz Hernandez"
+  },
+  {
+   "proyecto": "Post grado de Magister en artes con mención en estudios y prácticas teatrales UC",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Magíster, Máster y Maestrías",
+   "anio": 2024,
+   "folio": "704160",
+   "monto": 8530000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Rubén Darío Mercado Valdivieso. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Rubén Darío Mercado Valdivieso"
+  },
+  {
+   "proyecto": "Financiamiento Magister en Artes, mención Practicas y Estudios Teatrales, Pontificia Universidad Católica de Chile",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Magíster, Máster y Maestrías",
+   "anio": 2024,
+   "folio": "697037",
+   "monto": 6870000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Vicente Leonardo Díaz Paillalef. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Vicente Leonardo Díaz Paillalef"
+  },
+  {
+   "proyecto": "Postulación Máster de Formación Permanente en Gestión de Empresas e Instituciones Culturales en España",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Magíster, Máster y Maestrías",
+   "anio": 2024,
+   "folio": "701724",
+   "monto": 17903812,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Cristian Antonio González Rivera. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Cristian Antonio González Rivera"
+  },
+  {
+   "proyecto": "Estudios en el Programa Magíster en Prácticas Coreográficas en la Universidad de Chile",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Magíster, Máster y Maestrías",
+   "anio": 2024,
+   "folio": "706176",
+   "monto": 9654312,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Mayra Belén Eltit Fuentes. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Mayra Belén Eltit Fuentes"
+  },
+  {
+   "proyecto": "Formación en Teatro Topeng, un puente entre Indonesia y Chile",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2024,
+   "folio": "697963",
+   "monto": 5713604,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Jacinta María Egaña Kaulen. Página 7 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Jacinta María Egaña Kaulen"
+  },
+  {
+   "proyecto": "Human Specific Performance. Perfeccionamiento performativo en Dinamarca.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2024,
+   "folio": "701652",
+   "monto": 4600000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Elias Cohen Braumuller. Página 7 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Elias Cohen Braumuller"
+  },
+  {
+   "proyecto": "Tecnicas Teatrales para la Narración Oral Escénica",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2024,
+   "folio": "702121",
+   "monto": 1754590,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Zenith Claudia Navarrete Ruiz. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Zenith Claudia Navarrete Ruiz"
+  },
+  {
+   "proyecto": "Pasantía en Teatro corporal accesible para la comunidad sorda",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2024,
+   "folio": "702793",
+   "monto": 5223912,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Pablo Ignacio Abarca Carrazana. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pablo Ignacio Abarca Carrazana"
+  },
+  {
+   "proyecto": "Formación intensiva en danza contemporánea Festival Deltebre Danza 2020",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2024,
+   "folio": "705816",
+   "monto": 2617360,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Valeska Alejandra Minchel Lisboa. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Valeska Alejandra Minchel Lisboa"
+  },
+  {
+   "proyecto": "Especialización en el Método Alba Emoting Nivel Facilitadora",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2024,
+   "folio": "704875",
+   "monto": 4230000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Lisseth Carolina Fuentes Cisternas. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Lisseth Carolina Fuentes Cisternas"
+  },
+  {
+   "proyecto": "Postgrado en Producción y gestión de espectáculos y festivales",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2024,
+   "folio": "705230",
+   "monto": 5999986,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Paula Alejandra Céspedes Vergara. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paula Alejandra Céspedes Vergara"
+  },
+  {
+   "proyecto": "Especialización en técnicas coreanas interdisciplinarias y estrategias performativas transculturales",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2024,
+   "folio": "700117",
+   "monto": 5422567,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Se-Rok Park Park. Página 10 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Se-Rok Park"
+  },
+  {
+   "proyecto": "Escuela de Artes Escénicas para la comunidad sorda ARTESCESOR modalidad Presencial",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2024,
+   "folio": "702053",
+   "monto": 9800510,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Pablo Ignacio Abarca Carrazana. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pablo Ignacio Abarca Carrazana"
+  },
+  {
+   "proyecto": "DRAMA. Talleres de teatro con mujeres y diversidades privadas de libertad en la región de Valparaíso.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2024,
+   "folio": "701995",
+   "monto": 5000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: FUNDACION PÁJARX ENTRE PÚAS. Página 12 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Fundacion Pájarx Entre Púas",
+   "compania": "Fundacion Pájarx Entre Púas"
+  }
+ ]
+}

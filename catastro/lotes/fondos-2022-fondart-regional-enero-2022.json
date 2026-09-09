@@ -1,0 +1,35 @@
+{
+ "capa": 5,
+ "consulta": "Q-0060",
+ "resumen": "Fondart Regional 2022: 72 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2022-fondart-regional-enero-2022",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/01/SELECCIONADOS-FREGIONAL2022.pdf",
+   "titulo": "Seleccionados Fondart Regional 2022",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Pabellón Escénico Interpretativo",
+   "fondo": "Fondart Regional",
+   "linea": "Única - Arquitectura",
+   "anio": 2022,
+   "folio": "632807",
+   "monto": 7787418,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2022-fondart-regional-enero-2022"
+   ],
+   "notas": "Responsable según nómina: Francisco Javier Calvo Castillo. Página 21 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Francisco Javier Calvo Castillo"
+  }
+ ]
+}

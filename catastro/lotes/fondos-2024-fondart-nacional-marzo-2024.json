@@ -1,0 +1,35 @@
+{
+ "capa": 5,
+ "consulta": "Q-0063",
+ "resumen": "Fondart Nacional 2024: 56 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondart-nacional-marzo-2024",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/03/Seleccionados-FN-2024-2DA.pdf",
+   "titulo": "Seleccionados Fondart Nacional 2024 — Creación artística e Infraestructura cultural (marzo 2024)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Recuperación e implementación sala Obra Gruesa de Espacio La compañía",
+   "fondo": "Fondart Nacional",
+   "linea": "Única",
+   "anio": 2024,
+   "folio": "724961",
+   "monto": 18426619,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-nacional-marzo-2024"
+   ],
+   "notas": "Responsable según nómina: Puka patrimonio y arquitectura SPA. Página 25 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Puka patrimonio y arquitectura SPA"
+  }
+ ]
+}

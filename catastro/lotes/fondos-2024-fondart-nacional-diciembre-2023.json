@@ -1,0 +1,65 @@
+{
+ "capa": 5,
+ "consulta": "Q-0063",
+ "resumen": "Fondart Nacional 2024: 48 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondart-nacional-diciembre-2023",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/12/seleccionados-FN-2024.pdf",
+   "titulo": "Seleccionados Fondart Nacional 2024 — Becas Chile Crea e Investigación (diciembre 2023)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Máster de Diseño de Vestuario: Cine, TV y artes escénicas en España",
+   "fondo": "Fondart Nacional",
+   "linea": "Becas de Magíster, Master y Maestría - Formación Presencial",
+   "anio": 2024,
+   "folio": "699521",
+   "monto": 7500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-nacional-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Elisa Janina Olivari Barria. Página 16 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Elisa Janina Olivari Barria"
+  },
+  {
+   "proyecto": "LA OBRA COMO ARTEFACTO - ESTRUCTURA DEL CAMPO ESPACIAL EN EL PENSAMIENTO DEL ARQUITECTO MIGUEL EYQUEM ASTORGA",
+   "fondo": "Fondart Nacional",
+   "linea": "Grupo B - (Arquitectura, diseño, artesanía o interdisciplina entre estas áreas artísticas)",
+   "anio": 2024,
+   "folio": "705431",
+   "monto": 14931963,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-nacional-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Claudio Leiva Araos. Página 31 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Claudio Leiva Araos"
+  },
+  {
+   "proyecto": "Reconstruir la luz: aproximación experimental por medio de maquetas y fotografías para capturar la luz natural de la obra no construida de Miguel Eyquem.",
+   "fondo": "Fondart Nacional",
+   "linea": "Grupo B - (Arquitectura, diseño, artesanía o interdisciplina entre estas áreas artísticas)",
+   "anio": 2024,
+   "folio": "708288",
+   "monto": 14900000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-nacional-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Oscar José Andrade Castro. Página 35 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Oscar José Andrade Castro"
+  }
+ ]
+}

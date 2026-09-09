@@ -1,0 +1,69 @@
+{
+  "slug": "ceco-de-rodelillo",
+  "type": "venue",
+  "name": "CECO de Rodelillo",
+  "short_name": "Centro Comunitario Socio Cultural, Deportivo, Medio Ambiental de Rodelillo (CECO)",
+  "venue_type": "centro-cultural",
+  "owner": "comunitario",
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "valparaiso",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://centex.cultura.gob.cl/con-ocho-montajes-en-ocho-espacios-distintos-valparaiso-celebra-mes-del-teatro/",
+      "title": "Ciudad Teatro: con ocho montajes en ocho espacios distintos Valparaíso celebra el Mes del Teatro",
+      "publisher": "Centex — Centro de Extensión del Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota de 2025 con programa completo: 8 funciones entre el 5 y el 11 de mayo de 2025 en Valparaíso. Gratuidad no especificada."
+    },
+    {
+      "url": "https://centex.cultura.gob.cl/evento/ciudad-teatro/",
+      "title": "Ciudad Teatro — Centex",
+      "publisher": "Centex — Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

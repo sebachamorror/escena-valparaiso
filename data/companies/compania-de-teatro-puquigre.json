@@ -1,0 +1,85 @@
+{
+  "slug": "compania-de-teatro-puquigre",
+  "type": "company",
+  "name": "Compañía de Teatro Puquigre",
+  "legal_name": "Grupo de Teatro Cultural y Social Puquigre",
+  "description_md": null,
+  "commune": "puchuncavi",
+  "other_communes": [],
+  "disciplines": [
+    "teatro-comunitario"
+  ],
+  "audiences": [],
+  "founded_year": 1982,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.munipuchuncavi.cl/2.0/sitio10/index.php?subaction=sh&num=283",
+      "title": "Compañía de Teatro Puquigre continúa celebrando sus 35 años de vida (nota municipal)",
+      "publisher": "Ilustre Municipalidad de Puchuncaví",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "La nota no muestra fecha; menciona función del 10 de junio en el Gimnasio Municipal de Puchuncaví y del sábado 1 de julio, 19:00, en la sede Caracol de Horcón, con 'La Mariita'."
+    },
+    {
+      "url": "https://munipuchuncavi.cl/2.0/sitio10/index.php?num=270",
+      "title": "Municipalidad de Puchuncaví — nota sobre la Compañía de Teatro PUQUIGRE",
+      "publisher": "Ilustre Municipalidad de Puchuncaví",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Según el resumen del buscador: 'agrupación de vecinos de Puchuncaví, Quintero y La Greda… desde 1982'. Al abrir la página el contenido visible no incluía ese párrafo; el dato queda como pendiente de confirmación directa."
+    },
+    {
+      "url": "https://www.munipuchuncavi.cl/pdf/organizaciones/organizacionescom2025.pdf",
+      "title": "Registro de organizaciones comunitarias 2025 — Municipalidad de Puchuncaví",
+      "publisher": "Ilustre Municipalidad de Puchuncaví",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Según el buscador, registra 'Grupo de Teatro Cultural y Social Puquigre'. PDF no abierto directamente."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

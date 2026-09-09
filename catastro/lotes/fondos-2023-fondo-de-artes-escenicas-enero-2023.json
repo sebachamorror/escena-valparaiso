@@ -1,0 +1,1466 @@
+{
+ "capa": 5,
+ "consulta": "Q-0060",
+ "resumen": "Fondo de Artes Escénicas 2023: 60 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2023-fondo-de-artes-escenicas-enero-2023",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+   "titulo": "Seleccionados Fondo de Artes Escénicas 2023",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Organizacion Comunitaria Artistica Cultural y Educativa la Washa",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Hoguera» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Compañía de Teatro Fuera de Lugar Limitada",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «En Defensa Propia» (Fondo de Artes Escénicas 2023, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Organización Comunitaria Artística Cultural y Deportiva La Coraje",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Teatro y Educación: Espacio de perfeccionamiento para docentes, artistas educadores y agentes comunitarios: Incorporando herramientas teatrales en la educación» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Asociación Parque Cultural de Valparaíso",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Radioteatro: proceso formativo para personas mayores» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Fundacion Por Un Chile Inclusivo",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «ESCUELA ARTES ESCENICAS SORDAS “ARTESCESOR\"» (Fondo de Artes Escénicas 2023, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Corporación Educación Arte Cultura",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Continuidad del proyecto Les Cárites, Escuela de Formación y Perfeccionamiento de las Artes del Transformismo» (Fondo de Artes Escénicas 2023, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "María Paz Pizarro Jara",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Diplomado en Teatro Aplicado» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Pablo Ignacio Abarca Carrazana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Pasantía Área de Investigaciones en Mimo UBA Argentina» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Valentina Fuentes Durán",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Biomecánica para la eficacia de la producción vocal en la actuación teatral» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Natalia vanessa zuñiga ortiz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Alba emoting» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Sandra Carola Lema Ruiz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Diplomado en Teatro Aplicado PUC de Chile» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Maureen Cecilia Guitart Maturana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Diplomado de Extensión en Diseño Escénico» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "María Cristina Alcaide Cepeda",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Formación y Certificación Método Alba Emoting» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Ivana Paz Urtubia Vargas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Diplomado en Dirección Escénica» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Francia Yandira Pacheco Westphal",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Especialización en Pedagogía Teatral modalidad presencial.» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Ulysis Abarquez Soza",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Diplomado de Extensión en Dramaturgia» (Fondo de Artes Escénicas 2023, Especialización y Perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Roberto Manuel Mancilla Cruz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Máster Universitario en Estudios Teatrales, Universidad Autónoma de Barcelona e Instituto del Teatro de Barcelona» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "María Francisca Pérez Moraga",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Magister en Artes mención Estudios y Practicas Teatrales» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Roberto Abel Pino Sandoval",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Arte para la emergencia: El arte, la autonomía y el teatro en los procesos de contención y reparación del trauma social.» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Alvaro Recabarren Parodi",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Diseño y Construccion Escenografica - Mecánica Escenica» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Lucía Puime Vivas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Camino Híbrido – Cursar el Magister en Antropologías Latinoamericanas de la UAH como complemento fundamental al estudio y la creación escénica con perspectiva territorial –» (Fondo de Artes Escénicas 2023, Becas de Magíster, Máster y Maestrías). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Emilio Andrés Arriagada Cordero",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Máster en Dramaturgia» (Fondo de Artes Escénicas 2023, Becas Chile Crea - Fondo de Artes Escénicas). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Diego Sebastián Chamorro Ramírez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Gira de Llo Lle We : Ko Rüpü, el camino del agua» (Fondo de Artes Escénicas 2023, Circulación de montajes escénicos). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Valeria Correa Rojas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Circulación del espectáculo Cuentos que me contó un pajarito en establecimientos educacionales y plazas de la cuarta, quinta y sexta región» (Fondo de Artes Escénicas 2023, Circulación de montajes escénicos). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Jenny Maribel Pino Madariaga",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Residencia de Creación Proyecto “Alterung”» (Fondo de Artes Escénicas 2023, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Manuela Paz Razeto Iglesias",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Residencia de Creación e Investigación de Lenguaje Sensorial en Centro Cultural Espacio Diana» (Fondo de Artes Escénicas 2023, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Valeska Alejandra Minchel Lisboa",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Gran Comedor: Residencia en espacio patrimonial Ex Hotel Royal» (Fondo de Artes Escénicas 2023, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Josefina Díaz Honores",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «La Invivible» (Fondo de Artes Escénicas 2023, Composición coreográfica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Daniela Raquel Yáñez Rojas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «DISPOSITIVOS Y SINESTESIAS, DANZAS PARA RECORDAR LA SIMPLEZA» (Fondo de Artes Escénicas 2023, Composición coreográfica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Gonzalo Ignacio Olave Navarro",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Asamblea» (Fondo de Artes Escénicas 2023, Composición para narración oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Carlos Andrés Basualdo Gómez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Don Quijote te ha enviado una solicitud de amistad. Textos clásicos para un público joven.» (Fondo de Artes Escénicas 2023, Composición para narración oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Virginia Marcela Silva Ponce",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Tejido de raíz» (Fondo de Artes Escénicas 2023, Composición para narración oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Oscar Humberto Berrios Inostroza",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Creación dramaturgica de la obra \"testigo válido\"» (Fondo de Artes Escénicas 2023, Dramaturgia). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Sebastián Eduardo Ayala Alveal",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «El beso de amor eterno» (Fondo de Artes Escénicas 2023, Dramaturgia). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Fernando Alberto Mena Rojas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Chileno» (Fondo de Artes Escénicas 2023, Dramaturgia). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Katherine Elizabeth Lopez Soto",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «INMOLAR» (Fondo de Artes Escénicas 2023, Dramaturgia). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Elias Cohen Braumuller",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Coyote» (Fondo de Artes Escénicas 2023, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Paula Andrea Jirkal Briones",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «“Todo esto está en ti o la locura será la dolorosa pasión de estos paisajes” Obra de circo contemporáneo inspirada en la poesía de Raul Zurita.» (Fondo de Artes Escénicas 2023, Circo). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Miguel Angel Soto Echeverria",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «INSANIA» (Fondo de Artes Escénicas 2023, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Claudia Andrea Bravo Bonulef",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «\"Historias para Imaginar\" : Cápsulas de Cuentacuentos para recintos de salud» (Fondo de Artes Escénicas 2023, NARRACIÓN ORAL). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Irene Isola Yañez Torres",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Bastián y Bastiana, una ópera mágica en la isla de Chiloé» (Fondo de Artes Escénicas 2023, Ópera). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Mónica Alejandra Álvarez Figueroa",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «\"El Empresario\" (W.A. Mozart) - Peripecias de un agente teatral en el Chile de hoy» (Fondo de Artes Escénicas 2023, Ópera). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "José Antonio Soto Luer",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Pulso de un hombre homosexual latinoamericano» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Angela Paulina Sepulveda Rojas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «La historia de una mujer que regaba su planta con una cuchara» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Alejandra Estrella Thayer Joui",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Alicia Morel y los reinos de la Tierra» (Fondo de Artes Escénicas 2023, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Paola Alejandra Escudero Navia",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «A la Memoria de Carla korman» (Fondo de Artes Escénicas 2023, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Oscar Humberto Berrios Inostroza",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «El barniz del desierto» (Fondo de Artes Escénicas 2023, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Luciana Gabriela Mosca Spinetto",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Partes y Piezas» (Fondo de Artes Escénicas 2023, Circo). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Gabriel Nicolás Contreras Hernández",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «La memoria de los sésiles» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Ana Catherine Sagredo Núñez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «La Ruta de La Quebrada. Relatos, Canciones y Recetas de una Comunidad» (Fondo de Artes Escénicas 2023, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Gonzalo Ignacio Olave Navarro",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Chalo te cuenta el cuento a la hora del té» (Fondo de Artes Escénicas 2023, Medios de difusión). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Paulina Bronfman Colovatti",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Prácticas escénicas y performativas como estrategia ecológica en Chile (2010-2021).» (Fondo de Artes Escénicas 2023, Investigación teórica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Daniela Paz Nuñez Gonzalez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Remontaje Obra Polución Diálogos con Pedro Lemebel Colectivo La Fuga» (Fondo de Artes Escénicas 2023, Remontajes escénicos). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Carlos Andrés Craig Sepulveds",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «Programa de formación en artes escénicas, para personas mayores de la comunidad de Villa Alemana» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Mariela Leonor Diaz Rivera",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable del proyecto «3ra Versión: Proceso formativo Comparsa de Figurines Zorritos manada de Puertas Negras.» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Diplomado en Teatro Aplicado",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "658531",
+   "monto": 2088550,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: María Paz Pizarro Jara. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "María Paz Pizarro Jara"
+  },
+  {
+   "proyecto": "Pasantía Área de Investigaciones en Mimo UBA Argentina",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "667920",
+   "monto": 4110072,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Pablo Ignacio Abarca Carrazana. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pablo Ignacio Abarca Carrazana"
+  },
+  {
+   "proyecto": "Biomecánica para la eficacia de la producción vocal en la actuación teatral",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "661293",
+   "monto": 3945928,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Valentina Valentina Fuentes Durán. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Valentina Fuentes Durán"
+  },
+  {
+   "proyecto": "Alba emoting",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "652663",
+   "monto": 2375000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Natalia vanessa zuñiga ortiz. Página 3 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Natalia vanessa zuñiga ortiz"
+  },
+  {
+   "proyecto": "Diplomado en Teatro Aplicado PUC de Chile",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "671503",
+   "monto": 3505490,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Sandra Carola Lema Ruiz. Página 3 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sandra Carola Lema Ruiz"
+  },
+  {
+   "proyecto": "Diplomado de Extensión en Diseño Escénico",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "660037",
+   "monto": 2590000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Maureen Cecilia Guitart Maturana. Página 4 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Maureen Cecilia Guitart Maturana"
+  },
+  {
+   "proyecto": "Formación y Certificación Método Alba Emoting",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "667502",
+   "monto": 3426000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: María Cristina Alcaide Cepeda. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "María Cristina Alcaide Cepeda"
+  },
+  {
+   "proyecto": "Diplomado en Dirección Escénica",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "667889",
+   "monto": 2940000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Ivana Paz Urtubia Vargas. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Ivana Paz Urtubia Vargas"
+  },
+  {
+   "proyecto": "Especialización en Pedagogía Teatral modalidad presencial.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "659515",
+   "monto": 1870200,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Francia Yandira Pacheco Westphal. Página 7 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Francia Yandira Pacheco Westphal"
+  },
+  {
+   "proyecto": "Diplomado de Extensión en Dramaturgia",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y Perfeccionamiento",
+   "anio": 2023,
+   "folio": "669436",
+   "monto": 870000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Ulysis Abarquez Soza. Página 7 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Ulysis Abarquez Soza"
+  },
+  {
+   "proyecto": "Máster Universitario en Estudios Teatrales, Universidad Autónoma de Barcelona e Instituto del Teatro de Barcelona",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Becas de Magíster, Máster y Maestrías",
+   "anio": 2023,
+   "folio": "652928",
+   "monto": 17363310,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Roberto Manuel Mancilla Cruz. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Roberto Manuel Mancilla Cruz"
+  },
+  {
+   "proyecto": "Magister en Artes mención Estudios y Practicas Teatrales",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Becas de Magíster, Máster y Maestrías",
+   "anio": 2023,
+   "folio": "667400",
+   "monto": 11045778,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: María Francisca Pérez Moraga. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "María Francisca Pérez Moraga"
+  },
+  {
+   "proyecto": "Arte para la emergencia: El arte, la autonomía y el teatro en los procesos de contención y reparación del trauma social.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Becas de Magíster, Máster y Maestrías",
+   "anio": 2023,
+   "folio": "659102",
+   "monto": 4582738,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Roberto Abel Pino Sandoval. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Roberto Abel Pino Sandoval"
+  },
+  {
+   "proyecto": "Diseño y Construccion Escenografica - Mecánica Escenica",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Becas de Magíster, Máster y Maestrías",
+   "anio": 2023,
+   "folio": "667936",
+   "monto": 16812040,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Alvaro Recabarren Parodi. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Alvaro Recabarren Parodi"
+  },
+  {
+   "proyecto": "Camino Híbrido – Cursar el Magister en Antropologías Latinoamericanas de la UAH como complemento fundamental al estudio y la creación escénica con perspectiva territorial –",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Becas de Magíster, Máster y Maestrías",
+   "anio": 2023,
+   "folio": "668284",
+   "monto": 5388000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Lucía Puime Vivas. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Lucía Puime Vivas"
+  },
+  {
+   "proyecto": "Máster en Dramaturgia",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Becas Chile Crea - Fondo de Artes Escénicas",
+   "anio": 2023,
+   "folio": "656392",
+   "monto": 3610760,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Emilio Andrés Arriagada Cordero. Página 10 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Emilio Andrés Arriagada Cordero"
+  },
+  {
+   "proyecto": "Gira de Llo Lle We : Ko Rüpü, el camino del agua",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación de montajes escénicos",
+   "anio": 2023,
+   "folio": "670382",
+   "monto": 14325891,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Diego Sebastián Chamorro Ramírez. Página 12 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Diego Sebastián Chamorro Ramírez"
+  },
+  {
+   "proyecto": "Circulación del espectáculo Cuentos que me contó un pajarito en establecimientos educacionales y plazas de la cuarta, quinta y sexta región",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación de montajes escénicos",
+   "anio": 2023,
+   "folio": "665807",
+   "monto": 10143012,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Valeria Valeria Correa Rojas. Página 14 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Valeria Correa Rojas"
+  },
+  {
+   "proyecto": "Residencia de Creación Proyecto “Alterung”",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2023,
+   "folio": "662226",
+   "monto": 7752628,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: JENNY MARIBEL PINO MADARIAGA. Página 15 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Jenny Maribel Pino Madariaga"
+  },
+  {
+   "proyecto": "Residencia de Creación e Investigación de Lenguaje Sensorial en Centro Cultural Espacio Diana",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2023,
+   "folio": "668781",
+   "monto": 7723372,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Manuela Paz Razeto Iglesias. Página 16 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Manuela Paz Razeto Iglesias"
+  },
+  {
+   "proyecto": "Gran Comedor: Residencia en espacio patrimonial Ex Hotel Royal",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2023,
+   "folio": "676750",
+   "monto": 8000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: VALESKA ALEJANDRA MINCHEL LISBOA. Página 16 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Valeska Alejandra Minchel Lisboa"
+  },
+  {
+   "proyecto": "La Invivible",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición coreográfica",
+   "anio": 2023,
+   "folio": "681129",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Josefina Díaz Honores. Página 18 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Josefina Díaz Honores"
+  },
+  {
+   "proyecto": "DISPOSITIVOS Y SINESTESIAS, DANZAS PARA RECORDAR LA SIMPLEZA",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición coreográfica",
+   "anio": 2023,
+   "folio": "679569",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Daniela Raquel Yáñez Rojas. Página 19 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Daniela Raquel Yáñez Rojas"
+  },
+  {
+   "proyecto": "Asamblea",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición para narración oral",
+   "anio": 2023,
+   "folio": "671037",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Gonzalo Ignacio Olave Navarro. Página 20 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Gonzalo Ignacio Olave Navarro"
+  },
+  {
+   "proyecto": "Don Quijote te ha enviado una solicitud de amistad. Textos clásicos para un público joven.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición para narración oral",
+   "anio": 2023,
+   "folio": "674766",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Carlos Andrés Basualdo Gómez. Página 20 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Carlos Andrés Basualdo Gómez"
+  },
+  {
+   "proyecto": "Tejido de raíz",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición para narración oral",
+   "anio": 2023,
+   "folio": "681167",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Virginia Marcela Silva Ponce. Página 20 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Virginia Marcela Silva Ponce"
+  },
+  {
+   "proyecto": "Creación dramaturgica de la obra \"testigo válido\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Dramaturgia",
+   "anio": 2023,
+   "folio": "654564",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Oscar Humberto Berrios Inostroza. Página 21 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Oscar Humberto Berrios Inostroza"
+  },
+  {
+   "proyecto": "El beso de amor eterno",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Dramaturgia",
+   "anio": 2023,
+   "folio": "663023",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Sebastián Eduardo Ayala Alveal. Página 22 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sebastián Eduardo Ayala Alveal"
+  },
+  {
+   "proyecto": "Chileno",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Dramaturgia",
+   "anio": 2023,
+   "folio": "660091",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Fernando Alberto Mena Rojas. Página 22 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Fernando Alberto Mena Rojas"
+  },
+  {
+   "proyecto": "INMOLAR",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Dramaturgia",
+   "anio": 2023,
+   "folio": "679243",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Katherine Elizabeth Lopez Soto. Página 22 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Katherine Elizabeth Lopez Soto"
+  },
+  {
+   "proyecto": "Coyote",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2023,
+   "folio": "680152",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Elias Cohen Braumuller. Página 23 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Elias Cohen Braumuller"
+  },
+  {
+   "proyecto": "Gorrión",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2023,
+   "folio": "681024",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 23 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "“Todo esto está en ti o la locura será la dolorosa pasión de estos paisajes” Obra de circo contemporáneo inspirada en la poesía de Raul Zurita.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circo",
+   "anio": 2023,
+   "folio": "665252",
+   "monto": 19996767,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Paula Andrea Jirkal Briones. Página 24 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paula Andrea Jirkal Briones"
+  },
+  {
+   "proyecto": "INSANIA",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2023,
+   "folio": "676135",
+   "monto": 9939173,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Miguel Angel Soto Echeverria. Página 26 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Miguel Angel Soto Echeverria"
+  },
+  {
+   "proyecto": "\"Historias para Imaginar\" : Cápsulas de Cuentacuentos para recintos de salud",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "NARRACIÓN ORAL",
+   "anio": 2023,
+   "folio": "660726",
+   "monto": 8584437,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Claudia Andrea Bravo Bonulef. Página 27 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Claudia Andrea Bravo Bonulef"
+  },
+  {
+   "proyecto": "Bastián y Bastiana, una ópera mágica en la isla de Chiloé",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Ópera",
+   "anio": 2023,
+   "folio": "654185",
+   "monto": 24996171,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Irene Isola Yañez Torres. Página 27 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Irene Isola Yañez Torres"
+  },
+  {
+   "proyecto": "\"El Empresario\" (W.A. Mozart) - Peripecias de un agente teatral en el Chile de hoy",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Ópera",
+   "anio": 2023,
+   "folio": "679933",
+   "monto": 20531331,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Mónica Alejandra Álvarez Figueroa. Página 27 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Mónica Alejandra Álvarez Figueroa"
+  },
+  {
+   "proyecto": "Pulso de un hombre homosexual latinoamericano",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Teatro",
+   "anio": 2023,
+   "folio": "659950",
+   "monto": 19398215,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: José Antonio Soto Luer. Página 29 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "José Antonio Soto Luer"
+  },
+  {
+   "proyecto": "La historia de una mujer que regaba su planta con una cuchara",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Teatro",
+   "anio": 2023,
+   "folio": "661127",
+   "monto": 19352458,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Angela Paulina Sepulveda Rojas. Página 29 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Angela Paulina Sepulveda Rojas"
+  },
+  {
+   "proyecto": "Hoguera",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Teatro",
+   "anio": 2023,
+   "folio": "660079",
+   "monto": 19335639,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: ORGANIZACION COMUNITARIA ARTISTICA CULTURAL Y EDUCATIVA LA WASHA. Página 29 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Organizacion Comunitaria Artistica Cultural y Educativa la Washa",
+   "compania": "Organizacion Comunitaria Artistica Cultural y Educativa la Washa"
+  },
+  {
+   "proyecto": "Alicia Morel y los reinos de la Tierra",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2023,
+   "folio": "663895",
+   "monto": 14965185,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Alejandra Estrella Thayer Joui. Página 32 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Alejandra Estrella Thayer Joui"
+  },
+  {
+   "proyecto": "A la Memoria de Carla korman",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2023,
+   "folio": "681029",
+   "monto": 11325427,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Paola Alejandra Escudero Navia. Página 32 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paola Alejandra Escudero Navia"
+  },
+  {
+   "proyecto": "El barniz del desierto",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2023,
+   "folio": "661966",
+   "monto": 14999584,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Oscar Humberto Berrios Inostroza. Página 32 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Oscar Humberto Berrios Inostroza"
+  },
+  {
+   "proyecto": "En Defensa Propia",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2023,
+   "folio": "675847",
+   "monto": 14998491,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: COMPAÑÍA DE TEATRO FUERA DE LUGAR LIMITADA. Página 33 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Compañía de Teatro Fuera de Lugar Limitada",
+   "compania": "Compañía de Teatro Fuera de Lugar Limitada"
+  },
+  {
+   "proyecto": "Partes y Piezas",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circo",
+   "anio": 2023,
+   "folio": "653463",
+   "monto": 24140300,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Luciana Gabriela Mosca Spinetto. Página 34 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Luciana Gabriela Mosca Spinetto"
+  },
+  {
+   "proyecto": "La memoria de los sésiles",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Teatro",
+   "anio": 2023,
+   "folio": "679688",
+   "monto": 27629944,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Gabriel Nicolás Contreras Hernández. Página 37 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Gabriel Nicolás Contreras Hernández"
+  },
+  {
+   "proyecto": "La Ruta de La Quebrada. Relatos, Canciones y Recetas de una Comunidad",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2023,
+   "folio": "665748",
+   "monto": 23803445,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Ana Catherine Sagredo Núñez. Página 39 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Ana Catherine Sagredo Núñez"
+  },
+  {
+   "proyecto": "Chalo te cuenta el cuento a la hora del té",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Medios de difusión",
+   "anio": 2023,
+   "folio": "672442",
+   "monto": 4976966,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Gonzalo Ignacio Olave Navarro. Página 40 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Gonzalo Ignacio Olave Navarro"
+  },
+  {
+   "proyecto": "Celebrando 20 años del Teatro Municipal de Casablanca",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "671900",
+   "monto": 13160109,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: ILUSTRE MUNICIPALIDAD DE CASABLANCA. Página 42 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Ilustre Municipalidad de Casablanca"
+  },
+  {
+   "proyecto": "Fortalecimiento de la capacidad técnica de iluminación del Teatro Municipal de Valparaíso",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "680605",
+   "monto": 14895927,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: I. Municipalidad de Valparaíso. Página 42 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "I. Municipalidad de Valparaíso"
+  },
+  {
+   "proyecto": "Adquisición consola sonido para teatro municipal San Felipe",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "678088",
+   "monto": 14095501,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Ilustre Municipalidad de San Felipe. Página 43 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Ilustre Municipalidad de San Felipe"
+  },
+  {
+   "proyecto": "Prácticas escénicas y performativas como estrategia ecológica en Chile (2010-2021).",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Investigación teórica",
+   "anio": 2023,
+   "folio": "677101",
+   "monto": 14200000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Paulina Bronfman Colovatti. Página 44 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paulina Bronfman Colovatti"
+  },
+  {
+   "proyecto": "Myriam Espinoza Vergara, 50 años dedicados al Teatro Social en Valparaíso. Valoración de la vida, obra y contribución a las artes escénicas de la destacada actriz y directora porteña",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Archivos escénicos",
+   "anio": 2023,
+   "folio": "669404",
+   "monto": 8529800,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Universidad de Valparaíso. Página 46 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Universidad de Valparaíso"
+  },
+  {
+   "proyecto": "Remontaje Obra Polución Diálogos con Pedro Lemebel Colectivo La Fuga",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Remontajes escénicos",
+   "anio": 2023,
+   "folio": "666169",
+   "monto": 12457692,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Daniela Paz Nuñez Gonzalez. Página 49 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Daniela Paz Nuñez Gonzalez"
+  },
+  {
+   "proyecto": "Programa de formación en artes escénicas, para personas mayores de la comunidad de Villa Alemana",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2023,
+   "folio": "659167",
+   "monto": 4950000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Carlos Andrés Craig Sepulveds. Página 52 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Carlos Andrés Craig Sepulveds"
+  },
+  {
+   "proyecto": "Teatro y Educación: Espacio de perfeccionamiento para docentes, artistas educadores y agentes comunitarios: Incorporando herramientas teatrales en la educación",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2023,
+   "folio": "665497",
+   "monto": 4934824,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Organización Comunitaria Artística Cultural y Deportiva La Coraje. Página 52 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Organización Comunitaria Artística Cultural y Deportiva La Coraje",
+   "compania": "Organización Comunitaria Artística Cultural y Deportiva La Coraje"
+  },
+  {
+   "proyecto": "Radioteatro: proceso formativo para personas mayores",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2023,
+   "folio": "660244",
+   "monto": 4963219,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Asociación Parque Cultural de Valparaíso. Página 53 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Asociación Parque Cultural de Valparaíso",
+   "compania": "Asociación Parque Cultural de Valparaíso"
+  },
+  {
+   "proyecto": "3ra Versión: Proceso formativo Comparsa de Figurines Zorritos manada de Puertas Negras.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2023,
+   "folio": "673838",
+   "monto": 4701027,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Mariela Leonor Diaz Rivera. Página 53 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Mariela Leonor Diaz Rivera"
+  },
+  {
+   "proyecto": "ESCUELA ARTES ESCENICAS SORDAS “ARTESCESOR\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2023,
+   "folio": "681188",
+   "monto": 9989776,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: FUNDACION POR UN CHILE INCLUSIVO. Página 56 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Fundacion Por Un Chile Inclusivo",
+   "compania": "Fundacion Por Un Chile Inclusivo"
+  },
+  {
+   "proyecto": "Continuidad del proyecto Les Cárites, Escuela de Formación y Perfeccionamiento de las Artes del Transformismo",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2023,
+   "folio": "680898",
+   "monto": 9900910,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2023-fondo-de-artes-escenicas-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Corporación Educación Arte Cultura. Página 58 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Corporación Educación Arte Cultura",
+   "compania": "Corporación Educación Arte Cultura"
+  }
+ ]
+}

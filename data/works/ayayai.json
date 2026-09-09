@@ -1,14 +1,98 @@
 {
-  "slug": "ayayai", "type": "work", "title": "Ayayai",
-  "authorship": "Festín de la Risa (creación colectiva)", "direction": null,
-  "companies": ["festin-de-la-risa"],
-  "credits": [ { "artist": "carlos-munoz-rivera", "name": "Carlos Muñoz (Tony Pinganilla)", "role": "elenco" }, { "artist": null, "name": "Felipe Godoy (Tony Pitilla)", "role": "elenco" }, { "artist": null, "name": "Katherine Cisternas (Tony Petunia)", "role": "elenco" } ],
-  "disciplines": ["clown", "circo"], "audience": "familiar", "duration_min": null, "premiere_year": null,
+  "slug": "ayayai",
+  "type": "work",
+  "title": "Ayayai",
+  "authorship": "Festín de la Risa (creación colectiva)",
+  "direction": null,
+  "companies": [
+    "festin-de-la-risa"
+  ],
+  "credits": [
+    {
+      "artist": "carlos-munoz-rivera",
+      "name": "Carlos Muñoz (Tony Pinganilla)",
+      "role": "elenco"
+    },
+    {
+      "artist": null,
+      "name": "Felipe Godoy (Tony Pitilla)",
+      "role": "elenco"
+    },
+    {
+      "artist": null,
+      "name": "Katherine Cisternas (Tony Petunia)",
+      "role": "elenco"
+    }
+  ],
+  "disciplines": [
+    "clown",
+    "circo"
+  ],
+  "audience": "familiar",
+  "duration_min": null,
+  "premiere_year": null,
   "synopsis_md": "Espectáculo de clown que mezcla humor físico, improvisación, ternura y números clásicos de payasería.",
-  "communes": ["valparaiso"], "video_url": null, "dossier_url": null, "venues": [],
-  "history_text": ["2024: gira por Portugal, España, Italia y Francia", "2025: en circulación"],
-  "media": [], "tags": [],
-  "sources": [ { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 2", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "history", "synopsis"], "notes": "URL pendiente." } ],
-  "verification": { "status": "pendiente", "confidence_score": 55, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Confirmar créditos y año de estreno con la compañía." },
+  "communes": [
+    "valparaiso"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [
+    "2024: gira por Portugal, España, Italia y Francia",
+    "2025: en circulación"
+  ],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 2",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "history",
+        "synopsis"
+      ],
+      "notes": "URL pendiente."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 2 (cita Universidad de Chile, Teatromuseo, Parque Cultural de Valparaíso)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URLs pendientes."
+    },
+    {
+      "url": null,
+      "title": "Compañías candidatas por provincia (levantamiento interno, 4 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Documento de trabajo; confirmar con la compañía."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 55,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Confirmar créditos y año de estreno con la compañía."
+  },
   "published": false
 }

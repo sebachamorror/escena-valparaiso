@@ -1,0 +1,35 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondart Regional 2024: 21 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondart-regional-diciembre-2023",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/12/SELECCION-FDRT-REGIONAL2024-EXENTA-RESULTADOS-DICIEMBRE-2023.pdf",
+   "titulo": "Selección Fondart Regional 2024 (resultados diciembre 2023)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Pikunmapu ta kishulelay, el pikunmapu no está solo - obra textil mapuche",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2024,
+   "folio": "721589",
+   "monto": 11340000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2024-fondart-regional-diciembre-2023"
+   ],
+   "notas": "Responsable según nómina: Daniela Esperanza Paez Cabello. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Daniela Esperanza Paez Cabello"
+  }
+ ]
+}

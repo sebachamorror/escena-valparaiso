@@ -1,0 +1,1851 @@
+[
+ {
+  "id": "FES-0001",
+  "nombre": "II Festival Caleta de Títeres",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Asamblea Titiritera ATTICH V, Fundación TeatroMuseo del Títere y el Payaso, Empresa Portuaria Valparaíso, Centex y Seremi de las Culturas, las Artes y el Patrimonio",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2026-03-22"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": "Segunda edición del Festival Caleta de Títeres, que celebra el Día Mundial del Títere y la Marioneta (21 de marzo) transformando el Muelle Prat de Valparaíso en escenario. Programa más de quince números de títeres y marionetas, exhibición de marionetas gigantes y un especial de Teatro Lambe-Lambe desde las 13:00 horas, con reconocimiento a personalidades del oficio. Entre las 17:00 y las 18:15 horas se realizan cuatro funciones a bordo de lanchas en la bahía. Compañías y obras mencionadas: Talán-Talán, Compañía Terrestre, Lorenzo Títeres, Compañía La Bululú y Compañía La Barconeta; obras \"Olvídame\", \"Océano Pacífico\", \"El Gato Aníbal\" y \"Las Cantoras del Puerto\". Requiere inscripción previa mediante formulario del Ministerio de las Culturas.",
+  "fuentes": [
+   "FUE-0060",
+   "FUE-0017",
+   "FUE-0061"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "FES-0008",
+  "contradicciones": [],
+  "notas": "Importado de data/events/festival-caleta-de-titeres-2026.json (score 85)."
+ },
+ {
+  "id": "FES-0002",
+  "nombre": "Festival Litoral Teatral",
+  "alias": [
+   "Litoral Cultural — Festival de las Artes Escénicas en San Antonio"
+  ],
+  "comuna": "san-antonio",
+  "provincia": "san-antonio",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Centro Cultural San Antonio (Ilustre Municipalidad de San Antonio)",
+  "espacios": [
+   "ESP-0002",
+   "ESP-0081"
+  ],
+  "companias": [
+   "COMP-0068",
+   "COMP-0110",
+   "COMP-0044",
+   "COMP-0111",
+   "COMP-0050",
+   "COMP-0112",
+   "COMP-0039",
+   "COMP-0113",
+   "COMP-0114"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2026-04-12",
+   "2024-01-10/2024-01-21",
+   "2026-04-12/2026-04-26"
+  ],
+  "web": "https://centrocultural.sanantonio.cl/",
+  "instagram": null,
+  "facebook": null,
+  "descripcion": "Décima edición del Festival Litoral Teatral, a diez años de su primera versión en 2016 (con receso por la pandemia). Programación gratuita de teatro, danza, circo y teatro de máscaras en la Sala Civita Aranda del Centro Cultural San Antonio y en distintos puntos de la comuna, con funciones especiales para estudiantes y foco en la circulación de compañías de la Región de Valparaíso. Participaron 13 compañías con 12 espectáculos, entre ellas Teatro Imagen (\"La Reina Isabel cantaba rancheras\", obra inaugural), Circo Ancestral (\"La nave de los locos y LocOnas\", dirección de Andrés Del Bosque), Cooperativa Teatral de Valparaíso (\"La Tendalá\"), Ensamble Vocal Comunitario (\"Monumentos\"), Saltimbanqui Circus y Teatro El Ojo (\"La remolienda\", obra de cierre). Financiado por el Fondo de Artes Escénicas del Ministerio de las Culturas, las Artes y el Patrimonio (convocatoria 2025).",
+  "fuentes": [
+   "FUE-0062",
+   "FUE-0063",
+   "FUE-0064",
+   "FUE-0065",
+   "FUE-0095",
+   "FUE-0167"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "organizacion",
+    "valor_existente": "Centro Cultural San Antonio (Ilustre Municipalidad de San Antonio)",
+    "valor_nuevo": "Corporación Municipal de la Cultura y las Artes de San Antonio",
+    "fuentes": [
+     "FUE-0095"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "organizacion",
+    "valor_existente": "Centro Cultural San Antonio (Ilustre Municipalidad de San Antonio)",
+    "valor_nuevo": "Centro Cultural San Antonio",
+    "fuentes": [
+     "FUE-0167",
+     "FUE-0063"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/events/festival-litoral-teatral-2026.json (score 82). 'Litoral Cultural 2026. Festival de las Artes Escénicas en San Antonio' (Festivales y Encuentros Regionales 2026, $29.933.896, Corporación Municipal de la Cultura y las Artes de San Antonio): probablemente el proyecto que financió la edición 2026 del Festival Litoral Teatral; por confirmar. 2024 (10–21 de enero): 'El carnaval de la alegría' (pasacalle, Fundación Teatromuseo del Títere y el Payaso), 'El monólogo de un árbol' (Carro Nómade), 'Tripulación Paraíso' (Disparate Circo), 'Cartas para que no me olvides' (Compañía Oreja Roja), 'Voces por la memoria' (Ensamble Vocal Comunitario, dir. Diego Belmar), 'En bañador' (Compañía Aranwa), 'Historia de amor para un alma vieja' (Felipe Zambrano Miguieles), 'Perfectos Desconocidos' (compañía no indicada). 2026: 13 compañías y 12 espectáculos; nombradas Teatro Imagen ('La Reina Isabel cantaba rancheras', dir. Gustavo Meza, compañía nacional), Cooperativa Teatral de Valparaíso ('La Tendalá', 19 de abril, 18:00), Ensamble Vocal Comunitario ('Monumentos', 25 de abril, 19:00), Saltimbanqui Circus (26 de abril, 17:00 y 19:00, JJVV San Juan de Llolleo) y Teatro El Ojo ('La remolienda', cierre)."
+ },
+ {
+  "id": "FES-0003",
+  "nombre": "VIII Festival Teatro Container",
+  "alias": [
+   "VIII Festival Teatro Container",
+   "IX Festival Teatro Container"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Centro Cultural Teatro Container (CCTC), con apoyo de Paisaje Público e Iberescena",
+  "espacios": [],
+  "companias": [
+   "COMP-0052"
+  ],
+  "obras": [],
+  "numero_versiones": 9,
+  "fechas": [
+   "2024-11-21",
+   "2024",
+   "2026"
+  ],
+  "web": "https://festivalteatrocontainer.cl/",
+  "instagram": null,
+  "facebook": null,
+  "descripcion": "Octava edición del Festival Teatro Container, con el lema \"Practicar la calle\", tras dieciséis años de historia del Centro Cultural Teatro Container (CCTC, fundado en 2008) y el regreso del festival después de cuatro años sin realizarse. Organizado en dos líneas, \"Intimidad\" (dentro del contenedor) y \"Ciudad\" (espacio público), con el contenedor \"Cocina Pública\" recorriendo distintos puntos de Valparaíso. Según su director, Nicolás Eyzaguirre, esta edición se realizó \"sin haber obtenido fondos concursables ni otras fuentes de financiamiento\", sostenida en la solidaridad y el apoyo mutuo. Compañías y obras participantes: Cía. Ensamble Específico (\"Un artista del hambre\"), Andrea Paz & Silere Arts (\"Proyecto X\"), Rodrigo Chaverini (\"Frames\"), Oani Teatro (\"Trilogía de Valparaíso\"), Alumbra Creando (cuentacuentos), Festín de la Risa (clown) y Paula Sacur (\"Costa Marfil\").",
+  "fuentes": [
+   "FUE-0066",
+   "FUE-0067",
+   "FUE-0068",
+   "FUE-0095"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "nombre",
+    "valor_existente": "VIII Festival Teatro Container",
+    "valor_nuevo": "Festival Teatro Container",
+    "fuentes": [
+     "FUE-0095"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "organizacion",
+    "valor_existente": "Centro Cultural Teatro Container (CCTC), con apoyo de Paisaje Público e Iberescena",
+    "valor_nuevo": "Centro Cultural Teatro Container",
+    "fuentes": [
+     "FUE-0095"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/events/festival-teatro-container-2024.json (score 78). IX Festival Teatro Container 2026 seleccionado en Festivales y Encuentros Nacionales ($55.000.000)."
+ },
+ {
+  "id": "FES-0004",
+  "nombre": "IV Festival Ventolera: Títeres en Primavera",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Asamblea Titiritera ATTICH V, junto a la Seremi de las Culturas, la Municipalidad de Valparaíso y el Centro Comunitario Las Cañas",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2024-10-20"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": "Cuarta edición del Festival Ventolera, orientado a promover la creación, producción, exhibición y circulación de obras de titiriteros y marionetistas del territorio regional. Incluyó un taller de construcción de títeres de boca a cargo de Giovanni Vaccaro (15:00 horas, materiales gratuitos) y funciones desde las 16:00 horas de compañías de la Región de Valparaíso y una invitada de La Serena. Compañías participantes: Gabisha Títeres, Nina Títeres y Cuentacuentos, Compañía Moviendo Hilos, Compañía Capuchina, Compañía Vilkún de Marionetas, Títeres Helecho Marionatas, Compañía Correquetepillo, Titiricaos e Ingrid Vergara (La Serena, fuera de la región).",
+  "fuentes": [
+   "FUE-0069",
+   "FUE-0015"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/events/festival-ventolera-2024.json (score 75)."
+ },
+ {
+  "id": "FES-0005",
+  "nombre": "Puerto a Puerta Valparaíso",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Centro Cultural Teatro Container y Fundación OANI de Teatro (coproducción), con financiamiento de la Seremi de las Culturas, las Artes y el Patrimonio",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2024-12-01"
+  ],
+  "web": "https://oaniteatro.com/puerto-a-puerta-valparaiso/",
+  "instagram": null,
+  "facebook": null,
+  "descripcion": "Itinerancia de un contenedor marítimo transformado en cocina y escenario que recorre las calles de Valparaíso para \"reivindicar el espacio público\" con teatro, danza, narración oral y gastronomía como acto de convivencia (\"Cocina Pública\"). Es una coproducción del Centro Cultural Teatro Container y la Fundación OANI de Teatro. Forma parte de una itinerancia más amplia del mismo proyecto (\"Puerto a Puerta\") por comunas de la provincia de San Antonio (El Quisco, El Tabo, San Antonio y Santo Domingo) en 2024, financiada por el Fondo Nacional de Fomento y Desarrollo de las Artes Escénicas Itinerantes Regionales, convocatoria 2024, del Ministerio de las Culturas.",
+  "fuentes": [
+   "FUE-0070",
+   "FUE-0071"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/events/puerto-a-puerta-valparaiso-2024.json (score 60)."
+ },
+ {
+  "id": "FES-0006",
+  "nombre": "Festival de Teatro y Todas las Artes Valle del Liwa",
+  "alias": [
+   "Festival Valle del Liwa"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [
+   "COMP-0001"
+  ],
+  "obras": [],
+  "numero_versiones": 4,
+  "fechas": [
+   "2024"
+  ],
+  "web": "https://festivalvalledelliwa.cl/",
+  "instagram": "https://www.instagram.com/festivalvalledelliwa/",
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0013",
+   "FUE-0014",
+   "FUE-0154"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0001. Comuna no resuelta: Provincia de Petorca. Cuarta versión convocada en 2024 (bases de febrero de 2024): artistas locales, regionales, nacionales e internacionales (~100), con mediación obligatoria en establecimientos educacionales o sectores comunitarios; se presenta en salas y espacios abiertos. Sitio web sin resolver DNS en septiembre de 2026. Comuna sede por confirmar (Provincia de Petorca según ficha previa)."
+ },
+ {
+  "id": "FES-0007",
+  "nombre": "Festival Ventolera",
+  "alias": [
+   "IV Festival Ventolera",
+   "Festival Ventolera: Títeres en Primavera"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Asamblea Titiritera ATTICH V Región",
+  "espacios": [
+   "ESP-0033"
+  ],
+  "companias": [
+   "COMP-0002",
+   "COMP-0003",
+   "COMP-0016",
+   "COMP-0085",
+   "COMP-0086",
+   "COMP-0087",
+   "COMP-0088",
+   "COMP-0089",
+   "COMP-0090"
+  ],
+  "obras": [],
+  "numero_versiones": 4,
+  "fechas": [
+   "2024",
+   "2024-10-20"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0015",
+   "FUE-0016",
+   "FUE-0017",
+   "FUE-0018",
+   "FUE-0019",
+   "FUE-0020",
+   "FUE-0069"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0002. Comuna no resuelta: Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso. Creado por referencia desde COMP-0003. Comuna no resuelta: Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso. Comuna no resuelta: Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso. IV versión: domingo 20 de octubre de 2024, gratuita; taller 15:00 y exhibiciones 16:00. Coorganiza la Seremi de las Culturas; apoyan la Municipalidad de Valparaíso y el Centro Comunitario Las Cañas. Participó además Ingrid Vergara (La Serena, fuera de la región)."
+ },
+ {
+  "id": "FES-0008",
+  "nombre": "Festival Caleta de Títeres",
+  "alias": [
+   "II Festival Caleta de Títeres"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Asamblea Titiritera ATTICH V, Fundación TeatroMuseo del Títere y el Payaso, Empresa Portuaria Valparaíso, Centex y Seremi de las Culturas, las Artes y el Patrimonio",
+  "espacios": [],
+  "companias": [
+   "COMP-0002"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2026",
+   "2026-03-22"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": "Segunda edición del Festival Caleta de Títeres, que celebra el Día Mundial del Títere y la Marioneta (21 de marzo) transformando el Muelle Prat de Valparaíso en escenario. Programa más de quince números de títeres y marionetas, exhibición de marionetas gigantes y un especial de Teatro Lambe-Lambe desde las 13:00 horas, con reconocimiento a personalidades del oficio. Entre las 17:00 y las 18:15 horas se realizan cuatro funciones a bordo de lanchas en la bahía. Compañías y obras mencionadas: Talán-Talán, Compañía Terrestre, Lorenzo Títeres, Compañía La Bululú y Compañía La Barconeta; obras \"Olvídame\", \"Océano Pacífico\", \"El Gato Aníbal\" y \"Las Cantoras del Puerto\". Requiere inscripción previa mediante formulario del Ministerio de las Culturas.",
+  "fuentes": [
+   "FUE-0015",
+   "FUE-0016",
+   "FUE-0017",
+   "FUE-0018",
+   "FUE-0060",
+   "FUE-0061"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0002. Comuna no resuelta: Muelle Prat, Valparaíso. Importado de data/events/festival-caleta-de-titeres-2026.json (score 85)."
+ },
+ {
+  "id": "FES-0009",
+  "nombre": "IV Festival Ventolera",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [
+   "COMP-0003",
+   "COMP-0016"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2024"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0018",
+   "FUE-0019",
+   "FUE-0020",
+   "FUE-0015"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "FES-0007",
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0003. Comuna no resuelta: Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso. Comuna no resuelta: Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso."
+ },
+ {
+  "id": "FES-0010",
+  "nombre": "Jallalla Festi Circo",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [
+   "COMP-0007"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2022"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0027",
+   "FUE-0028"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0007. Comuna no resuelta: Arica."
+ },
+ {
+  "id": "FES-0011",
+  "nombre": "Gira regional de teatro familiar",
+  "alias": [
+   "Gira regional de teatro familiar 2021"
+  ],
+  "comuna": "calle-larga",
+  "provincia": "los-andes",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [
+   "COMP-0007",
+   "COMP-0010",
+   "COMP-0011"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2021"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0027",
+   "FUE-0028",
+   "FUE-0034",
+   "FUE-0035",
+   "FUE-0036",
+   "FUE-0037",
+   "FUE-0038",
+   "FUE-0039",
+   "FUE-0040",
+   "FUE-0041"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0007. Creado por referencia desde COMP-0010. Comuna no resuelta: Centro Cultural de San Antonio. Comuna no resuelta: Teatro Municipal Juan Bustos Ramírez, Quilpué."
+ },
+ {
+  "id": "FES-0012",
+  "nombre": "FESTILAMBE de Valparaíso",
+  "alias": [
+   "FESTILAMBE",
+   "Festival Internacional de Teatro Lambe Lambe de Chile"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": 2014,
+  "periodicidad": "anual",
+  "organizacion": "Fundación OANI de Teatro",
+  "espacios": [
+   "ESP-0088"
+  ],
+  "companias": [
+   "COMP-0008"
+  ],
+  "obras": [],
+  "numero_versiones": 9,
+  "fechas": [
+   "2026",
+   "2023",
+   "2024",
+   "2014",
+   "2015",
+   "2016",
+   "2017",
+   "2018",
+   "2020"
+  ],
+  "web": "https://www.festilambe.cl/",
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0029",
+   "FUE-0030",
+   "FUE-0031",
+   "FUE-0032",
+   "FUE-0118",
+   "FUE-0105",
+   "FUE-0095",
+   "FUE-0181"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "periodicidad",
+    "valor_existente": "anual",
+    "valor_nuevo": "anual con interrupciones (sin ediciones 2019, 2021, 2022, 2025)",
+    "fuentes": [
+     "FUE-0181"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Creado por referencia desde COMP-0008. Comuna no resuelta: Casa OANI, Valparaíso. 7° FESTILAMBE (Fondo AAEE 2023, $46.988.136), 8° (2024, $43.629.626), 9° 'Contagiando Humanidad' (2026, $55.000.000). Periodicidad anual deducida de la numeración; edición 2025 no confirmada. 9ª edición en 2026; contacto institucional contacto@festilambe.cl. OANI organiza además el Festival Itinerante de Teatro Lambe Lambe de Lo Barnechea (Región Metropolitana). Formato: 25 espectáculos nacionales e internacionales de teatro lambe lambe presentados simultáneamente en cajas-casitas para un espectador a la vez. Apoyos municipales y regionales; colaboran Parque Cultural de Valparaíso, Casa OANI y Teatro de Marionetas. Contacto: contacto@festilambe.cl."
+ },
+ {
+  "id": "FES-0013",
+  "nombre": "Gira regional de teatro familiar 2021",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [
+   "COMP-0010",
+   "COMP-0011"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2021"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0034",
+   "FUE-0035",
+   "FUE-0036",
+   "FUE-0037",
+   "FUE-0038",
+   "FUE-0039",
+   "FUE-0040",
+   "FUE-0041"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "FES-0011",
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0010. Comuna no resuelta: Centro Cultural de San Antonio. Comuna no resuelta: Teatro Municipal Juan Bustos Ramírez, Quilpué."
+ },
+ {
+  "id": "FES-0014",
+  "nombre": "Mujeres en Escena",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [
+   "COMP-0010"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2026"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0034",
+   "FUE-0035",
+   "FUE-0036",
+   "FUE-0037",
+   "FUE-0038"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0010. Comuna no resuelta: La Calera, El Quisco y Quilpué."
+ },
+ {
+  "id": "FES-0015",
+  "nombre": "Encuentro de Teatro Porteño Independiente",
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [
+   "COMP-0013"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2004"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0044",
+   "FUE-0045",
+   "FUE-0046",
+   "FUE-0047",
+   "FUE-0048"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0013."
+ },
+ {
+  "id": "FES-0016",
+  "nombre": "ENAI — Encuentro de Artes Escénicas para la Comunidad Sorda",
+  "alias": [
+   "ENAI",
+   "Encuentro de narración accesible e inclusiva"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": 2022,
+  "periodicidad": "anual",
+  "organizacion": "Pablo Ignacio Abarca Carrazana (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 4,
+  "fechas": [
+   "2025",
+   "2022",
+   "2023",
+   "2024",
+   "2026"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0091",
+   "FUE-0125",
+   "FUE-0118",
+   "FUE-0105",
+   "FUE-0099",
+   "FUE-0095"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "numero_versiones",
+    "valor_existente": 4,
+    "valor_nuevo": 5,
+    "fuentes": [
+     "FUE-0125",
+     "FUE-0118",
+     "FUE-0105",
+     "FUE-0099",
+     "FUE-0095"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Proyecto 'ENAI 2025: Cuarto Encuentro de Artes Escénicas para la Comunidad Sorda', seleccionado en el Fondo de Artes Escénicas 2025 (Región de Valparaíso). Comuna y organización responsable no indicadas en la nota. 2022: 'Primer Encuentro regional de narración inclusiva: contemos con otros sentidos'; 2023: 'Segundo Encuentro de narración accesible e inclusiva: ENAI 2023'; 2024: 'Tercer Encuentro… ENAI 2024 Valparaíso'; 2025: 'ENAI 2025 Cuarto Encuentro de Artes Escénicas para la Comunidad Sorda' ($47.627.139); 2026: 'ENAI 2026 Quinto Encuentro' ($49.845.799). Comuna según el título de 2024."
+ },
+ {
+  "id": "FES-0017",
+  "nombre": "A Rienda Suelta — Festival Internacional de Artes Cómicas",
+  "alias": [
+   "A Rienda Suelta"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Katherine Ruth Cisternas Collao (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 4,
+  "fechas": [
+   "2025"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0091",
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Proyecto 'A Rienda Suelta: 4° Festival Internacional de Artes Cómicas', seleccionado en el Fondo de Artes Escénicas 2025 (Región de Valparaíso). Comuna y organización no indicadas en la nota. 4° festival (2025, $26.247.211). Katherine Cisternas figura en el elenco de Festín de la Risa (obra Ayayai) según data/works; la relación festival–compañía queda por confirmar."
+ },
+ {
+  "id": "FES-0018",
+  "nombre": "EN PRÁCTICA — Festival de Danza Contacto Improvisación Valparaíso",
+  "alias": [
+   "EN PRACTICA"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "María Daniela Villanueva Tolosa (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 4,
+  "fechas": [
+   "2025",
+   "2023"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0091",
+   "FUE-0118",
+   "FUE-0099"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Festival de danza (contacto improvisación) seleccionado en el Fondo de Artes Escénicas 2025. III Encuentro (2023, $14.222.253); IV versión (2025, $23.385.924)."
+ },
+ {
+  "id": "FES-0019",
+  "nombre": "Festival de Artes Escénicas, Autocuidado y Salud Mental (Siento Teatro)",
+  "alias": [],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Siento Teatro",
+  "espacios": [],
+  "companias": [
+   "COMP-0021"
+  ],
+  "obras": [],
+  "numero_versiones": 1,
+  "fechas": [
+   "2025",
+   "2026"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0091",
+   "FUE-0099",
+   "FUE-0095"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "numero_versiones",
+    "valor_existente": 1,
+    "valor_nuevo": 2,
+    "fuentes": [
+     "FUE-0099",
+     "FUE-0095"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Proyecto 'Siento Teatro: Primer Festival de Artes Escénicas, Autocuidado y Salud Mental', Fondo de Artes Escénicas 2025. Comuna tomada de la sede de Siento Teatro (Punto de Cultura en Viña del Mar); sede del festival por confirmar. Primer festival (2025, $29.999.983) y II Festival (2026, $29.629.536); responsable de ambos proyectos: Sara Camila Solís Peña."
+ },
+ {
+  "id": "FES-0020",
+  "nombre": "Festival de Teatro Juan Edmundo González",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [
+   "COMP-0024"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2003",
+   "2005"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0018"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0024."
+ },
+ {
+  "id": "FES-0021",
+  "nombre": "Ciudad Teatro",
+  "alias": [
+   "Ciudad Teatro — Mes del Teatro Valparaíso"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Centex — Ministerio de las Culturas, las Artes y el Patrimonio",
+  "espacios": [
+   "ESP-0051",
+   "ESP-0052",
+   "ESP-0053",
+   "ESP-0054",
+   "ESP-0025",
+   "ESP-0033",
+   "ESP-0055",
+   "ESP-0056",
+   "ESP-0064",
+   "ESP-0065",
+   "ESP-0066",
+   "ESP-0067",
+   "ESP-0068",
+   "ESP-0069",
+   "ESP-0070"
+  ],
+  "companias": [
+   "COMP-0013",
+   "COMP-0039",
+   "COMP-0040",
+   "COMP-0041",
+   "COMP-0042",
+   "COMP-0043",
+   "COMP-0044",
+   "COMP-0045",
+   "COMP-0091",
+   "COMP-0092",
+   "COMP-0054",
+   "COMP-0093",
+   "COMP-0073",
+   "COMP-0094",
+   "COMP-0095"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2025-05-05/2025-05-11",
+   "2026-05-08/2026-05-28"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0132",
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "organizacion",
+    "valor_existente": "Centex — Ministerio de las Culturas, las Artes y el Patrimonio",
+    "valor_nuevo": "Sala Pascal 79",
+    "fuentes": [
+     "FUE-0136"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Ciclo por el Mes del Teatro: ocho montajes en ocho espacios de Valparaíso, 5 al 11 de mayo de 2025. Colaboran Sala Pascal 79, Entretelones-Valpo y Pocket Documentaries según la nota. Edición 2026: 8 montajes en 20 días (8 al 28 de mayo) a precios populares, más una lectura dramatizada; organiza Sala Pascal 79 con financiamiento PAOCC. En 2025 la difusión la hizo Centex, que también fue sede; la organización 2025 queda por confirmar."
+ },
+ {
+  "id": "FES-0022",
+  "nombre": "ENOI — Ópera con Identidad",
+  "alias": [
+   "ENOI"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2024",
+   "2025"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0105",
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'ENOI 2024 - Conecta con la ópera' (Irene Isola Yáñez Torres, $51.137.044) y 'ENOI 2025 - Ópera con Identidad' (Nicolás Eduardo Vásquez Muñoz, $54.818.257), Festivales y Encuentros Nacionales. Comuna no indicada."
+ },
+ {
+  "id": "FES-0023",
+  "nombre": "TEGE — Festival latinoamericano de actividades escénicas con temáticas de género",
+  "alias": [
+   "TEGE"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Kathia Javiera Schulz Hernández (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 4,
+  "fechas": [
+   "2022",
+   "2024"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0125",
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "II Festival (2022, $49.819.962); IV Festival (2024, $40.359.799). Comuna no indicada."
+ },
+ {
+  "id": "FES-0024",
+  "nombre": "GESTA — Festival de artes escénicas de mujeres",
+  "alias": [
+   "GESTA"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 6,
+  "fechas": [
+   "2022",
+   "2023"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0125",
+   "FUE-0118"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'6to Festival de Artes escénicas de mujeres, Gesta' (2022, Agrupación cultural Deportiva Social, $42.829.581) y 'GESTA 6ta versión' (2023, Paula Alejandra Céspedes Vergara, $48.240.590): la misma sexta versión aparece en dos convocatorias; por confirmar. Comuna no indicada."
+ },
+ {
+  "id": "FES-0025",
+  "nombre": "Danzalborde",
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Sociedad de Artes Escénicas Escenalborde Limitada",
+  "espacios": [],
+  "companias": [
+   "COMP-0053"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2023"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0118"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Danzalborde 18 años, construyendo una nueva realidad' (2023, $49.475.145): festival de danza con 18 años hacia 2023. Comuna deducida del nombre del organizador (Escenalborde, Valparaíso); por confirmar."
+ },
+ {
+  "id": "FES-0026",
+  "nombre": "Festival de la Niñez Hijuelas",
+  "alias": [],
+  "comuna": "hijuelas",
+  "provincia": "quillota",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Sabia Escuela de Saberes",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 1,
+  "fechas": [
+   "2023"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0118"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'I Festival de la Niñez Hijuelas' (Festivales y Encuentros Regionales 2023, $24.997.166)."
+ },
+ {
+  "id": "FES-0027",
+  "nombre": "Encuentro Laboratorios Escénicos Valparaíso (SATORI)",
+  "alias": [
+   "SATORI",
+   "Encuentro Laboratorios Escénicos Valparaíso"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2022",
+   "2023"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0125",
+   "FUE-0118"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "2022: Mariela Soledad Laterra ($19.375.000); 2023: 'SATORI: Encuentro Laboratorios Escénicos Valparaíso', Natalia Francisca Silva Valenzuela ($21.528.000)."
+ },
+ {
+  "id": "FES-0028",
+  "nombre": "Escena en Riel — Festival de Teatro en Villa Alemana",
+  "alias": [
+   "Escena en Riel"
+  ],
+  "comuna": "villa-alemana",
+  "provincia": "marga-marga",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Claudia Andrea Bravo Bonulef (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2022"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Festival de Teatro en Villa Alemana: Escena en Riel' (Festivales y Encuentros Regionales 2022, $21.411.760)."
+ },
+ {
+  "id": "FES-0029",
+  "nombre": "MIXTAS",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Katherine Elizabeth López Soto (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2022"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Festivales y Encuentros Regionales 2022 ($21.959.994). Comuna no indicada."
+ },
+ {
+  "id": "FES-0030",
+  "nombre": "¡Deja tu drama volar! — Festival de Dramaturgia de Mujeres Porteñas",
+  "alias": [
+   "Deja tu drama volar"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Amanda Adelaida Borgoño Infante (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 1,
+  "fechas": [
+   "2022"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Primer Festival de Dramaturgia de Mujeres Porteñas ¡DEJA TU DRAMA VOLAR! Mujeres Creando Teatro, Valparaíso 2022' ($24.864.340)."
+ },
+ {
+  "id": "FES-0031",
+  "nombre": "Encuentro de Artes Escénicas e Inclusión Inversa de Valparaíso",
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "El Pueblo de Piuretlandia",
+  "espacios": [],
+  "companias": [
+   "COMP-0070"
+  ],
+  "obras": [],
+  "numero_versiones": 1,
+  "fechas": [
+   "2022"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Primer Encuentro de Artes Escénicas e Inclusión Inversa de Valparaíso - Chile 2022' ($24.714.094)."
+ },
+ {
+  "id": "FES-0032",
+  "nombre": "Ciclo de Teatro en San Pedro de Putupur",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Angélica Estefanía Díaz Díaz (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 2,
+  "fechas": [
+   "2022",
+   "2025"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0125",
+   "FUE-0099"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Primera edición 2022 ($13.075.716); '2° Edición' 2025 ($14.339.444). Localidad San Pedro de Putupur; comuna no indicada (posiblemente Quillota, por confirmar)."
+ },
+ {
+  "id": "FES-0033",
+  "nombre": "CIMAC — Congreso Internacional de Malabarismo y Artes Circenses",
+  "alias": [
+   "CIMAC"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Centro Cultural Malabicirco",
+  "espacios": [],
+  "companias": [
+   "COMP-0028"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2023",
+   "2024"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0118"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'CIMAC Valparaíso 2023-2024' (Festivales y encuentros de trayectoria, $69.144.003)."
+ },
+ {
+  "id": "FES-0034",
+  "nombre": "Festival Danza Quilpué Danza",
+  "alias": [
+   "Quilpué Danza"
+  ],
+  "comuna": "quilpue",
+  "provincia": "marga-marga",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Katherine Patricia Salvo Ríos (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 22,
+  "fechas": [
+   "2026"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'22º Festival Danza Quilpué Danza' (Festivales y Encuentros Regionales 2026, $14.661.617)."
+ },
+ {
+  "id": "FES-0035",
+  "nombre": "Festival Itinerante de Narración Oral del Valle del Aconcagua",
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Magda Raquel Sánchez Martínez (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 1,
+  "fechas": [
+   "2026"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Primer Festival Itinerante de Narración Oral del Valle del Aconcagua' (2026, $22.835.221). Comunas del Valle del Aconcagua no detalladas."
+ },
+ {
+  "id": "FES-0036",
+  "nombre": "Festival de artes escénicas en escaleras, Valparaíso",
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Camila Paz Guerrero Escobar (responsable de proyecto)",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 1,
+  "fechas": [
+   "2026"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0095"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Primer festival de artes escénicas en escaleras, Valparaíso' (2026, $16.105.330)."
+ },
+ {
+  "id": "FES-0037",
+  "nombre": "Paraísos Creativos — Encuentro de Educación Artística comprometida con las jóvenes audiencias",
+  "alias": [
+   "Paraísos Creativos"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Organización Comunitaria Artística Cultural y Deportiva La Coraje",
+  "espacios": [],
+  "companias": [
+   "COMP-0054"
+  ],
+  "obras": [],
+  "numero_versiones": 3,
+  "fechas": [
+   "2024"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0105"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'PARAISOS CREATIVOS: 3er Encuentro…' (Festivales y Encuentros Regionales 2024, $26.353.675). Comuna según Puntos de Cultura (La Coraje, Valparaíso)."
+ },
+ {
+  "id": "FES-0038",
+  "nombre": "Trenzando Puntos de Fuga",
+  "alias": [
+   "Puntos de Fuga"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": 2025,
+  "periodicidad": null,
+  "organizacion": "Red Ramal Cultural, con la Seremi de las Culturas, las Artes y el Patrimonio y municipalidades participantes",
+  "espacios": [
+   "ESP-0071"
+  ],
+  "companias": [
+   "COMP-0097"
+  ],
+  "obras": [],
+  "numero_versiones": 2,
+  "fechas": [
+   "2025",
+   "2026-09-05"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0140"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Circuito itinerante regional de música, teatro y folclor: primera etapa 2025; segunda etapa 2026 en 12 comunas (Quintero, Concón, Zapallar, Olmué, La Calera, Quillota, Papudo, Petorca, Cabildo, Puchuncaví, La Cruz, Limache). Sin comuna única. En La Calera participaron además la Orquesta Municipal de La Calera y el grupo folclórico Voces al Viento (Paihuén, Cabildo)."
+ },
+ {
+  "id": "FES-0039",
+  "nombre": "FESTIGOC — Festival Estudiantil de Teatro Escuela Gastón Ormazábal Cabrera",
+  "alias": [
+   "FESTIGOC",
+   "Festival Escolar de Teatro de Putaendo"
+  ],
+  "comuna": "putaendo",
+  "provincia": "san-felipe-de-aconcagua",
+  "anio_creacion": 2024,
+  "periodicidad": "anual (proyectada)",
+  "organizacion": "Escuela Gastón Ormazábal Cabrera (Putaendo)",
+  "espacios": [
+   "ESP-0074"
+  ],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 1,
+  "fechas": [
+   "2024-08-28/2024-08-29"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0147"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Teatro escolar del Valle del Aconcagua: ocho establecimientos de Putaendo (Escuela Gastón Ormazábal Cabrera, Colegio San Alberto, Liceo Rinconada de Silva), San Felipe (Liceo Industrial, Colegio Santa Juana de Arco) y Santa María (Escuela Artística El Tambo, Escuela Santa Filomena, Escuela Julio Tejedor Zúñiga); cinco obras por día, 10:00–13:00; invitados Nathalie Nicloux, Alejandro Trejo y Valentina Flores; unas 1.000 personas de público según su director."
+ },
+ {
+  "id": "FES-0040",
+  "nombre": "Culto — Quincena Cultural de Zapallar",
+  "alias": [
+   "Culto",
+   "Quincena Cultural de Zapallar"
+  ],
+  "comuna": "zapallar",
+  "provincia": "petorca",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Antonia Cruz y Valentina Tagle (gestoras) con la Fundación Municipal de Cultura de Zapallar",
+  "espacios": [
+   "ESP-0073"
+  ],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 8,
+  "fechas": [
+   "2023-12-30/2024-01-14"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0149"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Principalmente artes visuales (unos 50 artistas); apertura con danza moderna (Josefina Greene y Pedro Greene) y cierre performático (Valentina Serrati con proyecto Sittaka, 13 de enero de 2024). No se mencionan compañías teatrales."
+ },
+ {
+  "id": "FES-0041",
+  "nombre": "Ciclo de Teatro Familiar de Quillota",
+  "alias": [],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Centro Cultural Leopoldo Silva Reynoard (Municipalidad de Quillota)",
+  "espacios": [
+   "ESP-0016"
+  ],
+  "companias": [
+   "COMP-0018",
+   "COMP-0104",
+   "COMP-0105",
+   "COMP-0106"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2019-07-18/2019-07-20"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0156"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Vacaciones de invierno 2019: cuatro obras en tres días, $2.000 entrada general, público familiar."
+ },
+ {
+  "id": "FES-0042",
+  "nombre": "Teatro a Mil en la Región de Valparaíso",
+  "alias": [
+   "Festival Internacional Teatro a Mil — circuito regional Valparaíso"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Fundación Teatro a Mil",
+  "espacios": [
+   "ESP-0061",
+   "ESP-0082",
+   "ESP-0059"
+  ],
+  "companias": [
+   "COMP-0108"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2016-01-03/2016-01-25",
+   "2025-01-17/2025-01-21",
+   "2026-01-18",
+   "2026-01-27"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0158",
+   "FUE-0168",
+   "FUE-0179"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Circuito regional gratuito de enero de 2016 en siete comunas de la región (no nombradas), con compañías de China, Bolivia, España y Argentina; en Rinconada: 'La fortuna de las canciones de Jilin' (Conjunto de Canto y Danza de Jilin, China, 13 de enero) y el pasacalle 'Alas de fuego' (Teatro Profesional Onirus, 24 de enero). Casablanca 2025: 'El brote' (Compañía Criolla, Argentina, dir. Emiliano Dionisi, 17 de enero, 20:00, Teatro Municipal), 'Amal en Casablanca' (The Walk Productions y Handspring Puppet Company, dir. artístico Amir Nizar Zuabi, 20 de enero, 19:30, frontis del Centro Cultural), 'La historia del Ramayana' (India, dir. M.N. Harikumar, 21 de enero, 20:00, Teatro Municipal). Compañías extranjeras sin registro propio. El municipio lleva 10 años con el convenio. Viña del Mar 2026: 'Mr. Bo' (Marie de Jongh, España, 18 de enero, 20:00) y 'El encanto del marioneta oriental' (Compañía de títeres de Rugao, China, 27 de enero, 20:00), gratuitas con inscripción previa; compañías extranjeras sin registro propio."
+ },
+ {
+  "id": "FES-0043",
+  "nombre": "Festival Nacional de Danza de Los Andes",
+  "alias": [],
+  "comuna": "los-andes",
+  "provincia": "los-andes",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": null,
+  "espacios": [
+   "ESP-0080"
+  ],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 21,
+  "fechas": [
+   "2025-07-18/2025-07-20"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0159"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "XXI versión (Gala de Danza 2025) en el marco de los 234 años de Los Andes: más de 500 bailarines, elencos escolares y academias, gratuito. Disciplina: danza."
+ },
+ {
+  "id": "FES-0044",
+  "nombre": "Ciclo de teatro municipal de La Cruz",
+  "alias": [],
+  "comuna": "la-cruz",
+  "provincia": "quillota",
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Departamento de Cultura, Municipalidad de La Cruz",
+  "espacios": [],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2025"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0162"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Mencionado en el balance municipal 2025 como 'ciclo de teatro con participación de niñas, niños y actores profesionales'; nombre, fechas, obras y compañías no publicados."
+ },
+ {
+  "id": "FES-0045",
+  "nombre": "Ciclo Teatro Infantil del Teatro Municipal de San Felipe",
+  "alias": [],
+  "comuna": "san-felipe",
+  "provincia": "san-felipe-de-aconcagua",
+  "anio_creacion": null,
+  "periodicidad": "mensual (último sábado de cada mes)",
+  "organizacion": "Municipalidad de San Felipe — Teatro Municipal",
+  "espacios": [
+   "ESP-0062"
+  ],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2022-10-22"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0170"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Fábulas fabulosas' (cuentacuentos con música en vivo), sábado 22 de octubre de 2022, 12:00, entrada liberada; función adelantada por los feriados de fin de mes. Artista o compañía no indicados."
+ },
+ {
+  "id": "FES-0046",
+  "nombre": "Festival Síntesis Teatral",
+  "alias": [
+   "FSTV",
+   "Festival Síntesis Teatral Valparaíso"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "anio_creacion": 2016,
+  "periodicidad": "anual (mayo, Día Nacional del Teatro)",
+  "organizacion": "Laboratorio Anatomía Teatral, con la Seremi de las Culturas, Centex, el Parque Cultural de Valparaíso y la Municipalidad de Valparaíso",
+  "espacios": [
+   "ESP-0054",
+   "ESP-0003",
+   "ESP-0018",
+   "ESP-0002",
+   "ESP-0016",
+   "ESP-0089",
+   "ESP-0062"
+  ],
+  "companias": [
+   "COMP-0013",
+   "COMP-0124"
+  ],
+  "obras": [],
+  "numero_versiones": 7,
+  "fechas": [
+   "2022-05-11",
+   "2019-05-06/2019-05-26",
+   "2020-05"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175",
+   "FUE-0176",
+   "FUE-0177",
+   "FUE-0178"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "7ª edición inaugurada virtualmente el 11 de mayo de 2022 (canal de YouTube FSTV) con tres estrenos transmitidos. Comuna y organización no indicadas. Creado en 2016 para celebrar el Día Nacional del Teatro y el natalicio de Andrés Pérez. 2019 (4ª): 23 obras, 5 estrenos, 6 comunas, más de 30 presentaciones en 8 espacios, con reposiciones de 'Feroz' (Teatro La Peste) y 'Ella & Ella' (Omar Saavedra), compañías emergentes, teatro familiar y egresados de escuelas regionales; programa completo en laboratorioanatomiateatral.cl/folleto-fstv19 (pendiente). 2020 (5ª): primera versión por streaming. 2022 (7ª): inauguración virtual el 11 de mayo. Versión bajo el lema 'Derecho a la Utopía' con programación de emergencia (año no indicado)."
+ },
+ {
+  "id": "FES-0047",
+  "nombre": "Mes del Teatro en la Región de Valparaíso 2022",
+  "alias": [
+   "Mes del Teatro 2022"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Seremi de las Culturas, las Artes y el Patrimonio de Valparaíso y espacios asociados",
+  "espacios": [
+   "ESP-0003",
+   "ESP-0053",
+   "ESP-0022",
+   "ESP-0087",
+   "ESP-0054",
+   "ESP-0004"
+  ],
+  "companias": [
+   "COMP-0116",
+   "COMP-0008",
+   "COMP-0117",
+   "COMP-0118",
+   "COMP-0039",
+   "COMP-0119"
+  ],
+  "obras": [],
+  "numero_versiones": null,
+  "fechas": [
+   "2022-05-11/2022-05-28"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Programación regional del Mes del Teatro 2022 según el Ministerio."
+ },
+ {
+  "id": "FES-0048",
+  "nombre": "Festival Internacional Santiago Off — extensión Región de Valparaíso",
+  "alias": [
+   "Santiago Off"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "anio_creacion": null,
+  "periodicidad": null,
+  "organizacion": "Fundación Santiago Off",
+  "espacios": [
+   "ESP-0059"
+  ],
+  "companias": [],
+  "obras": [],
+  "numero_versiones": 19,
+  "fechas": [
+   "2026-01-31"
+  ],
+  "web": null,
+  "instagram": null,
+  "facebook": null,
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0179"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "XIX Festival Internacional Santiago Off: 'Historia de amor para un alma vieja' (compañía FA, dir. Felipe Zambrano) en el Teatro Municipal de Viña del Mar, 31 de enero de 2026, 20:00, gratuita con inscripción."
+ }
+]

@@ -1,0 +1,63 @@
+{
+  "slug": "myriam-espinoza-vergara",
+  "type": "artist",
+  "name": "Myriam Espinoza Vergara",
+  "artistic_name": null,
+  "commune": "valparaiso",
+  "commune_basis": "prensa",
+  "crafts": [
+    "actuacion",
+    "direccion"
+  ],
+  "disciplines": [
+    "teatro"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": "Actriz y directora porteña con 50 años dedicados al teatro social en Valparaíso, según el proyecto de archivos escénicos de la Universidad de Valparaíso (Fondo de Artes Escénicas 2023).",
+  "companies": [],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

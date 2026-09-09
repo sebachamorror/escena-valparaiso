@@ -1,0 +1,105 @@
+{
+  "slug": "teatro-municipal-de-vina-del-mar",
+  "type": "venue",
+  "name": "Teatro Municipal de Viña del Mar",
+  "short_name": null,
+  "venue_type": "teatro",
+  "owner": "municipal",
+  "place": {
+    "name": null,
+    "address": "Plaza José Francisco Vergara s/n, Viña del Mar",
+    "commune": "vina-del-mar",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": "https://teatrovina.cl/",
+  "contact_public": "teatro.municipal@munivina.cl",
+  "social": {
+    "instagram": "https://www.instagram.com/teatro.munivina/",
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/01/SELECCIONADOS-FAAEE-2025.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2025 (líneas notificadas en enero 2025)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://teatrovina.cl/",
+      "title": "Teatro Municipal Viña del Mar (sitio oficial)",
+      "publisher": "Teatro Municipal de Viña del Mar — Municipalidad de Viña del Mar",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Consultado en septiembre de 2026: dirección, contacto institucional y programación del mes."
+    },
+    {
+      "url": "https://quillota.cl/municipalidad/wp-content/uploads/2025/10/Quillota-Cultural-septiembre_-2025.pdf",
+      "title": "Quillota Cultural — septiembre 2025 (publicación digital mensual de la Dirección de Cultura)",
+      "publisher": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Boletín de 105 páginas leído con PyMuPDF. Seminario de voz del Taller Municipal de Teatro (Pablo Valencia), salida pedagógica al Teatro Municipal de Viña del Mar ('El Húsar de la Muerte', La Patogallina, 30 de septiembre de 2025)."
+    },
+    {
+      "url": "https://www.munivina.cl/noticias/teatro-municipal-de-vina-del-mar-inicia-el-2026-con-espectaculares-conciertos-teatro-danza-y-humor/",
+      "title": "Teatro Municipal de Viña del Mar inicia el 2026 con espectaculares conciertos, teatro, danza y humor",
+      "publisher": "Ilustre Municipalidad de Viña del Mar",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 9 de enero de 2026."
+    },
+    {
+      "url": "https://www.munivina.cl/noticias/teatro-municipal-de-vina-del-mar-lanza-temporada-2026-con-mas-de-60-espectaculos/",
+      "title": "Teatro Municipal de Viña del Mar lanza temporada 2026 con más de 60 espectáculos",
+      "publisher": "Ilustre Municipalidad de Viña del Mar",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 17 de abril de 2026: más de 60 presentaciones; 'La Traviata' en octubre de 2026 con el Colectivo Artístico Lírica Disidente; 'El Cascanueces' a fin de año."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

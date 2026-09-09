@@ -1,0 +1,435 @@
+{
+ "capa": 5,
+ "consulta": "Q-0061",
+ "resumen": "Fondo de Artes Escénicas 2026: 17 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2026-fondo-de-artes-escenicas-diciembre-2025",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/12/seleccionados-aaee-2026.pdf",
+   "titulo": "Nóminas de seleccionados Fondo de Artes Escénicas 2026 (Becas Chile Crea, Festivales y Encuentros)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Fundación OANI de Teatro",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «9° FESTILAMBE de Valparaíso, Festival Internacional de Teatro Lambe Lambe de Chile \"Contagiando Humanidad\"» (Fondo de Artes Escénicas 2026, Nacionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Centro Cultural Teatro Container",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «IX Festival Teatro Container 2026» (Fondo de Artes Escénicas 2026, Nacionales). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "María Luisa Gutiérrez Godoy",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Estudios de Magíster en Patrimonio, Universidad de Valparaíso: Metodologías Escénicas para la Mediación del Patrimonio Inmaterial» (Fondo de Artes Escénicas 2026, Magíster, máster o maestría). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Nicolas Fernando Mayorga Ramirez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «beca para Magister en Practicas Coreográficas / Nicolás Mayorga Ramírez» (Fondo de Artes Escénicas 2026, Magíster, máster o maestría). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Jacinta María Egaña Kaulen",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Formación en Teatro Balinés: profundizando el puente en Indonesia y Chile» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Catherine Jara Rebolledo",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Perfeccionamiento intensivo y especializado en la disciplina del Clown, Argentina.» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "María Ignacia Millán Azagra",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Territorios que cuidan: salud, cultura y comunidad desde la Gestión Cultural» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Carlos Andrés Craig Sepúlveda",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Diplomado en Teatro aplicado en educación, salud y comunidad» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Dixi Candy Gonzalez Gamboa",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Programa de profundización y perfeccionamiento teórico-práctico en nar ración oral contemporánea. con el Maestro Juan Martin Tapia» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Luisa Mackarena Navarro Cubillos",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Especialización y certificación en rigging para las Artes Escénicas y el trabajo seguro en altura.» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Iván Enrique Torres Pino",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Curso online de perfeccionamiento técnico en Cuerda Lisa» (Fondo de Artes Escénicas 2026, Especialización y perfeccionamiento). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Sara Camila Solis Peña",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «II Festival de Artes Escénicas , Autocuidado y Salud Mental SIENTO TEATRO» (Fondo de Artes Escénicas 2026, Regionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Magda Raquel Sánchez Martínez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Primer Festival Itinerante de Narración Oral del Valle del Aconcagua» (Fondo de Artes Escénicas 2026, Regionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Camila Paz Guerrero Escobar",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «Primer festival de artes escénicas en escaleras, Valparaíso.» (Fondo de Artes Escénicas 2026, Regionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Katherine Patricia Salvo Rios",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «22º Festival Danza Quilpué Danza» (Fondo de Artes Escénicas 2026, Regionales). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Pablo Ignacio Abarca Carrazana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable del proyecto «ENAI 2026 Quinto Encuentro de Artes Escénicas para la Comunidad Sorda» (Fondo de Artes Escénicas 2026, Nacionales). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Estudios de Magíster en Patrimonio, Universidad de Valparaíso: Metodologías Escénicas para la Mediación del Patrimonio Inmaterial",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Magíster, máster o maestría",
+   "anio": 2026,
+   "folio": "808185",
+   "monto": 7052160,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: María Luisa Gutiérrez Godoy. Página 3 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "María Luisa Gutiérrez Godoy"
+  },
+  {
+   "proyecto": "beca para Magister en Practicas Coreográficas / Nicolás Mayorga Ramírez",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Magíster, máster o maestría",
+   "anio": 2026,
+   "folio": "831579",
+   "monto": 17838897,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Nicolas Fernando Mayorga Ramirez. Página 3 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Nicolas Fernando Mayorga Ramirez"
+  },
+  {
+   "proyecto": "Formación en Teatro Balinés: profundizando el puente en Indonesia y Chile",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y perfeccionamiento",
+   "anio": 2026,
+   "folio": "805499",
+   "monto": 5999999,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Jacinta María Egaña Kaulen. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Jacinta María Egaña Kaulen"
+  },
+  {
+   "proyecto": "Perfeccionamiento intensivo y especializado en la disciplina del Clown, Argentina.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y perfeccionamiento",
+   "anio": 2026,
+   "folio": "806661",
+   "monto": 3571612,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Catherine Jara Rebolledo. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Catherine Jara Rebolledo"
+  },
+  {
+   "proyecto": "Territorios que cuidan: salud, cultura y comunidad desde la Gestión Cultural",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y perfeccionamiento",
+   "anio": 2026,
+   "folio": "826334",
+   "monto": 2529000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: María Ignacia Millán Azagra. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "María Ignacia Millán Azagra"
+  },
+  {
+   "proyecto": "Diplomado en Teatro aplicado en educación, salud y comunidad",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y perfeccionamiento",
+   "anio": 2026,
+   "folio": "832026",
+   "monto": 2300000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Carlos Andrés Craig Sepúlveda. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Carlos Andrés Craig Sepúlveda"
+  },
+  {
+   "proyecto": "Programa de profundización y perfeccionamiento teórico-práctico en nar ración oral contemporánea. con el Maestro Juan Martin Tapia",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y perfeccionamiento",
+   "anio": 2026,
+   "folio": "831816",
+   "monto": 5058060,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Dixi Candy Gonzalez Gamboa. Página 7 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Dixi Candy Gonzalez Gamboa"
+  },
+  {
+   "proyecto": "Especialización y certificación en rigging para las Artes Escénicas y el trabajo seguro en altura.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y perfeccionamiento",
+   "anio": 2026,
+   "folio": "817862",
+   "monto": 1496800,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Luisa Mackarena Navarro Cubillos. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Luisa Mackarena Navarro Cubillos"
+  },
+  {
+   "proyecto": "Curso online de perfeccionamiento técnico en Cuerda Lisa",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Especialización y perfeccionamiento",
+   "anio": 2026,
+   "folio": "818205",
+   "monto": 4800000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Iván Enrique Torres Pino. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Iván Enrique Torres Pino"
+  },
+  {
+   "proyecto": "Litoral Cultural 2026. Festival de las Artes Escénicas en San Antonio",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Regionales",
+   "anio": 2026,
+   "folio": "806878",
+   "monto": 29933896,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Corporación Municipal de la Cultura y las Artes de San Anton. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Corporación Municipal de la Cultura y las Artes de San Anton"
+  },
+  {
+   "proyecto": "II Festival de Artes Escénicas , Autocuidado y Salud Mental SIENTO TEATRO",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Regionales",
+   "anio": 2026,
+   "folio": "821746",
+   "monto": 29629536,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Sara Camila Solis Peña. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sara Camila Solis Peña"
+  },
+  {
+   "proyecto": "Primer Festival Itinerante de Narración Oral del Valle del Aconcagua",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Regionales",
+   "anio": 2026,
+   "folio": "806360",
+   "monto": 22835221,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Magda Raquel Sánchez Martínez. Página 10 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Magda Raquel Sánchez Martínez"
+  },
+  {
+   "proyecto": "Primer festival de artes escénicas en escaleras, Valparaíso.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Regionales",
+   "anio": 2026,
+   "folio": "814996",
+   "monto": 16105330,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Camila Paz Guerrero Escobar. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Camila Paz Guerrero Escobar"
+  },
+  {
+   "proyecto": "22º Festival Danza Quilpué Danza",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Regionales",
+   "anio": 2026,
+   "folio": "813312",
+   "monto": 14661617,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Katherine Patricia Salvo Rios. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Katherine Patricia Salvo Rios"
+  },
+  {
+   "proyecto": "9° FESTILAMBE de Valparaíso, Festival Internacional de Teatro Lambe Lambe de Chile \"Contagiando Humanidad\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Nacionales",
+   "anio": 2026,
+   "folio": "805953",
+   "monto": 55000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Fundación OANI de Teatro. Página 12 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Fundación OANI de Teatro",
+   "compania": "Fundación OANI de Teatro"
+  },
+  {
+   "proyecto": "ENAI 2026 Quinto Encuentro de Artes Escénicas para la Comunidad Sorda",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Nacionales",
+   "anio": 2026,
+   "folio": "811365",
+   "monto": 49845799,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: Pablo Ignacio Abarca Carrazana. Página 12 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pablo Ignacio Abarca Carrazana"
+  },
+  {
+   "proyecto": "IX Festival Teatro Container 2026",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Nacionales",
+   "anio": 2026,
+   "folio": "805619",
+   "monto": 55000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-diciembre-2025"
+   ],
+   "notas": "Responsable según nómina: CENTRO CULTURAL TEATRO CONTAINER. Página 13 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Centro Cultural Teatro Container",
+   "compania": "Centro Cultural Teatro Container"
+  }
+ ]
+}

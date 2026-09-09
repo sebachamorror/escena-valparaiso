@@ -1,0 +1,48 @@
+{
+  "slug": "piratas-del-barrio",
+  "type": "work",
+  "title": "Piratas del Barrio",
+  "authorship": null,
+  "direction": null,
+  "companies": [],
+  "credits": [],
+  "disciplines": [
+    "titeres"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": "Función a bordo de una lancha en Valparaíso.",
+  "communes": [
+    "valparaiso"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+      "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso",
+      "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuatro de las seis compañías del catálogo (Titiricaos, La Barconeta, La Capuchina, Vaccaro Puppets) declaran formar parte de la \"Asamblea Titiritera ATTICH Quinta Región\"."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

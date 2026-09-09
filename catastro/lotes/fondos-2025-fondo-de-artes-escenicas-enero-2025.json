@@ -1,0 +1,1220 @@
+{
+ "capa": 5,
+ "consulta": "Q-0058",
+ "resumen": "Fondo de Artes Escénicas 2025: 54 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2025-fondo-de-artes-escenicas-enero-2025",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/01/SELECCIONADOS-FAAEE-2025.pdf",
+   "titulo": "Nóminas de seleccionados Fondo de Artes Escénicas 2025 (líneas notificadas en enero 2025)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Centro Cultural Escenalborde",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «\"Danza en la Biblioteca\", circulación de unipersonales coreográficos en Bibliotecas Públicas de las Regiones de Los Lagos y Los Ríos.» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Fundación OANI de Teatro",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «NOSOTRXS» (Fondo de Artes Escénicas 2025, Títeres). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Diego Sebastián Chamorro Ramírez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Huidobro Viene Navegando + Registro» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "María José Franco Campos",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «\"La Ruta de Hilo Rojo\"» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Paula Andrea Jirkal Briones",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Circulación nacional \"Todo esto está en ti\"; obra de circo contemporáneo inspirada en la poesía de Raul Zurita» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Natalia Francisca Cuéllar Díaz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Circulación nacional obra \"KI, la respiración del tiempo\"» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Lucía Francisca Silva Vegas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Circulación Caudal, por la liberación de las aguas de Teatro LaWasha» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Milenka Cucurella Farías",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Residencia Exploración del lenguaje creativo para la primera infancia. Colectivo Escénico La Enredadera.» (Fondo de Artes Escénicas 2025, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Francisco Javier Díaz Pacheco",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «RAQ III: Residencias de Arte Queer. 'Memorias Queer de Valparaíso'» (Fondo de Artes Escénicas 2025, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Christopher Camilo Ortega Silva",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Residencia Litismo: re- conocer cuerpo + sonido + palabra» (Fondo de Artes Escénicas 2025, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Carlos Andrés Muñoz Rivera",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Trashumantes, en la búsqueda de nuevos caminos creativos» (Fondo de Artes Escénicas 2025, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Ingrid Alejandra Flores Mondaca",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Más allá de las ruinas, un espectáculo de ciencia ficción dirigido por Ingrid Flores Moncada» (Fondo de Artes Escénicas 2025, Circo). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Marco Ignacio Orellana Pavez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Máquina, de gloria y olvido» (Fondo de Artes Escénicas 2025, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Franco Ignacio Oviedo Maldonado",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «La Invivible» (Fondo de Artes Escénicas 2025, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Laura Cristina Corona Espinoza",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «HUACA - Cartografía danzada de un territorio -» (Fondo de Artes Escénicas 2025, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Valentina Michelle Orellana Reyes",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Creación y Producción de la obra de danza contemporánea \"La Última Danza de La Pincoya\"» (Fondo de Artes Escénicas 2025, Danza). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Sibila Sotomayor Van Rysseghem",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Acción/Nebulosa: Laboratorio de investigación performativa antifascista - colectivo LASTESIS» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Pascuala Ilabaca Argandoña",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «\"No me nombren a mi sola\"» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Juliana da Silva Martins",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Contrahílo - mujeres que tejen en el aire» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Oscar Andrés Gonzalez Bosque",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «La Nave de los locos, locOnas y Alacalufes. Teatro circo ancestral» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Jacinta María Egaña Kaulen",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Azul y el bosque extinto, montaje interdisciplinar para infancias» (Fondo de Artes Escénicas 2025, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Zenith Claudia Navarrete Ruiz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Secretos de mujeres» (Fondo de Artes Escénicas 2025, Narración oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Julieta Tamara Saavedra Barraza",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «EL TIEMPO NO ESPERA Monólogos del Adulto Mayor _ Una propuesta de Montaje escénico por Julieta y compañía» (Fondo de Artes Escénicas 2025, Narración oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Carlos Andrés Basualdo Gómez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Si te lo cuento, ¿lo leerías? Textos clásicos narrados oralmente» (Fondo de Artes Escénicas 2025, Narración oral). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "David Gabriel Valdivia Argandoña",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «“El Trueno de Milén”, una ópera de cámara por la inclusión de la neurodivergencia en las artes escénicas» (Fondo de Artes Escénicas 2025, Ópera). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Viviana De lourdes Hernandez Silva",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Ardid de amor - Una comedia de enredos en el chile colonial, opera de Roberto Puelma» (Fondo de Artes Escénicas 2025, Ópera). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Maritza Alejandra Farías Cerpa",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «NINA» (Fondo de Artes Escénicas 2025, Teatro). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Camila Fernanda Pichuante Cruz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «La Ventana de Eva , espectaculo de teatro objeto» (Fondo de Artes Escénicas 2025, Títeres). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Verónica Lucía Sentis Herrmann",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Actualización y rediseño plataforma digital sobre teatro de Valparaíso www.historiadelteatro envalparaiso.cl» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "CentroCultural de Arte Español Flamenco Triana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Mejoramiento de la Ficha Técnica de la compañía viñamarina Flamenco Triana» (Fondo de Artes Escénicas 2025, Compañías de las Artes Escénicas). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Martin Esteban Farias Zuñiga",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Bertolt Brecht en Chile: una historia de la teoría y la práctica brechtiana 1930-1973» (Fondo de Artes Escénicas 2025, Investigación teórica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Kathleen Whitlock Leaning",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Arte + Ciencia: respuestas neurofisiológicas y experiencia subjetiva de estudiantes de teatro» (Fondo de Artes Escénicas 2025, Investigación teórica). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Jacinta María Egaña Kaulen",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Escuela de máscara y movimiento para la creación escénica» (Fondo de Artes Escénicas 2025, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Sebastián Fernando Farah Rodríguez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Formación Lambesur» (Fondo de Artes Escénicas 2025, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Cristian Antonio González Rivera",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Valparaíso como documento: 2° versión de seminarios de especialización y reflexión crítica de teatro documental» (Fondo de Artes Escénicas 2025, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Valentina Fuentes Durán",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Voces Escénicas: programa de perfeccionamiento vocal para artistas escénicos» (Fondo de Artes Escénicas 2025, Profesionalización del sector). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Catalina Andrea Tapia Vargas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «PortaDanza, haciendo tribu con mujeres y bebés danzantes. Fortaleciendo la comunidad a través de la Danza y el Porteo.» (Fondo de Artes Escénicas 2025, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Sandra Carola Lema Ruiz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Memorias en escena: Taller de creación de historias por medio de la animación de objetos y la narración oral» (Fondo de Artes Escénicas 2025, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Francisca Belén Zaldívar Guzmán",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable del proyecto «Taller de teatro para personas trans en Valparaíso y Quillota» (Fondo de Artes Escénicas 2025, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Huidobro Viene Navegando + Registro",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "748786",
+   "monto": 17093777,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Diego Sebastián Chamorro Ramírez. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Diego Sebastián Chamorro Ramírez"
+  },
+  {
+   "proyecto": "\"La Ruta de Hilo Rojo\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "750386",
+   "monto": 19534557,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: María José Franco Campos. Página 4 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "María José Franco Campos"
+  },
+  {
+   "proyecto": "Circulación nacional \"Todo esto está en ti\"; obra de circo contemporáneo inspirada en la poesía de Raul Zurita",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "750325",
+   "monto": 19997974,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Paula Andrea Jirkal Briones. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paula Andrea Jirkal Briones"
+  },
+  {
+   "proyecto": "Circulación nacional obra \"KI, la respiración del tiempo\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "751317",
+   "monto": 19295318,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Natalia Francisca Cuéllar Díaz. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Natalia Francisca Cuéllar Díaz"
+  },
+  {
+   "proyecto": "Circulación Caudal, por la liberación de las aguas de Teatro LaWasha",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "752798",
+   "monto": 13657506,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Lucía Francisca Silva Vegas. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Lucía Francisca Silva Vegas"
+  },
+  {
+   "proyecto": "\"Danza en la Biblioteca\", circulación de unipersonales coreográficos en Bibliotecas Públicas de las Regiones de Los Lagos y Los Ríos.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "758373",
+   "monto": 18404528,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Centro Cultural Escenalborde. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Centro Cultural Escenalborde",
+   "compania": "Centro Cultural Escenalborde"
+  },
+  {
+   "proyecto": "Creación de Rutina de cuadro Fijo; Sombras del vuelo",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/Actos y rutinas circenses",
+   "anio": 2025,
+   "folio": "769526",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "A la deriva",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición para Ópera",
+   "anio": 2025,
+   "folio": "775344",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Fresia",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición para Ópera",
+   "anio": 2025,
+   "folio": "754899",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "SE BUSCA A LA RANITA. LA GARZA Y EL ZARAPITO (Investigadores Privados)",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Guión, diseño y/o construcción de títeres",
+   "anio": 2025,
+   "folio": "749195",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Vida y hazañas del señor Erik Satie, fonometrógrafo.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Guión, diseño y/o construcción de títeres",
+   "anio": 2025,
+   "folio": "748656",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Acantiladas",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2025,
+   "folio": "770034",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Mi sombra en el azul de un reflejo",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2025,
+   "folio": "773684",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Tiempo, Velocidad y Distancia",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2025,
+   "folio": "776419",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 10 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Ecos de vida: Trazos kinéticos",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Composición coreográfica",
+   "anio": 2025,
+   "folio": "770800",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 10 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "La Reina Isabel Primera y las Tácticas de Guerra de los Pueblos del Sur",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/Dramaturgia",
+   "anio": 2025,
+   "folio": "748330",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Raza de uno",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/Dramaturgia",
+   "anio": 2025,
+   "folio": "767819",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 11 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Ana suromai o el gesto de Baubo",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Composición escénica/ Interdisciplinar",
+   "anio": 2025,
+   "folio": "754377",
+   "monto": 3500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: No aplica. Página 12 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "No aplica"
+  },
+  {
+   "proyecto": "Residencia Exploración del lenguaje creativo para la primera infancia. Colectivo Escénico La Enredadera.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2025,
+   "folio": "765957",
+   "monto": 8707400,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Milenka Cucurella Farías. Página 13 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Milenka Cucurella Farías"
+  },
+  {
+   "proyecto": "RAQ III: Residencias de Arte Queer. 'Memorias Queer de Valparaíso'",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2025,
+   "folio": "770786",
+   "monto": 9941363,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Francisco Javier Díaz Pacheco. Página 13 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Francisco Javier Díaz Pacheco"
+  },
+  {
+   "proyecto": "Residencia Litismo: re- conocer cuerpo + sonido + palabra",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2025,
+   "folio": "767816",
+   "monto": 9949990,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Christopher Camilo Ortega Silva. Página 13 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Christopher Camilo Ortega Silva"
+  },
+  {
+   "proyecto": "Trashumantes, en la búsqueda de nuevos caminos creativos",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2025,
+   "folio": "749091",
+   "monto": 9815578,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Carlos Andrés Muñoz Rivera. Página 14 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Carlos Andrés Muñoz Rivera"
+  },
+  {
+   "proyecto": "Más allá de las ruinas, un espectáculo de ciencia ficción dirigido por Ingrid Flores Moncada",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circo",
+   "anio": 2025,
+   "folio": "760873",
+   "monto": 29996405,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Ingrid Alejandra Flores Mondaca. Página 15 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Ingrid Alejandra Flores Mondaca"
+  },
+  {
+   "proyecto": "Máquina, de gloria y olvido",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2025,
+   "folio": "757547",
+   "monto": 17539359,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Marco Ignacio Orellana Pavez. Página 15 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Marco Ignacio Orellana Pavez"
+  },
+  {
+   "proyecto": "La Invivible",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2025,
+   "folio": "754903",
+   "monto": 25337357,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Franco Ignacio Oviedo Maldonado. Página 15 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Franco Ignacio Oviedo Maldonado"
+  },
+  {
+   "proyecto": "HUACA - Cartografía danzada de un territorio -",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2025,
+   "folio": "754595",
+   "monto": 14777309,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Laura Cristina Corona Espinoza. Página 15 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Laura Cristina Corona Espinoza"
+  },
+  {
+   "proyecto": "Creación y Producción de la obra de danza contemporánea \"La Última Danza de La Pincoya\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Danza",
+   "anio": 2025,
+   "folio": "769349",
+   "monto": 29969985,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Valentina Michelle Orellana Reyes. Página 16 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Valentina Michelle Orellana Reyes"
+  },
+  {
+   "proyecto": "Acción/Nebulosa: Laboratorio de investigación performativa antifascista - colectivo LASTESIS",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2025,
+   "folio": "761737",
+   "monto": 24988886,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Sibila Sotomayor Van Rysseghem. Página 17 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sibila Sotomayor Van Rysseghem"
+  },
+  {
+   "proyecto": "\"No me nombren a mi sola\"",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2025,
+   "folio": "766863",
+   "monto": 18151686,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Pascuala Ilabaca Argandoña. Página 17 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pascuala Ilabaca Argandoña"
+  },
+  {
+   "proyecto": "Contrahílo - mujeres que tejen en el aire",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2025,
+   "folio": "750876",
+   "monto": 17169334,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Juliana da Silva Martins. Página 17 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Juliana da Silva Martins"
+  },
+  {
+   "proyecto": "La Nave de los locos, locOnas y Alacalufes. Teatro circo ancestral",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2025,
+   "folio": "771794",
+   "monto": 24889688,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Oscar Andrés Gonzalez Bosque. Página 18 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Oscar Andrés Gonzalez Bosque"
+  },
+  {
+   "proyecto": "Azul y el bosque extinto, montaje interdisciplinar para infancias",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Interdisciplinar",
+   "anio": 2025,
+   "folio": "749183",
+   "monto": 22103804,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Jacinta María Egaña Kaulen. Página 18 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Jacinta María Egaña Kaulen"
+  },
+  {
+   "proyecto": "Secretos de mujeres",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Narración oral",
+   "anio": 2025,
+   "folio": "757463",
+   "monto": 9187020,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Zenith Claudia Navarrete Ruiz. Página 19 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Zenith Claudia Navarrete Ruiz"
+  },
+  {
+   "proyecto": "EL TIEMPO NO ESPERA Monólogos del Adulto Mayor _ Una propuesta de Montaje escénico por Julieta y compañía",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Narración oral",
+   "anio": 2025,
+   "folio": "764214",
+   "monto": 11960648,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Julieta Tamara Saavedra Barraza. Página 19 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Julieta Tamara Saavedra Barraza"
+  },
+  {
+   "proyecto": "Si te lo cuento, ¿lo leerías? Textos clásicos narrados oralmente",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Narración oral",
+   "anio": 2025,
+   "folio": "756647",
+   "monto": 7806062,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Carlos Andrés Basualdo Gómez. Página 19 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Carlos Andrés Basualdo Gómez"
+  },
+  {
+   "proyecto": "“El Trueno de Milén”, una ópera de cámara por la inclusión de la neurodivergencia en las artes escénicas",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Ópera",
+   "anio": 2025,
+   "folio": "751652",
+   "monto": 34232334,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: David Gabriel Valdivia Argandoña. Página 20 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "David Gabriel Valdivia Argandoña"
+  },
+  {
+   "proyecto": "Ardid de amor - Una comedia de enredos en el chile colonial, opera de Roberto Puelma",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Ópera",
+   "anio": 2025,
+   "folio": "770567",
+   "monto": 27138128,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Viviana De lourdes Hernandez Silva. Página 20 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Viviana De lourdes Hernandez Silva"
+  },
+  {
+   "proyecto": "NINA",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Teatro",
+   "anio": 2025,
+   "folio": "755052",
+   "monto": 29690100,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Maritza Alejandra Farías Cerpa. Página 21 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Maritza Alejandra Farías Cerpa"
+  },
+  {
+   "proyecto": "NOSOTRXS",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2025,
+   "folio": "755266",
+   "monto": 23953984,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Fundación OANI de Teatro. Página 23 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Fundación OANI de Teatro",
+   "compania": "Fundación OANI de Teatro"
+  },
+  {
+   "proyecto": "La Ventana de Eva , espectaculo de teatro objeto",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Títeres",
+   "anio": 2025,
+   "folio": "753486",
+   "monto": 19289236,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Camila Fernanda Pichuante Cruz. Página 23 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Camila Fernanda Pichuante Cruz"
+  },
+  {
+   "proyecto": "Actualización y rediseño plataforma digital sobre teatro de Valparaíso www.historiadelteatro envalparaiso.cl",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "767107",
+   "monto": 9640000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Verónica Lucía Sentis Herrmann. Página 24 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Verónica Lucía Sentis Herrmann"
+  },
+  {
+   "proyecto": "Mejoramiento de la Ficha Técnica de la compañía viñamarina Flamenco Triana",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Compañías de las Artes Escénicas",
+   "anio": 2025,
+   "folio": "764377",
+   "monto": 14091860,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: CentroCultural de Arte Español Flamenco Triana. Página 25 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "CentroCultural de Arte Español Flamenco Triana"
+  },
+  {
+   "proyecto": "Equipamiento escenográfico para el Teatro Municipal de Viña del Mar",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Espacios con Programación Permanente de las Artes Escénicas",
+   "anio": 2025,
+   "folio": "771673",
+   "monto": 13237698,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: MUNICIPALIDAD. Página 27 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Municipalidad"
+  },
+  {
+   "proyecto": "Nuevo equipamiento para el Teatro Rodolfo Bravo del Centro Cultural Municipal Leopoldo Siva Reynoard de Quillota.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Espacios con Programación Permanente de las Artes Escénicas",
+   "anio": 2025,
+   "folio": "751375",
+   "monto": 14991800,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Ilustre de Municipalidad de Quillota. Página 27 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Ilustre de Municipalidad de Quillota"
+  },
+  {
+   "proyecto": "Centro de Documentación Teatral de Valparaíso: conservación y difusión de archivos de artes escénicas",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Archivos escénicos",
+   "anio": 2025,
+   "folio": "772592",
+   "monto": 11990000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Universidad de Valparaíso. Página 28 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Universidad de Valparaíso"
+  },
+  {
+   "proyecto": "Bertolt Brecht en Chile: una historia de la teoría y la práctica brechtiana 1930-1973",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Investigación teórica",
+   "anio": 2025,
+   "folio": "760188",
+   "monto": 14500000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Martin Esteban Farias Zuñiga. Página 30 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Martin Esteban Farias Zuñiga"
+  },
+  {
+   "proyecto": "Arte + Ciencia: respuestas neurofisiológicas y experiencia subjetiva de estudiantes de teatro",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Investigación teórica",
+   "anio": 2025,
+   "folio": "752217",
+   "monto": 14948150,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Kathleen Whitlock Leaning. Página 30 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Kathleen Whitlock Leaning"
+  },
+  {
+   "proyecto": "Escuela de máscara y movimiento para la creación escénica",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2025,
+   "folio": "749181",
+   "monto": 6539129,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Jacinta María Egaña Kaulen. Página 30 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Jacinta María Egaña Kaulen"
+  },
+  {
+   "proyecto": "Formación Lambesur",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2025,
+   "folio": "764407",
+   "monto": 9310000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Sebastián Fernando Farah Rodríguez. Página 31 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sebastián Fernando Farah Rodríguez"
+  },
+  {
+   "proyecto": "Valparaíso como documento: 2° versión de seminarios de especialización y reflexión crítica de teatro documental",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2025,
+   "folio": "750732",
+   "monto": 8775945,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Cristian Antonio González Rivera. Página 33 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Cristian Antonio González Rivera"
+  },
+  {
+   "proyecto": "Voces Escénicas: programa de perfeccionamiento vocal para artistas escénicos",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Profesionalización del sector",
+   "anio": 2025,
+   "folio": "753689",
+   "monto": 9970301,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Valentina Valentina Fuentes Durán. Página 33 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Valentina Fuentes Durán"
+  },
+  {
+   "proyecto": "PortaDanza, haciendo tribu con mujeres y bebés danzantes. Fortaleciendo la comunidad a través de la Danza y el Porteo.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2025,
+   "folio": "760561",
+   "monto": 5917684,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Catalina Andrea Tapia Vargas. Página 33 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Catalina Andrea Tapia Vargas"
+  },
+  {
+   "proyecto": "Memorias en escena: Taller de creación de historias por medio de la animación de objetos y la narración oral",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2025,
+   "folio": "765774",
+   "monto": 5782763,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Sandra Carola Lema Ruiz. Página 35 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sandra Carola Lema Ruiz"
+  },
+  {
+   "proyecto": "Taller de teatro para personas trans en Valparaíso y Quillota",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Públicos y comunidades",
+   "anio": 2025,
+   "folio": "758559",
+   "monto": 5957845,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2025-fondo-de-artes-escenicas-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Francisca Belén Zaldívar Guzmán Guzmán. Página 35 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Francisca Belén Zaldívar Guzmán"
+  }
+ ]
+}

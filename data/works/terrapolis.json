@@ -1,0 +1,75 @@
+{
+  "slug": "terrapolis",
+  "type": "work",
+  "title": "Terrapolis",
+  "authorship": null,
+  "direction": "Bárbara Pestan",
+  "companies": [],
+  "credits": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": 2023,
+  "synopsis_md": "Montaje sobre el daño ambiental en las zonas de sacrificio de Quintero y Puchuncaví, escrito desde la mirada de las mujeres del territorio. Elenco: Javiera Mendoza, Daniela Fernández, Andrea Osorio. Estreno 2023 en el Parque Cultural de Valparaíso; financiada por el Fondo de Artes Escénicas (composición escénica 2021, creación y producción 2022). Cada función incluye foro con la directora y organizaciones ambientales.",
+  "communes": [
+    "valparaiso",
+    "quintero",
+    "san-antonio",
+    "el-quisco"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/01/SELECCIONADOS-FAAEE-2022.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2022",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://diariolaquinta.cl/2025/07/29/cultura-terrapolis-obra-que-aborda-la-crisis-medioambiental-de-quintero-y-puchuncavi-vuelve-a-la-region-de-valparaiso/",
+      "title": "'Terrapolis': Obra que aborda la crisis medioambiental de Quintero y Puchuncaví vuelve a la Región de Valparaíso",
+      "publisher": "Diario La Quinta",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 29 de julio de 2025 con gira regional de agosto de 2025."
+    },
+    {
+      "url": "https://culturizarte.cl/terrapolis-obra-que-aborda-la-crisis-medioambiental-de-quintero-y-puchuncavi-continua-su-recorrido-tras-estreno-en-santiago-con-foro-medioambiental-en-centro-cultural-de-espana/",
+      "title": "Terrapolis continúa su recorrido tras estreno en Santiago",
+      "publisher": "Culturizarte",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Solo resumen del buscador: la obra se exhibió en Quintero en colaboración con el Centro Cultural Alejandro Castro."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

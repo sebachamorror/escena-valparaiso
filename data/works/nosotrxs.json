@@ -1,0 +1,96 @@
+{
+  "slug": "nosotrxs",
+  "type": "work",
+  "title": "NOSOTRXS",
+  "authorship": null,
+  "direction": null,
+  "companies": [
+    "fundacion-oani-de-teatro"
+  ],
+  "credits": [],
+  "disciplines": [
+    "titeres"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": 2025,
+  "synopsis_md": null,
+  "communes": [],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/01/SELECCIONADOS-FAAEE-2025.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2025 (líneas notificadas en enero 2025)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/12/SELECCIONADOS-AAEE-FESTIVALES-ENCUENTROS-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023 — Festivales y Encuentros",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/12/SELECCIONADOS-FC2024_AAEE.pdf",
+      "title": "Nómina de seleccionados Fondo Nacional de las Artes Escénicas 2024 (diciembre 2023)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/12/seleccionados-aaee-2026.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2026 (Becas Chile Crea, Festivales y Encuentros)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://oaniteatro.com/",
+      "title": "OANI Home",
+      "publisher": "Fundación OANI de Teatro",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Fetch directo confirmando enlaces de redes sociales (@oaniteatro en Facebook, Instagram y X) y agenda de actividades de 2025-2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

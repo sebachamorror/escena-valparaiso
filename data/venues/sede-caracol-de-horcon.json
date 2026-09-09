@@ -1,0 +1,57 @@
+{
+  "slug": "sede-caracol-de-horcon",
+  "type": "venue",
+  "name": "Sede Caracol de Horcón",
+  "short_name": null,
+  "venue_type": "no-convencional",
+  "owner": null,
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "puchuncavi",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.munipuchuncavi.cl/2.0/sitio10/index.php?subaction=sh&num=283",
+      "title": "Compañía de Teatro Puquigre continúa celebrando sus 35 años de vida (nota municipal)",
+      "publisher": "Ilustre Municipalidad de Puchuncaví",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "La nota no muestra fecha; menciona función del 10 de junio en el Gimnasio Municipal de Puchuncaví y del sábado 1 de julio, 19:00, en la sede Caracol de Horcón, con 'La Mariita'."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

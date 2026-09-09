@@ -1,0 +1,3593 @@
+[
+ {
+  "id": "Q-0001",
+  "texto": "Red Cultura catastro infraestructura cultural Región de Valparaíso espacios culturales",
+  "capa": 1,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Fuentes institucionales de capa 1 procesadas: catálogo títeres, Puntos de Cultura, Red de Espacios, PAOCC, convenio"
+ },
+ {
+  "id": "Q-0002",
+  "texto": "Directorio Nacional de Espacios Culturales Región de Valparaíso teatro sala",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0003",
+  "texto": "Puntos de Cultura Comunitaria Región de Valparaíso teatro",
+  "capa": 1,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "87 Puntos de Cultura leídos; 25 registrados (teatro/circo/títeres/espacios)"
+ },
+ {
+  "id": "Q-0004",
+  "texto": "Seremi de las Culturas Valparaíso compañías de teatro regional",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0005",
+  "texto": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso Servicio Nacional del Patrimonio 2025",
+  "capa": 1,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Catálogo SNPC 2025 procesado íntegro: 6 compañías"
+ },
+ {
+  "id": "Q-0006",
+  "texto": "SIGPA cultores artes escénicas Región de Valparaíso teatro títeres",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0007",
+  "texto": "Observatorio Cultural artes escénicas Región de Valparaíso informe",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0008",
+  "texto": "Gobierno Regional de Valparaíso 7% FNDR cultura proyectos teatro adjudicados",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0009",
+  "texto": "PAOCC Programa de Apoyo a Organizaciones Culturales Colaboradoras Región de Valparaíso teatro",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0010",
+  "texto": "Registro Ley 19.862 organizaciones culturales Región de Valparaíso teatro",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0011",
+  "texto": "Universidad de Valparaíso carrera de teatro compañía egresados",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0012",
+  "texto": "Universidad de Playa Ancha teatro compañía estudiantes",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0013",
+  "texto": "PUCV Pontificia Universidad Católica de Valparaíso teatro compañía universitaria",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0014",
+  "texto": "Duoc UC Viña del Mar actuación egresados compañía",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0015",
+  "texto": "Escuela de Teatro Imagen Valparaíso",
+  "capa": 1,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0016",
+  "texto": "Puerto Escena Valparaíso teatro",
+  "capa": 2,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0017",
+  "texto": "Valpocultura cartelera teatro",
+  "capa": 2,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0018",
+  "texto": "directorio compañías de teatro Región de Valparaíso",
+  "capa": 2,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0019",
+  "texto": "catálogo artes escénicas Valparaíso compañías 2025",
+  "capa": 2,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0020",
+  "texto": "Red de Salas de Teatro Valparaíso",
+  "capa": 2,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0021",
+  "texto": "Asamblea Titiritera ATTICH V Región compañías",
+  "capa": 2,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0022",
+  "texto": "Fundación TeatroMuseo del Títere y el Payaso programación compañías",
+  "capa": 2,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0023",
+  "texto": "cartelera teatro Valparaíso Viña del Mar septiembre 2026",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0024",
+  "texto": "cartelera teatro Valparaíso 2025",
+  "capa": 3,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Capa 3 carteleras: Ciudad Teatro 2025 (Centex, 8 montajes en 8 espacios), agenda de teatro de Valpocultura (septiembre 2026), etiqueta Valparaíso de Telón.cl."
+ },
+ {
+  "id": "Q-0025",
+  "texto": "Parque Cultural de Valparaíso programación teatro 2025 2026",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0026",
+  "texto": "Teatro Municipal de Valparaíso programación obras",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0027",
+  "texto": "Teatro Municipal de Viña del Mar programación teatro",
+  "capa": 3,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "TM Viña: contacto institucional y programación sept. 2026 (teatrovina.cl)"
+ },
+ {
+  "id": "Q-0028",
+  "texto": "Teatro Condell Valparaíso programación",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0029",
+  "texto": "Sala Negra Universidad de Valparaíso programación teatro",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0030",
+  "texto": "Centro de Extensión Duoc UC Viña del Mar teatro",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0031",
+  "texto": "Teatro Municipal de Quilpué programación",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0032",
+  "texto": "Teatro Pompeya Villa Alemana programación",
+  "capa": 3,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Teatro Pompeya: ficha desde nota municipal centenario (2026)"
+ },
+ {
+  "id": "Q-0033",
+  "texto": "Teatro Municipal Limache programación",
+  "capa": 3,
+  "comuna": null,
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "Teatro Municipal de Limache: buscador no devuelve programación; buscar en sitio municipal"
+ },
+ {
+  "id": "Q-0034",
+  "texto": "Centro Cultural San Antonio programación teatro",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0035",
+  "texto": "Teatro Municipal San Felipe programación",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0036",
+  "texto": "Centro Cultural Los Andes programación teatro",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0037",
+  "texto": "Casa de la Cultura La Ligua programación",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0038",
+  "texto": "Teatro Quillota programación obras",
+  "capa": 3,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "CC Leopoldo Silva/Teatro Rodolfo Bravo: cartelera sept. 2026 y Ciclo Teatro Familiar 2019 (4 compañías)"
+ },
+ {
+  "id": "Q-0039",
+  "texto": "ticketplus teatro Valparaíso",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0040",
+  "texto": "passline teatro Viña del Mar",
+  "capa": 3,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0041",
+  "texto": "festival de teatro Región de Valparaíso 2025",
+  "capa": 4,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Festival Síntesis Teatral 2016-2022 (Laboratorio Anatomía Teatral); sitio del laboratorio sin DNS"
+ },
+ {
+  "id": "Q-0042",
+  "texto": "festival de teatro Región de Valparaíso 2024",
+  "capa": 4,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Ventolera IV 2024 procesado"
+ },
+ {
+  "id": "Q-0043",
+  "texto": "Festival Ventolera Valparaíso compañías",
+  "capa": 4,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "FESTILAMBE: ediciones 2014–2024 y 9ª en 2026 según festilambe.cl."
+ },
+ {
+  "id": "Q-0044",
+  "texto": "Festival Caleta de Títeres Valparaíso compañías",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0045",
+  "texto": "Festival Teatro Container Valparaíso compañías",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0046",
+  "texto": "Puerto a Puerta Valparaíso festival compañías",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0047",
+  "texto": "Festival Litoral Teatral San Antonio compañías",
+  "capa": 4,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Festival Litoral Teatral 2024 y 2026: 9 compañías registradas (CC San Antonio)"
+ },
+ {
+  "id": "Q-0048",
+  "texto": "Festival Valle del Liwa Petorca teatro",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0049",
+  "texto": "Festival Internacional de Teatro Viña del Mar",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0050",
+  "texto": "festival de títeres Región de Valparaíso",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0051",
+  "texto": "festival teatro callejero Valparaíso",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0052",
+  "texto": "festival teatro Aconcagua San Felipe Los Andes",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0053",
+  "texto": "festival teatro familiar Quilpué Villa Alemana",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0054",
+  "texto": "Encuentro de Teatro Porteño Independiente compañías",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0055",
+  "texto": "festival de artes escénicas Quillota",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0056",
+  "texto": "festival teatro escolar Región de Valparaíso",
+  "capa": 4,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0057",
+  "texto": "Fondart Regional Valparaíso artes escénicas resultados 2025 seleccionados",
+  "capa": 5,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Nóminas PDF 2022-2026 procesadas con fondos_pdf.py"
+ },
+ {
+  "id": "Q-0058",
+  "texto": "Fondart Regional Valparaíso artes escénicas resultados 2024 seleccionados",
+  "capa": 5,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Nóminas PDF 2022-2026 procesadas con fondos_pdf.py"
+ },
+ {
+  "id": "Q-0059",
+  "texto": "Fondart Regional Valparaíso teatro resultados 2023 seleccionados",
+  "capa": 5,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Nóminas PDF 2022-2026 procesadas con fondos_pdf.py"
+ },
+ {
+  "id": "Q-0060",
+  "texto": "Fondos de Cultura 2026 resultados Región de Valparaíso teatro",
+  "capa": 5,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Nóminas PDF 2022-2026 procesadas con fondos_pdf.py"
+ },
+ {
+  "id": "Q-0061",
+  "texto": "datos.gob.cl fondos de cultura proyectos seleccionados dataset",
+  "capa": 5,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Nóminas PDF 2022-2026 procesadas con fondos_pdf.py"
+ },
+ {
+  "id": "Q-0062",
+  "texto": "Fondart Nacional teatro Valparaíso compañía adjudicada",
+  "capa": 5,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0063",
+  "texto": "subvención municipal cultura Valparaíso teatro compañía adjudicada",
+  "capa": 5,
+  "comuna": null,
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Nóminas PDF 2022-2026 procesadas con fondos_pdf.py"
+ },
+ {
+  "id": "Q-0064",
+  "texto": "fondo concursable cultura Viña del Mar teatro adjudicados",
+  "capa": 5,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0065",
+  "texto": "Gobierno Regional Valparaíso cultura FNDR 2025 resultados artes escénicas",
+  "capa": 5,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0066",
+  "texto": "Valparaíso Creativo compañías de teatro",
+  "capa": 5,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0067",
+  "texto": "El Mercurio de Valparaíso compañía de teatro estreno",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0068",
+  "texto": "El Martutino teatro compañía estreno Valparaíso",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0069",
+  "texto": "El Observador Quillota teatro compañía",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0070",
+  "texto": "Diario El Trabajo San Felipe teatro compañía",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0071",
+  "texto": "El Andino Los Andes teatro compañía",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0072",
+  "texto": "Proa San Antonio teatro compañía",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0073",
+  "texto": "El Epicentro Valparaíso teatro compañía",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0074",
+  "texto": "Soy Valparaíso teatro compañía estreno",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0075",
+  "texto": "La Estrella Valparaíso teatro obra",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0076",
+  "texto": "diario Quilpué Villa Alemana teatro compañía",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0077",
+  "texto": "diario La Ligua Petorca teatro compañía",
+  "capa": 8,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0078",
+  "texto": "instagram compañía de teatro Valparaíso",
+  "capa": 7,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0079",
+  "texto": "instagram teatro Viña del Mar compañía",
+  "capa": 7,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0080",
+  "texto": "instagram títeres Valparaíso compañía",
+  "capa": 7,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0081",
+  "texto": "facebook compañía de teatro Quilpué",
+  "capa": 7,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0082",
+  "texto": "youtube compañía de teatro Valparaíso obra completa",
+  "capa": 7,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0083",
+  "texto": "teatro comunitario Región de Valparaíso",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0084",
+  "texto": "teatro callejero Valparaíso compañía",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0085",
+  "texto": "teatro infantil Valparaíso compañía",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0086",
+  "texto": "teatro itinerante Región de Valparaíso",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0087",
+  "texto": "circo teatro Valparaíso compañía",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0088",
+  "texto": "performance colectivo Valparaíso artes escénicas",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0089",
+  "texto": "productora teatral Valparaíso",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0090",
+  "texto": "Lambe Lambe Valparaíso",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0091",
+  "texto": "narración oral Valparaíso compañía",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0092",
+  "texto": "clown Valparaíso compañía",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0093",
+  "texto": "teatro universitario Valparaíso compañía",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0094",
+  "texto": "marionetas Valparaíso compañía",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0095",
+  "texto": "danza teatro Valparaíso compañía",
+  "capa": 6,
+  "comuna": null,
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0096",
+  "texto": "\"compañía de teatro\" \"Valparaíso\"",
+  "capa": 9,
+  "comuna": "valparaiso",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Valparaíso: OANI (33 estrenos), Espacio La Compañía; el grueso viene de capas 1, 3, 4 y 5"
+ },
+ {
+  "id": "Q-0097",
+  "texto": "teatro \"Valparaíso\" obra compañía",
+  "capa": 9,
+  "comuna": "valparaiso",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Valparaíso: OANI (33 estrenos), Espacio La Compañía; el grueso viene de capas 1, 3, 4 y 5"
+ },
+ {
+  "id": "Q-0098",
+  "texto": "\"obra de teatro\" \"Valparaíso\" 2025",
+  "capa": 9,
+  "comuna": "valparaiso",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0099",
+  "texto": "festival teatro \"Valparaíso\"",
+  "capa": 9,
+  "comuna": "valparaiso",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0100",
+  "texto": "\"artes escénicas\" \"Valparaíso\"",
+  "capa": 9,
+  "comuna": "valparaiso",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0101",
+  "texto": "cartelera cultural \"Valparaíso\" teatro",
+  "capa": 9,
+  "comuna": "valparaiso",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0102",
+  "texto": "sala teatro centro cultural \"Valparaíso\"",
+  "capa": 9,
+  "comuna": "valparaiso",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0103",
+  "texto": "títeres \"Valparaíso\" compañía",
+  "capa": 9,
+  "comuna": "valparaiso",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0104",
+  "texto": "\"compañía de teatro\" \"Casablanca\" Chile",
+  "capa": 9,
+  "comuna": "casablanca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0105",
+  "texto": "teatro \"Casablanca\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "casablanca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0106",
+  "texto": "\"obra de teatro\" \"Casablanca\" 2025 Chile",
+  "capa": 9,
+  "comuna": "casablanca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0107",
+  "texto": "festival teatro \"Casablanca\" Chile",
+  "capa": 9,
+  "comuna": "casablanca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0108",
+  "texto": "\"artes escénicas\" \"Casablanca\" Chile",
+  "capa": 9,
+  "comuna": "casablanca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0109",
+  "texto": "cartelera cultural \"Casablanca\" teatro Chile",
+  "capa": 9,
+  "comuna": "casablanca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0110",
+  "texto": "sala teatro centro cultural \"Casablanca\" Chile",
+  "capa": 9,
+  "comuna": "casablanca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0111",
+  "texto": "títeres \"Casablanca\" compañía Chile",
+  "capa": 9,
+  "comuna": "casablanca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0112",
+  "texto": "\"compañía de teatro\" \"Concón\"",
+  "capa": 9,
+  "comuna": "concon",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Concón: Ucronia Teatral (Concón el Regreso), Teatro AlmaZen, Aéreos 7 Colores"
+ },
+ {
+  "id": "Q-0113",
+  "texto": "teatro \"Concón\" obra compañía",
+  "capa": 9,
+  "comuna": "concon",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Concón: Ucronia Teatral (Concón el Regreso), Teatro AlmaZen, Aéreos 7 Colores"
+ },
+ {
+  "id": "Q-0114",
+  "texto": "\"obra de teatro\" \"Concón\" 2025",
+  "capa": 9,
+  "comuna": "concon",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0115",
+  "texto": "festival teatro \"Concón\"",
+  "capa": 9,
+  "comuna": "concon",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0116",
+  "texto": "\"artes escénicas\" \"Concón\"",
+  "capa": 9,
+  "comuna": "concon",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0117",
+  "texto": "cartelera cultural \"Concón\" teatro",
+  "capa": 9,
+  "comuna": "concon",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0118",
+  "texto": "sala teatro centro cultural \"Concón\"",
+  "capa": 9,
+  "comuna": "concon",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0119",
+  "texto": "títeres \"Concón\" compañía",
+  "capa": 9,
+  "comuna": "concon",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0120",
+  "texto": "\"compañía de teatro\" \"Juan Fernández\"",
+  "capa": 9,
+  "comuna": "juan-fernandez",
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "Juan Fernández: sin resultados en dos consultas"
+ },
+ {
+  "id": "Q-0121",
+  "texto": "teatro \"Juan Fernández\" obra compañía",
+  "capa": 9,
+  "comuna": "juan-fernandez",
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "Juan Fernández: sin resultados en dos consultas"
+ },
+ {
+  "id": "Q-0122",
+  "texto": "\"obra de teatro\" \"Juan Fernández\" 2025",
+  "capa": 9,
+  "comuna": "juan-fernandez",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0123",
+  "texto": "festival teatro \"Juan Fernández\"",
+  "capa": 9,
+  "comuna": "juan-fernandez",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0124",
+  "texto": "\"artes escénicas\" \"Juan Fernández\"",
+  "capa": 9,
+  "comuna": "juan-fernandez",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0125",
+  "texto": "cartelera cultural \"Juan Fernández\" teatro",
+  "capa": 9,
+  "comuna": "juan-fernandez",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0126",
+  "texto": "sala teatro centro cultural \"Juan Fernández\"",
+  "capa": 9,
+  "comuna": "juan-fernandez",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0127",
+  "texto": "títeres \"Juan Fernández\" compañía",
+  "capa": 9,
+  "comuna": "juan-fernandez",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0128",
+  "texto": "\"compañía de teatro\" \"Puchuncaví\"",
+  "capa": 9,
+  "comuna": "puchuncavi",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Puchuncaví: Compañía de Teatro Puquigre (1982, La Mariita)"
+ },
+ {
+  "id": "Q-0129",
+  "texto": "teatro \"Puchuncaví\" obra compañía",
+  "capa": 9,
+  "comuna": "puchuncavi",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Puchuncaví: Compañía de Teatro Puquigre (1982, La Mariita)"
+ },
+ {
+  "id": "Q-0130",
+  "texto": "\"obra de teatro\" \"Puchuncaví\" 2025",
+  "capa": 9,
+  "comuna": "puchuncavi",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0131",
+  "texto": "festival teatro \"Puchuncaví\"",
+  "capa": 9,
+  "comuna": "puchuncavi",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0132",
+  "texto": "\"artes escénicas\" \"Puchuncaví\"",
+  "capa": 9,
+  "comuna": "puchuncavi",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0133",
+  "texto": "cartelera cultural \"Puchuncaví\" teatro",
+  "capa": 9,
+  "comuna": "puchuncavi",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0134",
+  "texto": "sala teatro centro cultural \"Puchuncaví\"",
+  "capa": 9,
+  "comuna": "puchuncavi",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0135",
+  "texto": "títeres \"Puchuncaví\" compañía",
+  "capa": 9,
+  "comuna": "puchuncavi",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0136",
+  "texto": "\"compañía de teatro\" \"Quintero\" Chile",
+  "capa": 9,
+  "comuna": "quintero",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Quintero: Terrapolis (Abisal) 2025 en Biblioteca Municipal; Centro Cultural Alejandro Castro"
+ },
+ {
+  "id": "Q-0137",
+  "texto": "teatro \"Quintero\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "quintero",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Quintero: Terrapolis (Abisal) 2025 en Biblioteca Municipal; Centro Cultural Alejandro Castro"
+ },
+ {
+  "id": "Q-0138",
+  "texto": "\"obra de teatro\" \"Quintero\" 2025 Chile",
+  "capa": 9,
+  "comuna": "quintero",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0139",
+  "texto": "festival teatro \"Quintero\" Chile",
+  "capa": 9,
+  "comuna": "quintero",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0140",
+  "texto": "\"artes escénicas\" \"Quintero\" Chile",
+  "capa": 9,
+  "comuna": "quintero",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0141",
+  "texto": "cartelera cultural \"Quintero\" teatro Chile",
+  "capa": 9,
+  "comuna": "quintero",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0142",
+  "texto": "sala teatro centro cultural \"Quintero\" Chile",
+  "capa": 9,
+  "comuna": "quintero",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0143",
+  "texto": "títeres \"Quintero\" compañía Chile",
+  "capa": 9,
+  "comuna": "quintero",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0144",
+  "texto": "\"compañía de teatro\" \"Viña del Mar\"",
+  "capa": 9,
+  "comuna": "vina-del-mar",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Viña: buscador solo devuelve programación del Teatro Municipal (temporada 2026); compañías viñamarinas por otras capas"
+ },
+ {
+  "id": "Q-0145",
+  "texto": "teatro \"Viña del Mar\" obra compañía",
+  "capa": 9,
+  "comuna": "vina-del-mar",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Viña: buscador solo devuelve programación del Teatro Municipal (temporada 2026); compañías viñamarinas por otras capas"
+ },
+ {
+  "id": "Q-0146",
+  "texto": "\"obra de teatro\" \"Viña del Mar\" 2025",
+  "capa": 9,
+  "comuna": "vina-del-mar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0147",
+  "texto": "festival teatro \"Viña del Mar\"",
+  "capa": 9,
+  "comuna": "vina-del-mar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0148",
+  "texto": "\"artes escénicas\" \"Viña del Mar\"",
+  "capa": 9,
+  "comuna": "vina-del-mar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0149",
+  "texto": "cartelera cultural \"Viña del Mar\" teatro",
+  "capa": 9,
+  "comuna": "vina-del-mar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0150",
+  "texto": "sala teatro centro cultural \"Viña del Mar\"",
+  "capa": 9,
+  "comuna": "vina-del-mar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0151",
+  "texto": "títeres \"Viña del Mar\" compañía",
+  "capa": 9,
+  "comuna": "vina-del-mar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0152",
+  "texto": "\"compañía de teatro\" \"Quilpué\"",
+  "capa": 9,
+  "comuna": "quilpue",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Quilpué: Teatro Municipal Juan Bustos Ramírez (ex Velarde 1940, reapertura 2017), Festival Fractal 2025/2026 (Errante, Pronoias) por confirmar"
+ },
+ {
+  "id": "Q-0153",
+  "texto": "teatro \"Quilpué\" obra compañía",
+  "capa": 9,
+  "comuna": "quilpue",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Quilpué: Teatro Municipal Juan Bustos Ramírez (ex Velarde 1940, reapertura 2017), Festival Fractal 2025/2026 (Errante, Pronoias) por confirmar"
+ },
+ {
+  "id": "Q-0154",
+  "texto": "\"obra de teatro\" \"Quilpué\" 2025",
+  "capa": 9,
+  "comuna": "quilpue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0155",
+  "texto": "festival teatro \"Quilpué\"",
+  "capa": 9,
+  "comuna": "quilpue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0156",
+  "texto": "\"artes escénicas\" \"Quilpué\"",
+  "capa": 9,
+  "comuna": "quilpue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0157",
+  "texto": "cartelera cultural \"Quilpué\" teatro",
+  "capa": 9,
+  "comuna": "quilpue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0158",
+  "texto": "sala teatro centro cultural \"Quilpué\"",
+  "capa": 9,
+  "comuna": "quilpue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0159",
+  "texto": "títeres \"Quilpué\" compañía",
+  "capa": 9,
+  "comuna": "quilpue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0160",
+  "texto": "\"compañía de teatro\" \"Limache\" Chile",
+  "capa": 9,
+  "comuna": "limache",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Limache: sin compañía de teatro en buscador; danza FUSIS (Carolina Cifras) en Mes del Teatro PCdV"
+ },
+ {
+  "id": "Q-0161",
+  "texto": "teatro \"Limache\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "limache",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Limache: sin compañía de teatro en buscador; danza FUSIS (Carolina Cifras) en Mes del Teatro PCdV"
+ },
+ {
+  "id": "Q-0162",
+  "texto": "\"obra de teatro\" \"Limache\" 2025 Chile",
+  "capa": 9,
+  "comuna": "limache",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0163",
+  "texto": "festival teatro \"Limache\" Chile",
+  "capa": 9,
+  "comuna": "limache",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0164",
+  "texto": "\"artes escénicas\" \"Limache\" Chile",
+  "capa": 9,
+  "comuna": "limache",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0165",
+  "texto": "cartelera cultural \"Limache\" teatro Chile",
+  "capa": 9,
+  "comuna": "limache",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0166",
+  "texto": "sala teatro centro cultural \"Limache\" Chile",
+  "capa": 9,
+  "comuna": "limache",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0167",
+  "texto": "títeres \"Limache\" compañía Chile",
+  "capa": 9,
+  "comuna": "limache",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0168",
+  "texto": "\"compañía de teatro\" \"Olmué\" Chile",
+  "capa": 9,
+  "comuna": "olmue",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Olmué: Gabisha Títeres (vía Ventolera), Aníbal Gaete (Cabaret 2022), Casa Cultural El Chagual; sin más en buscador"
+ },
+ {
+  "id": "Q-0169",
+  "texto": "teatro \"Olmué\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "olmue",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Olmué: Gabisha Títeres (vía Ventolera), Aníbal Gaete (Cabaret 2022), Casa Cultural El Chagual; sin más en buscador"
+ },
+ {
+  "id": "Q-0170",
+  "texto": "\"obra de teatro\" \"Olmué\" 2025 Chile",
+  "capa": 9,
+  "comuna": "olmue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0171",
+  "texto": "festival teatro \"Olmué\" Chile",
+  "capa": 9,
+  "comuna": "olmue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0172",
+  "texto": "\"artes escénicas\" \"Olmué\" Chile",
+  "capa": 9,
+  "comuna": "olmue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0173",
+  "texto": "cartelera cultural \"Olmué\" teatro Chile",
+  "capa": 9,
+  "comuna": "olmue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0174",
+  "texto": "sala teatro centro cultural \"Olmué\" Chile",
+  "capa": 9,
+  "comuna": "olmue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0175",
+  "texto": "títeres \"Olmué\" compañía Chile",
+  "capa": 9,
+  "comuna": "olmue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0176",
+  "texto": "\"compañía de teatro\" \"Villa Alemana\"",
+  "capa": 9,
+  "comuna": "villa-alemana",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Villa Alemana: Julieta y Compañía (El tiempo no espera 2025), Ankalli (2022), CC Gabriela Mistral"
+ },
+ {
+  "id": "Q-0177",
+  "texto": "teatro \"Villa Alemana\" obra compañía",
+  "capa": 9,
+  "comuna": "villa-alemana",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Villa Alemana: Julieta y Compañía (El tiempo no espera 2025), Ankalli (2022), CC Gabriela Mistral"
+ },
+ {
+  "id": "Q-0178",
+  "texto": "\"obra de teatro\" \"Villa Alemana\" 2025",
+  "capa": 9,
+  "comuna": "villa-alemana",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0179",
+  "texto": "festival teatro \"Villa Alemana\"",
+  "capa": 9,
+  "comuna": "villa-alemana",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0180",
+  "texto": "\"artes escénicas\" \"Villa Alemana\"",
+  "capa": 9,
+  "comuna": "villa-alemana",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0181",
+  "texto": "cartelera cultural \"Villa Alemana\" teatro",
+  "capa": 9,
+  "comuna": "villa-alemana",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0182",
+  "texto": "sala teatro centro cultural \"Villa Alemana\"",
+  "capa": 9,
+  "comuna": "villa-alemana",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0183",
+  "texto": "títeres \"Villa Alemana\" compañía",
+  "capa": 9,
+  "comuna": "villa-alemana",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0184",
+  "texto": "\"compañía de teatro\" \"Quillota\"",
+  "capa": 9,
+  "comuna": "quillota",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Quillota: Teatro Estrella Solitaria, Pelícano (Teatro Rodolfo Bravo), Santiago OFF extensión, blog histórico"
+ },
+ {
+  "id": "Q-0185",
+  "texto": "teatro \"Quillota\" obra compañía",
+  "capa": 9,
+  "comuna": "quillota",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Quillota: Teatro Estrella Solitaria, Pelícano (Teatro Rodolfo Bravo), Santiago OFF extensión, blog histórico"
+ },
+ {
+  "id": "Q-0186",
+  "texto": "\"obra de teatro\" \"Quillota\" 2025",
+  "capa": 9,
+  "comuna": "quillota",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0187",
+  "texto": "festival teatro \"Quillota\"",
+  "capa": 9,
+  "comuna": "quillota",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0188",
+  "texto": "\"artes escénicas\" \"Quillota\"",
+  "capa": 9,
+  "comuna": "quillota",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0189",
+  "texto": "cartelera cultural \"Quillota\" teatro",
+  "capa": 9,
+  "comuna": "quillota",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0190",
+  "texto": "sala teatro centro cultural \"Quillota\"",
+  "capa": 9,
+  "comuna": "quillota",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0191",
+  "texto": "títeres \"Quillota\" compañía",
+  "capa": 9,
+  "comuna": "quillota",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0192",
+  "texto": "\"compañía de teatro\" \"La Calera\" Chile",
+  "capa": 9,
+  "comuna": "la-calera",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "La Calera: Centro Cultural de La Calera (Av. Latorre 180), Puntos de Fuga 2026"
+ },
+ {
+  "id": "Q-0193",
+  "texto": "teatro \"La Calera\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "la-calera",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "La Calera: Centro Cultural de La Calera (Av. Latorre 180), Puntos de Fuga 2026"
+ },
+ {
+  "id": "Q-0194",
+  "texto": "\"obra de teatro\" \"La Calera\" 2025 Chile",
+  "capa": 9,
+  "comuna": "la-calera",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0195",
+  "texto": "festival teatro \"La Calera\" Chile",
+  "capa": 9,
+  "comuna": "la-calera",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0196",
+  "texto": "\"artes escénicas\" \"La Calera\" Chile",
+  "capa": 9,
+  "comuna": "la-calera",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0197",
+  "texto": "cartelera cultural \"La Calera\" teatro Chile",
+  "capa": 9,
+  "comuna": "la-calera",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0198",
+  "texto": "sala teatro centro cultural \"La Calera\" Chile",
+  "capa": 9,
+  "comuna": "la-calera",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0199",
+  "texto": "títeres \"La Calera\" compañía Chile",
+  "capa": 9,
+  "comuna": "la-calera",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0200",
+  "texto": "\"compañía de teatro\" \"Hijuelas\" Chile",
+  "capa": 9,
+  "comuna": "hijuelas",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0201",
+  "texto": "teatro \"Hijuelas\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "hijuelas",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0202",
+  "texto": "\"obra de teatro\" \"Hijuelas\" 2025 Chile",
+  "capa": 9,
+  "comuna": "hijuelas",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0203",
+  "texto": "festival teatro \"Hijuelas\" Chile",
+  "capa": 9,
+  "comuna": "hijuelas",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0204",
+  "texto": "\"artes escénicas\" \"Hijuelas\" Chile",
+  "capa": 9,
+  "comuna": "hijuelas",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0205",
+  "texto": "cartelera cultural \"Hijuelas\" teatro Chile",
+  "capa": 9,
+  "comuna": "hijuelas",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0206",
+  "texto": "sala teatro centro cultural \"Hijuelas\" Chile",
+  "capa": 9,
+  "comuna": "hijuelas",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0207",
+  "texto": "títeres \"Hijuelas\" compañía Chile",
+  "capa": 9,
+  "comuna": "hijuelas",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0208",
+  "texto": "\"compañía de teatro\" \"La Cruz\" Chile",
+  "capa": 9,
+  "comuna": "la-cruz",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "La Cruz: ciclo de teatro municipal 2025 (El Observador), Puntos de Fuga 2026"
+ },
+ {
+  "id": "Q-0209",
+  "texto": "teatro \"La Cruz\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "la-cruz",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "La Cruz: ciclo de teatro municipal 2025 (El Observador), Puntos de Fuga 2026"
+ },
+ {
+  "id": "Q-0210",
+  "texto": "\"obra de teatro\" \"La Cruz\" 2025 Chile",
+  "capa": 9,
+  "comuna": "la-cruz",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0211",
+  "texto": "festival teatro \"La Cruz\" Chile",
+  "capa": 9,
+  "comuna": "la-cruz",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0212",
+  "texto": "\"artes escénicas\" \"La Cruz\" Chile",
+  "capa": 9,
+  "comuna": "la-cruz",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0213",
+  "texto": "cartelera cultural \"La Cruz\" teatro Chile",
+  "capa": 9,
+  "comuna": "la-cruz",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0214",
+  "texto": "sala teatro centro cultural \"La Cruz\" Chile",
+  "capa": 9,
+  "comuna": "la-cruz",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0215",
+  "texto": "títeres \"La Cruz\" compañía Chile",
+  "capa": 9,
+  "comuna": "la-cruz",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0216",
+  "texto": "\"compañía de teatro\" \"Nogales\" Chile",
+  "capa": 9,
+  "comuna": "nogales",
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "Nogales/El Melón: sin compañías ni funciones; solo PMC 2013-2016 y Puntos de Fuga"
+ },
+ {
+  "id": "Q-0217",
+  "texto": "teatro \"Nogales\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "nogales",
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "Nogales/El Melón: sin compañías ni funciones; solo PMC 2013-2016 y Puntos de Fuga"
+ },
+ {
+  "id": "Q-0218",
+  "texto": "\"obra de teatro\" \"Nogales\" 2025 Chile",
+  "capa": 9,
+  "comuna": "nogales",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0219",
+  "texto": "festival teatro \"Nogales\" Chile",
+  "capa": 9,
+  "comuna": "nogales",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0220",
+  "texto": "\"artes escénicas\" \"Nogales\" Chile",
+  "capa": 9,
+  "comuna": "nogales",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0221",
+  "texto": "cartelera cultural \"Nogales\" teatro Chile",
+  "capa": 9,
+  "comuna": "nogales",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0222",
+  "texto": "sala teatro centro cultural \"Nogales\" Chile",
+  "capa": 9,
+  "comuna": "nogales",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0223",
+  "texto": "títeres \"Nogales\" compañía Chile",
+  "capa": 9,
+  "comuna": "nogales",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0224",
+  "texto": "\"compañía de teatro\" \"San Antonio\"",
+  "capa": 9,
+  "comuna": "san-antonio",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0225",
+  "texto": "teatro \"San Antonio\" obra compañía",
+  "capa": 9,
+  "comuna": "san-antonio",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0226",
+  "texto": "\"obra de teatro\" \"San Antonio\" 2025",
+  "capa": 9,
+  "comuna": "san-antonio",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0227",
+  "texto": "festival teatro \"San Antonio\"",
+  "capa": 9,
+  "comuna": "san-antonio",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0228",
+  "texto": "\"artes escénicas\" \"San Antonio\"",
+  "capa": 9,
+  "comuna": "san-antonio",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0229",
+  "texto": "cartelera cultural \"San Antonio\" teatro",
+  "capa": 9,
+  "comuna": "san-antonio",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0230",
+  "texto": "sala teatro centro cultural \"San Antonio\"",
+  "capa": 9,
+  "comuna": "san-antonio",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0231",
+  "texto": "títeres \"San Antonio\" compañía",
+  "capa": 9,
+  "comuna": "san-antonio",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0232",
+  "texto": "\"compañía de teatro\" \"Algarrobo\" Chile",
+  "capa": 9,
+  "comuna": "algarrobo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0233",
+  "texto": "teatro \"Algarrobo\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "algarrobo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0234",
+  "texto": "\"obra de teatro\" \"Algarrobo\" 2025 Chile",
+  "capa": 9,
+  "comuna": "algarrobo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0235",
+  "texto": "festival teatro \"Algarrobo\" Chile",
+  "capa": 9,
+  "comuna": "algarrobo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0236",
+  "texto": "\"artes escénicas\" \"Algarrobo\" Chile",
+  "capa": 9,
+  "comuna": "algarrobo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0237",
+  "texto": "cartelera cultural \"Algarrobo\" teatro Chile",
+  "capa": 9,
+  "comuna": "algarrobo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0238",
+  "texto": "sala teatro centro cultural \"Algarrobo\" Chile",
+  "capa": 9,
+  "comuna": "algarrobo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0239",
+  "texto": "títeres \"Algarrobo\" compañía Chile",
+  "capa": 9,
+  "comuna": "algarrobo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0240",
+  "texto": "\"compañía de teatro\" \"Cartagena\" Chile",
+  "capa": 9,
+  "comuna": "cartagena",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0241",
+  "texto": "teatro \"Cartagena\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "cartagena",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0242",
+  "texto": "\"obra de teatro\" \"Cartagena\" 2025 Chile",
+  "capa": 9,
+  "comuna": "cartagena",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0243",
+  "texto": "festival teatro \"Cartagena\" Chile",
+  "capa": 9,
+  "comuna": "cartagena",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0244",
+  "texto": "\"artes escénicas\" \"Cartagena\" Chile",
+  "capa": 9,
+  "comuna": "cartagena",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0245",
+  "texto": "cartelera cultural \"Cartagena\" teatro Chile",
+  "capa": 9,
+  "comuna": "cartagena",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0246",
+  "texto": "sala teatro centro cultural \"Cartagena\" Chile",
+  "capa": 9,
+  "comuna": "cartagena",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0247",
+  "texto": "títeres \"Cartagena\" compañía Chile",
+  "capa": 9,
+  "comuna": "cartagena",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0248",
+  "texto": "\"compañía de teatro\" \"El Quisco\" Chile",
+  "capa": 9,
+  "comuna": "el-quisco",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0249",
+  "texto": "teatro \"El Quisco\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "el-quisco",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0250",
+  "texto": "\"obra de teatro\" \"El Quisco\" 2025 Chile",
+  "capa": 9,
+  "comuna": "el-quisco",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0251",
+  "texto": "festival teatro \"El Quisco\" Chile",
+  "capa": 9,
+  "comuna": "el-quisco",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0252",
+  "texto": "\"artes escénicas\" \"El Quisco\" Chile",
+  "capa": 9,
+  "comuna": "el-quisco",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0253",
+  "texto": "cartelera cultural \"El Quisco\" teatro Chile",
+  "capa": 9,
+  "comuna": "el-quisco",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0254",
+  "texto": "sala teatro centro cultural \"El Quisco\" Chile",
+  "capa": 9,
+  "comuna": "el-quisco",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0255",
+  "texto": "títeres \"El Quisco\" compañía Chile",
+  "capa": 9,
+  "comuna": "el-quisco",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0256",
+  "texto": "\"compañía de teatro\" \"El Tabo\" Chile",
+  "capa": 9,
+  "comuna": "el-tabo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0257",
+  "texto": "teatro \"El Tabo\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "el-tabo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0258",
+  "texto": "\"obra de teatro\" \"El Tabo\" 2025 Chile",
+  "capa": 9,
+  "comuna": "el-tabo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0259",
+  "texto": "festival teatro \"El Tabo\" Chile",
+  "capa": 9,
+  "comuna": "el-tabo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0260",
+  "texto": "\"artes escénicas\" \"El Tabo\" Chile",
+  "capa": 9,
+  "comuna": "el-tabo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0261",
+  "texto": "cartelera cultural \"El Tabo\" teatro Chile",
+  "capa": 9,
+  "comuna": "el-tabo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0262",
+  "texto": "sala teatro centro cultural \"El Tabo\" Chile",
+  "capa": 9,
+  "comuna": "el-tabo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0263",
+  "texto": "títeres \"El Tabo\" compañía Chile",
+  "capa": 9,
+  "comuna": "el-tabo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0264",
+  "texto": "\"compañía de teatro\" \"Santo Domingo\" Chile",
+  "capa": 9,
+  "comuna": "santo-domingo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0265",
+  "texto": "teatro \"Santo Domingo\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "santo-domingo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0266",
+  "texto": "\"obra de teatro\" \"Santo Domingo\" 2025 Chile",
+  "capa": 9,
+  "comuna": "santo-domingo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0267",
+  "texto": "festival teatro \"Santo Domingo\" Chile",
+  "capa": 9,
+  "comuna": "santo-domingo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0268",
+  "texto": "\"artes escénicas\" \"Santo Domingo\" Chile",
+  "capa": 9,
+  "comuna": "santo-domingo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0269",
+  "texto": "cartelera cultural \"Santo Domingo\" teatro Chile",
+  "capa": 9,
+  "comuna": "santo-domingo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0270",
+  "texto": "sala teatro centro cultural \"Santo Domingo\" Chile",
+  "capa": 9,
+  "comuna": "santo-domingo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0271",
+  "texto": "títeres \"Santo Domingo\" compañía Chile",
+  "capa": 9,
+  "comuna": "santo-domingo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0272",
+  "texto": "\"compañía de teatro\" \"La Ligua\"",
+  "capa": 9,
+  "comuna": "la-ligua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0273",
+  "texto": "teatro \"La Ligua\" obra compañía",
+  "capa": 9,
+  "comuna": "la-ligua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0274",
+  "texto": "\"obra de teatro\" \"La Ligua\" 2025",
+  "capa": 9,
+  "comuna": "la-ligua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0275",
+  "texto": "festival teatro \"La Ligua\"",
+  "capa": 9,
+  "comuna": "la-ligua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0276",
+  "texto": "\"artes escénicas\" \"La Ligua\"",
+  "capa": 9,
+  "comuna": "la-ligua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0277",
+  "texto": "cartelera cultural \"La Ligua\" teatro",
+  "capa": 9,
+  "comuna": "la-ligua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0278",
+  "texto": "sala teatro centro cultural \"La Ligua\"",
+  "capa": 9,
+  "comuna": "la-ligua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0279",
+  "texto": "títeres \"La Ligua\" compañía",
+  "capa": 9,
+  "comuna": "la-ligua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0280",
+  "texto": "\"compañía de teatro\" \"Cabildo\" Chile",
+  "capa": 9,
+  "comuna": "cabildo",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Cabildo: Teatro Municipal de Cabildo (ficha oficial); grupo folclórico Voces al Viento; sin compañía teatral aún"
+ },
+ {
+  "id": "Q-0281",
+  "texto": "teatro \"Cabildo\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "cabildo",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Cabildo: Teatro Municipal de Cabildo (ficha oficial); grupo folclórico Voces al Viento; sin compañía teatral aún"
+ },
+ {
+  "id": "Q-0282",
+  "texto": "\"obra de teatro\" \"Cabildo\" 2025 Chile",
+  "capa": 9,
+  "comuna": "cabildo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0283",
+  "texto": "festival teatro \"Cabildo\" Chile",
+  "capa": 9,
+  "comuna": "cabildo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0284",
+  "texto": "\"artes escénicas\" \"Cabildo\" Chile",
+  "capa": 9,
+  "comuna": "cabildo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0285",
+  "texto": "cartelera cultural \"Cabildo\" teatro Chile",
+  "capa": 9,
+  "comuna": "cabildo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0286",
+  "texto": "sala teatro centro cultural \"Cabildo\" Chile",
+  "capa": 9,
+  "comuna": "cabildo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0287",
+  "texto": "títeres \"Cabildo\" compañía Chile",
+  "capa": 9,
+  "comuna": "cabildo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0288",
+  "texto": "\"compañía de teatro\" \"Papudo\" Chile",
+  "capa": 9,
+  "comuna": "papudo",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Papudo: Compañía de Teatro Experimental La Sutil (Fundación Casa Abedul)"
+ },
+ {
+  "id": "Q-0289",
+  "texto": "teatro \"Papudo\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "papudo",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Papudo: Compañía de Teatro Experimental La Sutil (Fundación Casa Abedul)"
+ },
+ {
+  "id": "Q-0290",
+  "texto": "\"obra de teatro\" \"Papudo\" 2025 Chile",
+  "capa": 9,
+  "comuna": "papudo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0291",
+  "texto": "festival teatro \"Papudo\" Chile",
+  "capa": 9,
+  "comuna": "papudo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0292",
+  "texto": "\"artes escénicas\" \"Papudo\" Chile",
+  "capa": 9,
+  "comuna": "papudo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0293",
+  "texto": "cartelera cultural \"Papudo\" teatro Chile",
+  "capa": 9,
+  "comuna": "papudo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0294",
+  "texto": "sala teatro centro cultural \"Papudo\" Chile",
+  "capa": 9,
+  "comuna": "papudo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0295",
+  "texto": "títeres \"Papudo\" compañía Chile",
+  "capa": 9,
+  "comuna": "papudo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0296",
+  "texto": "\"compañía de teatro\" \"Petorca\" Chile",
+  "capa": 9,
+  "comuna": "petorca",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Capa 9, primera ronda de comunas sin registros: Petorca, Cabildo, Papudo, Zapallar, Quintero, Puchuncaví, La Calera, Putaendo. Hallazgos: Puntos de Fuga (Red Ramal Cultural, 12 comunas), La Sutil (Papudo), Puquigre (Puchuncaví), Terrapolis (Abisal) en Quintero/El Quisco/San Antonio, FESTIGOC (Putaendo), Teatro Municipal de Cabildo, Teatro de Zapallar, Centro Cultural de La Calera."
+ },
+ {
+  "id": "Q-0297",
+  "texto": "teatro \"Petorca\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "petorca",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Petorca: solo Puntos de Fuga 2026 y Festival Valle del Liwa (sitio caído); sin compañías locales aún"
+ },
+ {
+  "id": "Q-0298",
+  "texto": "\"obra de teatro\" \"Petorca\" 2025 Chile",
+  "capa": 9,
+  "comuna": "petorca",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Petorca: solo Puntos de Fuga 2026 y Festival Valle del Liwa (sitio caído); sin compañías locales aún"
+ },
+ {
+  "id": "Q-0299",
+  "texto": "festival teatro \"Petorca\" Chile",
+  "capa": 9,
+  "comuna": "petorca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0300",
+  "texto": "\"artes escénicas\" \"Petorca\" Chile",
+  "capa": 9,
+  "comuna": "petorca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0301",
+  "texto": "cartelera cultural \"Petorca\" teatro Chile",
+  "capa": 9,
+  "comuna": "petorca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0302",
+  "texto": "sala teatro centro cultural \"Petorca\" Chile",
+  "capa": 9,
+  "comuna": "petorca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0303",
+  "texto": "títeres \"Petorca\" compañía Chile",
+  "capa": 9,
+  "comuna": "petorca",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0304",
+  "texto": "\"compañía de teatro\" \"Zapallar\" Chile",
+  "capa": 9,
+  "comuna": "zapallar",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Zapallar: Teatro de Zapallar y Fundación Municipal de Cultura; Culto; sin compañía teatral"
+ },
+ {
+  "id": "Q-0305",
+  "texto": "teatro \"Zapallar\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "zapallar",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Zapallar: Teatro de Zapallar y Fundación Municipal de Cultura; Culto; sin compañía teatral"
+ },
+ {
+  "id": "Q-0306",
+  "texto": "\"obra de teatro\" \"Zapallar\" 2025 Chile",
+  "capa": 9,
+  "comuna": "zapallar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0307",
+  "texto": "festival teatro \"Zapallar\" Chile",
+  "capa": 9,
+  "comuna": "zapallar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0308",
+  "texto": "\"artes escénicas\" \"Zapallar\" Chile",
+  "capa": 9,
+  "comuna": "zapallar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0309",
+  "texto": "cartelera cultural \"Zapallar\" teatro Chile",
+  "capa": 9,
+  "comuna": "zapallar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0310",
+  "texto": "sala teatro centro cultural \"Zapallar\" Chile",
+  "capa": 9,
+  "comuna": "zapallar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0311",
+  "texto": "títeres \"Zapallar\" compañía Chile",
+  "capa": 9,
+  "comuna": "zapallar",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0312",
+  "texto": "\"compañía de teatro\" \"Los Andes\"",
+  "capa": 9,
+  "comuna": "los-andes",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0313",
+  "texto": "teatro \"Los Andes\" obra compañía",
+  "capa": 9,
+  "comuna": "los-andes",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0314",
+  "texto": "\"obra de teatro\" \"Los Andes\" 2025",
+  "capa": 9,
+  "comuna": "los-andes",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0315",
+  "texto": "festival teatro \"Los Andes\"",
+  "capa": 9,
+  "comuna": "los-andes",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0316",
+  "texto": "\"artes escénicas\" \"Los Andes\"",
+  "capa": 9,
+  "comuna": "los-andes",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0317",
+  "texto": "cartelera cultural \"Los Andes\" teatro",
+  "capa": 9,
+  "comuna": "los-andes",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0318",
+  "texto": "sala teatro centro cultural \"Los Andes\"",
+  "capa": 9,
+  "comuna": "los-andes",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0319",
+  "texto": "títeres \"Los Andes\" compañía",
+  "capa": 9,
+  "comuna": "los-andes",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0320",
+  "texto": "\"compañía de teatro\" \"Calle Larga\" Chile",
+  "capa": 9,
+  "comuna": "calle-larga",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0321",
+  "texto": "teatro \"Calle Larga\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "calle-larga",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0322",
+  "texto": "\"obra de teatro\" \"Calle Larga\" 2025 Chile",
+  "capa": 9,
+  "comuna": "calle-larga",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0323",
+  "texto": "festival teatro \"Calle Larga\" Chile",
+  "capa": 9,
+  "comuna": "calle-larga",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0324",
+  "texto": "\"artes escénicas\" \"Calle Larga\" Chile",
+  "capa": 9,
+  "comuna": "calle-larga",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0325",
+  "texto": "cartelera cultural \"Calle Larga\" teatro Chile",
+  "capa": 9,
+  "comuna": "calle-larga",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0326",
+  "texto": "sala teatro centro cultural \"Calle Larga\" Chile",
+  "capa": 9,
+  "comuna": "calle-larga",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0327",
+  "texto": "títeres \"Calle Larga\" compañía Chile",
+  "capa": 9,
+  "comuna": "calle-larga",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0328",
+  "texto": "\"compañía de teatro\" \"Rinconada\" Chile",
+  "capa": 9,
+  "comuna": "rinconada",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Rinconada: Teatro a Mil 2016 (Onirus, pasacalle Alas de fuego)"
+ },
+ {
+  "id": "Q-0329",
+  "texto": "teatro \"Rinconada\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "rinconada",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Rinconada: Teatro a Mil 2016 (Onirus, pasacalle Alas de fuego)"
+ },
+ {
+  "id": "Q-0330",
+  "texto": "\"obra de teatro\" \"Rinconada\" 2025 Chile",
+  "capa": 9,
+  "comuna": "rinconada",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0331",
+  "texto": "festival teatro \"Rinconada\" Chile",
+  "capa": 9,
+  "comuna": "rinconada",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0332",
+  "texto": "\"artes escénicas\" \"Rinconada\" Chile",
+  "capa": 9,
+  "comuna": "rinconada",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0333",
+  "texto": "cartelera cultural \"Rinconada\" teatro Chile",
+  "capa": 9,
+  "comuna": "rinconada",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0334",
+  "texto": "sala teatro centro cultural \"Rinconada\" Chile",
+  "capa": 9,
+  "comuna": "rinconada",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0335",
+  "texto": "títeres \"Rinconada\" compañía Chile",
+  "capa": 9,
+  "comuna": "rinconada",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0336",
+  "texto": "\"compañía de teatro\" \"San Esteban\" Chile",
+  "capa": 9,
+  "comuna": "san-esteban",
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "San Esteban: sin resultados en dos consultas (revisar El Andino sección San Esteban)"
+ },
+ {
+  "id": "Q-0337",
+  "texto": "teatro \"San Esteban\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "san-esteban",
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "San Esteban: sin resultados en dos consultas (revisar El Andino sección San Esteban)"
+ },
+ {
+  "id": "Q-0338",
+  "texto": "\"obra de teatro\" \"San Esteban\" 2025 Chile",
+  "capa": 9,
+  "comuna": "san-esteban",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0339",
+  "texto": "festival teatro \"San Esteban\" Chile",
+  "capa": 9,
+  "comuna": "san-esteban",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0340",
+  "texto": "\"artes escénicas\" \"San Esteban\" Chile",
+  "capa": 9,
+  "comuna": "san-esteban",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0341",
+  "texto": "cartelera cultural \"San Esteban\" teatro Chile",
+  "capa": 9,
+  "comuna": "san-esteban",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0342",
+  "texto": "sala teatro centro cultural \"San Esteban\" Chile",
+  "capa": 9,
+  "comuna": "san-esteban",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0343",
+  "texto": "títeres \"San Esteban\" compañía Chile",
+  "capa": 9,
+  "comuna": "san-esteban",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0344",
+  "texto": "\"compañía de teatro\" \"San Felipe\"",
+  "capa": 9,
+  "comuna": "san-felipe",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "San Felipe: Teatro Municipal (ficha, funciones 2018/2022/2026), Nina Legrand 'Ninatitiricuenta' (El Trabajo 2026)"
+ },
+ {
+  "id": "Q-0345",
+  "texto": "teatro \"San Felipe\" obra compañía",
+  "capa": 9,
+  "comuna": "san-felipe",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "San Felipe: Teatro Municipal (ficha, funciones 2018/2022/2026), Nina Legrand 'Ninatitiricuenta' (El Trabajo 2026)"
+ },
+ {
+  "id": "Q-0346",
+  "texto": "\"obra de teatro\" \"San Felipe\" 2025",
+  "capa": 9,
+  "comuna": "san-felipe",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0347",
+  "texto": "festival teatro \"San Felipe\"",
+  "capa": 9,
+  "comuna": "san-felipe",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0348",
+  "texto": "\"artes escénicas\" \"San Felipe\"",
+  "capa": 9,
+  "comuna": "san-felipe",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0349",
+  "texto": "cartelera cultural \"San Felipe\" teatro",
+  "capa": 9,
+  "comuna": "san-felipe",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0350",
+  "texto": "sala teatro centro cultural \"San Felipe\"",
+  "capa": 9,
+  "comuna": "san-felipe",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0351",
+  "texto": "títeres \"San Felipe\" compañía",
+  "capa": 9,
+  "comuna": "san-felipe",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0352",
+  "texto": "\"compañía de teatro\" \"Catemu\" Chile",
+  "capa": 9,
+  "comuna": "catemu",
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "Catemu: sin resultados en dos consultas"
+ },
+ {
+  "id": "Q-0353",
+  "texto": "teatro \"Catemu\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "catemu",
+  "estado": "sin_resultados",
+  "fecha": "2026-09-08",
+  "resumen": "Catemu: sin resultados en dos consultas"
+ },
+ {
+  "id": "Q-0354",
+  "texto": "\"obra de teatro\" \"Catemu\" 2025 Chile",
+  "capa": 9,
+  "comuna": "catemu",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0355",
+  "texto": "festival teatro \"Catemu\" Chile",
+  "capa": 9,
+  "comuna": "catemu",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0356",
+  "texto": "\"artes escénicas\" \"Catemu\" Chile",
+  "capa": 9,
+  "comuna": "catemu",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0357",
+  "texto": "cartelera cultural \"Catemu\" teatro Chile",
+  "capa": 9,
+  "comuna": "catemu",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0358",
+  "texto": "sala teatro centro cultural \"Catemu\" Chile",
+  "capa": 9,
+  "comuna": "catemu",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0359",
+  "texto": "títeres \"Catemu\" compañía Chile",
+  "capa": 9,
+  "comuna": "catemu",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0360",
+  "texto": "\"compañía de teatro\" \"Llaillay\"",
+  "capa": 9,
+  "comuna": "llaillay",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0361",
+  "texto": "teatro \"Llaillay\" obra compañía",
+  "capa": 9,
+  "comuna": "llaillay",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0362",
+  "texto": "\"obra de teatro\" \"Llaillay\" 2025",
+  "capa": 9,
+  "comuna": "llaillay",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0363",
+  "texto": "festival teatro \"Llaillay\"",
+  "capa": 9,
+  "comuna": "llaillay",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0364",
+  "texto": "\"artes escénicas\" \"Llaillay\"",
+  "capa": 9,
+  "comuna": "llaillay",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0365",
+  "texto": "cartelera cultural \"Llaillay\" teatro",
+  "capa": 9,
+  "comuna": "llaillay",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0366",
+  "texto": "sala teatro centro cultural \"Llaillay\"",
+  "capa": 9,
+  "comuna": "llaillay",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0367",
+  "texto": "títeres \"Llaillay\" compañía",
+  "capa": 9,
+  "comuna": "llaillay",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0368",
+  "texto": "\"compañía de teatro\" \"Panquehue\" Chile",
+  "capa": 9,
+  "comuna": "panquehue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0369",
+  "texto": "teatro \"Panquehue\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "panquehue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0370",
+  "texto": "\"obra de teatro\" \"Panquehue\" 2025 Chile",
+  "capa": 9,
+  "comuna": "panquehue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0371",
+  "texto": "festival teatro \"Panquehue\" Chile",
+  "capa": 9,
+  "comuna": "panquehue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0372",
+  "texto": "\"artes escénicas\" \"Panquehue\" Chile",
+  "capa": 9,
+  "comuna": "panquehue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0373",
+  "texto": "cartelera cultural \"Panquehue\" teatro Chile",
+  "capa": 9,
+  "comuna": "panquehue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0374",
+  "texto": "sala teatro centro cultural \"Panquehue\" Chile",
+  "capa": 9,
+  "comuna": "panquehue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0375",
+  "texto": "títeres \"Panquehue\" compañía Chile",
+  "capa": 9,
+  "comuna": "panquehue",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0376",
+  "texto": "\"compañía de teatro\" \"Putaendo\"",
+  "capa": 9,
+  "comuna": "putaendo",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Putaendo: FESTIGOC 2024 (teatro escolar), La Plaza de Moviendo Hilos 2021"
+ },
+ {
+  "id": "Q-0377",
+  "texto": "teatro \"Putaendo\" obra compañía",
+  "capa": 9,
+  "comuna": "putaendo",
+  "estado": "hecha",
+  "fecha": "2026-09-08",
+  "resumen": "Putaendo: FESTIGOC 2024 (teatro escolar), La Plaza de Moviendo Hilos 2021"
+ },
+ {
+  "id": "Q-0378",
+  "texto": "\"obra de teatro\" \"Putaendo\" 2025",
+  "capa": 9,
+  "comuna": "putaendo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0379",
+  "texto": "festival teatro \"Putaendo\"",
+  "capa": 9,
+  "comuna": "putaendo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0380",
+  "texto": "\"artes escénicas\" \"Putaendo\"",
+  "capa": 9,
+  "comuna": "putaendo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0381",
+  "texto": "cartelera cultural \"Putaendo\" teatro",
+  "capa": 9,
+  "comuna": "putaendo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0382",
+  "texto": "sala teatro centro cultural \"Putaendo\"",
+  "capa": 9,
+  "comuna": "putaendo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0383",
+  "texto": "títeres \"Putaendo\" compañía",
+  "capa": 9,
+  "comuna": "putaendo",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0384",
+  "texto": "\"compañía de teatro\" \"Santa María\" Chile",
+  "capa": 9,
+  "comuna": "santa-maria",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0385",
+  "texto": "teatro \"Santa María\" obra compañía Chile",
+  "capa": 9,
+  "comuna": "santa-maria",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0386",
+  "texto": "\"obra de teatro\" \"Santa María\" 2025 Chile",
+  "capa": 9,
+  "comuna": "santa-maria",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0387",
+  "texto": "festival teatro \"Santa María\" Chile",
+  "capa": 9,
+  "comuna": "santa-maria",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0388",
+  "texto": "\"artes escénicas\" \"Santa María\" Chile",
+  "capa": 9,
+  "comuna": "santa-maria",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0389",
+  "texto": "cartelera cultural \"Santa María\" teatro Chile",
+  "capa": 9,
+  "comuna": "santa-maria",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0390",
+  "texto": "sala teatro centro cultural \"Santa María\" Chile",
+  "capa": 9,
+  "comuna": "santa-maria",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0391",
+  "texto": "títeres \"Santa María\" compañía Chile",
+  "capa": 9,
+  "comuna": "santa-maria",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0392",
+  "texto": "\"compañía de teatro\" \"Isla de Pascua\"",
+  "capa": 9,
+  "comuna": "isla-de-pascua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0393",
+  "texto": "teatro \"Isla de Pascua\" obra compañía",
+  "capa": 9,
+  "comuna": "isla-de-pascua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0394",
+  "texto": "\"obra de teatro\" \"Isla de Pascua\" 2025",
+  "capa": 9,
+  "comuna": "isla-de-pascua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0395",
+  "texto": "festival teatro \"Isla de Pascua\"",
+  "capa": 9,
+  "comuna": "isla-de-pascua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0396",
+  "texto": "\"artes escénicas\" \"Isla de Pascua\"",
+  "capa": 9,
+  "comuna": "isla-de-pascua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0397",
+  "texto": "cartelera cultural \"Isla de Pascua\" teatro",
+  "capa": 9,
+  "comuna": "isla-de-pascua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0398",
+  "texto": "sala teatro centro cultural \"Isla de Pascua\"",
+  "capa": 9,
+  "comuna": "isla-de-pascua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ },
+ {
+  "id": "Q-0399",
+  "texto": "títeres \"Isla de Pascua\" compañía",
+  "capa": 9,
+  "comuna": "isla-de-pascua",
+  "estado": "pendiente",
+  "fecha": null,
+  "resumen": null
+ }
+]

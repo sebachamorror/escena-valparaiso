@@ -1,0 +1,68 @@
+{
+  "slug": "gabisha-titeres",
+  "type": "company",
+  "name": "Gabisha Títeres",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "olmue",
+  "other_communes": [],
+  "disciplines": [
+    "titeres"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Festival Ventolera",
+      "year": 2024,
+      "place": "Valparaíso",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/agendacultural/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma organizador (Asamblea Titiritera ATTICH V con Seremi de las Culturas), fecha, sede y taller con Giovanni Vaccaro."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

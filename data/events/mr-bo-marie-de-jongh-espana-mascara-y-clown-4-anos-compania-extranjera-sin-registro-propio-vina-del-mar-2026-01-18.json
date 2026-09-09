@@ -1,0 +1,52 @@
+{
+  "slug": "mr-bo-marie-de-jongh-espana-mascara-y-clown-4-anos-compania-extranjera-sin-registro-propio-vina-del-mar-2026-01-18",
+  "type": "event",
+  "title": "'Mr. Bo', Marie de Jongh (España): máscara y clown, +4 años; compañía extranjera sin registro propio.",
+  "kind": "funcion",
+  "work": null,
+  "company": null,
+  "organizer_text": null,
+  "disciplines": [],
+  "audience": null,
+  "description_md": "'Mr. Bo', Marie de Jongh (España): máscara y clown, +4 años; compañía extranjera sin registro propio.",
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2026-01-18T20:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "teatro-municipal-de-vina-del-mar",
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.munivina.cl/noticias/teatro-municipal-de-vina-del-mar-inicia-el-2026-con-espectaculares-conciertos-teatro-danza-y-humor/",
+      "title": "Teatro Municipal de Viña del Mar inicia el 2026 con espectaculares conciertos, teatro, danza y humor",
+      "publisher": "Ilustre Municipalidad de Viña del Mar",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 9 de enero de 2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

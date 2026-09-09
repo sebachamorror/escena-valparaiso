@@ -1,0 +1,52 @@
+{
+  "slug": "funcion-valparaiso-2026-08-27",
+  "type": "event",
+  "title": "Función",
+  "kind": "funcion",
+  "work": null,
+  "company": null,
+  "organizer_text": null,
+  "disciplines": [],
+  "audience": null,
+  "description_md": null,
+  "price": "$3.500",
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2026-08-27T00:00:00-03:00",
+      "ends_at": "2026-09-06T00:00:00-03:00",
+      "time_unknown": true,
+      "venue": "sala-de-artes-escenicas-universidad-de-playa-ancha",
+      "place": null,
+      "price": "$3.500",
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://valpocultura.cl/eventos/categoria/teatro/",
+      "title": "Eventos › Teatro — Valpocultura",
+      "publisher": "Valpocultura",
+      "type": "directorio",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Agenda cultural agregadora; consultada en septiembre de 2026 (35 eventos, la mayoría entradas de la cartelera de la Sala Negra UV)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

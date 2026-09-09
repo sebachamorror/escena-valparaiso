@@ -1,0 +1,121 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondo de Artes Escénicas 2024: 4 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/05/Nomina-SELECCIONADOS-2doLLAMADO2024.pdf",
+   "titulo": "Nómina de seleccionados segundo llamado Circulación Internacional de Artes Escénicas 2024",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [
+  {
+   "nombre": "Zenith Claudia Navarrete Ruiz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2"
+   ],
+   "notas": "Responsable del proyecto «Wellcome to the Train - Bienvenidos al Tren» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Enrique Ignacio Crohare Niño",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2"
+   ],
+   "notas": "Responsable del proyecto «Un botón en mi cabeza gira Colombia 2024» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Gabriela Natalia Fernández Chang",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2"
+   ],
+   "notas": "Responsable del proyecto «Circulación Internacional \"Cuentos que Unen\" camino a Buga 2024» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Nicolás Da Fonseca",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2"
+   ],
+   "notas": "Responsable del proyecto «Participación en festival Master Crew» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Wellcome to the Train - Bienvenidos al Tren",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2024,
+   "folio": "744732",
+   "monto": 6720598,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2"
+   ],
+   "notas": "Responsable según nómina: Zenith Claudia Navarrete Ruiz. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Zenith Claudia Navarrete Ruiz"
+  },
+  {
+   "proyecto": "Un botón en mi cabeza gira Colombia 2024",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2024,
+   "folio": "745106",
+   "monto": 4595872,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2"
+   ],
+   "notas": "Responsable según nómina: Enrique Ignacio Crohare Niño. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Enrique Ignacio Crohare Niño"
+  },
+  {
+   "proyecto": "Circulación Internacional \"Cuentos que Unen\" camino a Buga 2024",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2024,
+   "folio": "745165",
+   "monto": 3329378,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2"
+   ],
+   "notas": "Responsable según nómina: Gabriela Natalia Fernández Chang. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Gabriela Natalia Fernández Chang"
+  },
+  {
+   "proyecto": "Participación en festival Master Crew",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2024,
+   "folio": "744197",
+   "monto": 1904503,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-2"
+   ],
+   "notas": "Responsable según nómina: Nicolás Da Fonseca. Página 4 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Nicolás Da Fonseca"
+  }
+ ]
+}

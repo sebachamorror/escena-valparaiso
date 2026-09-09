@@ -1,0 +1,48 @@
+{
+  "slug": "alas-de-fuego",
+  "type": "work",
+  "title": "Alas de fuego",
+  "authorship": null,
+  "direction": "Horacio Videla",
+  "companies": [],
+  "credits": [],
+  "disciplines": [
+    "circo"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": "Pasacalle con 25 actores, máscaras, circo y malabarismo.",
+  "communes": [
+    "rinconada"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "http://www.losandesonline.cl/noticias/30009/teatro-a-mil-se-presentara-en-rinconada.html",
+      "title": "Teatro a Mil se presentará en Rinconada",
+      "publisher": "Los Andes Online",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de enero de 2016: Fundación Teatro a Mil, funciones gratuitas del 3 al 25 de enero de 2016 en siete comunas de la región."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

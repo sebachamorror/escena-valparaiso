@@ -1,0 +1,52 @@
+{
+  "slug": "festigoc-festival-estudiantil-de-teatro-escuela-gaston-ormazabal-cabrera",
+  "type": "event",
+  "title": "FESTIGOC — Festival Estudiantil de Teatro Escuela Gastón Ormazábal Cabrera",
+  "kind": "festival",
+  "work": null,
+  "company": null,
+  "organizer_text": "Escuela Gastón Ormazábal Cabrera (Putaendo)",
+  "disciplines": [],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2024-08-28T00:00:00-03:00",
+      "ends_at": "2024-08-29T00:00:00-03:00",
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://eltrabajo.cl/web/primera-edicion-del-festival-escolar-de-teatro-se-realizo-con-exito-en-putaendo/",
+      "title": "Primera edición del Festival Escolar de Teatro se realizó con éxito en Putaendo",
+      "publisher": "Diario El Trabajo (San Felipe)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 29 de agosto de 2024."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

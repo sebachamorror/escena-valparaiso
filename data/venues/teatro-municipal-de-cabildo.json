@@ -1,0 +1,57 @@
+{
+  "slug": "teatro-municipal-de-cabildo",
+  "type": "venue",
+  "name": "Teatro Municipal de Cabildo",
+  "short_name": null,
+  "venue_type": "teatro",
+  "owner": "municipal (Unidad de Deportes, Turismo, Cultura y Recreación)",
+  "place": {
+    "name": null,
+    "address": "Calle Lautaro esquina Ignacio Carrera Pinto, Cabildo",
+    "commune": "cabildo",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": 350,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://municipiocabildo.cl/teatro-municipal/",
+      "title": "Teatro Municipal de Cabildo — Municipio de Cabildo",
+      "publisher": "Ilustre Municipalidad de Cabildo",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Ficha oficial del teatro: dirección, capacidad 350, historia (cine desde los años 1920, edificio actual de 1956), administración por la Unidad de Deportes, Turismo, Cultura y Recreación."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

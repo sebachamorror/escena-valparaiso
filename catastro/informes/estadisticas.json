@@ -1,0 +1,1966 @@
+{
+ "generado": "2026-09-08",
+ "nota": "Todos los valores son DATO ENCONTRADO (registros con fuente en el catastro). No son estimaciones del universo real ni extrapolaciones.",
+ "totales": {
+  "companias": 118,
+  "obras": 136,
+  "funciones": 77,
+  "espacios": 89,
+  "personas": 243,
+  "festivales": 45,
+  "financiamiento": 398,
+  "fuentes": 181
+ },
+ "estados": {
+  "companias": {
+   "PARCIAL": 39,
+   "DESCUBIERTO": 76,
+   "VERIFICADO": 3,
+   "DUPLICADO": 7
+  },
+  "obras": {
+   "DESCUBIERTO": 136
+  },
+  "funciones": {
+   "VERIFICADO": 6,
+   "PARCIAL": 68,
+   "DESCUBIERTO": 3
+  },
+  "espacios": {
+   "VERIFICADO": 5,
+   "PARCIAL": 78,
+   "DESCUBIERTO": 6
+  },
+  "personas": {
+   "PARCIAL": 24,
+   "DESCUBIERTO": 216,
+   "VERIFICADO": 3,
+   "DUPLICADO": 3
+  },
+  "festivales": {
+   "DUPLICADO": 3,
+   "VERIFICADO": 3,
+   "DESCUBIERTO": 17,
+   "PARCIAL": 25
+  },
+  "financiamiento": {
+   "PARCIAL": 78,
+   "DESCUBIERTO": 320
+  }
+ },
+ "companias_por_provincia": {
+  "valparaiso": 51,
+  "sin-provincia": 43,
+  "quillota": 7,
+  "marga-marga": 6,
+  "petorca": 4,
+  "san-antonio": 4,
+  "los-andes": 2,
+  "san-felipe-de-aconcagua": 1
+ },
+ "companias_por_comuna": {
+  "sin-comuna": 43,
+  "valparaiso": 39,
+  "quillota": 6,
+  "vina-del-mar": 6,
+  "concon": 4,
+  "villa-alemana": 3,
+  "los-andes": 2,
+  "santo-domingo": 2,
+  "papudo": 2,
+  "la-ligua": 1,
+  "quilpue": 1,
+  "san-antonio": 1,
+  "el-tabo": 1,
+  "limache": 1,
+  "hijuelas": 1,
+  "olmue": 1,
+  "san-felipe": 1,
+  "puchuncavi": 1,
+  "quintero": 1,
+  "zapallar": 1
+ },
+ "espacios_por_provincia": {
+  "valparaiso": 50,
+  "san-antonio": 8,
+  "marga-marga": 8,
+  "quillota": 7,
+  "san-felipe-de-aconcagua": 7,
+  "los-andes": 3,
+  "petorca": 3,
+  "sin-provincia": 2,
+  "isla-de-pascua": 1
+ },
+ "espacios_por_comuna": {
+  "valparaiso": 36,
+  "quillota": 6,
+  "vina-del-mar": 5,
+  "quilpue": 4,
+  "concon": 4,
+  "los-andes": 2,
+  "san-antonio": 2,
+  "villa-alemana": 2,
+  "el-quisco": 2,
+  "el-tabo": 2,
+  "san-felipe": 2,
+  "casablanca": 2,
+  "sin-comuna": 2,
+  "putaendo": 2,
+  "puchuncavi": 2,
+  "algarrobo": 1,
+  "calle-larga": 1,
+  "cartagena": 1,
+  "llaillay": 1,
+  "panquehue": 1,
+  "santa-maria": 1,
+  "isla-de-pascua": 1,
+  "la-ligua": 1,
+  "limache": 1,
+  "olmue": 1,
+  "la-calera": 1,
+  "cabildo": 1,
+  "zapallar": 1,
+  "quintero": 1
+ },
+ "funciones_por_provincia": {
+  "valparaiso": 49,
+  "san-antonio": 9,
+  "quillota": 9,
+  "san-felipe-de-aconcagua": 4,
+  "marga-marga": 4,
+  "los-andes": 2
+ },
+ "funciones_por_comuna": {
+  "valparaiso": 37,
+  "san-antonio": 8,
+  "quillota": 8,
+  "vina-del-mar": 7,
+  "san-felipe": 3,
+  "casablanca": 3,
+  "villa-alemana": 2,
+  "quilpue": 2,
+  "quintero": 1,
+  "el-quisco": 1,
+  "putaendo": 1,
+  "la-calera": 1,
+  "rinconada": 1,
+  "los-andes": 1,
+  "concon": 1
+ },
+ "festivales_por_provincia": {
+  "sin-provincia": 18,
+  "valparaiso": 16,
+  "quillota": 3,
+  "los-andes": 2,
+  "marga-marga": 2,
+  "san-felipe-de-aconcagua": 2,
+  "san-antonio": 1,
+  "petorca": 1
+ },
+ "festivales_por_comuna": {
+  "sin-comuna": 18,
+  "valparaiso": 15,
+  "san-antonio": 1,
+  "calle-larga": 1,
+  "vina-del-mar": 1,
+  "hijuelas": 1,
+  "villa-alemana": 1,
+  "quilpue": 1,
+  "putaendo": 1,
+  "zapallar": 1,
+  "quillota": 1,
+  "los-andes": 1,
+  "la-cruz": 1,
+  "san-felipe": 1
+ },
+ "personas_por_provincia": {
+  "sin-provincia": 214,
+  "valparaiso": 10,
+  "marga-marga": 6,
+  "quillota": 6,
+  "san-antonio": 3,
+  "san-felipe-de-aconcagua": 2,
+  "los-andes": 1,
+  "petorca": 1
+ },
+ "personas_por_comuna": {
+  "sin-comuna": 214,
+  "valparaiso": 8,
+  "quillota": 6,
+  "villa-alemana": 3,
+  "san-antonio": 2,
+  "vina-del-mar": 2,
+  "santo-domingo": 1,
+  "putaendo": 1,
+  "los-andes": 1,
+  "la-ligua": 1,
+  "quilpue": 1,
+  "san-felipe": 1,
+  "limache": 1,
+  "olmue": 1
+ },
+ "financiamiento_por_provincia": {
+  "sin-provincia": 373,
+  "valparaiso": 21,
+  "marga-marga": 2,
+  "petorca": 1,
+  "san-antonio": 1
+ },
+ "financiamiento_por_comuna": {
+  "sin-comuna": 373,
+  "valparaiso": 18,
+  "vina-del-mar": 3,
+  "la-ligua": 1,
+  "villa-alemana": 1,
+  "santo-domingo": 1,
+  "limache": 1
+ },
+ "obras_por_provincia": {
+  "sin-provincia": 91,
+  "valparaiso": 38,
+  "quillota": 3,
+  "marga-marga": 2,
+  "san-antonio": 1,
+  "los-andes": 1
+ },
+ "obras_por_comuna": {
+  "sin-comuna": 91,
+  "valparaiso": 34,
+  "quillota": 3,
+  "villa-alemana": 2,
+  "concon": 2,
+  "san-antonio": 1,
+  "los-andes": 1,
+  "puchuncavi": 1,
+  "vina-del-mar": 1
+ },
+ "comunas_sin_companias": [
+  "casablanca",
+  "juan-fernandez",
+  "la-calera",
+  "la-cruz",
+  "nogales",
+  "algarrobo",
+  "cartagena",
+  "el-quisco",
+  "cabildo",
+  "petorca",
+  "calle-larga",
+  "rinconada",
+  "san-esteban",
+  "catemu",
+  "llaillay",
+  "panquehue",
+  "putaendo",
+  "santa-maria",
+  "isla-de-pascua"
+ ],
+ "comunas_sin_espacios": [
+  "juan-fernandez",
+  "hijuelas",
+  "la-cruz",
+  "nogales",
+  "santo-domingo",
+  "papudo",
+  "petorca",
+  "rinconada",
+  "san-esteban",
+  "catemu"
+ ],
+ "comunas_sin_registros": [
+  "juan-fernandez",
+  "nogales",
+  "petorca",
+  "san-esteban",
+  "catemu"
+ ],
+ "actividad_por_comuna": {
+  "valparaiso": {
+   "comuna": "Valparaíso",
+   "provincia": "valparaiso",
+   "companias": 39,
+   "espacios": 36,
+   "funciones": 37,
+   "festivales": 15,
+   "obras": 34,
+   "total": 161
+  },
+  "quillota": {
+   "comuna": "Quillota",
+   "provincia": "quillota",
+   "companias": 6,
+   "espacios": 6,
+   "funciones": 8,
+   "festivales": 1,
+   "obras": 3,
+   "total": 24
+  },
+  "vina-del-mar": {
+   "comuna": "Viña del Mar",
+   "provincia": "valparaiso",
+   "companias": 6,
+   "espacios": 5,
+   "funciones": 7,
+   "festivales": 1,
+   "obras": 1,
+   "total": 20
+  },
+  "san-antonio": {
+   "comuna": "San Antonio",
+   "provincia": "san-antonio",
+   "companias": 1,
+   "espacios": 2,
+   "funciones": 8,
+   "festivales": 1,
+   "obras": 1,
+   "total": 13
+  },
+  "concon": {
+   "comuna": "Concón",
+   "provincia": "valparaiso",
+   "companias": 4,
+   "espacios": 4,
+   "funciones": 1,
+   "festivales": 0,
+   "obras": 2,
+   "total": 11
+  },
+  "villa-alemana": {
+   "comuna": "Villa Alemana",
+   "provincia": "marga-marga",
+   "companias": 3,
+   "espacios": 2,
+   "funciones": 2,
+   "festivales": 1,
+   "obras": 2,
+   "total": 10
+  },
+  "quilpue": {
+   "comuna": "Quilpué",
+   "provincia": "marga-marga",
+   "companias": 1,
+   "espacios": 4,
+   "funciones": 2,
+   "festivales": 1,
+   "obras": 0,
+   "total": 8
+  },
+  "los-andes": {
+   "comuna": "Los Andes",
+   "provincia": "los-andes",
+   "companias": 2,
+   "espacios": 2,
+   "funciones": 1,
+   "festivales": 1,
+   "obras": 1,
+   "total": 7
+  },
+  "san-felipe": {
+   "comuna": "San Felipe",
+   "provincia": "san-felipe-de-aconcagua",
+   "companias": 1,
+   "espacios": 2,
+   "funciones": 3,
+   "festivales": 1,
+   "obras": 0,
+   "total": 7
+  },
+  "casablanca": {
+   "comuna": "Casablanca",
+   "provincia": "valparaiso",
+   "companias": 0,
+   "espacios": 2,
+   "funciones": 3,
+   "festivales": 0,
+   "obras": 0,
+   "total": 5
+  },
+  "puchuncavi": {
+   "comuna": "Puchuncaví",
+   "provincia": "valparaiso",
+   "companias": 1,
+   "espacios": 2,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 1,
+   "total": 4
+  },
+  "putaendo": {
+   "comuna": "Putaendo",
+   "provincia": "san-felipe-de-aconcagua",
+   "companias": 0,
+   "espacios": 2,
+   "funciones": 1,
+   "festivales": 1,
+   "obras": 0,
+   "total": 4
+  },
+  "el-quisco": {
+   "comuna": "El Quisco",
+   "provincia": "san-antonio",
+   "companias": 0,
+   "espacios": 2,
+   "funciones": 1,
+   "festivales": 0,
+   "obras": 0,
+   "total": 3
+  },
+  "el-tabo": {
+   "comuna": "El Tabo",
+   "provincia": "san-antonio",
+   "companias": 1,
+   "espacios": 2,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 3
+  },
+  "quintero": {
+   "comuna": "Quintero",
+   "provincia": "valparaiso",
+   "companias": 1,
+   "espacios": 1,
+   "funciones": 1,
+   "festivales": 0,
+   "obras": 0,
+   "total": 3
+  },
+  "zapallar": {
+   "comuna": "Zapallar",
+   "provincia": "petorca",
+   "companias": 1,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 1,
+   "obras": 0,
+   "total": 3
+  },
+  "calle-larga": {
+   "comuna": "Calle Larga",
+   "provincia": "los-andes",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 1,
+   "obras": 0,
+   "total": 2
+  },
+  "hijuelas": {
+   "comuna": "Hijuelas",
+   "provincia": "quillota",
+   "companias": 1,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 1,
+   "obras": 0,
+   "total": 2
+  },
+  "la-calera": {
+   "comuna": "La Calera",
+   "provincia": "quillota",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 1,
+   "festivales": 0,
+   "obras": 0,
+   "total": 2
+  },
+  "la-ligua": {
+   "comuna": "La Ligua",
+   "provincia": "petorca",
+   "companias": 1,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 2
+  },
+  "limache": {
+   "comuna": "Limache",
+   "provincia": "marga-marga",
+   "companias": 1,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 2
+  },
+  "olmue": {
+   "comuna": "Olmué",
+   "provincia": "marga-marga",
+   "companias": 1,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 2
+  },
+  "papudo": {
+   "comuna": "Papudo",
+   "provincia": "petorca",
+   "companias": 2,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 2
+  },
+  "santo-domingo": {
+   "comuna": "Santo Domingo",
+   "provincia": "san-antonio",
+   "companias": 2,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 2
+  },
+  "algarrobo": {
+   "comuna": "Algarrobo",
+   "provincia": "san-antonio",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 1
+  },
+  "cabildo": {
+   "comuna": "Cabildo",
+   "provincia": "petorca",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 1
+  },
+  "cartagena": {
+   "comuna": "Cartagena",
+   "provincia": "san-antonio",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 1
+  },
+  "isla-de-pascua": {
+   "comuna": "Isla de Pascua",
+   "provincia": "isla-de-pascua",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 1
+  },
+  "la-cruz": {
+   "comuna": "La Cruz",
+   "provincia": "quillota",
+   "companias": 0,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 1,
+   "obras": 0,
+   "total": 1
+  },
+  "llaillay": {
+   "comuna": "Llaillay",
+   "provincia": "san-felipe-de-aconcagua",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 1
+  },
+  "panquehue": {
+   "comuna": "Panquehue",
+   "provincia": "san-felipe-de-aconcagua",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 1
+  },
+  "rinconada": {
+   "comuna": "Rinconada",
+   "provincia": "los-andes",
+   "companias": 0,
+   "espacios": 0,
+   "funciones": 1,
+   "festivales": 0,
+   "obras": 0,
+   "total": 1
+  },
+  "santa-maria": {
+   "comuna": "Santa María",
+   "provincia": "san-felipe-de-aconcagua",
+   "companias": 0,
+   "espacios": 1,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 1
+  },
+  "catemu": {
+   "comuna": "Catemu",
+   "provincia": "san-felipe-de-aconcagua",
+   "companias": 0,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 0
+  },
+  "juan-fernandez": {
+   "comuna": "Juan Fernández",
+   "provincia": "valparaiso",
+   "companias": 0,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 0
+  },
+  "nogales": {
+   "comuna": "Nogales",
+   "provincia": "quillota",
+   "companias": 0,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 0
+  },
+  "petorca": {
+   "comuna": "Petorca",
+   "provincia": "petorca",
+   "companias": 0,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 0
+  },
+  "san-esteban": {
+   "comuna": "San Esteban",
+   "provincia": "los-andes",
+   "companias": 0,
+   "espacios": 0,
+   "funciones": 0,
+   "festivales": 0,
+   "obras": 0,
+   "total": 0
+  }
+ },
+ "companias_mas_activas": [
+  {
+   "id": "COMP-0076",
+   "nombre": "Julieta y Compañía",
+   "comuna": "villa-alemana",
+   "funciones": 6,
+   "obras": 1,
+   "festivales": 0,
+   "espacios": 4,
+   "puntaje": 17
+  },
+  {
+   "id": "COMP-0039",
+   "nombre": "Cooperativa de Artes Escénicas de Valparaíso",
+   "comuna": "valparaiso",
+   "funciones": 3,
+   "obras": 3,
+   "festivales": 3,
+   "espacios": 3,
+   "puntaje": 15
+  },
+  {
+   "id": "COMP-0100",
+   "nombre": "Abisal",
+   "comuna": null,
+   "funciones": 4,
+   "obras": 1,
+   "festivales": 0,
+   "espacios": 4,
+   "puntaje": 13
+  },
+  {
+   "id": "COMP-0008",
+   "nombre": "Fundación OANI de Teatro",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "obras": 5,
+   "festivales": 2,
+   "espacios": 2,
+   "puntaje": 13
+  },
+  {
+   "id": "COMP-0041",
+   "nombre": "Teatro ILUcIÓN",
+   "comuna": "valparaiso",
+   "funciones": 3,
+   "obras": 3,
+   "festivales": 1,
+   "espacios": 3,
+   "puntaje": 13
+  },
+  {
+   "id": "COMP-0013",
+   "nombre": "Centro de Investigación Teatro La Peste",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 3,
+   "festivales": 3,
+   "espacios": 3,
+   "puntaje": 11
+  },
+  {
+   "id": "COMP-0042",
+   "nombre": "Teatro Desastre",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "obras": 2,
+   "festivales": 1,
+   "espacios": 2,
+   "puntaje": 9
+  },
+  {
+   "id": "COMP-0073",
+   "nombre": "Teatro La Washa",
+   "comuna": null,
+   "funciones": 1,
+   "obras": 5,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 9
+  },
+  {
+   "id": "COMP-0050",
+   "nombre": "Colectivo interdisciplinario Musgo",
+   "comuna": null,
+   "funciones": 1,
+   "obras": 3,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 7
+  },
+  {
+   "id": "COMP-0091",
+   "nombre": "Colectivx Escénicx Urgente Delirio",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 7
+  },
+  {
+   "id": "COMP-0095",
+   "nombre": "Compañía En Paños Menores",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 7
+  },
+  {
+   "id": "COMP-0044",
+   "nombre": "Disparate Circo",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 2,
+   "festivales": 2,
+   "espacios": 1,
+   "puntaje": 7
+  },
+  {
+   "id": "COMP-0093",
+   "nombre": "Espacio Ané",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 7
+  },
+  {
+   "id": "COMP-0040",
+   "nombre": "Astillero Teatro",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 2,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 6
+  },
+  {
+   "id": "COMP-0054",
+   "nombre": "Organización Comunitaria Artística Cultural y Deportiva La Coraje",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 2,
+   "espacios": 1,
+   "puntaje": 6
+  },
+  {
+   "id": "COMP-0118",
+   "nombre": "Ankalli Artes Escénicas",
+   "comuna": null,
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0094",
+   "nombre": "Colaboraciones en Distancia",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0087",
+   "nombre": "Compañía Moviendo Hilos",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0106",
+   "nombre": "Cía. Manga de Fracasados",
+   "comuna": null,
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0116",
+   "nombre": "Experimento Pierrot",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0043",
+   "nombre": "La Bayka",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0092",
+   "nombre": "MikroEspacio Creativo",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0105",
+   "nombre": "Proyectico Títeres Educativos",
+   "comuna": null,
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0119",
+   "nombre": "Soporte Corporal",
+   "comuna": null,
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0104",
+   "nombre": "Teatro AlmaZen",
+   "comuna": "concon",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0045",
+   "nombre": "Teatro del Instinto",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0018",
+   "nombre": "Teatro Ánima",
+   "comuna": "quillota",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "COMP-0097",
+   "nombre": "Compañía de Teatro Experimental La Sutil",
+   "comuna": "papudo",
+   "funciones": 1,
+   "obras": 0,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 4
+  },
+  {
+   "id": "COMP-0077",
+   "nombre": "Flamenco Triana",
+   "comuna": "vina-del-mar",
+   "funciones": 1,
+   "obras": 1,
+   "festivales": 0,
+   "espacios": 1,
+   "puntaje": 4
+  },
+  {
+   "id": "COMP-0113",
+   "nombre": "Saltimbanqui Circus",
+   "comuna": null,
+   "funciones": 1,
+   "obras": 0,
+   "festivales": 1,
+   "espacios": 1,
+   "puntaje": 4
+  }
+ ],
+ "funciones_por_compania": {
+  "COMP-0076": 6,
+  "COMP-0039": 3,
+  "COMP-0100": 4,
+  "COMP-0008": 2,
+  "COMP-0041": 3,
+  "COMP-0013": 1,
+  "COMP-0042": 2,
+  "COMP-0073": 1,
+  "COMP-0050": 1,
+  "COMP-0091": 2,
+  "COMP-0095": 2,
+  "COMP-0044": 1,
+  "COMP-0093": 2,
+  "COMP-0040": 1,
+  "COMP-0054": 1,
+  "COMP-0118": 1,
+  "COMP-0094": 1,
+  "COMP-0087": 1,
+  "COMP-0106": 1,
+  "COMP-0116": 1,
+  "COMP-0043": 1,
+  "COMP-0092": 1,
+  "COMP-0105": 1,
+  "COMP-0119": 1,
+  "COMP-0104": 1,
+  "COMP-0045": 1,
+  "COMP-0018": 1,
+  "COMP-0097": 1,
+  "COMP-0077": 1,
+  "COMP-0113": 1,
+  "COMP-0108": 1,
+  "COMP-0120": 1
+ },
+ "espacios_mayor_programacion": [
+  {
+   "id": "ESP-0002",
+   "nombre": "Centro Cultural San Antonio",
+   "comuna": "san-antonio",
+   "funciones": 7,
+   "companias": 3,
+   "puntaje": 17
+  },
+  {
+   "id": "ESP-0003",
+   "nombre": "Parque Cultural de Valparaíso",
+   "comuna": "valparaiso",
+   "funciones": 6,
+   "companias": 5,
+   "puntaje": 17
+  },
+  {
+   "id": "ESP-0059",
+   "nombre": "Teatro Municipal de Viña del Mar",
+   "comuna": "vina-del-mar",
+   "funciones": 7,
+   "companias": 1,
+   "puntaje": 15
+  },
+  {
+   "id": "ESP-0016",
+   "nombre": "Centro Cultural Leopoldo Silva Reynoard",
+   "comuna": "quillota",
+   "funciones": 4,
+   "companias": 5,
+   "puntaje": 13
+  },
+  {
+   "id": "ESP-0053",
+   "nombre": "Centro Cultural IPA",
+   "comuna": "valparaiso",
+   "funciones": 4,
+   "companias": 3,
+   "puntaje": 11
+  },
+  {
+   "id": "ESP-0064",
+   "nombre": "Valparaíso Profundo",
+   "comuna": "valparaiso",
+   "funciones": 3,
+   "companias": 2,
+   "puntaje": 8
+  },
+  {
+   "id": "ESP-0054",
+   "nombre": "Centex — Centro de Extensión del Ministerio de las Culturas",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "companias": 2,
+   "puntaje": 6
+  },
+  {
+   "id": "ESP-0033",
+   "nombre": "Centro Comunitario Las Cañas",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "companias": 2,
+   "puntaje": 6
+  },
+  {
+   "id": "ESP-0022",
+   "nombre": "Centro Cultural Gabriela Mistral",
+   "comuna": "villa-alemana",
+   "funciones": 2,
+   "companias": 2,
+   "puntaje": 6
+  },
+  {
+   "id": "ESP-0007",
+   "nombre": "Fundación Teatromuseo del Títere y el Payaso",
+   "comuna": "valparaiso",
+   "funciones": 3,
+   "companias": 0,
+   "puntaje": 6
+  },
+  {
+   "id": "ESP-0062",
+   "nombre": "Teatro Municipal de San Felipe",
+   "comuna": "san-felipe",
+   "funciones": 3,
+   "companias": 0,
+   "puntaje": 6
+  },
+  {
+   "id": "ESP-0068",
+   "nombre": "CEAC",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "companias": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "ESP-0069",
+   "nombre": "Sala de Artes Escénicas Rodelillo",
+   "comuna": "valparaiso",
+   "funciones": 2,
+   "companias": 1,
+   "puntaje": 5
+  },
+  {
+   "id": "ESP-0070",
+   "nombre": "Casa Centro de Investigación Teatro La Peste",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 2,
+   "puntaje": 4
+  },
+  {
+   "id": "ESP-0061",
+   "nombre": "Teatro Municipal de Casablanca",
+   "comuna": "casablanca",
+   "funciones": 2,
+   "companias": 0,
+   "puntaje": 4
+  },
+  {
+   "id": "ESP-0055",
+   "nombre": "CECO de Rodelillo",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0056",
+   "nombre": "Cancha Población Márquez",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0087",
+   "nombre": "Cancha Quebrada Márquez",
+   "comuna": null,
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0025",
+   "nombre": "Carpa Azul Circo",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0076",
+   "nombre": "Casino de funcionarios de la Biblioteca Municipal de Quintero",
+   "comuna": "quintero",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0012",
+   "nombre": "Centro Cultural Camilo Mori",
+   "comuna": "el-quisco",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0071",
+   "nombre": "Centro Cultural de La Calera",
+   "comuna": "la-calera",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0075",
+   "nombre": "Escuela María Leiva de Las Coimas",
+   "comuna": "putaendo",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0052",
+   "nombre": "Espacio Catarsis",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0067",
+   "nombre": "Espacio Comunitario Santa Ana",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0081",
+   "nombre": "Junta de Vecinos San Juan de Llolleo",
+   "comuna": "san-antonio",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0066",
+   "nombre": "Liceo Pedro Montt",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0065",
+   "nombre": "Mercado Puerto",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0051",
+   "nombre": "Mikroespacio",
+   "comuna": "valparaiso",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  },
+  {
+   "id": "ESP-0083",
+   "nombre": "Patio de los Copihues — Iglesia Nuestra Señora de Las Mercedes",
+   "comuna": "concon",
+   "funciones": 1,
+   "companias": 1,
+   "puntaje": 3
+  }
+ ],
+ "companias_que_circulan": [
+  {
+   "id": "COMP-0100",
+   "nombre": "Abisal",
+   "sede": null,
+   "comunas_trabajo": [
+    "valparaiso",
+    "quintero",
+    "san-antonio",
+    "el-quisco"
+   ],
+   "regiones": [
+    "Región Metropolitana (Santiago)",
+    "Región del Biobío (Concepción)"
+   ]
+  },
+  {
+   "id": "COMP-0076",
+   "nombre": "Julieta y Compañía",
+   "sede": "villa-alemana",
+   "comunas_trabajo": [
+    "quillota",
+    "quilpue",
+    "valparaiso"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0001",
+   "nombre": "Arte Escénico La Ligua",
+   "sede": "la-ligua",
+   "comunas_trabajo": [
+    "petorca",
+    "cabildo"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0022",
+   "nombre": "Compañía La Barconeta",
+   "sede": null,
+   "comunas_trabajo": [
+    "valparaiso"
+   ],
+   "regiones": [
+    "Sudamérica (giras)"
+   ]
+  },
+  {
+   "id": "COMP-0044",
+   "nombre": "Disparate Circo",
+   "sede": "valparaiso",
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": [
+    "circulación internacional 2026 (Circo Pa'l Barrio)"
+   ]
+  },
+  {
+   "id": "COMP-0118",
+   "nombre": "Ankalli Artes Escénicas",
+   "sede": null,
+   "comunas_trabajo": [
+    "villa-alemana"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0110",
+   "nombre": "Carro Nómade",
+   "sede": null,
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0125",
+   "nombre": "Colectivo Artístico Lírica Disidente",
+   "sede": null,
+   "comunas_trabajo": [
+    "vina-del-mar"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0050",
+   "nombre": "Colectivo interdisciplinario Musgo",
+   "sede": null,
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0112",
+   "nombre": "Compañía Aranwa",
+   "sede": null,
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0087",
+   "nombre": "Compañía Moviendo Hilos",
+   "sede": "valparaiso",
+   "comunas_trabajo": [
+    "putaendo"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0111",
+   "nombre": "Compañía Oreja Roja",
+   "sede": null,
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0097",
+   "nombre": "Compañía de Teatro Experimental La Sutil",
+   "sede": "papudo",
+   "comunas_trabajo": [
+    "la-calera"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0039",
+   "nombre": "Cooperativa de Artes Escénicas de Valparaíso",
+   "sede": "valparaiso",
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0106",
+   "nombre": "Cía. Manga de Fracasados",
+   "sede": null,
+   "comunas_trabajo": [
+    "quillota"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0007",
+   "nombre": "Festín de la Risa",
+   "sede": "valparaiso",
+   "comunas_trabajo": [
+    "putaendo"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0068",
+   "nombre": "Fundación Teatromuseo del Títere y el Payaso",
+   "sede": "valparaiso",
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0107",
+   "nombre": "Los Teatristas",
+   "sede": null,
+   "comunas_trabajo": [
+    "los-andes"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0011",
+   "nombre": "Ludus Teatro",
+   "sede": "concon",
+   "comunas_trabajo": [
+    "quilpue"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0105",
+   "nombre": "Proyectico Títeres Educativos",
+   "sede": null,
+   "comunas_trabajo": [
+    "quillota"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0113",
+   "nombre": "Saltimbanqui Circus",
+   "sede": null,
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0119",
+   "nombre": "Soporte Corporal",
+   "sede": null,
+   "comunas_trabajo": [
+    "valparaiso"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0104",
+   "nombre": "Teatro AlmaZen",
+   "sede": "concon",
+   "comunas_trabajo": [
+    "quillota"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0114",
+   "nombre": "Teatro El Ojo",
+   "sede": null,
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0073",
+   "nombre": "Teatro La Washa",
+   "sede": null,
+   "comunas_trabajo": [
+    "valparaiso"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0108",
+   "nombre": "Teatro Profesional Onirus",
+   "sede": null,
+   "comunas_trabajo": [
+    "rinconada"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0015",
+   "nombre": "Títeres Humedal Río Maipo",
+   "sede": "santo-domingo",
+   "comunas_trabajo": [
+    "san-antonio"
+   ],
+   "regiones": []
+  },
+  {
+   "id": "COMP-0004",
+   "nombre": "Compañía de Muñecos Marionautas",
+   "sede": "quilpue",
+   "comunas_trabajo": [],
+   "regiones": [
+    "Latinoamérica (giras)",
+    "Europa (giras)"
+   ]
+  },
+  {
+   "id": "COMP-0079",
+   "nombre": "Agrupación de Teatro e Investigación Otro Cuerpo",
+   "sede": null,
+   "comunas_trabajo": [],
+   "regiones": [
+    "México (Guadalajara, 2022)"
+   ]
+  },
+  {
+   "id": "COMP-0040",
+   "nombre": "Astillero Teatro",
+   "sede": "valparaiso",
+   "comunas_trabajo": [],
+   "regiones": [
+    "circulación internacional 2024"
+   ]
+  },
+  {
+   "id": "COMP-0052",
+   "nombre": "Centro Cultural Teatro Container",
+   "sede": "valparaiso",
+   "comunas_trabajo": [],
+   "regiones": [
+    "Brasil (Belo Horizonte, 2024)"
+   ]
+  },
+  {
+   "id": "COMP-0016",
+   "nombre": "Titiricaos",
+   "sede": "valparaiso",
+   "comunas_trabajo": [],
+   "regiones": [
+    "Región Metropolitana"
+   ]
+  }
+ ],
+ "concentracion_companias": {
+  "total": 118,
+  "top1": {
+   "comuna": "valparaiso",
+   "n": 39,
+   "share": 0.331
+  },
+  "top3_share": 0.432,
+  "comunas_con_companias": 19,
+  "comunas_totales": 38
+ },
+ "companias_emergentes": [],
+ "companias_mayor_trayectoria": [
+  {
+   "id": "COMP-0099",
+   "nombre": "Compañía de Teatro Puquigre",
+   "comuna": "puchuncavi",
+   "anio": 1982
+  },
+  {
+   "id": "COMP-0008",
+   "nombre": "Fundación OANI de Teatro",
+   "comuna": "valparaiso",
+   "anio": 1998
+  },
+  {
+   "id": "COMP-0013",
+   "nombre": "Centro de Investigación Teatro La Peste",
+   "comuna": "valparaiso",
+   "anio": 2000
+  },
+  {
+   "id": "COMP-0007",
+   "nombre": "Festín de la Risa",
+   "comuna": "valparaiso",
+   "anio": 2009
+  },
+  {
+   "id": "COMP-0011",
+   "nombre": "Ludus Teatro",
+   "comuna": "concon",
+   "anio": 2010
+  },
+  {
+   "id": "COMP-0005",
+   "nombre": "Compañía de Teatro Alegría",
+   "comuna": "villa-alemana",
+   "anio": 2012
+  },
+  {
+   "id": "COMP-0010",
+   "nombre": "La Enredadera",
+   "comuna": "valparaiso",
+   "anio": 2014
+  },
+  {
+   "id": "COMP-0022",
+   "nombre": "Compañía La Barconeta",
+   "comuna": null,
+   "anio": 2016
+  },
+  {
+   "id": "COMP-0003",
+   "nombre": "Colectiva Artística Medioambiental La Capuchina",
+   "comuna": "valparaiso",
+   "anio": 2018
+  }
+ ],
+ "companias_sin_anio_creacion": 109,
+ "fuentes_por_calidad": {
+  "A": 78,
+  "B": 23,
+  "C": 40,
+  "D": 6,
+  "E": 5,
+  "F": 29
+ },
+ "fuentes_mas_productivas": [
+  {
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "registros_respaldados": 883
+  },
+  {
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio",
+   "registros_respaldados": 120
+  },
+  {
+   "publicador": "Proyecto Quinta Escena Podcast, folio 863000",
+   "registros_respaldados": 74
+  },
+  {
+   "publicador": "G5noticias",
+   "registros_respaldados": 53
+  },
+  {
+   "publicador": "Centro Cultural San Antonio",
+   "registros_respaldados": 47
+  },
+  {
+   "publicador": "Parque Cultural de Valparaíso",
+   "registros_respaldados": 38
+  },
+  {
+   "publicador": "Centex — Centro de Extensión del Ministerio de las Culturas, las Artes y el Patrimonio",
+   "registros_respaldados": 35
+  },
+  {
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Programa Puntos de Cultura Comunitaria",
+   "registros_respaldados": 33
+  },
+  {
+   "publicador": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+   "registros_respaldados": 20
+  },
+  {
+   "publicador": "Fundación OANI de Teatro",
+   "registros_respaldados": 19
+  },
+  {
+   "publicador": "Chile Cultura — Ministerio de las Culturas, las Artes y el Patrimonio",
+   "registros_respaldados": 19
+  },
+  {
+   "publicador": "Diario La Quinta",
+   "registros_respaldados": 18
+  },
+  {
+   "publicador": "El Observador (Quillota)",
+   "registros_respaldados": 18
+  },
+  {
+   "publicador": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+   "registros_respaldados": 17
+  },
+  {
+   "publicador": "Fundación Teatro a Mil",
+   "registros_respaldados": 14
+  },
+  {
+   "publicador": "Ilustre Municipalidad de Viña del Mar",
+   "registros_respaldados": 14
+  },
+  {
+   "publicador": "BioBioChile",
+   "registros_respaldados": 13
+  },
+  {
+   "publicador": "G5 Noticias",
+   "registros_respaldados": 12
+  },
+  {
+   "publicador": "Ivo Herrera Ávila (blog Quillota en la Historia)",
+   "registros_respaldados": 12
+  },
+  {
+   "publicador": "Diario El Trabajo (San Felipe)",
+   "registros_respaldados": 10
+  },
+  {
+   "publicador": "Diario y Radio Universidad de Chile",
+   "registros_respaldados": 9
+  },
+  {
+   "publicador": "Valpocultura",
+   "registros_respaldados": 9
+  },
+  {
+   "publicador": "Centex — Ministerio de las Culturas, las Artes y el Patrimonio",
+   "registros_respaldados": 9
+  },
+  {
+   "publicador": "Ilustre Municipalidad de Puchuncaví",
+   "registros_respaldados": 8
+  },
+  {
+   "publicador": "Fundación Teatromuseo del Títere y el Payaso",
+   "registros_respaldados": 8
+  }
+ ],
+ "fuentes_por_capa": {
+  "0": 86,
+  "1": 7,
+  "3": 8,
+  "4": 14,
+  "5": 38,
+  "9": 28
+ },
+ "personas_por_rol": {
+  "Responsable de proyecto (Fondos Cultura)": 201,
+  "Director/a": 26,
+  "Actor/actriz": 13,
+  "Dramaturgo/a": 11,
+  "Gestor/a cultural": 6,
+  "Narrador/a oral": 5,
+  "Titiritero/a": 4,
+  "Mediador/a": 2,
+  "Músico/a escénico": 2,
+  "Docente de teatro": 2,
+  "Productor/a": 1,
+  "Artista circense": 1,
+  "Investigador/a": 1,
+  "Diseñador/a escénico": 1,
+  "Docente de voz escénica": 1,
+  "Arteterapeuta comunitaria": 1,
+  "Coreógrafo/a": 1,
+  "Bailarín/a": 1
+ },
+ "companias_por_tipo": {
+  "compañía de teatro": 31,
+  "organización de artes escénicas (según nómina de fondos)": 19,
+  "compañía de títeres": 18,
+  "compañía de circo": 9,
+  "organización cultural": 8,
+  "sin tipo": 6,
+  "colectivo de artes escénicas": 5,
+  "teatro comunitario": 3,
+  "teatro infantil/familiar": 3,
+  "compañía de danza": 3,
+  "taller municipal de teatro": 2,
+  "organización de artes escénicas": 1,
+  "productora / organización de artes escénicas": 1,
+  "colectivo de performance": 1,
+  "teatro callejero / comparsa": 1,
+  "organización cultural (sala y productora de ciclos)": 1,
+  "productora teatral": 1,
+  "red de espacios culturales": 1,
+  "compañía de clown": 1,
+  "compañía de teatro callejero": 1,
+  "compañía de teatro / organización de artes escénicas": 1,
+  "colectivo de ópera": 1
+ },
+ "companias_por_disciplina": {
+  "teatro": 27,
+  "titeres": 19,
+  "circo": 9,
+  "teatro-familiar": 8,
+  "teatro-comunitario": 7,
+  "danza": 4,
+  "narracion-oral": 4,
+  "clown": 3,
+  "teatro-callejero": 3,
+  "lambe-lambe": 2,
+  "teatro-experimental": 2,
+  "musica-escenica": 1,
+  "juglaria": 1,
+  "performance": 1,
+  "opera": 1
+ },
+ "espacios_por_tipo": {
+  "Centro cultural": 29,
+  "Espacio no convencional": 14,
+  "Teatro": 12,
+  "Espacio independiente": 12,
+  "Sala teatral": 6,
+  "Centro comunitario": 6,
+  "Espacio universitario": 3,
+  "Espacio autogestionado": 3,
+  "Espacio patrimonial": 2,
+  "sin tipo": 2
+ },
+ "funciones_por_tipo": {
+  "gratuita": 34,
+  "festival": 20,
+  "pagada": 11,
+  "pública": 7,
+  "sin tipo": 3,
+  "itinerancia": 1,
+  "escolar": 1
+ },
+ "funciones_por_anio": {
+  "2016": 1,
+  "2018": 1,
+  "2019": 4,
+  "2021": 1,
+  "2022": 12,
+  "2024": 1,
+  "2025": 24,
+  "2026": 33
+ },
+ "relacion_companias_espacios": {
+  "companias_con_espacio_registrado": 33,
+  "espacios_con_companias_registradas": 31,
+  "companias_por_espacio": 1.33
+ },
+ "festivales_participantes": [
+  {
+   "id": "FES-0021",
+   "nombre": "Ciudad Teatro",
+   "comuna": "valparaiso",
+   "companias": 15
+  },
+  {
+   "id": "FES-0002",
+   "nombre": "Festival Litoral Teatral",
+   "comuna": "san-antonio",
+   "companias": 9
+  },
+  {
+   "id": "FES-0007",
+   "nombre": "Festival Ventolera",
+   "comuna": "valparaiso",
+   "companias": 9
+  },
+  {
+   "id": "FES-0047",
+   "nombre": "Mes del Teatro en la Región de Valparaíso 2022",
+   "comuna": null,
+   "companias": 6
+  },
+  {
+   "id": "FES-0041",
+   "nombre": "Ciclo de Teatro Familiar de Quillota",
+   "comuna": "quillota",
+   "companias": 4
+  },
+  {
+   "id": "FES-0011",
+   "nombre": "Gira regional de teatro familiar",
+   "comuna": "calle-larga",
+   "companias": 3
+  },
+  {
+   "id": "FES-0046",
+   "nombre": "Festival Síntesis Teatral",
+   "comuna": "valparaiso",
+   "companias": 2
+  },
+  {
+   "id": "FES-0033",
+   "nombre": "CIMAC — Congreso Internacional de Malabarismo y Artes Circenses",
+   "comuna": "valparaiso",
+   "companias": 1
+  },
+  {
+   "id": "FES-0025",
+   "nombre": "Danzalborde",
+   "comuna": "valparaiso",
+   "companias": 1
+  },
+  {
+   "id": "FES-0031",
+   "nombre": "Encuentro de Artes Escénicas e Inclusión Inversa de Valparaíso",
+   "comuna": "valparaiso",
+   "companias": 1
+  },
+  {
+   "id": "FES-0015",
+   "nombre": "Encuentro de Teatro Porteño Independiente",
+   "comuna": "valparaiso",
+   "companias": 1
+  },
+  {
+   "id": "FES-0012",
+   "nombre": "FESTILAMBE de Valparaíso",
+   "comuna": "valparaiso",
+   "companias": 1
+  },
+  {
+   "id": "FES-0008",
+   "nombre": "Festival Caleta de Títeres",
+   "comuna": null,
+   "companias": 1
+  },
+  {
+   "id": "FES-0019",
+   "nombre": "Festival de Artes Escénicas, Autocuidado y Salud Mental (Siento Teatro)",
+   "comuna": "vina-del-mar",
+   "companias": 1
+  },
+  {
+   "id": "FES-0020",
+   "nombre": "Festival de Teatro Juan Edmundo González",
+   "comuna": null,
+   "companias": 1
+  },
+  {
+   "id": "FES-0006",
+   "nombre": "Festival de Teatro y Todas las Artes Valle del Liwa",
+   "comuna": null,
+   "companias": 1
+  },
+  {
+   "id": "FES-0010",
+   "nombre": "Jallalla Festi Circo",
+   "comuna": null,
+   "companias": 1
+  },
+  {
+   "id": "FES-0014",
+   "nombre": "Mujeres en Escena",
+   "comuna": null,
+   "companias": 1
+  },
+  {
+   "id": "FES-0037",
+   "nombre": "Paraísos Creativos — Encuentro de Educación Artística comprometida con las jóvenes audiencias",
+   "comuna": "valparaiso",
+   "companias": 1
+  },
+  {
+   "id": "FES-0042",
+   "nombre": "Teatro a Mil en la Región de Valparaíso",
+   "comuna": null,
+   "companias": 1
+  }
+ ],
+ "consultas": {
+  "total": 399,
+  "por_estado": {
+   "hecha": 56,
+   "pendiente": 334,
+   "sin_resultados": 9
+  },
+  "por_capa": {
+   "1": 15,
+   "2": 7,
+   "3": 18,
+   "4": 16,
+   "5": 10,
+   "6": 13,
+   "7": 5,
+   "8": 11,
+   "9": 304
+  }
+ }
+}

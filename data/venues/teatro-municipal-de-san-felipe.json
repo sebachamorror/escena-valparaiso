@@ -1,0 +1,153 @@
+{
+  "slug": "teatro-municipal-de-san-felipe",
+  "type": "venue",
+  "name": "Teatro Municipal de San Felipe",
+  "short_name": null,
+  "venue_type": "teatro",
+  "owner": "municipal",
+  "place": {
+    "name": null,
+    "address": "Arturo Prat 1111, San Felipe",
+    "commune": "san-felipe",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": "https://www.instagram.com/teatromunisanfelipe/",
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.preludioradio.cl/teatro-municipal-de-san-felipe-en-vacaciones-de-invierno-presenta-espectaculos-gratuitos-para-toda-la-familia/",
+      "title": "Teatro Municipal de San Felipe en vacaciones de invierno presenta espectáculos gratuitos para toda la familia",
+      "publisher": "Preludio Radio",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 23 de junio de 2026: programa del 23 al 26 de junio de 2026; dirección 'Arturo Prat 1111, San Felipe'; director del teatro Francisco Alarcón."
+    },
+    {
+      "url": "https://www.elinformador.cl/comunas-de-aconcagua/hasta-el-teatro-municipal-de-san-felipe-llegara-toda-la-magia-de-aladino/",
+      "title": "Hasta el Teatro Municipal de San Felipe llegará toda la magia de Aladino",
+      "publisher": "El Informador (Aconcagua)",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 22 de agosto de 2018: 'Aladino' de Morro Producciones (Santiago), sábado 25 de agosto de 2018, 12:00, aniversario 278 de San Felipe."
+    },
+    {
+      "url": "https://www.instagram.com/teatromunisanfelipe/",
+      "title": "Teatro Municipal de San Felipe (@teatromunisanfelipe)",
+      "publisher": "Instagram",
+      "type": "red-social",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuenta localizada vía buscador; no abierta."
+    },
+    {
+      "url": "https://valparaisoregion.org/tour/teatro-municipal-san-felipe/",
+      "title": "Teatro Municipal — San Felipe — Valparaíso Región",
+      "publisher": "valparaisoregion.org (directorio turístico)",
+      "type": "directorio",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Indica dirección 'Salinas 1211, San Felipe' (contradice a Preludio Radio: 'Arturo Prat 1111'); el contacto listado es del directorio, no del teatro."
+    },
+    {
+      "url": "https://eltrabajo.cl/portal/vuelve-teatro-infantil-con-cuentacuentos-al-teatro-municipal-de-san-felipe/",
+      "title": "Vuelve Teatro Infantil con Cuentacuentos al Teatro Municipal de San Felipe",
+      "publisher": "Diario El Trabajo (San Felipe)",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 20 de octubre de 2022: ciclo Teatro Infantil (último sábado de cada mes), 'Fábulas fabulosas' el 22 de octubre de 2022, 12:00, entrada liberada."
+    },
+    {
+      "url": "https://teatroamil.cl/articulos/festival-sintesis-teatral-valparaiso-2019/",
+      "title": "Festival Síntesis encabeza celebración del Día Nacional del Teatro en Valparaíso",
+      "publisher": "Fundación Teatro a Mil",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuarta versión (2019): 6 al 26 de mayo, 23 obras, 5 estrenos, más de 30 presentaciones en 8 espacios; extensión a San Antonio, Quillota, Quilpué, San Felipe y Olmué."
+    },
+    {
+      "url": "https://parquecultural.cl/2019/05/03/festival-sintesis-teatral-valparaiso-encabeza-celebracion-del-mes-del-teatro/",
+      "title": "Festival Síntesis Teatral Valparaíso encabeza celebración del mes del teatro",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 3 de mayo de 2019; organiza Laboratorio Anatomía Teatral (dir. Claudio Rodríguez); programa completo en laboratorioanatomiateatral.cl/folleto-fstv19."
+    },
+    {
+      "url": "https://parquecultural.cl/2020/05/10/festival-sintesis-teatral-valparaiso-adapta-su-programacion-y-formato-para-celebrar-primera-version-via-streaming/",
+      "title": "Festival Síntesis Teatral Valparaíso adapta su programación y formato para celebrar primera versión vía streaming",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Quinta versión (mayo de 2020) por streaming, producida por Parque Cultural, Centex y Laboratorio Anatomía Teatral (según resumen del buscador)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

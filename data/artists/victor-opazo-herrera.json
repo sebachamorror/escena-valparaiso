@@ -1,27 +1,114 @@
 {
-  "slug": "victor-opazo-herrera", "type": "artist",
-  "name": "Víctor Eduardo Opazo Herrera", "artistic_name": null,
-  "commune": "villa-alemana", "commune_basis": "carta",
-  "crafts": ["actuacion", "direccion", "gestion", "musica-escenica"], "disciplines": ["teatro", "teatro-comunitario"],
-  "specialties": ["Teatro comunitario", "Organización territorial", "Teatro y música"],
+  "slug": "victor-opazo-herrera",
+  "type": "artist",
+  "name": "Víctor Eduardo Opazo Herrera",
+  "artistic_name": null,
+  "commune": "villa-alemana",
+  "commune_basis": "carta",
+  "crafts": [
+    "actuacion",
+    "direccion",
+    "gestion",
+    "musica-escenica"
+  ],
+  "disciplines": [
+    "teatro",
+    "teatro-comunitario",
+    "musica-escenica"
+  ],
+  "specialties": [
+    "Teatro comunitario",
+    "Organización territorial",
+    "Teatro y música"
+  ],
   "bio_md": "Actor, músico y gestor de la Compañía de Teatro Alegría, fundada en Villa Alemana en 2012. Su trabajo está asociado al teatro comunitario y a la organización cultural de base.",
   "trajectory_md": "Integrante del elenco de *El Loco y la Triste*, de Juan Radrigán, montaje que la compañía llevó en 2018 a San Juan de Lurigancho (Perú) con funciones gratuitas en colegios, instituciones y espacios comunitarios. En 2022 participó en el Primer Encuentro de Artistas, Gestores y Cultores de Villa Alemana, donde planteó que el desarrollo artístico territorial debe comenzar «desde nosotros mismos, desde las bases».",
-  "companies": [ { "company": "compania-de-teatro-alegria", "role": "integrante y representante", "from_year": 2012, "to_year": null } ],
+  "companies": [
+    {
+      "company": "compania-de-teatro-alegria",
+      "role": "integrante y representante",
+      "from_year": 2012,
+      "to_year": null
+    }
+  ],
   "companies_text": [],
-  "works": [ { "work": "el-loco-y-la-triste", "role": "elenco" } ],
+  "works": [
+    {
+      "work": "el-loco-y-la-triste",
+      "role": "elenco"
+    }
+  ],
   "works_text": [],
   "training": [],
   "recognitions": [],
   "funding_awards": [],
   "festivals": [],
-  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
-  "email_public": null, "contact_authorized": false,
-  "media": [], "media_candidates": [ { "what": "Retrato", "ask": "Pedir a la persona." } ],
-  "series": ["quinta-escena-podcast"], "episodes": ["dcc-05-villa-alemana"], "tags": ["protagonista-podcast"],
-  "sources": [
-    { "url": null, "title": "Carta de compromiso y autorización de participación — Villa alemana.pdf (25 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline", "company"], "notes": "Datos personales no replicados." },
-    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Municipalidad de Villa Alemana, Compañía de Teatro Alegría en Perú, Registro de organizaciones Ley 19.862)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "works"], "notes": "URLs pendientes." }
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [
+    {
+      "what": "Retrato",
+      "ask": "Pedir a la persona."
+    }
   ],
-  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Validar con la persona; confirmar rol exacto en la compañía (la carta declara «Compañía de Teatro Alegría», actividad «teatro y música»)." },
+  "series": [
+    "quinta-escena-podcast"
+  ],
+  "episodes": [
+    "dcc-05-villa-alemana"
+  ],
+  "tags": [
+    "protagonista-podcast"
+  ],
+  "sources": [
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — Villa alemana.pdf (25 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "commune",
+        "discipline",
+        "company"
+      ],
+      "notes": "Datos personales no replicados."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Municipalidad de Villa Alemana, Compañía de Teatro Alegría en Perú, Registro de organizaciones Ley 19.862)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "works"
+      ],
+      "notes": "URLs pendientes."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 65,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Validar con la persona; confirmar rol exacto en la compañía (la carta declara «Compañía de Teatro Alegría», actividad «teatro y música»)."
+  },
   "published": false
 }

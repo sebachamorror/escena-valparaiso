@@ -1,0 +1,63 @@
+{
+  "slug": "el-tiempo-no-espera-monologos-del-adulto-mayor-quillota-2025-05-29",
+  "type": "event",
+  "title": "El tiempo no espera. Monólogos del adulto mayor",
+  "kind": "funcion",
+  "work": "el-tiempo-no-espera-monologos-del-adulto-mayor",
+  "company": "julieta-y-compania",
+  "organizer_text": null,
+  "disciplines": [
+    "narracion-oral"
+  ],
+  "audience": null,
+  "description_md": "Lugar exacto no indicado.",
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2025-05-29T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": null,
+      "place": {
+        "name": null,
+        "address": null,
+        "commune": "quillota",
+        "lat": null,
+        "lng": null,
+        "precision": "commune_centroid",
+        "geocode_source": null,
+        "geocoded_at": null
+      },
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.observador.cl/villalemanina-estrena-obra-en-la-region-de-valparaiso/",
+      "title": "Villalemanina estrena obra en la Región de Valparaíso",
+      "publisher": "El Observador (Quillota)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 10 de abril de 2025: estreno de 'El Tiempo No Espera' en el Centro Cultural Gabriela Mistral de Villa Alemana y gira gratuita (Quillota 29 de mayo, Quilpué 6 de junio, Valparaíso Profundo 28 de junio, Parque Cultural 18 de julio de 2025)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "antiguo-teatro-municipal-de-quillota-ex-cine-diego-portales",
+  "type": "venue",
+  "name": "Antiguo Teatro Municipal de Quillota (ex Cine Diego Portales)",
+  "short_name": "Ex Cine Diego Portales",
+  "venue_type": "teatro",
+  "owner": null,
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "quillota",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "http://quillotaenlahistoria.blogspot.com/2019/09/el-teatro-en-quillota-iniciando-el.html?m=1",
+      "title": "El Teatro en Quillota, iniciando el siglo 21 (Notas Históricas y Literarias de Quillota)",
+      "publisher": "Ivo Herrera Ávila (blog Quillota en la Historia)",
+      "type": "otro",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Texto del 1 de septiembre de 2019 de Ivo Herrera Ávila (director teatral quillotano). Fuente secundaria de memoria local; requiere contraste."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "el-perro-la-pulga-y-robi-salvan-el-rio",
+  "type": "work",
+  "title": "El perro, la pulga y Robi salvan el río",
+  "authorship": null,
+  "direction": null,
+  "companies": [],
+  "credits": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": "infantil",
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": "Espectáculo musical-teatral sobre la protección del agua y el ecosistema del río Aconcagua, presentado a escolares de Los Andes en el ciclo 'Patio Cultural' (septiembre de 2026), con itinerancia posterior por establecimientos de la cuenca del Aconcagua.",
+  "communes": [],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.diariovtv.cl/categoria/provincia-los-andes/teatro-musica-acercan-escolares-andes-cuidado-rio-aconcagua",
+      "title": "Con teatro y música acercan a escolares de Los Andes al cuidado del río Aconcagua",
+      "publisher": "Diario VTV (Provincia de Los Andes)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 4 de septiembre de 2026: ciclo 'Patio Cultural', financiado por Codelco División Andina y la Junta de Vigilancia de la Primera Sección del Río Aconcagua; unos 250 estudiantes de cinco colegios básicos de Los Andes; la obra continuará itinerancia por establecimientos de la cuenca del Aconcagua."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

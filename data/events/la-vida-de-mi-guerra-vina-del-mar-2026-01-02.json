@@ -1,0 +1,54 @@
+{
+  "slug": "la-vida-de-mi-guerra-vina-del-mar-2026-01-02",
+  "type": "event",
+  "title": "La vida de mi guerra",
+  "kind": "funcion",
+  "work": "la-vida-de-mi-guerra",
+  "company": "flamenco-triana",
+  "organizer_text": null,
+  "disciplines": [
+    "danza"
+  ],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2026-01-02T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": "teatro-municipal-de-vina-del-mar",
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.munivina.cl/noticias/teatro-municipal-de-vina-del-mar-inicia-el-2026-con-espectaculares-conciertos-teatro-danza-y-humor/",
+      "title": "Teatro Municipal de Viña del Mar inicia el 2026 con espectaculares conciertos, teatro, danza y humor",
+      "publisher": "Ilustre Municipalidad de Viña del Mar",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 9 de enero de 2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

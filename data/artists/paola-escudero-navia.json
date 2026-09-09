@@ -1,0 +1,83 @@
+{
+  "slug": "paola-escudero-navia",
+  "type": "artist",
+  "name": "Paola Escudero Navia",
+  "artistic_name": null,
+  "commune": "valparaiso",
+  "commune_basis": "prensa",
+  "crafts": [
+    "direccion",
+    "titeres"
+  ],
+  "disciplines": [
+    "teatro",
+    "titeres"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": null,
+  "companies": [
+    {
+      "company": "titiricaos",
+      "role": "Director/a",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+      "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso",
+      "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuatro de las seis compañías del catálogo (Titiricaos, La Barconeta, La Capuchina, Vaccaro Puppets) declaran formar parte de la \"Asamblea Titiritera ATTICH Quinta Región\"."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "pablo-valencia",
+  "type": "artist",
+  "name": "Pablo Valencia",
+  "artistic_name": null,
+  "commune": "quillota",
+  "commune_basis": "prensa",
+  "crafts": [
+    "direccion"
+  ],
+  "disciplines": [
+    "teatro"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": null,
+  "companies": [],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://quillota.cl/municipalidad/wp-content/uploads/2025/10/Quillota-Cultural-septiembre_-2025.pdf",
+      "title": "Quillota Cultural — septiembre 2025 (publicación digital mensual de la Dirección de Cultura)",
+      "publisher": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Boletín de 105 páginas leído con PyMuPDF. Seminario de voz del Taller Municipal de Teatro (Pablo Valencia), salida pedagógica al Teatro Municipal de Viña del Mar ('El Húsar de la Muerte', La Patogallina, 30 de septiembre de 2025)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

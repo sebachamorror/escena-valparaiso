@@ -1,23 +1,160 @@
 {
-  "slug": "festin-de-la-risa", "type": "company",
-  "name": "Festín de la Risa", "legal_name": null,
+  "slug": "festin-de-la-risa",
+  "type": "company",
+  "name": "Festín de la Risa",
+  "legal_name": null,
   "description_md": "Compañía de clown nacida en 2009 en el Teatromuseo del Títere y el Payaso de Valparaíso, a partir de un encuentro entre artistas del clown y el mimo. Desde 2014 la conforman Carlos Muñoz (Tony Pinganilla), Felipe Godoy (Tony Pitilla) y Katherine Cisternas (Tony Petunia). Mezcla clown, teatro, circo, calle, humor físico, acrobacia cómica, improvisación, música y tradición circense, con números clásicos del payaso.",
-  "commune": "valparaiso", "other_communes": ["putaendo"],
-  "disciplines": ["clown", "circo", "teatro-callejero"], "audiences": ["familiar", "todo-publico"],
-  "founded_year": 2009, "status": "activa", "last_activity_at": "2025-01-01",
-  "members": [ { "artist": "carlos-munoz-rivera", "role": "integrante (Tony Pinganilla)", "from_year": 2014, "to_year": null } ],
-  "members_text": ["Felipe Godoy (Tony Pitilla)", "Katherine Cisternas (Tony Petunia)"],
-  "works": ["ayayai"], "venues": [], "place": null,
-  "email": null, "contact_authorized": false, "website": null,
-  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
-  "trajectory_md": "Gira internacional desde 2014 por Ecuador, Perú, Colombia, Brasil y Bolivia; festivales en Francia y España; 4.º Encuentro de Artes Payasas «Empayasados» (Bolivia). Libro *Dar Vida y Risa al Mundo* (Teatromuseo). 2022: Jallalla Festi Circo, Arica. 2023: celebración de diez años en el Parque Cultural de Valparaíso. 2024: gira por Portugal, España, Italia y Francia con *Ayayai* y talleres de iniciación al clown, caída cómica y acrobacia. 2025: circulación de *Ayayai*. Se presentó en Calle Larga (Provincia de Los Andes) en la gira regional de teatro familiar de 2021.",
-  "recognitions": [], "funding_awards": [],
-  "festivals": [ { "festival_name": "Jallalla Festi Circo", "year": 2022, "place": "Arica", "source_index": 0 }, { "festival_name": "Gira regional de teatro familiar", "year": 2021, "place": "Calle Larga", "source_index": 1 } ],
-  "media": [], "media_candidates": [], "series": [], "tags": [],
-  "sources": [
-    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 2 (cita Universidad de Chile, Teatromuseo, Parque Cultural de Valparaíso)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "trajectory", "members"], "notes": "URLs pendientes." },
-    { "url": null, "title": "Compañías candidatas por provincia (levantamiento interno, 4 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 3, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["festivals"], "notes": "Documento de trabajo; confirmar con la compañía." }
+  "commune": "valparaiso",
+  "other_communes": [
+    "putaendo"
   ],
-  "verification": { "status": "pendiente", "confidence_score": 55, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Comuna de sede por confirmar (origen en el Teatromuseo, Valparaíso). Localizar sitio o redes oficiales." },
+  "disciplines": [
+    "clown",
+    "circo",
+    "teatro-callejero"
+  ],
+  "audiences": [
+    "familiar",
+    "todo-publico"
+  ],
+  "founded_year": 2009,
+  "status": "activa",
+  "last_activity_at": "2025-01-01",
+  "members": [
+    {
+      "artist": "carlos-munoz-rivera",
+      "role": "integrante (Tony Pinganilla)",
+      "from_year": 2014,
+      "to_year": null
+    }
+  ],
+  "members_text": [
+    "Felipe Godoy (Tony Pitilla)",
+    "Katherine Cisternas (Tony Petunia)",
+    "Carlos Andrés Muñoz Rivera (integrante (Tony Pinganilla))"
+  ],
+  "works": [
+    "ayayai"
+  ],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": "Gira internacional desde 2014 por Ecuador, Perú, Colombia, Brasil y Bolivia; festivales en Francia y España; 4.º Encuentro de Artes Payasas «Empayasados» (Bolivia). Libro *Dar Vida y Risa al Mundo* (Teatromuseo). 2022: Jallalla Festi Circo, Arica. 2023: celebración de diez años en el Parque Cultural de Valparaíso. 2024: gira por Portugal, España, Italia y Francia con *Ayayai* y talleres de iniciación al clown, caída cómica y acrobacia. 2025: circulación de *Ayayai*. Se presentó en Calle Larga (Provincia de Los Andes) en la gira regional de teatro familiar de 2021.",
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Jallalla Festi Circo",
+      "year": 2022,
+      "place": "Arica",
+      "source_index": 0
+    },
+    {
+      "festival_name": "Gira regional de teatro familiar",
+      "year": 2021,
+      "place": "Calle Larga",
+      "source_index": 1
+    },
+    {
+      "festival_name": "Jallalla Festi Circo",
+      "year": 2022,
+      "place": null,
+      "source_index": null
+    },
+    {
+      "festival_name": "Gira regional de teatro familiar",
+      "year": 2021,
+      "place": "Calle Larga",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 2 (cita Universidad de Chile, Teatromuseo, Parque Cultural de Valparaíso)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "trajectory",
+        "members"
+      ],
+      "notes": "URLs pendientes."
+    },
+    {
+      "url": null,
+      "title": "Compañías candidatas por provincia (levantamiento interno, 4 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "festivals"
+      ],
+      "notes": "Documento de trabajo; confirmar con la compañía."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 2",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URL pendiente."
+    },
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — Putaendo.pdf (19 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 2 (cita Universidad de Chile, Teatromuseo, Parque Cultural de Valparaíso, Fondos de Cultura resultados 2025, Fundación BAT)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URLs pendientes de localizar."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 55,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Comuna de sede por confirmar (origen en el Teatromuseo, Valparaíso). Localizar sitio o redes oficiales."
+  },
   "published": false
 }

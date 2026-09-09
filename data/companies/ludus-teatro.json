@@ -1,25 +1,118 @@
 {
-  "slug": "ludus-teatro", "type": "company",
-  "name": "Ludus Teatro", "legal_name": null,
+  "slug": "ludus-teatro",
+  "type": "company",
+  "name": "Ludus Teatro",
+  "legal_name": null,
   "description_md": "Compañía de teatro familiar y educativo con sede en el sector Las Pataguas, comuna de Concón, fundada en 2010 para poner el arte interpretativo al servicio del desarrollo integral de niñas, niños y jóvenes.",
-  "commune": "concon", "other_communes": ["quilpue"],
-  "disciplines": ["teatro-familiar"], "audiences": ["infantil", "familiar"],
-  "founded_year": 2010, "status": "desconocido", "last_activity_at": "2024-01-01",
-  "members": [], "members_text": [],
-  "works": [], "venues": ["teatro-municipal-juan-bustos-ramirez", "parque-cultural-de-valparaiso"], "place": null,
-  "email": null, "contact_authorized": false, "website": null,
-  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "commune": "concon",
+  "other_communes": [
+    "quilpue"
+  ],
+  "disciplines": [
+    "teatro-familiar"
+  ],
+  "audiences": [
+    "infantil",
+    "familiar"
+  ],
+  "founded_year": 2010,
+  "status": "desconocido",
+  "last_activity_at": "2024-01-01",
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [
+    "teatro-municipal-juan-bustos-ramirez",
+    "parque-cultural-de-valparaiso"
+  ],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
   "trajectory_md": "Según su perfil institucional en la Semana de la Educación Artística del Ministerio de las Culturas (#SEA2024), Ludus Teatro fue fundada en 2010 con sede en el sector Las Pataguas de Concón, con la misión de poner el arte interpretativo al servicio del desarrollo integral de las personas. Su proyecto insignia es la trilogía educativa «El Saco Roto, mañana te cuento otro» (Ciencias Naturales, Matemática y Lenguaje) y la obra «Don Tilde desmemoriado», presentada en agosto de 2016 en la Sala Estudio del Parque Cultural de Valparaíso y, en noviembre de 2021, en el Teatro Municipal Juan Bustos Ramírez de Quilpué, dentro de una gira regional de teatro familiar organizada por la compañía La Coraje con financiamiento del Fondo de Fomento y Desarrollo de las Artes Escénicas (convocatoria 2021), junto a El Festín de la Risa (Ayayai) y La Enredadera (La Caracol). También presentó la obra «Domo» (teatro y género en mapudungún) en la #SEA2024. La adjudicación de Fondos de Cultura 2015 mencionada en la investigación previa de este proyecto no pudo confirmarse de forma independiente en fondosdecultura.cl.",
-  "recognitions": [], "funding_awards": [],
+  "recognitions": [],
+  "funding_awards": [],
   "festivals": [
-    { "festival_name": "Gira regional de teatro familiar 2021 (organizada por Cía. La Coraje; Fondo de Fomento y Desarrollo de las Artes Escénicas)", "year": 2021, "place": "Teatro Municipal Juan Bustos Ramírez, Quilpué", "source_index": 1 }
+    {
+      "festival_name": "Gira regional de teatro familiar 2021 (organizada por Cía. La Coraje; Fondo de Fomento y Desarrollo de las Artes Escénicas)",
+      "year": 2021,
+      "place": "Teatro Municipal Juan Bustos Ramírez, Quilpué",
+      "source_index": 1
+    },
+    {
+      "festival_name": "Gira regional de teatro familiar",
+      "year": 2021,
+      "place": "Calle Larga",
+      "source_index": null
+    }
   ],
-  "media": [], "media_candidates": [], "series": [], "tags": [],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
   "sources": [
-    { "url": "https://semanaeducacionartistica.cultura.gob.cl/author/ludus-teatro/", "title": "LUDUS TEATRO | #SEA2024", "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Semana de la Educación Artística", "type": "institucional", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "founded_year", "works"], "notes": "URL localizada por buscador; el contenido citado proviene del resumen generado por el buscador. El intento de este asistente de abrir la página directamente (WebFetch) devolvió error 404 el 2026-09-05, por lo que no se pudo confirmar leyendo la página completa. Requiere que un verificador humano la revise." },
-    { "url": "https://radio.uchile.cl/2021/11/09/companias-de-teatro-familiar-llevan-sus-producciones-a-cinco-comunas-de-la-region-de-valparaiso/", "title": "Compañías de teatro familiar llevan sus producciones a cinco comunas de la Región de Valparaíso", "publisher": "Diario y Radio Universidad de Chile", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "activity", "festivals"], "notes": "Confirma la obra «Don Tilde desmemoriado» de Ludus Teatro en el Teatro Municipal Juan Bustos Ramírez de Quilpué, 14 de noviembre de 2021." },
-    { "url": "https://web-old.parquecultural.cl/2016/08/30/don-tilde-desmemoriado-2/", "title": "«Don Tilde desmemoriado» — Cia Teatro Ludus", "publisher": "Parque Cultural de Valparaíso", "type": "institucional", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["works", "activity"], "notes": "Registra una función de agosto de 2016 en la Sala Estudio del Parque Cultural de Valparaíso; no confirma comuna de origen de la compañía." }
+    {
+      "url": "https://semanaeducacionartistica.cultura.gob.cl/author/ludus-teatro/",
+      "title": "LUDUS TEATRO | #SEA2024",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Semana de la Educación Artística",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "commune",
+        "founded_year",
+        "works"
+      ],
+      "notes": "URL localizada por buscador; el contenido citado proviene del resumen generado por el buscador. El intento de este asistente de abrir la página directamente (WebFetch) devolvió error 404 el 2026-09-05, por lo que no se pudo confirmar leyendo la página completa. Requiere que un verificador humano la revise."
+    },
+    {
+      "url": "https://radio.uchile.cl/2021/11/09/companias-de-teatro-familiar-llevan-sus-producciones-a-cinco-comunas-de-la-region-de-valparaiso/",
+      "title": "Compañías de teatro familiar llevan sus producciones a cinco comunas de la Región de Valparaíso",
+      "publisher": "Diario y Radio Universidad de Chile",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "activity",
+        "festivals"
+      ],
+      "notes": "Confirma la obra «Don Tilde desmemoriado» de Ludus Teatro en el Teatro Municipal Juan Bustos Ramírez de Quilpué, 14 de noviembre de 2021."
+    },
+    {
+      "url": "https://web-old.parquecultural.cl/2016/08/30/don-tilde-desmemoriado-2/",
+      "title": "«Don Tilde desmemoriado» — Cia Teatro Ludus",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "works",
+        "activity"
+      ],
+      "notes": "Registra una función de agosto de 2016 en la Sala Estudio del Parque Cultural de Valparaíso; no confirma comuna de origen de la compañía."
+    }
   ],
-  "verification": { "status": "pendiente", "confidence_score": 55, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Comuna (Concón, sector Las Pataguas) y año de fundación (2010) provienen de una fuente institucional (#SEA2024) cuyo contenido no pudo abrirse directamente (error 404 el 2026-09-05); confirmar con la compañía, el Ministerio o una copia archivada. Sin evidencia de actividad en los últimos 12 meses: la señal más reciente localizada es la #SEA2024 (2024). No se confirmó la adjudicación de Fondos de Cultura 2015 citada en la investigación previa." },
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 55,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Comuna (Concón, sector Las Pataguas) y año de fundación (2010) provienen de una fuente institucional (#SEA2024) cuyo contenido no pudo abrirse directamente (error 404 el 2026-09-05); confirmar con la compañía, el Ministerio o una copia archivada. Sin evidencia de actividad en los últimos 12 meses: la señal más reciente localizada es la #SEA2024 (2024). No se confirmó la adjudicación de Fondos de Cultura 2015 citada en la investigación previa."
+  },
   "published": false
 }

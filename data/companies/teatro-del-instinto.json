@@ -1,0 +1,68 @@
+{
+  "slug": "teatro-del-instinto",
+  "type": "company",
+  "name": "Teatro del Instinto",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Ciudad Teatro",
+      "year": 2025,
+      "place": "Valparaíso",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://centex.cultura.gob.cl/con-ocho-montajes-en-ocho-espacios-distintos-valparaiso-celebra-mes-del-teatro/",
+      "title": "Ciudad Teatro: con ocho montajes en ocho espacios distintos Valparaíso celebra el Mes del Teatro",
+      "publisher": "Centex — Centro de Extensión del Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota de 2025 con programa completo: 8 funciones entre el 5 y el 11 de mayo de 2025 en Valparaíso. Gratuidad no especificada."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

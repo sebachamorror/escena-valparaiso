@@ -1,0 +1,95 @@
+{
+ "capa": 5,
+ "consulta": "Q-0063",
+ "resumen": "Fondart Nacional 2022: 77 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2022-fondart-nacional-enero-2022",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/01/SELECCIONADOS-FNACIONAL-2022.pdf",
+   "titulo": "Seleccionados Fondart Nacional 2022",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Repositorio digital obra abierta Juan Castillo",
+   "fondo": "Fondart Nacional",
+   "linea": "Investigación",
+   "anio": 2022,
+   "folio": "625765",
+   "monto": 14748781,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2022-fondart-nacional-enero-2022"
+   ],
+   "notas": "Responsable según nómina: Camila Paz Fuenzalida Araneda. Página 8 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Camila Paz Fuenzalida Araneda"
+  },
+  {
+   "proyecto": "Capturas de lo efímero: modelo metodológico para el análisis de la performance en el espacio urbano",
+   "fondo": "Fondart Nacional",
+   "linea": "Investigación",
+   "anio": 2022,
+   "folio": "618796",
+   "monto": 10876038,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2022-fondart-nacional-enero-2022"
+   ],
+   "notas": "Responsable según nómina: Estefanía Macarena Urqueta Contreras. Página 9 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Estefanía Macarena Urqueta Contreras"
+  },
+  {
+   "proyecto": "La forma que habita el espacio: la obra de diseño del arquitecto Fabio Cruz Prieto (1952-2007)",
+   "fondo": "Fondart Nacional",
+   "linea": "Investigación",
+   "anio": 2022,
+   "folio": "623281",
+   "monto": 14209087,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2022-fondart-nacional-enero-2022"
+   ],
+   "notas": "Responsable según nómina: Igor de Moraes Fracalossi. Página 31 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Igor de Moraes Fracalossi"
+  },
+  {
+   "proyecto": "Santiago Nattino. Vida y obra gráfica del diseñador en su centenario. (1921- 1985)",
+   "fondo": "Fondart Nacional",
+   "linea": "Investigación",
+   "anio": 2022,
+   "folio": "636066",
+   "monto": 9840000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2022-fondart-nacional-enero-2022"
+   ],
+   "notas": "Responsable según nómina: Kim Ricardo López Pizarro. Página 31 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Kim Ricardo López Pizarro"
+  },
+  {
+   "proyecto": "Mejorando la experiencia de los espectáculos en el Teatro Municipal Pompeya de Villa Alemana: implementación de nuevas tecnologías",
+   "fondo": "Fondart Nacional",
+   "linea": "Única",
+   "anio": 2022,
+   "folio": "622119",
+   "monto": 29454606,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2022-fondart-nacional-enero-2022"
+   ],
+   "notas": "Responsable según nómina: Ilustre Municipalidad de Villa Alemana. Página 40 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Ilustre Municipalidad de Villa Alemana"
+  }
+ ]
+}

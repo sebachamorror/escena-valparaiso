@@ -1,0 +1,60 @@
+{
+  "slug": "la-memoria-de-los-sesiles",
+  "type": "work",
+  "title": "La memoria de los sésiles",
+  "authorship": null,
+  "direction": null,
+  "companies": [
+    "astillero-teatro"
+  ],
+  "credits": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": 2023,
+  "synopsis_md": null,
+  "communes": [],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/01/Resultados-1er-llamado-CirculacionInternacioanlAAEE2024.pdf",
+      "title": "Resultados primer llamado Circulación Internacional de Artes Escénicas 2024",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

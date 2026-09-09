@@ -1,0 +1,46 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondo de Artes Escénicas 2024: 1 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondo-de-artes-escenicas-marzo-2024",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/03/SELECCIONADOS-FC2024-AAEE.pdf",
+   "titulo": "Nómina de seleccionados Fondo Nacional de las Artes Escénicas 2024 (marzo 2024)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [
+  {
+   "nombre": "Pablo Ignacio Abarca Carrazana",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-marzo-2024"
+   ],
+   "notas": "Responsable del proyecto «Residencia de Creación: Teatro de Sordos y Vernáculo Visual» (Fondo de Artes Escénicas 2024, Residencias de creación). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Residencia de Creación: Teatro de Sordos y Vernáculo Visual",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Residencias de creación",
+   "anio": 2024,
+   "folio": "725050",
+   "monto": 7986103,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-marzo-2024"
+   ],
+   "notas": "Responsable según nómina: Pablo Ignacio Abarca Carrazana. Página 30 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Pablo Ignacio Abarca Carrazana"
+  }
+ ]
+}

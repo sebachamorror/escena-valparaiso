@@ -1,0 +1,97 @@
+{
+  "slug": "festival-sintesis-teatral",
+  "type": "event",
+  "title": "Festival Síntesis Teatral",
+  "kind": "festival",
+  "work": null,
+  "company": null,
+  "organizer_text": "Laboratorio Anatomía Teatral, con la Seremi de las Culturas, Centex, el Parque Cultural de Valparaíso y la Municipalidad de Valparaíso",
+  "disciplines": [],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2022-05-11T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    },
+    {
+      "starts_at": "2019-05-06T00:00:00-03:00",
+      "ends_at": "2019-05-26T00:00:00-03:00",
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mes-del-teatro-se-conmemorara-con-nuevos-estrenos-teatro-familiar-y-obras-inclusivas/",
+      "title": "Mes del Teatro se conmemorará con nuevos estrenos, teatro familiar y obras inclusivas",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 10 de mayo de 2022 con la programación regional del Mes del Teatro (11 al 28 de mayo de 2022)."
+    },
+    {
+      "url": "https://teatroamil.cl/articulos/festival-sintesis-teatral-valparaiso-2019/",
+      "title": "Festival Síntesis encabeza celebración del Día Nacional del Teatro en Valparaíso",
+      "publisher": "Fundación Teatro a Mil",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuarta versión (2019): 6 al 26 de mayo, 23 obras, 5 estrenos, más de 30 presentaciones en 8 espacios; extensión a San Antonio, Quillota, Quilpué, San Felipe y Olmué."
+    },
+    {
+      "url": "https://parquecultural.cl/2019/05/03/festival-sintesis-teatral-valparaiso-encabeza-celebracion-del-mes-del-teatro/",
+      "title": "Festival Síntesis Teatral Valparaíso encabeza celebración del mes del teatro",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 3 de mayo de 2019; organiza Laboratorio Anatomía Teatral (dir. Claudio Rodríguez); programa completo en laboratorioanatomiateatral.cl/folleto-fstv19."
+    },
+    {
+      "url": "https://parquecultural.cl/2020/05/10/festival-sintesis-teatral-valparaiso-adapta-su-programacion-y-formato-para-celebrar-primera-version-via-streaming/",
+      "title": "Festival Síntesis Teatral Valparaíso adapta su programación y formato para celebrar primera versión vía streaming",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Quinta versión (mayo de 2020) por streaming, producida por Parque Cultural, Centex y Laboratorio Anatomía Teatral (según resumen del buscador)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

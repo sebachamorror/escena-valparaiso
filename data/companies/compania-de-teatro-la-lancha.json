@@ -1,23 +1,216 @@
 {
-  "slug": "compania-de-teatro-la-lancha", "type": "company",
-  "name": "Compañía de Teatro La Lancha", "legal_name": "Compañía de Teatro La Lancha SpA",
+  "slug": "compania-de-teatro-la-lancha",
+  "type": "company",
+  "name": "Compañía de Teatro La Lancha",
+  "legal_name": "Compañía de Teatro La Lancha SpA",
   "description_md": "Compañía de teatro de San Antonio dirigida por Diego Chamorro. Trabaja teatro, memoria e identidad territorial del litoral; responsable del proyecto Quinta Escena Podcast.",
-  "commune": "san-antonio", "other_communes": [],
-  "disciplines": ["teatro", "teatro-familiar", "juglaria"], "audiences": ["familiar", "todo-publico"],
-  "founded_year": null, "status": "activa", "last_activity_at": "2026-09-01",
-  "members": [ { "artist": "alan-fernandez-caro", "role": "actor y gestor", "from_year": null, "to_year": null } ],
-  "members_text": ["Diego Chamorro (director)", "Paz Olivares (elenco de Llo Lle We)", "Valeria Morales (elenco de Llo Lle We)", "Francisco Luco (musicalización)", "Pablo Urtubia (musicalización)"],
-  "works": ["llo-lle-we"], "venues": [], "place": null,
-  "email": null, "contact_authorized": false, "website": null,
-  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
-  "trajectory_md": "*Llo Lle We*, montaje sobre la historia de la desembocadura del río Maipo, presentado en la Plaza de Llolleo. Responsable de la postulación Quinta Escena Podcast (folio 863000) al Fondo de Artes Escénicas, línea Difusión Digital 2027.",
-  "recognitions": [], "funding_awards": [], "festivals": [],
-  "media": [], "media_candidates": [], "series": ["quinta-escena-podcast"], "tags": ["protagonista-podcast", "responsable-dcc"],
-  "sources": [
-    { "url": null, "title": "Carta de compromiso — San Antonio.pdf (21 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "legal_name", "commune"], "notes": "El RUT de la sociedad, presente en la carta, no se replica." },
-    { "url": null, "title": "Propuesta de difusión Quinta Escena Podcast (versión vigente)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description", "trajectory"], "notes": null },
-    { "url": "https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/", "title": "Compañía de teatro La Lancha se ha lucido con su obra Llo Lle We, la historia de San Antonio", "publisher": "El Proa", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "works"], "notes": "Publicada el 24 de diciembre de 2021. Confirma la existencia y actividad de la compañía con Llo Lle We, con más de 23 funciones a esa fecha." }
+  "commune": "san-antonio",
+  "other_communes": [],
+  "disciplines": [
+    "teatro",
+    "teatro-familiar",
+    "juglaria"
   ],
-  "verification": { "status": "verificado", "confidence_score": 75, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Verificado con fuente nivel 1 (carta, agosto 2026) y nivel 2 pública (El Proa, diciembre 2021). Validación directa disponible: es la compañía del responsable del proyecto. Completar año de fundación, sitio y redes. No publicar sin validar con la persona (docs/QUINTA_ESCENA_PODCAST.md §10)." },
+  "audiences": [
+    "familiar",
+    "todo-publico"
+  ],
+  "founded_year": null,
+  "status": "activa",
+  "last_activity_at": "2026-09-01",
+  "members": [
+    {
+      "artist": "alan-fernandez-caro",
+      "role": "actor y gestor",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "members_text": [
+    "Diego Chamorro (director)",
+    "Paz Olivares (elenco de Llo Lle We)",
+    "Valeria Morales (elenco de Llo Lle We)",
+    "Francisco Luco (musicalización)",
+    "Pablo Urtubia (musicalización)",
+    "Alan Sebastián Fernández Caro (actor y gestor)"
+  ],
+  "works": [
+    "llo-lle-we"
+  ],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": "*Llo Lle We*, montaje sobre la historia de la desembocadura del río Maipo, presentado en la Plaza de Llolleo. Responsable de la postulación Quinta Escena Podcast (folio 863000) al Fondo de Artes Escénicas, línea Difusión Digital 2027.",
+  "recognitions": [],
+  "funding_awards": [
+    {
+      "fund_name": "Equipamiento profesional para la escena itinerante - La Lancha, Teatro y Patrimonio",
+      "org": "Fondo de Artes Escénicas",
+      "year": 2026,
+      "folio": "827145",
+      "amount_clp": 14997500,
+      "url": null,
+      "note": null,
+      "source_index": null
+    }
+  ],
+  "festivals": [],
+  "media": [],
+  "media_candidates": [],
+  "series": [
+    "quinta-escena-podcast"
+  ],
+  "tags": [
+    "protagonista-podcast",
+    "responsable-dcc"
+  ],
+  "sources": [
+    {
+      "url": null,
+      "title": "Carta de compromiso — San Antonio.pdf (21 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "legal_name",
+        "commune"
+      ],
+      "notes": "El RUT de la sociedad, presente en la carta, no se replica."
+    },
+    {
+      "url": null,
+      "title": "Propuesta de difusión Quinta Escena Podcast (versión vigente)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "description",
+        "trajectory"
+      ],
+      "notes": null
+    },
+    {
+      "url": "https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/",
+      "title": "Compañía de teatro La Lancha se ha lucido con su obra Llo Lle We, la historia de San Antonio",
+      "publisher": "El Proa",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "works"
+      ],
+      "notes": "Publicada el 24 de diciembre de 2021. Confirma la existencia y actividad de la compañía con Llo Lle We, con más de 23 funciones a esa fecha."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 7 (cita El Proa y Dossier Viaje Inmóvil — Llo Lle We)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. El Proa ya localizado y registrado como fuente propia (ver fuente siguiente); el Dossier Viaje Inmóvil sigue sin URL."
+    },
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — San Antonio.pdf (21 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 7 (cita El Proa, Dossier Viaje Inmóvil — Llo Lle We, perfil profesional)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. El Proa ya localizado y registrado como fuente propia (ver fuente siguiente); el Dossier Viaje Inmóvil sigue sin URL."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/actualidad/seis-mil-millones-para-la-region-de-valparaiso-entregaran-los-fondos-cultura-2026/",
+      "title": "Seis mil millones para la Región de Valparaíso entregarán los Fondos Cultura 2026",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 28 de enero de 2026. Fondo de Artes Escénicas: 43 proyectos regionales, $544.276.713. Fondart Regional: 52 proyectos, $753.978.067."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2026/01/seleccionados-aaee-2026-enero.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2026 (líneas Creación Escénica, Montajes, Circulación Nacional, Difusión Digital, Equipamiento, Investigación, Programas Formativos)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/01/SELECCIONADOS-FAAEE-2025.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2025 (líneas notificadas en enero 2025)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 75,
+    "verified_at": "2026-09-05",
+    "verified_by": "investigación asistida (sesión 2026-09-05)",
+    "next_review_at": "2027-09-05",
+    "note": "Verificado con fuente nivel 1 (carta, agosto 2026) y nivel 2 pública (El Proa, diciembre 2021). Validación directa disponible: es la compañía del responsable del proyecto. Completar año de fundación, sitio y redes. No publicar sin validar con la persona (docs/QUINTA_ESCENA_PODCAST.md §10)."
+  },
   "published": false
 }

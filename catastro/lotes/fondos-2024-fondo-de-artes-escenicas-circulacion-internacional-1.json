@@ -1,0 +1,96 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondo de Artes Escénicas 2024: 3 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-1",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/01/Resultados-1er-llamado-CirculacionInternacioanlAAEE2024.pdf",
+   "titulo": "Resultados primer llamado Circulación Internacional de Artes Escénicas 2024",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Centro Cultural Teatro Container",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-1"
+   ],
+   "notas": "Responsable del proyecto «Cocina Pública Festival de Belo Horizonte» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Gabriel Nicolás Contreras Hernández",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-1"
+   ],
+   "notas": "Responsable del proyecto «Circulación Internacional La memoria de los sésiles, Astillero Teatro 2024.» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Dixi Candy Gonzalez Gamboa",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-1"
+   ],
+   "notas": "Responsable del proyecto «Participación en XI Encuentro Internacional de Narradores Orales \"·Cántaro de Cuentos\". Itagui Colombia.» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Circulación Internacional La memoria de los sésiles, Astillero Teatro 2024.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2024,
+   "folio": "735663",
+   "monto": 14709411,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-1"
+   ],
+   "notas": "Responsable según nómina: Gabriel Nicolás Contreras Hernández. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Gabriel Nicolás Contreras Hernández"
+  },
+  {
+   "proyecto": "Participación en XI Encuentro Internacional de Narradores Orales \"·Cántaro de Cuentos\". Itagui Colombia.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2024,
+   "folio": "735859",
+   "monto": 1583757,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-1"
+   ],
+   "notas": "Responsable según nómina: Dixi Candy Gonzalez Gamboa. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Dixi Candy Gonzalez Gamboa"
+  },
+  {
+   "proyecto": "Cocina Pública Festival de Belo Horizonte",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2024,
+   "folio": "737144",
+   "monto": 3872936,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-circulacion-internacional-1"
+   ],
+   "notas": "Responsable según nómina: CENTRO CULTURAL TEATRO CONTAINER. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Centro Cultural Teatro Container",
+   "compania": "Centro Cultural Teatro Container"
+  }
+ ]
+}

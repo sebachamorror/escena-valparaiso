@@ -1,0 +1,57 @@
+{
+  "slug": "colegio-canada-de-quillota",
+  "type": "venue",
+  "name": "Colegio Canadá de Quillota",
+  "short_name": null,
+  "venue_type": "no-convencional",
+  "owner": null,
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "quillota",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://quillota.cl/municipalidad/wp-content/uploads/2025/08/Quillota-Cultural-JULIO_-2025.pdf",
+      "title": "Quillota Cultural — julio 2025 (publicación digital mensual de la Dirección de Cultura)",
+      "publisher": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Boletín de 112 páginas leído con PyMuPDF. Contiene estreno de 'El motín contra Portales' (12 de julio de 2025), actividades del Taller Municipal de Teatro, 'Tibia' y el XXI Festival Nacional de Danza de Los Andes."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

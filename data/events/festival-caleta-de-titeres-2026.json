@@ -1,19 +1,141 @@
 {
-  "slug": "festival-caleta-de-titeres-2026", "type": "event", "title": "II Festival Caleta de Títeres",
-  "kind": "festival", "work": null, "company": null, "organizer_text": "Asamblea Titiritera ATTICH V, Fundación TeatroMuseo del Títere y el Payaso, Empresa Portuaria Valparaíso, Centex y Seremi de las Culturas, las Artes y el Patrimonio",
-  "disciplines": ["titeres"], "audience": "familiar",
+  "slug": "festival-caleta-de-titeres-2026",
+  "type": "event",
+  "title": "II Festival Caleta de Títeres",
+  "kind": "festival",
+  "work": null,
+  "company": null,
+  "organizer_text": "Asamblea Titiritera ATTICH V, Fundación TeatroMuseo del Títere y el Payaso, Empresa Portuaria Valparaíso, Centex y Seremi de las Culturas, las Artes y el Patrimonio",
+  "disciplines": [
+    "titeres"
+  ],
+  "audience": "familiar",
   "description_md": "Segunda edición del Festival Caleta de Títeres, que celebra el Día Mundial del Títere y la Marioneta (21 de marzo) transformando el Muelle Prat de Valparaíso en escenario. Programa más de quince números de títeres y marionetas, exhibición de marionetas gigantes y un especial de Teatro Lambe-Lambe desde las 13:00 horas, con reconocimiento a personalidades del oficio. Entre las 17:00 y las 18:15 horas se realizan cuatro funciones a bordo de lanchas en la bahía. Compañías y obras mencionadas: Talán-Talán, Compañía Terrestre, Lorenzo Títeres, Compañía La Bululú y Compañía La Barconeta; obras \"Olvídame\", \"Océano Pacífico\", \"El Gato Aníbal\" y \"Las Cantoras del Puerto\". Requiere inscripción previa mediante formulario del Ministerio de las Culturas.",
-  "price": null, "is_free": true, "booking_url": null, "accessibility": [],
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
   "occurrences": [
-    { "starts_at": "2026-03-22T13:00:00-03:00", "ends_at": "2026-03-22T18:15:00-03:00", "time_unknown": false, "venue": null, "place": { "name": "Muelle Prat", "address": "Muelle Prat, Valparaíso", "commune": "valparaiso", "lat": null, "lng": null, "precision": "unknown", "geocode_source": null, "geocoded_at": null }, "price": null, "note": "De 13:00 a 17:00 horas: Lambe-Lambe y funciones en el muelle; de 17:00 a 18:15 horas, cuatro funciones a bordo de lanchas en la bahía." }
+    {
+      "starts_at": "2026-03-22T13:00:00-03:00",
+      "ends_at": "2026-03-22T18:15:00-03:00",
+      "time_unknown": false,
+      "venue": null,
+      "place": {
+        "name": "Muelle Prat",
+        "address": "Muelle Prat, Valparaíso",
+        "commune": "valparaiso",
+        "lat": null,
+        "lng": null,
+        "precision": "unknown",
+        "geocode_source": null,
+        "geocoded_at": null
+      },
+      "price": null,
+      "note": "De 13:00 a 17:00 horas: Lambe-Lambe y funciones en el muelle; de 17:00 a 18:15 horas, cuatro funciones a bordo de lanchas en la bahía."
+    },
+    {
+      "starts_at": "2026-03-22T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    }
   ],
   "last_checked_at": "2026-09-05",
   "media": [],
   "sources": [
-    { "url": "https://www.cultura.gob.cl/agendacultural/festival-caleta-de-titeres-ofrecera-funciones-sobre-lanchas-en-valparaiso/", "title": "Festival \"Caleta de Títeres\" ofrecerá funciones sobre lanchas en Valparaíso", "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio", "type": "institucional", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "occurrences", "description"], "notes": "Confirma organizadores (ATTICH V, Teatromuseo, Empresa Portuaria Valparaíso, Centex, Seremi de las Culturas), fecha (22 de marzo de 2026) y funciones sobre lanchas." },
-    { "url": "https://www.theclinic.cl/2026/03/16/hasta-con-funciones-de-titeres-sobre-lanchas-valparaiso-se-prepara-para-celebrar-el-dia-mundial-del-titere-y-la-marioneta-2026/", "title": "Hasta con funciones de títeres sobre lanchas: Valparaíso se prepara para celebrar el Día Mundial del Títere y la Marioneta 2026", "publisher": "The Clinic", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description", "occurrences"], "notes": "Confirma segunda edición consecutiva, horario (desde 13:00) y funciones en lanchas entre 17:00 y 18:15." },
-    { "url": "https://www.elciudadano.com/arte-cultura/marionetas-se-toman-el-muelle-prat-en-una-nueva-edicion-de-caleta-de-titeres/03/17/", "title": "Marionetas se toman el Muelle Prat en una nueva edición de \"Caleta de Títeres\"", "publisher": "El Ciudadano", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["description"], "notes": "Confirma compañías (Talán-Talán, Compañía Terrestre, Lorenzo Títeres, Compañía La Bululú, Compañía La Barconeta) y obras programadas." }
+    {
+      "url": "https://www.cultura.gob.cl/agendacultural/festival-caleta-de-titeres-ofrecera-funciones-sobre-lanchas-en-valparaiso/",
+      "title": "Festival \"Caleta de Títeres\" ofrecerá funciones sobre lanchas en Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "occurrences",
+        "description"
+      ],
+      "notes": "Confirma organizadores (ATTICH V, Teatromuseo, Empresa Portuaria Valparaíso, Centex, Seremi de las Culturas), fecha (22 de marzo de 2026) y funciones sobre lanchas."
+    },
+    {
+      "url": "https://www.theclinic.cl/2026/03/16/hasta-con-funciones-de-titeres-sobre-lanchas-valparaiso-se-prepara-para-celebrar-el-dia-mundial-del-titere-y-la-marioneta-2026/",
+      "title": "Hasta con funciones de títeres sobre lanchas: Valparaíso se prepara para celebrar el Día Mundial del Títere y la Marioneta 2026",
+      "publisher": "The Clinic",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "description",
+        "occurrences"
+      ],
+      "notes": "Confirma segunda edición consecutiva, horario (desde 13:00) y funciones en lanchas entre 17:00 y 18:15."
+    },
+    {
+      "url": "https://www.elciudadano.com/arte-cultura/marionetas-se-toman-el-muelle-prat-en-una-nueva-edicion-de-caleta-de-titeres/03/17/",
+      "title": "Marionetas se toman el Muelle Prat en una nueva edición de \"Caleta de Títeres\"",
+      "publisher": "El Ciudadano",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "description"
+      ],
+      "notes": "Confirma compañías (Talán-Talán, Compañía Terrestre, Lorenzo Títeres, Compañía La Bululú, Compañía La Barconeta) y obras programadas."
+    },
+    {
+      "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "G5 Noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma que ATTICH V, junto a la Seremi de las Culturas, organiza el IV Festival Ventolera; lista las compañías participantes con su comuna."
+    },
+    {
+      "url": "https://g5noticias.cl/2026/03/16/festival-caleta-de-titeres-ofrecera-funciones-sobre-lanchas-en-valparaiso/",
+      "title": "Festival \"Caleta de Títeres\" ofrecerá funciones sobre lanchas en Valparaíso",
+      "publisher": "G5 Noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma organizadores del Festival Caleta de Títeres II (22 de marzo de 2026, Muelle Prat) y compañías participantes."
+    },
+    {
+      "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+      "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso",
+      "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuatro de las seis compañías del catálogo (Titiricaos, La Barconeta, La Capuchina, Vaccaro Puppets) declaran formar parte de la \"Asamblea Titiritera ATTICH Quinta Región\"."
+    }
   ],
-  "verification": { "status": "verificado", "confidence_score": 85, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-02-01", "note": "Confirmado por fuente institucional (Ministerio de las Culturas) y dos medios de prensa, con actividad reciente (marzo de 2026, menos de 6 meses antes de esta investigación). Falta la fecha exacta de una eventual tercera edición (2027) y la ficha propia de ATTICH V (rq-045, pendiente)." },
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 85,
+    "verified_at": "2026-09-05",
+    "verified_by": "investigación asistida (sesión 2026-09-05)",
+    "next_review_at": "2027-02-01",
+    "note": "Confirmado por fuente institucional (Ministerio de las Culturas) y dos medios de prensa, con actividad reciente (marzo de 2026, menos de 6 meses antes de esta investigación). Falta la fecha exacta de una eventual tercera edición (2027) y la ficha propia de ATTICH V (rq-045, pendiente)."
+  },
   "published": false
 }

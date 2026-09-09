@@ -1,0 +1,108 @@
+{
+  "slug": "teatro-anima",
+  "type": "company",
+  "name": "Teatro Ánima",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "quillota",
+  "other_communes": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [
+    "Natalia Zúñiga",
+    "Freddy Van Dort",
+    "Ludo Torres"
+  ],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Ciclo de Teatro Familiar de Quillota",
+      "year": 2019,
+      "place": "Quillota",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — Quillota.pdf (27 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 4 (cita Antología Enjambre, Fondos de Cultura, Municipalidad de Quillota)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URLs pendientes; folios de Fondos de Cultura verificables en fondosdecultura.cl."
+    },
+    {
+      "url": "https://chilecultura.gob.cl/events/3197/",
+      "title": "Ciclo de Teatro Familiar de Quillota",
+      "publisher": "Chile Cultura — Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Ficha de evento de 2019: cuatro obras en tres días (18, 19 y 20 de julio de 2019), $2.000, Centro Cultural Leopoldo Silva Reynoard, Avenida 21 de Mayo 200, Quillota. La ficha no asigna cada obra a un día."
+    },
+    {
+      "url": "http://quillotaenlahistoria.blogspot.com/2019/09/el-teatro-en-quillota-iniciando-el.html?m=1",
+      "title": "El Teatro en Quillota, iniciando el siglo 21 (Notas Históricas y Literarias de Quillota)",
+      "publisher": "Ivo Herrera Ávila (blog Quillota en la Historia)",
+      "type": "otro",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Texto del 1 de septiembre de 2019 de Ivo Herrera Ávila (director teatral quillotano). Fuente secundaria de memoria local; requiere contraste."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

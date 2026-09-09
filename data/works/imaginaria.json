@@ -1,0 +1,50 @@
+{
+  "slug": "imaginaria",
+  "type": "work",
+  "title": "Imaginaria",
+  "authorship": null,
+  "direction": null,
+  "companies": [
+    "organizacion-comunitaria-artistica-cultural-y-deportiva-la-coraje"
+  ],
+  "credits": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": null,
+  "communes": [
+    "valparaiso"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://g5noticias.cl/2026/05/07/ciudad-teatro-2026-vuelve-el-encuentro-territorial-de-teatro-porteno-con-8-montajes-en-20-dias-a-precios-populares/",
+      "title": "CIUDAD TEATRO 2026: Vuelve el encuentro territorial de teatro porteño con 8 montajes en 20 días a precios populares",
+      "publisher": "G5noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de mayo de 2026. Programa completo del 8 al 28 de mayo de 2026; organiza Sala Pascal 79 con financiamiento PAOCC. No indica precios ni direcciones escénicas."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

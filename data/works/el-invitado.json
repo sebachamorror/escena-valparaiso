@@ -1,0 +1,48 @@
+{
+  "slug": "el-invitado",
+  "type": "work",
+  "title": "El Invitado",
+  "authorship": "Juan Radrigán",
+  "direction": "Gonzalo Pinto",
+  "companies": [],
+  "credits": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": "Drama con humor y crítica social; elenco Daniela Lhorente y Claudio González Ravanal.",
+  "communes": [
+    "los-andes"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.losandes.cl/municipalidad-de-los-andes-presenta-obra-de-teatro-en-centro-cultural/",
+      "title": "Municipalidad de Los Andes presenta obra de teatro en Centro Cultural",
+      "publisher": "Ilustre Municipalidad de Los Andes",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 29 de marzo de 2022: 'El Invitado' de Juan Radrigán, miércoles 30 de marzo de 2022, 20:00, Anfiteatro Patio Las Heras del Centro Cultural de Los Andes (Esmeralda 536), gratuita."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "compania-moviendo-hilos",
+  "type": "company",
+  "name": "Compañía Moviendo Hilos",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "valparaiso",
+  "other_communes": [
+    "putaendo"
+  ],
+  "disciplines": [
+    "titeres"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Festival Ventolera",
+      "year": 2024,
+      "place": "Valparaíso",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/agendacultural/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma organizador (Asamblea Titiritera ATTICH V con Seremi de las Culturas), fecha, sede y taller con Giovanni Vaccaro."
+    },
+    {
+      "url": "https://chilecultura.gob.cl/events/10550/",
+      "title": "La Plaza, de la Compañía de Marionetas Moviendo Hilos, en la comuna de Putaendo",
+      "publisher": "Chile Cultura — Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Ficha de evento: 12 de marzo de 2021, 15:00, Escuela María Leiva de Las Coimas, Putaendo; gratuito; 40 minutos; organiza Escenalborde en el programa Artes Escénicas Itinerantes Regionales."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

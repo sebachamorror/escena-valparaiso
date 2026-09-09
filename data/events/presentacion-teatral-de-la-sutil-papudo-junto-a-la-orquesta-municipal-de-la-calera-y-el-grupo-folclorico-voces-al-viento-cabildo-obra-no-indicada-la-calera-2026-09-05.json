@@ -1,0 +1,52 @@
+{
+  "slug": "presentacion-teatral-de-la-sutil-papudo-junto-a-la-orquesta-municipal-de-la-calera-y-el-grupo-folclorico-voces-al-viento-cabildo-obra-no-indicada-la-calera-2026-09-05",
+  "type": "event",
+  "title": "Presentación teatral de La Sutil (Papudo) junto a la Orquesta Municipal de La Calera y el grupo folclórico Voces al Vien",
+  "kind": "funcion",
+  "work": null,
+  "company": "compania-de-teatro-experimental-la-sutil",
+  "organizer_text": null,
+  "disciplines": [],
+  "audience": null,
+  "description_md": "Presentación teatral de La Sutil (Papudo) junto a la Orquesta Municipal de La Calera y el grupo folclórico Voces al Viento (Cabildo). Obra no indicada.",
+  "price": "entrada liberada",
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2026-09-05T17:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "centro-cultural-de-la-calera",
+      "place": null,
+      "price": "entrada liberada",
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://g5noticias.cl/2026/09/04/puntos-de-fuga-llega-este-sabado-a-la-calera-con-musica-teatro-y-folclor-de-tres-comunas/",
+      "title": "Puntos de Fuga llega este sábado a La Calera con música, teatro y folclor de tres comunas",
+      "publisher": "G5noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 4 de septiembre de 2026. 'Trenzando Puntos de Fuga' es una iniciativa de la Red Ramal Cultural articulada con la Seremi de las Culturas y las municipalidades; 2025 primera etapa, 2026 segunda con 12 comunas: Quintero, Concón, Zapallar, Olmué, La Calera, Quillota, Papudo, Petorca, Cabildo, Puchuncaví, La Cruz y Limache."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

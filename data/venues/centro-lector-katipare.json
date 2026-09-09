@@ -1,0 +1,57 @@
+{
+  "slug": "centro-lector-katipare",
+  "type": "venue",
+  "name": "Centro Lector Katipare",
+  "short_name": null,
+  "venue_type": "centro-cultural",
+  "owner": null,
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "isla-de-pascua",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/redcultura/espacios-culturales-bajo-convenio-region-de-valparaiso/",
+      "title": "Espacios Culturales Bajo Convenio Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Programa Red Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Seis espacios bajo convenio Red Cultura."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

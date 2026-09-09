@@ -1,0 +1,54 @@
+{
+  "slug": "cuestion-de-ubicacion-valparaiso-2026-09-24",
+  "type": "event",
+  "title": "Cuestión de Ubicación",
+  "kind": "funcion",
+  "work": "cuestion-de-ubicacion",
+  "company": "teatro-ilucion",
+  "organizer_text": null,
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2026-09-24T19:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "centro-cultural-ipa",
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://valpocultura.cl/eventos/categoria/teatro/",
+      "title": "Eventos › Teatro — Valpocultura",
+      "publisher": "Valpocultura",
+      "type": "directorio",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Agenda cultural agregadora; consultada en septiembre de 2026 (35 eventos, la mayoría entradas de la cartelera de la Sala Negra UV)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

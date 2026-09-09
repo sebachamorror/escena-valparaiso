@@ -1,0 +1,146 @@
+{
+ "capa": 5,
+ "consulta": "Q-0061",
+ "resumen": "Fondo de Artes Escénicas 2026: 5 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2026/01/SELECCIONADOS-CIRCULACION-AAEE-2026.pdf",
+   "titulo": "Nómina de seleccionados Línea Circulación Internacional de Artes Escénicas 2026",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "Cooperativa de Artes Escénicas de Valparaíso",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable del proyecto «Gira Internacional \"Repertorio para Habitar la Soledad\" de Cooperativa Teatral Valparaíso.» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Carla Paz Cepeda Cortés",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable del proyecto «Circo Pa’l Barrio: Circulación Internacional Compañía Disparate Circo» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Anaí Valentina Núñez Riveros",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable del proyecto «Shakespeare en miniatura / España 2026» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Carlos Andrés Basualdo Gómez",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable del proyecto «Participación en Festival Internacional ContArte 2026» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Manuel Alejandro Díaz Salas",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable del proyecto «Agenciamiento y fortalecimiento de redes internacionales en festivales e instituciones culturales de España» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Circo Pa’l Barrio: Circulación Internacional Compañía Disparate Circo",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2026,
+   "folio": "850291",
+   "monto": 17588496,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable según nómina: Carla Paz Cepeda Cortés. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Carla Paz Cepeda Cortés"
+  },
+  {
+   "proyecto": "Shakespeare en miniatura / España 2026",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2026,
+   "folio": "850680",
+   "monto": 16007226,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable según nómina: Anaí Valentina Núñez Riveros. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Anaí Valentina Núñez Riveros"
+  },
+  {
+   "proyecto": "Gira Internacional \"Repertorio para Habitar la Soledad\" de Cooperativa Teatral Valparaíso.",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2026,
+   "folio": "851039",
+   "monto": 17773647,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable según nómina: Cooperativa de Artes Escénicas de Valparaíso. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Cooperativa de Artes Escénicas de Valparaíso",
+   "compania": "Cooperativa de Artes Escénicas de Valparaíso"
+  },
+  {
+   "proyecto": "Participación en Festival Internacional ContArte 2026",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2026,
+   "folio": "851589",
+   "monto": 7113984,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable según nómina: Carlos Andrés Basualdo Gómez. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Carlos Andrés Basualdo Gómez"
+  },
+  {
+   "proyecto": "Agenciamiento y fortalecimiento de redes internacionales en festivales e instituciones culturales de España",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Circulación Internacional",
+   "anio": 2026,
+   "folio": "851556",
+   "monto": 3991278,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2026-fondo-de-artes-escenicas-circulacion-internacional"
+   ],
+   "notas": "Responsable según nómina: Manuel Alejandro Díaz Salas. Página 4 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Manuel Alejandro Díaz Salas"
+  }
+ ]
+}

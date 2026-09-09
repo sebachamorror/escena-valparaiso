@@ -1,17 +1,145 @@
 {
-  "slug": "llo-lle-we", "type": "work", "title": "Llo Lle We",
-  "authorship": null, "direction": "Diego Chamorro",
-  "companies": ["compania-de-teatro-la-lancha"],
-  "credits": [ { "artist": null, "name": "Paz Olivares", "role": "elenco (Playero Blanco)" }, { "artist": null, "name": "Valeria Morales", "role": "elenco (Siete Colores)" }, { "artist": "alan-fernandez-caro", "name": "Alan Fernández", "role": "elenco (Pilpilén)" }, { "artist": null, "name": "Diego Chamorro", "role": "dirección y elenco" }, { "artist": null, "name": "Francisco Luco", "role": "musicalización" }, { "artist": null, "name": "Pablo Urtubia", "role": "musicalización" } ],
-  "disciplines": ["teatro", "teatro-comunitario"], "audience": "todo-publico", "duration_min": null, "premiere_year": null,
-  "synopsis_md": "Montaje sobre la historia de la desembocadura del río Maipo y el territorio de San Antonio: pueblos originarios, patrimonio local, memoria y educación, contada «desde el Big Bang hasta el presente». Presentado en la Plaza de Llolleo para acercar la historia local a la comunidad.",
-  "communes": ["san-antonio"], "video_url": null, "dossier_url": null, "venues": [],
-  "history_text": ["24 de diciembre de 2021: función documentada en la Plaza de Llolleo, San Antonio, con más de 23 funciones ya realizadas a esa fecha (El Proa)", "También presentada en Lo Abarca y en Santiago", "Desarrollada en cuatro meses de trabajo: uno de investigación y tres de ensayo"],
-  "media": [], "tags": ["memoria-territorial"],
-  "sources": [
-    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 7 (cita El Proa y Dossier Viaje Inmóvil — Llo Lle We)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "credits", "synopsis"], "notes": "El Proa ya localizado y registrado como fuente propia (ver fuente siguiente); el Dossier Viaje Inmóvil sigue sin URL." },
-    { "url": "https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/", "title": "Compañía de teatro La Lancha se ha lucido con su obra Llo Lle We, la historia de San Antonio", "publisher": "El Proa", "type": "prensa", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["credits", "synopsis", "history"], "notes": "Publicada el 24 de diciembre de 2021. Confirma elenco, dirección, sinopsis y funciones; no especifica una fecha de estreno." }
+  "slug": "llo-lle-we",
+  "type": "work",
+  "title": "Llo Lle We",
+  "authorship": null,
+  "direction": "Diego Chamorro",
+  "companies": [
+    "compania-de-teatro-la-lancha"
   ],
-  "verification": { "status": "pendiente", "confidence_score": 63, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Fuente real y detallada encontrada (El Proa, diciembre 2021), pero es antigua (casi 5 años) y no hay fuente nivel 1 propia de la obra. Confirmar con la compañía si sigue en cartelera y el año de estreno exacto antes de verificar." },
+  "credits": [
+    {
+      "artist": null,
+      "name": "Paz Olivares",
+      "role": "elenco (Playero Blanco)"
+    },
+    {
+      "artist": null,
+      "name": "Valeria Morales",
+      "role": "elenco (Siete Colores)"
+    },
+    {
+      "artist": "alan-fernandez-caro",
+      "name": "Alan Fernández",
+      "role": "elenco (Pilpilén)"
+    },
+    {
+      "artist": null,
+      "name": "Diego Chamorro",
+      "role": "dirección y elenco"
+    },
+    {
+      "artist": null,
+      "name": "Francisco Luco",
+      "role": "musicalización"
+    },
+    {
+      "artist": null,
+      "name": "Pablo Urtubia",
+      "role": "musicalización"
+    }
+  ],
+  "disciplines": [
+    "teatro",
+    "teatro-comunitario",
+    "teatro-familiar"
+  ],
+  "audience": "todo-publico",
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": "Montaje sobre la historia de la desembocadura del río Maipo y el territorio de San Antonio: pueblos originarios, patrimonio local, memoria y educación, contada «desde el Big Bang hasta el presente». Presentado en la Plaza de Llolleo para acercar la historia local a la comunidad.",
+  "communes": [
+    "san-antonio"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [
+    "24 de diciembre de 2021: función documentada en la Plaza de Llolleo, San Antonio, con más de 23 funciones ya realizadas a esa fecha (El Proa)",
+    "También presentada en Lo Abarca y en Santiago",
+    "Desarrollada en cuatro meses de trabajo: uno de investigación y tres de ensayo"
+  ],
+  "media": [],
+  "tags": [
+    "memoria-territorial"
+  ],
+  "sources": [
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 7 (cita El Proa y Dossier Viaje Inmóvil — Llo Lle We)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "credits",
+        "synopsis"
+      ],
+      "notes": "El Proa ya localizado y registrado como fuente propia (ver fuente siguiente); el Dossier Viaje Inmóvil sigue sin URL."
+    },
+    {
+      "url": "https://elproa.cl/2021/12/compania-de-teatro-la-lancha-se-ha-lucido-con-su-obra-llo-lle-we-la-historia-de-san-antonio/",
+      "title": "Compañía de teatro La Lancha se ha lucido con su obra Llo Lle We, la historia de San Antonio",
+      "publisher": "El Proa",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "credits",
+        "synopsis",
+        "history"
+      ],
+      "notes": "Publicada el 24 de diciembre de 2021. Confirma elenco, dirección, sinopsis y funciones; no especifica una fecha de estreno."
+    },
+    {
+      "url": null,
+      "title": "Carta de compromiso — San Antonio.pdf (21 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. El RUT de la sociedad, presente en la carta, no se replica."
+    },
+    {
+      "url": null,
+      "title": "Propuesta de difusión Quinta Escena Podcast (versión vigente)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 63,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Fuente real y detallada encontrada (El Proa, diciembre 2021), pero es antigua (casi 5 años) y no hay fuente nivel 1 propia de la obra. Confirmar con la compañía si sigue en cartelera y el año de estreno exacto antes de verificar."
+  },
   "published": false
 }

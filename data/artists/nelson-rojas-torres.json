@@ -1,27 +1,146 @@
 {
-  "slug": "nelson-rojas-torres", "type": "artist",
-  "name": "Nelson Hernán Rojas Torres", "artistic_name": null,
-  "commune": "la-ligua", "commune_basis": "carta",
-  "crafts": ["direccion", "gestion", "musica-escenica", "actuacion"], "disciplines": ["teatro", "musica-escenica"],
-  "specialties": ["Dirección artística de festival", "Gestión cultural territorial", "Composición y percusión", "Teatro y memoria"],
+  "slug": "nelson-rojas-torres",
+  "type": "artist",
+  "name": "Nelson Hernán Rojas Torres",
+  "artistic_name": null,
+  "commune": "la-ligua",
+  "commune_basis": "carta",
+  "crafts": [
+    "direccion",
+    "gestion",
+    "musica-escenica",
+    "actuacion"
+  ],
+  "disciplines": [
+    "teatro",
+    "musica-escenica"
+  ],
+  "specialties": [
+    "Dirección artística de festival",
+    "Gestión cultural territorial",
+    "Composición y percusión",
+    "Teatro y memoria"
+  ],
   "bio_md": "Artista, gestor cultural y dirigente social de La Ligua. Director de Arte Escénico La Ligua y director artístico del Festival de Teatro y Todas las Artes Valle del Liwa, que lleva teatro a localidades de la Provincia de Petorca como Chincolco, Pedegua, Pichicuy y La Ballena.",
   "trajectory_md": "El Festival Valle del Liwa alcanzó su quinta edición en 2024; la edición 2023 fue financiada mediante el 7% FNDR del Gobierno Regional de Valparaíso. En 2018 participó en la residencia de arte colaborativo Recolectores de Memoria (Lota). Es compositor, percusionista y músico en proyectos del Teatro del Silencio (director musical en *Inferno*).",
-  "companies": [ { "company": "arte-escenico-la-ligua", "role": "director", "from_year": null, "to_year": null } ],
-  "companies_text": ["Teatro del Silencio (compositor y percusionista)"],
-  "works": [], "works_text": ["Inferno (Teatro del Silencio) — dirección musical y música"],
+  "companies": [
+    {
+      "company": "arte-escenico-la-ligua",
+      "role": "director",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "companies_text": [
+    "Teatro del Silencio (compositor y percusionista)",
+    "COMP-0020"
+  ],
+  "works": [],
+  "works_text": [
+    "Inferno (Teatro del Silencio) — dirección musical y música"
+  ],
   "training": [],
   "recognitions": [],
-  "funding_awards": [ { "fund_name": "7% FNDR Cultura — Festival de Teatro y Todas las Artes Valle del Liwa, tercera versión", "org": "Gobierno Regional de Valparaíso", "year": 2023, "folio": null, "amount_clp": null, "url": null, "note": "Como director artístico del festival; el adjudicatario formal debe confirmarse.", "source_index": 1 } ],
-  "festivals": [ { "festival_name": "Festival de Teatro y Todas las Artes Valle del Liwa (director artístico), quinta edición", "year": 2024, "place": "Provincia de Petorca", "source_index": 1 } ],
-  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
-  "email_public": null, "contact_authorized": false,
-  "media": [], "media_candidates": [ { "what": "Retrato", "ask": "Pedir a la persona. Respaldo: prensa del Festival Valle del Liwa, con crédito y permiso." } ],
-  "series": ["quinta-escena-podcast"], "episodes": ["dcc-03-la-ligua"], "tags": ["protagonista-podcast"],
-  "sources": [
-    { "url": null, "title": "Carta de compromiso y autorización de participación — La Ligua.pdf (22 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": "Datos personales no replicados." },
-    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 3 (cita El Observador, Ministerio de las Culturas — Recolectores de Memoria, Teatro del Silencio)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "company", "festivals"], "notes": "Recolectores de Memoria ya localizado y registrado como fuente propia (ver fuente siguiente). Nota de El Observador sobre Valle del Liwa 2024 sigue pendiente." },
-    { "url": "https://bitacoraresidencias.cultura.gob.cl/conversaciones-entre-territorios-nelson-rojas-torres-con-vasili-carrillo-nova/", "title": "Conversaciones entre territorios, Nelson Rojas Torres con Vasili Carrillo Nova", "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Bitácora Residencias de Arte Colaborativo", "type": "institucional", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory"], "notes": "Página institucional dedicada a su participación en la residencia «Recolectores de Memoria» (Lota, 2018), lo describe como «reconocido artista, gestor cultural y dirigente social» de La Ligua." }
+  "funding_awards": [
+    {
+      "fund_name": "7% FNDR Cultura — Festival de Teatro y Todas las Artes Valle del Liwa, tercera versión",
+      "org": "Gobierno Regional de Valparaíso",
+      "year": 2023,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": "Como director artístico del festival; el adjudicatario formal debe confirmarse.",
+      "source_index": 1
+    }
   ],
-  "verification": { "status": "verificado", "confidence_score": 70, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Verificado con fuente nivel 1 (carta, agosto 2026) y fuente institucional nivel 1 (Ministerio de las Culturas) que confirma su trayectoria de gestor cultural. La señal de actividad reciente es la propia participación en el proyecto (agosto 2026); conviene sumar una fuente pública específica sobre la edición 2024/2025 del Festival Valle del Liwa. No publicar sin validar con la persona (docs/QUINTA_ESCENA_PODCAST.md §10)." },
+  "festivals": [
+    {
+      "festival_name": "Festival de Teatro y Todas las Artes Valle del Liwa (director artístico), quinta edición",
+      "year": 2024,
+      "place": "Provincia de Petorca",
+      "source_index": 1
+    }
+  ],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [
+    {
+      "what": "Retrato",
+      "ask": "Pedir a la persona. Respaldo: prensa del Festival Valle del Liwa, con crédito y permiso."
+    }
+  ],
+  "series": [
+    "quinta-escena-podcast"
+  ],
+  "episodes": [
+    "dcc-03-la-ligua"
+  ],
+  "tags": [
+    "protagonista-podcast"
+  ],
+  "sources": [
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — La Ligua.pdf (22 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "commune",
+        "discipline"
+      ],
+      "notes": "Datos personales no replicados."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 3 (cita El Observador, Ministerio de las Culturas — Recolectores de Memoria, Teatro del Silencio)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "company",
+        "festivals"
+      ],
+      "notes": "Recolectores de Memoria ya localizado y registrado como fuente propia (ver fuente siguiente). Nota de El Observador sobre Valle del Liwa 2024 sigue pendiente."
+    },
+    {
+      "url": "https://bitacoraresidencias.cultura.gob.cl/conversaciones-entre-territorios-nelson-rojas-torres-con-vasili-carrillo-nova/",
+      "title": "Conversaciones entre territorios, Nelson Rojas Torres con Vasili Carrillo Nova",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Bitácora Residencias de Arte Colaborativo",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory"
+      ],
+      "notes": "Página institucional dedicada a su participación en la residencia «Recolectores de Memoria» (Lota, 2018), lo describe como «reconocido artista, gestor cultural y dirigente social» de La Ligua."
+    }
+  ],
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 70,
+    "verified_at": "2026-09-05",
+    "verified_by": "investigación asistida (sesión 2026-09-05)",
+    "next_review_at": "2027-09-05",
+    "note": "Verificado con fuente nivel 1 (carta, agosto 2026) y fuente institucional nivel 1 (Ministerio de las Culturas) que confirma su trayectoria de gestor cultural. La señal de actividad reciente es la propia participación en el proyecto (agosto 2026); conviene sumar una fuente pública específica sobre la edición 2024/2025 del Festival Valle del Liwa. No publicar sin validar con la persona (docs/QUINTA_ESCENA_PODCAST.md §10)."
+  },
   "published": false
 }

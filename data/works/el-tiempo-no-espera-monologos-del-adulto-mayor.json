@@ -1,0 +1,77 @@
+{
+  "slug": "el-tiempo-no-espera-monologos-del-adulto-mayor",
+  "type": "work",
+  "title": "El tiempo no espera. Monólogos del adulto mayor",
+  "authorship": "Julieta Saavedra",
+  "direction": "Julieta Saavedra",
+  "companies": [
+    "julieta-y-compania"
+  ],
+  "credits": [],
+  "disciplines": [
+    "narracion-oral"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": 2025,
+  "synopsis_md": "Tres monólogos sobre el miedo a envejecer, la soledad y la fuerza de seguir adelante, surgidos del taller 'Cuentos que nacen del alma' con personas mayores de Villa Alemana. Elenco: Roberto Valencia (adulto mayor, debut actoral), Gabriela Fernández Chan (actriz y directora peruana), Sebastián Roque Tognia (música en vivo) y Julieta Saavedra. Financiada por el Fondo de Artes Escénicas 2025.",
+  "communes": [
+    "villa-alemana",
+    "quillota",
+    "quilpue",
+    "valparaiso"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/01/SELECCIONADOS-FAAEE-2025.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2025 (líneas notificadas en enero 2025)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.observador.cl/villalemanina-estrena-obra-en-la-region-de-valparaiso/",
+      "title": "Villalemanina estrena obra en la Región de Valparaíso",
+      "publisher": "El Observador (Quillota)",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 10 de abril de 2025: estreno de 'El Tiempo No Espera' en el Centro Cultural Gabriela Mistral de Villa Alemana y gira gratuita (Quillota 29 de mayo, Quilpué 6 de junio, Valparaíso Profundo 28 de junio, Parque Cultural 18 de julio de 2025)."
+    },
+    {
+      "url": "https://www.observador.cl/dramaturga-villalemanina-presenta-obra-en-el-teatro-de-valparaiso/",
+      "title": "Dramaturga villalemanina presenta obra en el Teatro de Valparaíso",
+      "publisher": "El Observador (Quillota)",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de agosto de 2025: función en el Teatro Municipal de Valparaíso, 7 de agosto de 2025, 16:30, entrada liberada."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

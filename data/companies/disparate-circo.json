@@ -1,0 +1,136 @@
+{
+  "slug": "disparate-circo",
+  "type": "company",
+  "name": "Disparate Circo",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "valparaiso",
+  "other_communes": [
+    "san-antonio"
+  ],
+  "disciplines": [
+    "circo"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Festival Litoral Teatral",
+      "year": 2026,
+      "place": "San Antonio",
+      "source_index": null
+    },
+    {
+      "festival_name": "Ciudad Teatro",
+      "year": 2025,
+      "place": "Valparaíso",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://centex.cultura.gob.cl/con-ocho-montajes-en-ocho-espacios-distintos-valparaiso-celebra-mes-del-teatro/",
+      "title": "Ciudad Teatro: con ocho montajes en ocho espacios distintos Valparaíso celebra el Mes del Teatro",
+      "publisher": "Centex — Centro de Extensión del Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota de 2025 con programa completo: 8 funciones entre el 5 y el 11 de mayo de 2025 en Valparaíso. Gratuidad no especificada."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2026/01/SELECCIONADOS-CIRCULACION-AAEE-2026.pdf",
+      "title": "Nómina de seleccionados Línea Circulación Internacional de Artes Escénicas 2026",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/01/SELECCIONADOS-FAAEE-2022.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2022",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2026/01/seleccionados-aaee-2026-enero.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2026 (líneas Creación Escénica, Montajes, Circulación Nacional, Difusión Digital, Equipamiento, Investigación, Programas Formativos)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/2966-festival-de-teatro-litoral-teatral-2024",
+      "title": "Festival de Teatro Litoral Teatral 2024",
+      "publisher": "Centro Cultural San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Festival del 10 al 21 de enero de 2024; actividades al aire libre gratuitas, funciones en sala con reserva; las fechas por obra no aparecen en la nota."
+    },
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/3077-destacadas-obras-trae-a-san-antonio-el-festival-litoral-teatral-2026",
+      "title": "Destacadas obras trae a San Antonio el Festival Litoral Teatral 2026",
+      "publisher": "Centro Cultural San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma 13 compañías, 12 espectáculos y las funciones del 19, 25 y 26 de abril de 2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

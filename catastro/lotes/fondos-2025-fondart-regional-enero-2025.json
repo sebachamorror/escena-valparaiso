@@ -1,0 +1,50 @@
+{
+ "capa": 5,
+ "consulta": "Q-0058",
+ "resumen": "Fondart Regional 2025: 103 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2025-fondart-regional-enero-2025",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/01/Seleccion-FR-enero.pdf",
+   "titulo": "Nómina de seleccionados Fondart Regional 2025 (enero 2025)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Difusión de la obra de Edgar del Canto: la desintegración de la figura humana",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "776473",
+   "monto": 25000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2025-fondart-regional-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Valentina Arévalo Vidal. Página 29 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Valentina Arévalo Vidal"
+  },
+  {
+   "proyecto": "\"Des/centrada. Eli Neira, obra visual (2004-2024)\"",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2025,
+   "folio": "774984",
+   "monto": 22997865,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2025-fondart-regional-enero-2025"
+   ],
+   "notas": "Responsable según nómina: María José Flores Godoy. Página 30 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "María José Flores Godoy"
+  }
+ ]
+}

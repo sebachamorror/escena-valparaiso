@@ -1,0 +1,123 @@
+{
+  "slug": "centro-cultural-teatro-container",
+  "type": "company",
+  "name": "Centro Cultural Teatro Container",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "teatro-callejero"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [
+    {
+      "fund_name": "IX Festival Teatro Container 2026",
+      "org": "Fondo de Artes Escénicas",
+      "year": 2026,
+      "folio": "805619",
+      "amount_clp": 55000000,
+      "url": null,
+      "note": null,
+      "source_index": null
+    },
+    {
+      "fund_name": "Teatro container. Proyección internacional de las artes de calle",
+      "org": "Fondo de Artes Escénicas",
+      "year": 2024,
+      "folio": "738993",
+      "amount_clp": null,
+      "url": null,
+      "note": null,
+      "source_index": null
+    },
+    {
+      "fund_name": "Cocina Pública Festival de Belo Horizonte",
+      "org": "Fondo de Artes Escénicas",
+      "year": 2024,
+      "folio": "737144",
+      "amount_clp": 3872936,
+      "url": null,
+      "note": null,
+      "source_index": null
+    }
+  ],
+  "festivals": [
+    {
+      "festival_name": "VIII Festival Teatro Container",
+      "year": 2024,
+      "place": "Valparaíso",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/12/seleccionados-aaee-2026.pdf",
+      "title": "Nóminas de seleccionados Fondo de Artes Escénicas 2026 (Becas Chile Crea, Festivales y Encuentros)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/02/SELECCIONADOS-LINEA-DE-ASISTENCIA-A-INSTANCIAS-INTERNACIONALES.pdf",
+      "title": "Seleccionados Línea Asistencia a Instancias Internacionales en Artes Escénicas 2024",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/01/Resultados-1er-llamado-CirculacionInternacioanlAAEE2024.pdf",
+      "title": "Resultados primer llamado Circulación Internacional de Artes Escénicas 2024",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

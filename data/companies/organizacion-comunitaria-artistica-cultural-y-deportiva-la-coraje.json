@@ -1,0 +1,119 @@
+{
+  "slug": "organizacion-comunitaria-artistica-cultural-y-deportiva-la-coraje",
+  "type": "company",
+  "name": "Organización Comunitaria Artística Cultural y Deportiva La Coraje",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [
+    {
+      "fund_name": "PARAISOS CREATIVOS: 3er Encuentro de Educación Artística comprometida con las jóvenes audiencias",
+      "org": "Fondo de Artes Escénicas",
+      "year": 2024,
+      "folio": "702350",
+      "amount_clp": 26353675,
+      "url": null,
+      "note": null,
+      "source_index": null
+    },
+    {
+      "fund_name": "Teatro y Educación: Espacio de perfeccionamiento para docentes, artistas educadores y agentes comunitarios: Incorporando herramientas teatrales en la educación",
+      "org": "Fondo de Artes Escénicas",
+      "year": 2023,
+      "folio": "665497",
+      "amount_clp": 4934824,
+      "url": null,
+      "note": null,
+      "source_index": null
+    }
+  ],
+  "festivals": [
+    {
+      "festival_name": "Ciudad Teatro",
+      "year": 2025,
+      "place": "Valparaíso",
+      "source_index": null
+    },
+    {
+      "festival_name": "Paraísos Creativos — Encuentro de Educación Artística comprometida con las jóvenes audiencias",
+      "year": 2024,
+      "place": "Valparaíso",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/12/SELECCIONADOS-FC2024_AAEE.pdf",
+      "title": "Nómina de seleccionados Fondo Nacional de las Artes Escénicas 2024 (diciembre 2023)",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://g5noticias.cl/2026/05/07/ciudad-teatro-2026-vuelve-el-encuentro-territorial-de-teatro-porteno-con-8-montajes-en-20-dias-a-precios-populares/",
+      "title": "CIUDAD TEATRO 2026: Vuelve el encuentro territorial de teatro porteño con 8 montajes en 20 días a precios populares",
+      "publisher": "G5noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de mayo de 2026. Programa completo del 8 al 28 de mayo de 2026; organiza Sala Pascal 79 con financiamiento PAOCC. No indica precios ni direcciones escénicas."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

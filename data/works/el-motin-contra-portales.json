@@ -1,0 +1,48 @@
+{
+  "slug": "el-motin-contra-portales",
+  "type": "work",
+  "title": "El motín contra Portales",
+  "authorship": "Ivo Herrera",
+  "direction": "Ivo Herrera",
+  "companies": [],
+  "credits": [],
+  "disciplines": [
+    "teatro-callejero"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": 2025,
+  "synopsis_md": "Obra de teatro callejero sobre historia local de Quillota producida por el Centro Cultural Leopoldo Silva Reynoard; dirección y dramaturgia de Ivo Herrera, diseño integral de Alonso Machuca; elenco de la Región de Valparaíso: Estefanía Aedo, Ernesto Briones, Diana del Río, Carmen Gloria Donoso y José Mendoza. Estreno 12 de julio de 2025; presentaciones en espacios públicos y funciones escolares hasta octubre de 2025, acompañadas por Fiesta Bohemia y Marilyn Cantora. Financiada por Espacios Culturales Bajo Convenio, Red Cultura 2024.",
+  "communes": [
+    "quillota"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://quillota.cl/municipalidad/wp-content/uploads/2025/08/Quillota-Cultural-JULIO_-2025.pdf",
+      "title": "Quillota Cultural — julio 2025 (publicación digital mensual de la Dirección de Cultura)",
+      "publisher": "Ilustre Municipalidad de Quillota — Dirección de Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Boletín de 112 páginas leído con PyMuPDF. Contiene estreno de 'El motín contra Portales' (12 de julio de 2025), actividades del Taller Municipal de Teatro, 'Tibia' y el XXI Festival Nacional de Danza de Los Andes."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

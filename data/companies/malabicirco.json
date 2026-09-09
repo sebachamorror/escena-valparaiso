@@ -1,0 +1,113 @@
+{
+  "slug": "malabicirco",
+  "type": "company",
+  "name": "Malabicirco",
+  "legal_name": "Centro Cultural Malabicirco",
+  "description_md": null,
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "circo"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [
+    {
+      "fund_name": "Financiamient o Plan de Gestión con énfasis en la creación Compañía Malabicirco",
+      "org": "PAOCC — Compañías de trayectoria de artes escénicas",
+      "year": 2024,
+      "folio": "751424",
+      "amount_clp": 116000000,
+      "url": null,
+      "note": null,
+      "source_index": null
+    },
+    {
+      "fund_name": "Congreso Internacional de Malabarismo y Artes Circenses (CIMAC) Valparaíso 2023- 2024",
+      "org": "Fondo de Artes Escénicas",
+      "year": 2023,
+      "folio": "675044",
+      "amount_clp": 69144003,
+      "url": null,
+      "note": null,
+      "source_index": null
+    }
+  ],
+  "festivals": [
+    {
+      "festival_name": "CIMAC — Congreso Internacional de Malabarismo y Artes Circenses",
+      "year": 2023,
+      "place": "Valparaíso",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://puntos.cultura.gob.cl/valparaiso/",
+      "title": "Puntos de Cultura Validados Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Programa Puntos de Cultura Comunitaria",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Listado de 87 organizaciones por comuna. La página no describe el ámbito de la mayoría; solo el nombre permite inferirlo, por lo que los ámbitos quedan como 'por confirmar' salvo que el nombre lo diga."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/12/SELECCIONADOS-AAEE-FESTIVALES-ENCUENTROS-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023 — Festivales y Encuentros",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/06/NominaSeleccionados-Paocc_teatro.pdf",
+      "title": "Nómina de seleccionados Convocatoria Compañías de trayectoria de artes escénicas (PAOCC) 2024",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

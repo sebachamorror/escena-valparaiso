@@ -1,0 +1,54 @@
+{
+  "slug": "el-tiempo-no-espera-monologos-del-adulto-mayor-valparaiso-2025-08-07",
+  "type": "event",
+  "title": "El tiempo no espera. Monólogos del adulto mayor",
+  "kind": "funcion",
+  "work": "el-tiempo-no-espera-monologos-del-adulto-mayor",
+  "company": "julieta-y-compania",
+  "organizer_text": null,
+  "disciplines": [
+    "narracion-oral"
+  ],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2025-08-07T16:30:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "teatro-municipal-de-valparaiso",
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.observador.cl/dramaturga-villalemanina-presenta-obra-en-el-teatro-de-valparaiso/",
+      "title": "Dramaturga villalemanina presenta obra en el Teatro de Valparaíso",
+      "publisher": "El Observador (Quillota)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de agosto de 2025: función en el Teatro Municipal de Valparaíso, 7 de agosto de 2025, 16:30, entrada liberada."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

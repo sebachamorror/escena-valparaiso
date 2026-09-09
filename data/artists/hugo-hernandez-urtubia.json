@@ -1,27 +1,149 @@
 {
-  "slug": "hugo-hernandez-urtubia", "type": "artist",
-  "name": "Hugo Hernández Urtubia", "artistic_name": null,
-  "commune": "los-andes", "commune_basis": "carta",
-  "crafts": ["titeres"], "disciplines": ["titeres"],
-  "specialties": ["Construcción de marionetas", "Manipulación", "Mecánica del movimiento", "Marionetas gigantes", "Formación de niños y niñas"],
+  "slug": "hugo-hernandez-urtubia",
+  "type": "artist",
+  "name": "Hugo Hernández Urtubia",
+  "artistic_name": null,
+  "commune": "los-andes",
+  "commune_basis": "carta",
+  "crafts": [
+    "titeres",
+    "direccion"
+  ],
+  "disciplines": [
+    "titeres",
+    "teatro"
+  ],
+  "specialties": [
+    "Construcción de marionetas",
+    "Manipulación",
+    "Mecánica del movimiento",
+    "Marionetas gigantes",
+    "Formación de niños y niñas"
+  ],
   "bio_md": "Cultor del teatro de títeres y marionetas en Los Andes. Aprendió el oficio de su padre a los 13 años y se perfeccionó en Barcelona. Desarrolla el oficio completo: construcción, manipulación, mecánica del movimiento y montaje escénico. Creador de la Compañía de Marionetas The Magic Show.",
   "trajectory_md": "Incorporado en 2026 al Sistema de Información para la Gestión del Patrimonio Cultural Inmaterial (SIGPA) como cultor individual de Teatro tradicional de títeres, identificador CI8699, con 25 años de trayectoria registrados. Antes de consolidarse como marionetista trabajó en formación con niños y niñas (talleres de marionetas gigantes). En 2026 fue reconocido públicamente como cultor en el marco del primer Día Nacional del Titiritero y la Titiritera.",
-  "companies": [ { "company": "the-magic-show", "role": "creador y director", "from_year": null, "to_year": null } ],
+  "companies": [
+    {
+      "company": "the-magic-show",
+      "role": "creador y director",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
   "companies_text": [],
-  "works": [ { "work": "variete-de-marionetas-musicales", "role": "creación y manipulación" } ],
+  "works": [
+    {
+      "work": "variete-de-marionetas-musicales",
+      "role": "creación y manipulación"
+    }
+  ],
   "works_text": [],
   "training": [],
-  "recognitions": [ { "title": "Cultor individual de Teatro tradicional de títeres (SIGPA, identificador CI8699)", "org": "Servicio Nacional del Patrimonio Cultural, SIGPA", "year": 2026, "url": null, "source_index": 1 } ],
-  "funding_awards": [], "festivals": [],
-  "website": null, "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
-  "email_public": null, "contact_authorized": false,
-  "media": [], "media_candidates": [ { "what": "Retrato y fotos de trabajo", "ask": "Pedir directamente a la persona (autorización escrita). Respaldo: SIGPA, con crédito y permiso." } ],
-  "series": ["quinta-escena-podcast"], "episodes": ["dcc-01-los-andes"], "tags": ["protagonista-podcast"],
-  "sources": [
-    { "url": null, "title": "Carta de compromiso y autorización de participación — Los Andes.pdf (31 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline", "company"], "notes": "Documento firmado por la persona. Contiene datos personales que no se replican." },
-    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 1 (cita SIGPA, Diario El Trabajo, Rosa FM)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "recognitions", "specialties"], "notes": "Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente). URL de la ficha SIGPA (CI8699) y de Rosa FM aún pendientes." },
-    { "url": "https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/", "title": "El arte de dar vida: Dos titiriteros del valle son reconocidos como cultores", "publisher": "Diario El Trabajo", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "recognitions"], "notes": "Publicada el 24 de agosto de 2026. Confirma «más de 20 años de trayectoria» (no los 25 exactos que cita la investigación madre) y el reconocimiento SIGPA como cultor." }
+  "recognitions": [
+    {
+      "title": "Cultor individual de Teatro tradicional de títeres (SIGPA, identificador CI8699)",
+      "org": "Servicio Nacional del Patrimonio Cultural, SIGPA",
+      "year": 2026,
+      "url": null,
+      "source_index": 1
+    }
   ],
-  "verification": { "status": "verificado", "confidence_score": 75, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Verificado con fuente nivel 1 (carta) y nivel 2 pública (Diario El Trabajo, 24 de agosto de 2026). Falta: URL propia de la ficha SIGPA (CI8699) y de Rosa FM, sitio y redes. No publicar sin validar la ficha con la propia persona (compromiso de la propuesta, docs/QUINTA_ESCENA_PODCAST.md §10)." },
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [
+    {
+      "what": "Retrato y fotos de trabajo",
+      "ask": "Pedir directamente a la persona (autorización escrita). Respaldo: SIGPA, con crédito y permiso."
+    }
+  ],
+  "series": [
+    "quinta-escena-podcast"
+  ],
+  "episodes": [
+    "dcc-01-los-andes"
+  ],
+  "tags": [
+    "protagonista-podcast"
+  ],
+  "sources": [
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — Los Andes.pdf (31 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "commune",
+        "discipline",
+        "company"
+      ],
+      "notes": "Documento firmado por la persona. Contiene datos personales que no se replican."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 1 (cita SIGPA, Diario El Trabajo, Rosa FM)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "recognitions",
+        "specialties"
+      ],
+      "notes": "Diario El Trabajo ya localizado y registrado como fuente propia (ver fuente siguiente). URL de la ficha SIGPA (CI8699) y de Rosa FM aún pendientes."
+    },
+    {
+      "url": "https://eltrabajo.cl/web/el-arte-de-dar-vida-dos-titiriteros-del-valle-son-reconocidos-como-cultores/",
+      "title": "El arte de dar vida: Dos titiriteros del valle son reconocidos como cultores",
+      "publisher": "Diario El Trabajo",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "recognitions"
+      ],
+      "notes": "Publicada el 24 de agosto de 2026. Confirma «más de 20 años de trayectoria» (no los 25 exactos que cita la investigación madre) y el reconocimiento SIGPA como cultor."
+    },
+    {
+      "url": "https://eltrabajo.cl/web/dia-mundial-del-titere-cultores-del-valle-destacan-importancia-de-este-arte-en-la-comunidad/",
+      "title": "Día Mundial del Títere: Cultores del valle destacan importancia de este arte en la comunidad",
+      "publisher": "Diario El Trabajo (San Felipe)",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 22 de marzo de 2026 con perfiles de Nina Legrand (San Felipe) y Hugo Hernández Urtubia (Los Andes)."
+    }
+  ],
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 75,
+    "verified_at": "2026-09-05",
+    "verified_by": "investigación asistida (sesión 2026-09-05)",
+    "next_review_at": "2027-09-05",
+    "note": "Verificado con fuente nivel 1 (carta) y nivel 2 pública (Diario El Trabajo, 24 de agosto de 2026). Falta: URL propia de la ficha SIGPA (CI8699) y de Rosa FM, sitio y redes. No publicar sin validar la ficha con la propia persona (compromiso de la propuesta, docs/QUINTA_ESCENA_PODCAST.md §10)."
+  },
   "published": false
 }

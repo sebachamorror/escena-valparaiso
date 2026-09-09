@@ -1,0 +1,69 @@
+{
+  "slug": "sala-pascal-79",
+  "type": "venue",
+  "name": "Sala Pascal 79",
+  "short_name": null,
+  "venue_type": "espacio-independiente",
+  "owner": "independiente",
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "valparaiso",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mas-de-60-actividades-artisticas-gratuitas-ofrecera-la-red-de-espacios-culturales-de-la-region-de-valparaiso/",
+      "title": "Más de 60 actividades artísticas gratuitas ofrecerá la Red de Espacios Culturales de la Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de octubre de 2020. Lista los 27 espacios de la Red de Espacios Culturales regional y actividades entre octubre de 2020 y marzo de 2021 sin fechas exactas."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/convocatorias/18-espacios-culturales-de-la-region-de-valparaiso-obtienen-recursos-para-su-funcionamiento/",
+      "title": "18 espacios culturales de la Región de Valparaíso obtienen recursos para su funcionamiento",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 12 de agosto de 2020. PAOCC 2020, 18 beneficiarios con montos; total regional $290.264.670."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

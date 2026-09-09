@@ -1,0 +1,52 @@
+{
+  "slug": "montaje-interactivo-vera-una-mujer-de-peumo-que-vive-en-santiago-atraviesa-una-dinamica-familiar-que-no-la-hace-feliz-compania-no-indicada-quillota-2026-09-08",
+  "type": "event",
+  "title": "Montaje interactivo: 'Vera, una mujer de Peumo que vive en Santiago, atraviesa una dinámica familiar que no la hace feli",
+  "kind": "funcion",
+  "work": null,
+  "company": null,
+  "organizer_text": null,
+  "disciplines": [],
+  "audience": null,
+  "description_md": "Montaje interactivo: 'Vera, una mujer de Peumo que vive en Santiago, atraviesa una dinámica familiar que no la hace feliz'. Compañía no indicada.",
+  "price": "entrada liberada",
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2026-09-08T19:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "teatro-rodolfo-bravo",
+      "place": null,
+      "price": "entrada liberada",
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://g5noticias.cl/2026/09/08/el-centro-cultural-leopoldo-silva-reynoard-despliega-una-variada-cartelera-de-arte-cine-teatro-y-folklore-para-esta-semana/",
+      "title": "El Centro Cultural Leopoldo Silva Reynoard despliega una variada cartelera de arte, cine, teatro y folklore para esta semana",
+      "publisher": "G5noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 8 de septiembre de 2026 (programación municipal de Quillota)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

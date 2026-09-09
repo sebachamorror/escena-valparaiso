@@ -1,0 +1,57 @@
+{
+  "slug": "patio-de-los-copihues-iglesia-nuestra-senora-de-las-mercedes",
+  "type": "venue",
+  "name": "Patio de los Copihues — Iglesia Nuestra Señora de Las Mercedes",
+  "short_name": null,
+  "venue_type": "no-convencional",
+  "owner": null,
+  "place": {
+    "name": null,
+    "address": "Av. Marotto 950, Concón",
+    "commune": "concon",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://valparaisoregion.org/tour/obra-de-teatro-concon-el-regreso-concon/",
+      "title": "Obra de teatro Concón el regreso — Concón",
+      "publisher": "valparaisoregion.org (directorio turístico)",
+      "type": "directorio",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Ficha de evento sin año: 'sábado 13 de enero, 21:00' (el 13 de enero cayó sábado en 2024; año inferido, por confirmar). Patio de los Copihues, Iglesia Nuestra Señora de Las Mercedes, Av. Marotto 950, Concón; entrada liberada."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

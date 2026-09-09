@@ -1,0 +1,74 @@
+{
+  "slug": "nina-legrand",
+  "type": "artist",
+  "name": "Nina Legrand",
+  "artistic_name": null,
+  "commune": "san-felipe",
+  "commune_basis": "prensa",
+  "crafts": [
+    "direccion",
+    "mediacion",
+    "narracion-oral",
+    "titeres"
+  ],
+  "disciplines": [
+    "narracion-oral",
+    "teatro",
+    "titeres"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": "'Ninatitiricuenta': titiritera, cuentacuentos y arteterapeuta comunitaria con más de dos décadas de trabajo en el Valle del Aconcagua; títeres tipo muppet, teatro de objetos, máscaras y lambe lambe; talleres y mediación lectora en escuelas y comunidades.",
+  "companies": [
+    {
+      "company": "nina-titeres-y-cuentacuentos",
+      "role": "Director/a",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://eltrabajo.cl/web/dia-mundial-del-titere-cultores-del-valle-destacan-importancia-de-este-arte-en-la-comunidad/",
+      "title": "Día Mundial del Títere: Cultores del valle destacan importancia de este arte en la comunidad",
+      "publisher": "Diario El Trabajo (San Felipe)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 22 de marzo de 2026 con perfiles de Nina Legrand (San Felipe) y Hugo Hernández Urtubia (Los Andes)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

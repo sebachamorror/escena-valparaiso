@@ -1,0 +1,68 @@
+{
+  "slug": "experimento-pierrot",
+  "type": "company",
+  "name": "Experimento Pierrot",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Mes del Teatro en la Región de Valparaíso 2022",
+      "year": 2022,
+      "place": null,
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mes-del-teatro-se-conmemorara-con-nuevos-estrenos-teatro-familiar-y-obras-inclusivas/",
+      "title": "Mes del Teatro se conmemorará con nuevos estrenos, teatro familiar y obras inclusivas",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 10 de mayo de 2022 con la programación regional del Mes del Teatro (11 al 28 de mayo de 2022)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

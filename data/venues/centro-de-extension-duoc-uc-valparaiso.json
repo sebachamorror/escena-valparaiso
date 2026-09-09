@@ -1,0 +1,57 @@
+{
+  "slug": "centro-de-extension-duoc-uc-valparaiso",
+  "type": "venue",
+  "name": "Centro de Extensión Duoc UC Valparaíso",
+  "short_name": "Centro de Extensión Duoc UC",
+  "venue_type": "escuela",
+  "owner": "universitario",
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "valparaiso",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.telon.cl/noticias/tags/valpara%C3%ADso",
+      "title": "Valparaíso | Cartelera — Telón.cl",
+      "publisher": "Telón.cl",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Índice de noticias etiquetadas Valparaíso (2018–2024); las notas individuales no indican año en el índice, por eso no se registran funciones desde aquí."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

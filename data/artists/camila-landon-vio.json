@@ -1,0 +1,105 @@
+{
+  "slug": "camila-landon-vio",
+  "type": "artist",
+  "name": "Camila Landon Vío",
+  "artistic_name": null,
+  "commune": "valparaiso",
+  "commune_basis": "prensa",
+  "crafts": [
+    "direccion"
+  ],
+  "disciplines": [
+    "teatro"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": null,
+  "companies": [
+    {
+      "company": "fundacion-oani-de-teatro",
+      "role": "Director/a",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://oaniteatro.com/compania/",
+      "title": "OANI — Fundación OANI de Teatro (sitio oficial)",
+      "publisher": "Fundación OANI de Teatro",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Fetch directo del sitio oficial."
+    },
+    {
+      "url": "https://oaniteatro.com/",
+      "title": "OANI Home",
+      "publisher": "Fundación OANI de Teatro",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Fetch directo confirmando enlaces de redes sociales (@oaniteatro en Facebook, Instagram y X) y agenda de actividades de 2025-2026."
+    },
+    {
+      "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/01/26/estreno-de-nosotrxs-de-oani-teatro-se-presentara-en-calle-y-sitios-no-convencionales-de-valparaiso.shtml",
+      "title": "Estreno de «NOSOTRXS» de OANI Teatro: se presentará en calle y sitios no convencionales de Valparaíso",
+      "publisher": "BioBioChile",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma «28 años» de trayectoria a enero de 2026 (coherente con fundación en 1998) y el financiamiento Fondart 2025 de NOSOTRXS."
+    },
+    {
+      "url": "https://parquecultural.cl/2019/09/12/valparaiso-celebra-los-30-anos-del-teatro-lambe-lambe/",
+      "title": "Valparaíso celebra los 30 años del teatro Lambe Lambe",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

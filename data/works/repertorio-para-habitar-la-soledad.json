@@ -1,0 +1,50 @@
+{
+  "slug": "repertorio-para-habitar-la-soledad",
+  "type": "work",
+  "title": "Repertorio para habitar la soledad",
+  "authorship": null,
+  "direction": null,
+  "companies": [
+    "cooperativa-de-artes-escenicas-de-valparaiso"
+  ],
+  "credits": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "duration_min": null,
+  "premiere_year": null,
+  "synopsis_md": null,
+  "communes": [
+    "valparaiso"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://centex.cultura.gob.cl/con-ocho-montajes-en-ocho-espacios-distintos-valparaiso-celebra-mes-del-teatro/",
+      "title": "Ciudad Teatro: con ocho montajes en ocho espacios distintos Valparaíso celebra el Mes del Teatro",
+      "publisher": "Centex — Centro de Extensión del Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota de 2025 con programa completo: 8 funciones entre el 5 y el 11 de mayo de 2025 en Valparaíso. Gratuidad no especificada."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

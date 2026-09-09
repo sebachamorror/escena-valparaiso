@@ -1,22 +1,164 @@
 {
-  "slug": "arte-escenico-la-ligua", "type": "company",
-  "name": "Arte Escénico La Ligua", "legal_name": null,
+  "slug": "arte-escenico-la-ligua",
+  "type": "company",
+  "name": "Arte Escénico La Ligua",
+  "legal_name": null,
   "description_md": "Organización de teatro y gestión cultural de La Ligua dirigida por Nelson Rojas Torres. Organiza el Festival de Teatro y Todas las Artes Valle del Liwa, que lleva teatro a localidades rurales y urbanas de la Provincia de Petorca.",
-  "commune": "la-ligua", "other_communes": ["petorca", "cabildo"],
-  "disciplines": ["teatro", "teatro-comunitario"], "audiences": ["todo-publico"],
-  "founded_year": null, "status": "activa", "last_activity_at": "2024-01-01",
-  "members": [ { "artist": "nelson-rojas-torres", "role": "director", "from_year": null, "to_year": null } ],
-  "members_text": [], "works": [], "venues": [], "place": null,
-  "email": null, "contact_authorized": false, "website": null,
-  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
-  "trajectory_md": "Primera muestra de teatro profesional vinculada al proceso en 2012; versiones del festival en 2013 y 2014; tercera versión en 2023 financiada con el 7% FNDR del Gobierno Regional de Valparaíso; quinta edición en 2024, con propuestas de teatro inclusivo protagonizadas por niños y jóvenes con síndrome de Down. Localidades: La Ligua, Chincolco, Pedegua, Pichicuy y La Ballena.",
-  "recognitions": [], "funding_awards": [ { "fund_name": "7% FNDR Cultura — Festival Valle del Liwa (tercera versión)", "org": "Gobierno Regional de Valparaíso", "year": 2023, "folio": null, "amount_clp": null, "url": null, "note": "Adjudicatario formal por confirmar.", "source_index": 0 } ],
-  "festivals": [ { "festival_name": "Festival de Teatro y Todas las Artes Valle del Liwa (organizador)", "year": 2024, "place": "Provincia de Petorca", "source_index": 0 } ],
-  "media": [], "media_candidates": [], "series": [], "tags": [],
-  "sources": [
-    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 3 (cita El Observador, Festival Valle del Liwa 2024)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "trajectory", "festivals"], "notes": "Nota de El Observador sobre Valle del Liwa 2024 aún sin URL propia localizada." },
-    { "url": "https://www.instagram.com/festivalvalledelliwa/", "title": "Festival de Teatro y Todas las Artes Valle del Liwa (cuenta oficial)", "publisher": "Festival Valle del Liwa", "type": "red-social", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence"], "notes": "Cuenta encontrada por búsqueda; no se abrió para confirmar contenido (Instagram no es accesible para este asistente). Cuenta como nivel 1 solo para existencia, no para trayectoria ni fondos; falta que un verificador humano la revise." }
+  "commune": "la-ligua",
+  "other_communes": [
+    "petorca",
+    "cabildo"
   ],
-  "verification": { "status": "pendiente", "confidence_score": 60, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Confirmar naturaleza (compañía, organización o colectivo), año de inicio y redes. La trayectoria del director (Nelson Rojas Torres) tiene ahora una fuente institucional propia (ver data/artists/nelson-rojas-torres.json); los datos del festival (fondos, ediciones) siguen dependiendo de la investigación madre sin URL pública verificada por este asistente." },
+  "disciplines": [
+    "teatro",
+    "teatro-comunitario"
+  ],
+  "audiences": [
+    "todo-publico"
+  ],
+  "founded_year": null,
+  "status": "activa",
+  "last_activity_at": "2024-01-01",
+  "members": [
+    {
+      "artist": "nelson-rojas-torres",
+      "role": "director",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "members_text": [
+    "Nelson Hernán Rojas Torres (director)"
+  ],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": "Primera muestra de teatro profesional vinculada al proceso en 2012; versiones del festival en 2013 y 2014; tercera versión en 2023 financiada con el 7% FNDR del Gobierno Regional de Valparaíso; quinta edición en 2024, con propuestas de teatro inclusivo protagonizadas por niños y jóvenes con síndrome de Down. Localidades: La Ligua, Chincolco, Pedegua, Pichicuy y La Ballena.",
+  "recognitions": [],
+  "funding_awards": [
+    {
+      "fund_name": "7% FNDR Cultura — Festival Valle del Liwa (tercera versión)",
+      "org": "Gobierno Regional de Valparaíso",
+      "year": 2023,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": "Adjudicatario formal por confirmar.",
+      "source_index": 0
+    },
+    {
+      "fund_name": "7% FNDR Cultura — Festival Valle del Liwa (tercera versión)",
+      "org": "Gobierno Regional de Valparaíso",
+      "year": 2023,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": "Adjudicatario formal por confirmar.",
+      "source_index": null
+    }
+  ],
+  "festivals": [
+    {
+      "festival_name": "Festival de Teatro y Todas las Artes Valle del Liwa (organizador)",
+      "year": 2024,
+      "place": "Provincia de Petorca",
+      "source_index": 0
+    },
+    {
+      "festival_name": "Festival de Teatro y Todas las Artes Valle del Liwa",
+      "year": 2024,
+      "place": null,
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 3 (cita El Observador, Festival Valle del Liwa 2024)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "trajectory",
+        "festivals"
+      ],
+      "notes": "Nota de El Observador sobre Valle del Liwa 2024 aún sin URL propia localizada."
+    },
+    {
+      "url": "https://www.instagram.com/festivalvalledelliwa/",
+      "title": "Festival de Teatro y Todas las Artes Valle del Liwa (cuenta oficial)",
+      "publisher": "Festival Valle del Liwa",
+      "type": "red-social",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence"
+      ],
+      "notes": "Cuenta encontrada por búsqueda; no se abrió para confirmar contenido (Instagram no es accesible para este asistente). Cuenta como nivel 1 solo para existencia, no para trayectoria ni fondos; falta que un verificador humano la revise."
+    },
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — La Ligua.pdf (22 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 3 (cita El Observador, Ministerio de las Culturas — Recolectores de Memoria, Teatro del Silencio)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Recolectores de Memoria ya localizado y registrado como fuente propia (ver fuente siguiente). Nota de El Observador sobre Valle del Liwa 2024 sigue pendiente."
+    },
+    {
+      "url": "https://bitacoraresidencias.cultura.gob.cl/conversaciones-entre-territorios-nelson-rojas-torres-con-vasili-carrillo-nova/",
+      "title": "Conversaciones entre territorios, Nelson Rojas Torres con Vasili Carrillo Nova",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Bitácora Residencias de Arte Colaborativo",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Página institucional dedicada a su participación en la residencia «Recolectores de Memoria» (Lota, 2018), lo describe como «reconocido artista, gestor cultural y dirigente social» de La Ligua."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Confirmar naturaleza (compañía, organización o colectivo), año de inicio y redes. La trayectoria del director (Nelson Rojas Torres) tiene ahora una fuente institucional propia (ver data/artists/nelson-rojas-torres.json); los datos del festival (fondos, ediciones) siguen dependiendo de la investigación madre sin URL pública verificada por este asistente."
+  },
   "published": false
 }

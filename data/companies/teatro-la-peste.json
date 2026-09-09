@@ -1,38 +1,323 @@
 {
-  "slug": "teatro-la-peste", "type": "company",
-  "name": "Centro de Investigación Teatro La Peste", "legal_name": null,
+  "slug": "teatro-la-peste",
+  "type": "company",
+  "name": "Centro de Investigación Teatro La Peste",
+  "legal_name": null,
   "description_md": "Compañía y centro de investigación teatral porteño, fundado alrededor del año 2000, con más de 30 estrenos y trabajo ininterrumpido en creación, gestión, formación, mediación y trabajo territorial desde Valparaíso. Dirigido por Danilo Llanos.",
-  "commune": "valparaiso", "other_communes": [],
-  "disciplines": ["teatro", "teatro-experimental"], "audiences": ["adulto", "todo-publico"],
-  "founded_year": 2000, "status": "activa", "last_activity_at": "2025-11-13",
-  "members": [], "members_text": [
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "teatro",
+    "teatro-experimental"
+  ],
+  "audiences": [
+    "adulto",
+    "todo-publico"
+  ],
+  "founded_year": 2000,
+  "status": "activa",
+  "last_activity_at": "2025-11-13",
+  "members": [],
+  "members_text": [
     "Danilo Llanos (director, actor y dramaturgo, fundador)",
     "Katty Sagredo (integrante del núcleo estable)",
     "Katty López (integrante del núcleo estable)",
     "Daniela Misle (integrante del núcleo estable)"
   ],
-  "works": [], "venues": ["parque-cultural-de-valparaiso"], "place": null,
-  "email": null, "contact_authorized": false, "website": null,
-  "social": { "instagram": "https://www.instagram.com/teatrolapeste/", "facebook": null, "tiktok": null, "youtube": null },
+  "works": [],
+  "venues": [
+    "parque-cultural-de-valparaiso"
+  ],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": "https://www.instagram.com/teatrolapeste/",
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
   "trajectory_md": "El nombre «Teatro La Peste» se eligió en referencia a Antonin Artaud y su libro *El teatro y su doble*, sobre el teatro entendido como un contagio transformador. Sus primeras fundadoras fueron cuatro alumnas de un montaje inicial: Katty Sagredo, Pamela Cordero, Ximena Núñez y Katty López. Desde el verano de 2004 la compañía produce el «Encuentro de Teatro Porteño Independiente». En 2001 realizó un montaje con apoyo Fondart sobre un texto surgido de un taller de Juan Radrigán, que posteriormente ganó el Premio Nacional de Dramaturgia con la obra *El pueblo de las siete viudas*. La compañía se reformó hasta llegar a su constitución actual, con Katty Sagredo, Katty López, Danilo Llanos y Daniela Misle como núcleo estable, y Danilo Llanos como director, actor, dramaturgo y fundador del Centro de Investigación. En 2025 la compañía conmemoró 25 años de trayectoria con dos hitos: la reposición de *Error* (estrenada una década antes, primera obra con la que la compañía viajó al extranjero, surgida de la investigación de Danilo Llanos en su magíster en Dirección Teatral de la Universidad de Chile) en la Sala Negra de la Universidad de Valparaíso, y el estreno el 13 de noviembre de 2025 de *SUMAR, archivos del fracaso* (adaptación de una novela de Diamela Eltit) en el Parque Cultural de Valparaíso, con elenco de Katty López, Daniella Misle, Felipe Carvajal y Daniel Antivilo, dirección de Danilo Llanos, con temporada proyectada en el GAM de Santiago y gira internacional en 2026 (incluyendo el Festival Santiago a Mil y una gira europea). Desde 2025-2026 impulsa, con cofinanciamiento de Valparaíso Creativo, un plan de internacionalización para siete compañías de la Región de Valparaíso bajo la consigna «Valparaíso tiene algo que decir al mundo», orientado a construir materiales profesionales, una agenda de exportación y una marca del teatro porteño para circuitos internacionales.",
   "recognitions": [
-    { "title": "Premio Nacional de Dramaturgia — El pueblo de las siete viudas", "org": "[NO ENCONTRADO]", "year": 2001, "url": null, "source_index": 3 }
+    {
+      "title": "Premio Nacional de Dramaturgia — El pueblo de las siete viudas",
+      "org": "[NO ENCONTRADO]",
+      "year": 2001,
+      "url": null,
+      "source_index": 3
+    }
   ],
   "funding_awards": [
-    { "fund_name": "Fondart (montaje surgido de taller de Juan Radrigán)", "org": "Ministerio de las Culturas, las Artes y el Patrimonio (FONDART)", "year": 2001, "folio": null, "amount_clp": null, "url": null, "note": null, "source_index": 3 },
-    { "fund_name": "Valparaíso Creativo — plan de internacionalización del teatro regional", "org": "Valparaíso Creativo", "year": 2025, "folio": null, "amount_clp": null, "url": null, "note": "Cofinancia el acompañamiento a siete compañías de la región; folio y monto no confirmados.", "source_index": 4 }
+    {
+      "fund_name": "Fondart (montaje surgido de taller de Juan Radrigán)",
+      "org": "Ministerio de las Culturas, las Artes y el Patrimonio (FONDART)",
+      "year": 2001,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": null,
+      "source_index": 3
+    },
+    {
+      "fund_name": "Valparaíso Creativo — plan de internacionalización del teatro regional",
+      "org": "Valparaíso Creativo",
+      "year": 2025,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": "Cofinancia el acompañamiento a siete compañías de la región; folio y monto no confirmados.",
+      "source_index": 4
+    },
+    {
+      "fund_name": "Fondart (montaje surgido de taller de Juan Radrigán)",
+      "org": "Ministerio de las Culturas, las Artes y el Patrimonio (FONDART)",
+      "year": 2001,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": null,
+      "source_index": null
+    },
+    {
+      "fund_name": "Valparaíso Creativo — plan de internacionalización del teatro regional",
+      "org": "Valparaíso Creativo",
+      "year": 2025,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": "Cofinancia el acompañamiento a siete compañías de la región; folio y monto no confirmados.",
+      "source_index": null
+    },
+    {
+      "fund_name": "Plan de gestión del Centro de Investigación Teatro la Peste. 25 años de creación y gestión para las artes escénicas nacionales desde la región de Valparaíso.",
+      "org": "PAOCC — Compañías de trayectoria de artes escénicas",
+      "year": 2024,
+      "folio": "745951",
+      "amount_clp": 116000000,
+      "url": null,
+      "note": null,
+      "source_index": null
+    }
   ],
   "festivals": [
-    { "festival_name": "Encuentro de Teatro Porteño Independiente (organizador, desde 2004)", "year": 2004, "place": "Valparaíso", "source_index": 3 }
+    {
+      "festival_name": "Encuentro de Teatro Porteño Independiente (organizador, desde 2004)",
+      "year": 2004,
+      "place": "Valparaíso",
+      "source_index": 3
+    },
+    {
+      "festival_name": "Encuentro de Teatro Porteño Independiente",
+      "year": 2004,
+      "place": "Valparaíso",
+      "source_index": null
+    },
+    {
+      "festival_name": "Ciudad Teatro",
+      "year": 2025,
+      "place": "Valparaíso",
+      "source_index": null
+    },
+    {
+      "festival_name": "Festival Síntesis Teatral",
+      "year": 2022,
+      "place": "Valparaíso",
+      "source_index": null
+    }
   ],
-  "media": [], "media_candidates": [], "series": [], "tags": [],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
   "sources": [
-    { "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/teatro/2025/11/13/teatro-la-peste-celebra-25-anos-con-adaptacion-de-novela-de-diamela-eltit.shtml", "title": "Teatro La Peste celebra 25 años con adaptación de novela de Diamela Eltit", "publisher": "BioBioChile", "type": "prensa", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "founded_year", "activity", "works"], "notes": "Confirma 25 años de trayectoria a noviembre de 2025 y el estreno de SUMAR, archivos del fracaso el 13 de noviembre de 2025." },
-    { "url": "https://www.uv.cl/archivo-noticias-uv/28396-teatro-la-peste-conmemora-25-anos-con-obra-error-en-sala-negra-uv", "title": "Teatro La Peste conmemora 25 años con obra «Error» en Sala Negra UV", "publisher": "Universidad de Valparaíso", "type": "institucional", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "founded_year", "members"], "notes": "Fuente institucional (universidad) que confirma comuna (Valparaíso, «compañía porteña»), director y trayectoria." },
-    { "url": "https://parquecultural.cl/events/sumar-teatro-la-peste/", "title": "Sumar - Teatro La Peste", "publisher": "Parque Cultural de Valparaíso", "type": "institucional", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["works", "venues", "activity"], "notes": null },
-    { "url": "https://www.eldesconcierto.cl/2016/04/08/dialogo-politico-teatral-con-danilo-llanos-director-de-la-obra-error/", "title": "Diálogo político-teatral con Danilo Llanos, director de la obra «Error»", "publisher": "El Desconcierto", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["members", "trajectory", "recognitions", "funding_awards", "festivals"], "notes": "Entrevista con detalle sobre fundadoras, núcleo estable, Fondart 2001 y el Encuentro de Teatro Porteño Independiente desde 2004; contenido citado a partir del resumen del buscador." },
-    { "url": "https://www.valparaisocreativo.cl/valparaiso-tiene-algo-que-decir-al-mundo-teatro-la-peste-impulsa-un-plan-para-internacionalizar-el-teatro-regional/", "title": "«Valparaíso tiene algo que decir al mundo»: Teatro La Peste impulsa un plan para internacionalizar el teatro regional", "publisher": "Valparaíso Creativo", "type": "institucional", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["funding_awards", "trajectory"], "notes": "El intento de este asistente de abrir la página directamente devolvió un aviso de hosting suspendido (ihosting.cl); el contenido citado proviene del resumen generado por el buscador, no de una lectura directa de la página. Requiere verificación humana." }
+    {
+      "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/teatro/2025/11/13/teatro-la-peste-celebra-25-anos-con-adaptacion-de-novela-de-diamela-eltit.shtml",
+      "title": "Teatro La Peste celebra 25 años con adaptación de novela de Diamela Eltit",
+      "publisher": "BioBioChile",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "founded_year",
+        "activity",
+        "works"
+      ],
+      "notes": "Confirma 25 años de trayectoria a noviembre de 2025 y el estreno de SUMAR, archivos del fracaso el 13 de noviembre de 2025."
+    },
+    {
+      "url": "https://www.uv.cl/archivo-noticias-uv/28396-teatro-la-peste-conmemora-25-anos-con-obra-error-en-sala-negra-uv",
+      "title": "Teatro La Peste conmemora 25 años con obra «Error» en Sala Negra UV",
+      "publisher": "Universidad de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "commune",
+        "founded_year",
+        "members"
+      ],
+      "notes": "Fuente institucional (universidad) que confirma comuna (Valparaíso, «compañía porteña»), director y trayectoria."
+    },
+    {
+      "url": "https://parquecultural.cl/events/sumar-teatro-la-peste/",
+      "title": "Sumar - Teatro La Peste",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "works",
+        "venues",
+        "activity"
+      ],
+      "notes": null
+    },
+    {
+      "url": "https://www.eldesconcierto.cl/2016/04/08/dialogo-politico-teatral-con-danilo-llanos-director-de-la-obra-error/",
+      "title": "Diálogo político-teatral con Danilo Llanos, director de la obra «Error»",
+      "publisher": "El Desconcierto",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "members",
+        "trajectory",
+        "recognitions",
+        "funding_awards",
+        "festivals"
+      ],
+      "notes": "Entrevista con detalle sobre fundadoras, núcleo estable, Fondart 2001 y el Encuentro de Teatro Porteño Independiente desde 2004; contenido citado a partir del resumen del buscador."
+    },
+    {
+      "url": "https://www.valparaisocreativo.cl/valparaiso-tiene-algo-que-decir-al-mundo-teatro-la-peste-impulsa-un-plan-para-internacionalizar-el-teatro-regional/",
+      "title": "«Valparaíso tiene algo que decir al mundo»: Teatro La Peste impulsa un plan para internacionalizar el teatro regional",
+      "publisher": "Valparaíso Creativo",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "funding_awards",
+        "trajectory"
+      ],
+      "notes": "El intento de este asistente de abrir la página directamente devolvió un aviso de hosting suspendido (ihosting.cl); el contenido citado proviene del resumen generado por el buscador, no de una lectura directa de la página. Requiere verificación humana."
+    },
+    {
+      "url": "https://puntos.cultura.gob.cl/valparaiso/",
+      "title": "Puntos de Cultura Validados Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Programa Puntos de Cultura Comunitaria",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Listado de 87 organizaciones por comuna. La página no describe el ámbito de la mayoría; solo el nombre permite inferirlo, por lo que los ámbitos quedan como 'por confirmar' salvo que el nombre lo diga."
+    },
+    {
+      "url": "https://centex.cultura.gob.cl/con-ocho-montajes-en-ocho-espacios-distintos-valparaiso-celebra-mes-del-teatro/",
+      "title": "Ciudad Teatro: con ocho montajes en ocho espacios distintos Valparaíso celebra el Mes del Teatro",
+      "publisher": "Centex — Centro de Extensión del Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota de 2025 con programa completo: 8 funciones entre el 5 y el 11 de mayo de 2025 en Valparaíso. Gratuidad no especificada."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/06/NominaSeleccionados-Paocc_teatro.pdf",
+      "title": "Nómina de seleccionados Convocatoria Compañías de trayectoria de artes escénicas (PAOCC) 2024",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/01/SELECCIONADOS-FAAEE-2022.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2022",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://g5noticias.cl/2026/05/07/ciudad-teatro-2026-vuelve-el-encuentro-territorial-de-teatro-porteno-con-8-montajes-en-20-dias-a-precios-populares/",
+      "title": "CIUDAD TEATRO 2026: Vuelve el encuentro territorial de teatro porteño con 8 montajes en 20 días a precios populares",
+      "publisher": "G5noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de mayo de 2026. Programa completo del 8 al 28 de mayo de 2026; organiza Sala Pascal 79 con financiamiento PAOCC. No indica precios ni direcciones escénicas."
+    },
+    {
+      "url": "https://teatroamil.cl/articulos/festival-sintesis-teatral-valparaiso-2019/",
+      "title": "Festival Síntesis encabeza celebración del Día Nacional del Teatro en Valparaíso",
+      "publisher": "Fundación Teatro a Mil",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuarta versión (2019): 6 al 26 de mayo, 23 obras, 5 estrenos, más de 30 presentaciones en 8 espacios; extensión a San Antonio, Quillota, Quilpué, San Felipe y Olmué."
+    },
+    {
+      "url": "https://parquecultural.cl/2019/05/03/festival-sintesis-teatral-valparaiso-encabeza-celebracion-del-mes-del-teatro/",
+      "title": "Festival Síntesis Teatral Valparaíso encabeza celebración del mes del teatro",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 3 de mayo de 2019; organiza Laboratorio Anatomía Teatral (dir. Claudio Rodríguez); programa completo en laboratorioanatomiateatral.cl/folleto-fstv19."
+    },
+    {
+      "url": "https://parquecultural.cl/2020/05/10/festival-sintesis-teatral-valparaiso-adapta-su-programacion-y-formato-para-celebrar-primera-version-via-streaming/",
+      "title": "Festival Síntesis Teatral Valparaíso adapta su programación y formato para celebrar primera versión vía streaming",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Quinta versión (mayo de 2020) por streaming, producida por Parque Cultural, Centex y Laboratorio Anatomía Teatral (según resumen del buscador)."
+    }
   ],
-  "verification": { "status": "pendiente", "confidence_score": 80, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Existencia, comuna y trayectoria confirmadas por una fuente institucional (Universidad de Valparaíso) y prensa nacional (BioBioChile), con actividad reciente (noviembre de 2025, dentro de los últimos 12 meses). El detalle del plan de internacionalización con Valparaíso Creativo no pudo confirmarse abriendo la página directamente (sitio caído/suspendido al momento de esta investigación); revisar cuando el sitio esté disponible. Sin sitio web propio localizado; Instagram oficial (@teatrolapeste) no verificado abriendo la red directamente." },
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 80,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Existencia, comuna y trayectoria confirmadas por una fuente institucional (Universidad de Valparaíso) y prensa nacional (BioBioChile), con actividad reciente (noviembre de 2025, dentro de los últimos 12 meses). El detalle del plan de internacionalización con Valparaíso Creativo no pudo confirmarse abriendo la página directamente (sitio caído/suspendido al momento de esta investigación); revisar cuando el sitio esté disponible. Sin sitio web propio localizado; Instagram oficial (@teatrolapeste) no verificado abriendo la red directamente."
+  },
   "published": false
 }

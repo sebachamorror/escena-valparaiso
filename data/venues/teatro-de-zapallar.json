@@ -1,0 +1,69 @@
+{
+  "slug": "teatro-de-zapallar",
+  "type": "venue",
+  "name": "Teatro de Zapallar",
+  "short_name": "Teatro Zapallar",
+  "venue_type": "museo",
+  "owner": "Fundación Municipal de Cultura de Zapallar",
+  "place": {
+    "name": null,
+    "address": null,
+    "commune": "zapallar",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": "https://www.instagram.com/tz_galeria_zapallar/",
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://magazine.cranberrychic.com/culto-2024-en-el-teatro-de-zapallar/",
+      "title": "Culto 2024 en el Teatro de Zapallar",
+      "publisher": "Cranberry Chic (revista)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Octava Quincena Cultural de Zapallar, 30 de diciembre de 2023 al 14 de enero de 2024, en el Teatro de Zapallar, administrado por la Fundación Municipal de Cultura de Zapallar."
+    },
+    {
+      "url": "https://www.munizapallar.cl/historia",
+      "title": "Historia — Ilustre Municipalidad de Zapallar",
+      "publisher": "Ilustre Municipalidad de Zapallar",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Según el buscador, la primera iglesia de Zapallar es el actual Teatro de Zapallar; la página no pudo leerse completa (contenido truncado)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

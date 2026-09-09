@@ -1,0 +1,35 @@
+{
+ "capa": 5,
+ "consulta": "Q-0061",
+ "resumen": "Fondart Regional 2026: 111 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2026-fondart-regional-enero-2026",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2026/01/seleccionados-fondart-regional-2026.pdf",
+   "titulo": "Nóminas de seleccionados Fondart Regional 2026",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Des/centrada. Eli Neira, obra visual (2004-2025)",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2026,
+   "folio": "839586",
+   "monto": 23894966,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2026-fondart-regional-enero-2026"
+   ],
+   "notas": "Responsable según nómina: Amandine Coulombel Coulombel. Página 47 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Amandine Coulombel"
+  }
+ ]
+}

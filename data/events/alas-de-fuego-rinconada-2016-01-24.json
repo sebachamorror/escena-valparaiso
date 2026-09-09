@@ -1,0 +1,63 @@
+{
+  "slug": "alas-de-fuego-rinconada-2016-01-24",
+  "type": "event",
+  "title": "Alas de fuego",
+  "kind": "funcion",
+  "work": "alas-de-fuego",
+  "company": null,
+  "organizer_text": null,
+  "disciplines": [
+    "circo"
+  ],
+  "audience": null,
+  "description_md": "Pasacalle en Rinconada; lugar exacto no indicado.",
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2016-01-24T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": null,
+      "place": {
+        "name": null,
+        "address": null,
+        "commune": "rinconada",
+        "lat": null,
+        "lng": null,
+        "precision": "commune_centroid",
+        "geocode_source": null,
+        "geocoded_at": null
+      },
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "http://www.losandesonline.cl/noticias/30009/teatro-a-mil-se-presentara-en-rinconada.html",
+      "title": "Teatro a Mil se presentará en Rinconada",
+      "publisher": "Los Andes Online",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de enero de 2016: Fundación Teatro a Mil, funciones gratuitas del 3 al 25 de enero de 2016 en siete comunas de la región."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

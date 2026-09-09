@@ -1,0 +1,54 @@
+{
+  "slug": "terrapolis-quintero-2025-08-02",
+  "type": "event",
+  "title": "Terrapolis",
+  "kind": "funcion",
+  "work": "terrapolis",
+  "company": null,
+  "organizer_text": null,
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": true,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2025-08-02T18:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "casino-de-funcionarios-de-la-biblioteca-municipal-de-quintero",
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://diariolaquinta.cl/2025/07/29/cultura-terrapolis-obra-que-aborda-la-crisis-medioambiental-de-quintero-y-puchuncavi-vuelve-a-la-region-de-valparaiso/",
+      "title": "'Terrapolis': Obra que aborda la crisis medioambiental de Quintero y Puchuncaví vuelve a la Región de Valparaíso",
+      "publisher": "Diario La Quinta",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 29 de julio de 2025 con gira regional de agosto de 2025."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

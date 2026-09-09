@@ -1,0 +1,3686 @@
+[
+ {
+  "id": "OBR-0001",
+  "nombre": "El Loco y la Triste",
+  "compania": "COMP-0005",
+  "director": null,
+  "dramaturgo": "Juan Radrigán",
+  "anio_estreno": null,
+  "genero": "teatro",
+  "publico": "adulto",
+  "duracion": null,
+  "comunas": [
+   "villa-alemana"
+  ],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0022",
+   "FUE-0023",
+   "FUE-0055"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0005. Importado de data/works/el-loco-y-la-triste.json (score 55)."
+ },
+ {
+  "id": "OBR-0002",
+  "nombre": "Llo Lle We",
+  "compania": "COMP-0006",
+  "director": "Diego Chamorro",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "teatro",
+  "publico": "todo-publico",
+  "duracion": null,
+  "comunas": [
+   "san-antonio"
+  ],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": "Montaje sobre la historia de la desembocadura del río Maipo y el territorio de San Antonio: pueblos originarios, patrimonio local, memoria y educación, contada «desde el Big Bang hasta el presente». Presentado en la Plaza de Llolleo para acercar la historia local a la comunidad.",
+  "fuentes": [
+   "FUE-0024",
+   "FUE-0025",
+   "FUE-0026",
+   "FUE-0056",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0006. Importado de data/works/llo-lle-we.json (score 63). 'Gira de Llo Lle We: Ko Rüpü, el camino del agua' (Circulación de montajes escénicos 2023, Diego Sebastián Chamorro Ramírez, $14.325.891)."
+ },
+ {
+  "id": "OBR-0003",
+  "nombre": "Ayayai",
+  "compania": "COMP-0007",
+  "director": null,
+  "dramaturgo": "Festín de la Risa (creación colectiva)",
+  "anio_estreno": null,
+  "genero": "clown",
+  "publico": "familiar",
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": "Espectáculo de clown que mezcla humor físico, improvisación, ternura y números clásicos de payasería.",
+  "fuentes": [
+   "FUE-0027",
+   "FUE-0028",
+   "FUE-0054"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0007. Importado de data/works/ayayai.json (score 55)."
+ },
+ {
+  "id": "OBR-0004",
+  "nombre": "Varieté de Marionetas Musicales",
+  "compania": "COMP-0014",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "titeres",
+  "publico": "familiar",
+  "duracion": null,
+  "comunas": [
+   "los-andes"
+  ],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0049",
+   "FUE-0050",
+   "FUE-0051",
+   "FUE-0057"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0014. Importado de data/works/variete-de-marionetas-musicales.json (score 62)."
+ },
+ {
+  "id": "OBR-0005",
+  "nombre": "Ánimas de día claro",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-antonio"
+  ],
+  "espacios": [
+   "ESP-0002"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0058"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0001."
+ },
+ {
+  "id": "OBR-0006",
+  "nombre": "Circo con Saltimbanqui Circus",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-antonio"
+  ],
+  "espacios": [
+   "ESP-0002"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0058"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0002."
+ },
+ {
+  "id": "OBR-0007",
+  "nombre": "El gran circo imaginario",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0007"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0059"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0004."
+ },
+ {
+  "id": "OBR-0008",
+  "nombre": "En este instante",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0007"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0059"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0005."
+ },
+ {
+  "id": "OBR-0009",
+  "nombre": "Sola",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0007"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0059"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0006."
+ },
+ {
+  "id": "OBR-0010",
+  "nombre": "Pirateando títeres",
+  "compania": "COMP-0022",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres (marionetas de hilos)",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": "Espectáculo intercultural con el que la compañía ha recorrido gran parte de Sudamérica.",
+  "fuentes": [
+   "FUE-0018"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0022."
+ },
+ {
+  "id": "OBR-0011",
+  "nombre": "Piratas del Barrio",
+  "compania": "COMP-0022",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres (marionetas de hilos)",
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": "Función a bordo de una lancha en Valparaíso.",
+  "fuentes": [
+   "FUE-0018"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0022."
+ },
+ {
+  "id": "OBR-0012",
+  "nombre": "El Despertar de los Antiguos",
+  "compania": "COMP-0022",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres (marionetas de hilos)",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": "Puesta en escena basada en relatos de terror.",
+  "fuentes": [
+   "FUE-0018"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0022."
+ },
+ {
+  "id": "OBR-0013",
+  "nombre": "Nog Bua",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0020"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0089"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Programada en Sala Pascal 79 entre octubre de 2020 y marzo de 2021 (Red de Espacios Culturales). Compañía no indicada."
+ },
+ {
+  "id": "OBR-0014",
+  "nombre": "La mala conexión",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "villa-alemana"
+  ],
+  "espacios": [
+   "ESP-0022"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0089"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Programada en el Centro Cultural Gabriela Mistral entre octubre de 2020 y marzo de 2021. Compañía no indicada."
+ },
+ {
+  "id": "OBR-0015",
+  "nombre": "Mentira",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0018"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0089"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "La nota dice 'la obra Mentira de Miguel Muñoz' (autoría o dirección no especificada). Programada en la Sala UPLA entre octubre de 2020 y marzo de 2021."
+ },
+ {
+  "id": "OBR-0016",
+  "nombre": "Llay Llay su gente y su cultura",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "llaillay"
+  ],
+  "espacios": [
+   "ESP-0014"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0089"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Programada en el Teatro Municipal de Llay Llay entre octubre de 2020 y marzo de 2021. Compañía no indicada."
+ },
+ {
+  "id": "OBR-0017",
+  "nombre": "Error",
+  "compania": "COMP-0013",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0051"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0013."
+ },
+ {
+  "id": "OBR-0018",
+  "nombre": "Repertorio para habitar la soledad",
+  "compania": "COMP-0039",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0052"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0039."
+ },
+ {
+  "id": "OBR-0019",
+  "nombre": "Hipodérmica",
+  "compania": "COMP-0040",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0053"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0040."
+ },
+ {
+  "id": "OBR-0020",
+  "nombre": "Anku",
+  "compania": "COMP-0041",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0054"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0133"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0041."
+ },
+ {
+  "id": "OBR-0021",
+  "nombre": "Cuestión de Ubicación",
+  "compania": "COMP-0041",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0053"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0133"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0041."
+ },
+ {
+  "id": "OBR-0022",
+  "nombre": "Amada Gayshá",
+  "compania": "COMP-0042",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0025"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0042."
+ },
+ {
+  "id": "OBR-0023",
+  "nombre": "Fofi el cachorro",
+  "compania": "COMP-0043",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0033"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0043."
+ },
+ {
+  "id": "OBR-0024",
+  "nombre": "Disparate Circo Rock",
+  "compania": "COMP-0044",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0055"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0096",
+   "FUE-0124",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0044."
+ },
+ {
+  "id": "OBR-0025",
+  "nombre": "Extraño ser",
+  "compania": "COMP-0045",
+  "director": "George Casanova",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0056"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0045."
+ },
+ {
+  "id": "OBR-0026",
+  "nombre": "La Señorita Julia",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0018"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0133"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0015."
+ },
+ {
+  "id": "OBR-0027",
+  "nombre": "Ensamble Vocal Comunitario",
+  "compania": "COMP-0050",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0050."
+ },
+ {
+  "id": "OBR-0028",
+  "nombre": "Hoguera",
+  "compania": "COMP-0073",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2023,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0117",
+   "FUE-0098",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0073."
+ },
+ {
+  "id": "OBR-0029",
+  "nombre": "Caudal, por la liberación de las aguas",
+  "compania": "COMP-0073",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0117",
+   "FUE-0098",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0073."
+ },
+ {
+  "id": "OBR-0030",
+  "nombre": "La Llave Secreta, por la liberación de las aguas",
+  "compania": "COMP-0073",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": "infantil",
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0117",
+   "FUE-0098",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0073."
+ },
+ {
+  "id": "OBR-0031",
+  "nombre": "El Chungungo y la Voz del Mar",
+  "compania": "COMP-0073",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0117",
+   "FUE-0098",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0073."
+ },
+ {
+  "id": "OBR-0032",
+  "nombre": "Tripulación Paraíso",
+  "compania": "COMP-0044",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0096",
+   "FUE-0124",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0044."
+ },
+ {
+  "id": "OBR-0033",
+  "nombre": "La Nave de los locos, locOnas y Alacalufes",
+  "compania": "COMP-0075",
+  "director": "Andrés del Bosque",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "teatro circo ancestral",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0075."
+ },
+ {
+  "id": "OBR-0034",
+  "nombre": "El tiempo no espera. Monólogos del adulto mayor",
+  "compania": "COMP-0076",
+  "director": "Julieta Saavedra",
+  "dramaturgo": "Julieta Saavedra",
+  "anio_estreno": 2025,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "villa-alemana",
+   "quillota",
+   "quilpue",
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0022",
+   "ESP-0064",
+   "ESP-0003",
+   "ESP-0060"
+  ],
+  "festivales": [],
+  "descripcion": "Tres monólogos sobre el miedo a envejecer, la soledad y la fuerza de seguir adelante, surgidos del taller 'Cuentos que nacen del alma' con personas mayores de Villa Alemana. Elenco: Roberto Valencia (adulto mayor, debut actoral), Gabriela Fernández Chan (actriz y directora peruana), Sebastián Roque Tognia (música en vivo) y Julieta Saavedra. Financiada por el Fondo de Artes Escénicas 2025.",
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0171",
+   "FUE-0172"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0076."
+ },
+ {
+  "id": "OBR-0035",
+  "nombre": "FIN; último episodio Trilogía de la Catástrofe",
+  "compania": "COMP-0013",
+  "director": "Danilo Llanos",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0107",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0013."
+ },
+ {
+  "id": "OBR-0036",
+  "nombre": "Enjuiciamiento a Pedro Urdemales",
+  "compania": "COMP-0058",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0107"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0058."
+ },
+ {
+  "id": "OBR-0037",
+  "nombre": "La memoria de los sésiles",
+  "compania": "COMP-0040",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2023,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0109"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0040."
+ },
+ {
+  "id": "OBR-0038",
+  "nombre": "El fuego que llevamos dentro. Por la memoria de Nicole Saavedra Bahamondes",
+  "compania": "COMP-0080",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0120",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0080."
+ },
+ {
+  "id": "OBR-0039",
+  "nombre": "Polución: Diálogos con Pedro Lemebel",
+  "compania": "COMP-0081",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0081."
+ },
+ {
+  "id": "OBR-0040",
+  "nombre": "En Defensa Propia",
+  "compania": "COMP-0082",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2023,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0082."
+ },
+ {
+  "id": "OBR-0041",
+  "nombre": "NOSOTRXS",
+  "compania": "COMP-0008",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2025,
+  "genero": "títeres",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0118",
+   "FUE-0105",
+   "FUE-0095",
+   "FUE-0030"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "anio_estreno",
+    "valor_existente": 2025,
+    "valor_nuevo": 2026,
+    "fuentes": [
+     "FUE-0030"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Creado por referencia desde COMP-0008."
+ },
+ {
+  "id": "OBR-0042",
+  "nombre": "Todo esto está en ti",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2023,
+  "genero": "circo contemporáneo",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Obra de circo contemporáneo inspirada en la poesía de Raúl Zurita (creación 2023, circulación nacional 2025), responsable Paula Andrea Jirkal Briones."
+ },
+ {
+  "id": "OBR-0043",
+  "nombre": "KI, la respiración del tiempo",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Circulación nacional 2025, responsable Natalia Francisca Cuéllar Díaz ($19.295.318)."
+ },
+ {
+  "id": "OBR-0044",
+  "nombre": "La Invivible",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "danza",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0117",
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Composición coreográfica (2022 y 2023, Josefina Díaz Honores) y creación danza 2025 (Franco Ignacio Oviedo Maldonado, $25.337.357). Listada por Fundación Teatro a Mil en su catálogo de la Región de Valparaíso."
+ },
+ {
+  "id": "OBR-0045",
+  "nombre": "Más allá de las ruinas",
+  "compania": null,
+  "director": "Ingrid Flores Mondaca",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "circo (ciencia ficción)",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Más allá de las ruinas, un espectáculo de ciencia ficción dirigido por Ingrid Flores Moncada' (circo 2025, $29.996.405; y 2026, $29.999.999)."
+ },
+ {
+  "id": "OBR-0046",
+  "nombre": "Pulso de un hombre homosexual latinoamericano",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2023,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creación teatro 2023 ($19.398.215) y circulación nacional 2026, responsable José Antonio Soto Luer."
+ },
+ {
+  "id": "OBR-0047",
+  "nombre": "La cuna de fuego: Montaje escénico por Palestina",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Teatro 2026, José Antonio Soto Luer ($28.799.944)."
+ },
+ {
+  "id": "OBR-0048",
+  "nombre": "Bésame Macho. Mujeres Infinitas",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Puesta en escena, teatro 2026, Verónica Isabel González Becerra ($16.453.509)."
+ },
+ {
+  "id": "OBR-0049",
+  "nombre": "NINA",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2025,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Teatro 2025, Maritza Alejandra Farías Cerpa ($29.690.100)."
+ },
+ {
+  "id": "OBR-0050",
+  "nombre": "La Ventana de Eva",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "teatro de objetos",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Espectáculo de teatro objeto, títeres 2025, Camila Fernanda Pichuante Cruz ($19.289.236)."
+ },
+ {
+  "id": "OBR-0051",
+  "nombre": "El Trueno de Milén",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "ópera de cámara",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Ópera de cámara por la inclusión de la neurodivergencia (2025, David Gabriel Valdivia Argandoña, $34.232.334)."
+ },
+ {
+  "id": "OBR-0052",
+  "nombre": "Ardid de amor",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "ópera",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Comedia de enredos en el Chile colonial, ópera de Roberto Puelma (2025, Viviana Hernández Silva, $27.138.128)."
+ },
+ {
+  "id": "OBR-0053",
+  "nombre": "El niño y los sortilegios",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "ópera",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Fantasía lírica de M. Ravel (2026, Viviana Hernández Silva, $32.200.044)."
+ },
+ {
+  "id": "OBR-0054",
+  "nombre": "Alicia Morel y los reinos de la Tierra",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Los Reinos de la Tierra (Centenario Alicia Morel)' (2022) y 'Alicia Morel y los reinos de la Tierra' (títeres 2023), Alejandra Estrella Thayer Joui."
+ },
+ {
+  "id": "OBR-0055",
+  "nombre": "El barniz del desierto",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Títeres 2023, Oscar Humberto Berríos Inostroza ($14.999.584)."
+ },
+ {
+  "id": "OBR-0056",
+  "nombre": "A la Memoria de Carla Korman",
+  "compania": "COMP-0016",
+  "director": "Paola Escudero Navia",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Títeres 2023, Paola Alejandra Escudero Navia ($11.325.427); vínculo con Titiricaos por su directora."
+ },
+ {
+  "id": "OBR-0057",
+  "nombre": "La Ruta de La Quebrada. Relatos, Canciones y Recetas de una Comunidad",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Títeres 2023, Ana Catherine Sagredo Núñez ($23.803.445)."
+ },
+ {
+  "id": "OBR-0058",
+  "nombre": "Nativos Polinizadores",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres de gran formato (callejero)",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Espectáculo callejero con títeres de gran formato (2022, Waleska Arleth Vilches Valdivia, $14.993.525)."
+ },
+ {
+  "id": "OBR-0059",
+  "nombre": "Informe para una academia",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Teatro 2022, Christopher Camilo Ortega Silva ($19.761.264)."
+ },
+ {
+  "id": "OBR-0060",
+  "nombre": "Terrapolis",
+  "compania": "COMP-0100",
+  "director": "Bárbara Pestan",
+  "dramaturgo": null,
+  "anio_estreno": 2023,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso",
+   "quintero",
+   "san-antonio",
+   "el-quisco"
+  ],
+  "espacios": [
+   "ESP-0021",
+   "ESP-0076",
+   "ESP-0002",
+   "ESP-0012"
+  ],
+  "festivales": [],
+  "descripcion": "Montaje sobre el daño ambiental en las zonas de sacrificio de Quintero y Puchuncaví, escrito desde la mirada de las mujeres del territorio. Elenco: Javiera Mendoza, Daniela Fernández, Andrea Osorio. Estreno 2023 en el Parque Cultural de Valparaíso; financiada por el Fondo de Artes Escénicas (composición escénica 2021, creación y producción 2022). Cada función incluye foro con la directora y organizaciones ambientales.",
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0144",
+   "FUE-0145"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Teatro 2022, Bárbara Andrea Pestan Florás ($19.999.568)."
+ },
+ {
+  "id": "OBR-0061",
+  "nombre": "Clowntra todos",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "clown",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Espectáculo clown con adultos mayores basado en Macbeth (2022, Camilo Andrés Romero Rojas)."
+ },
+ {
+  "id": "OBR-0062",
+  "nombre": "Cuéntamelo a los ojos",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "narración gestual (comunidad sorda)",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "2022, Pablo Ignacio Abarca Carrazana ($11.947.835)."
+ },
+ {
+  "id": "OBR-0063",
+  "nombre": "Mujer de Preñez Húngara",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Remontaje 2022, Christian David Oyarzún Navarrete."
+ },
+ {
+  "id": "OBR-0064",
+  "nombre": "El Abismo de los Pájaros",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Remontaje 2022, María Angélica Luzzi Olsen."
+ },
+ {
+  "id": "OBR-0065",
+  "nombre": "Gómez",
+  "compania": null,
+  "director": null,
+  "dramaturgo": "Diamela Eltit (texto)",
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'GÓMEZ de Diamela Eltit en Gira por Colombia' (2022, Claudio Omar Rodríguez Espinoza)."
+ },
+ {
+  "id": "OBR-0066",
+  "nombre": "Hijo Pródigo",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Hijo Pródigo en Buenos Aires' (circulación 2022, Camila Antonia Guggiana Stuparich)."
+ },
+ {
+  "id": "OBR-0067",
+  "nombre": "Un botón en mi cabeza",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0109"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Gira Colombia 2024, Enrique Ignacio Crohare Niño."
+ },
+ {
+  "id": "OBR-0068",
+  "nombre": "La historia de una mujer que regaba su planta con una cuchara",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Teatro 2023, Angela Paulina Sepúlveda Rojas ($19.352.458)."
+ },
+ {
+  "id": "OBR-0069",
+  "nombre": "Partes y Piezas",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "circo",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Circo 2023, Luciana Gabriela Mosca Spinetto ($24.140.300)."
+ },
+ {
+  "id": "OBR-0070",
+  "nombre": "Contrahílo — mujeres que tejen en el aire",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "circo aéreo / interdisciplinar",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Residencia 2022 y creación 2025, Juliana da Silva Martins."
+ },
+ {
+  "id": "OBR-0071",
+  "nombre": "Azul y el bosque extinto",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": "infantil",
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Montaje interdisciplinar para infancias (2025, Jacinta María Egaña Kaulen, $22.103.804)."
+ },
+ {
+  "id": "OBR-0072",
+  "nombre": "Con la cabeza en las nubes",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": "infantil",
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Obra teatral pensada en todas las infancias (2026, Olinda Inés Melchor Lara)."
+ },
+ {
+  "id": "OBR-0073",
+  "nombre": "Vida y hazañas del señor Erik Satie, fonometrógrafo",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Composición (2025) y creación títeres 2026 ($24.865.303), Sebastián Fernando Farah Rodríguez."
+ },
+ {
+  "id": "OBR-0074",
+  "nombre": "Niño Zombie y el oráculo personal",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Títeres 2026, Jasson Guillermo Guaico Núñez ($24.999.946)."
+ },
+ {
+  "id": "OBR-0075",
+  "nombre": "El viaje de Mamadú",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "títeres",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Títeres 2026, Eric Estrada Vega ($25.000.000)."
+ },
+ {
+  "id": "OBR-0076",
+  "nombre": "Un marciano en Júpiter",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "teatro de marionetas",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Obra de teatro de marionetas por la diversidad y la inclusión social (2026, René Leonardo Rojas Escalona)."
+ },
+ {
+  "id": "OBR-0077",
+  "nombre": "El Piuchén de Paihuén",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "miniatura escénica",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Miniatura escénica del misterio campesino (2026, Daniel Alexis Silva Escobar)."
+ },
+ {
+  "id": "OBR-0078",
+  "nombre": "Memorias en tren",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "narración oral",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0109",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Zenith Claudia Navarrete Ruiz: composición 2022, 'Wellcome to the Train' gira 2024, circulación nacional 2026 ('Memorias en Tren: Lo que me han contado')."
+ },
+ {
+  "id": "OBR-0079",
+  "nombre": "Cuéntame de Valparaíso Bohemio",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "narración oral",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Narración oral 2026, Zenith Claudia Navarrete Ruiz ($14.347.713)."
+ },
+ {
+  "id": "OBR-0080",
+  "nombre": "Prácticas para un mal dormir",
+  "compania": "COMP-0091",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0064"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0091."
+ },
+ {
+  "id": "OBR-0081",
+  "nombre": "Tertulias para tomar té: cuando la abuela se perdió y los insectos salieron a buscarla",
+  "compania": "COMP-0092",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0065"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0092."
+ },
+ {
+  "id": "OBR-0082",
+  "nombre": "Imaginaria",
+  "compania": "COMP-0054",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0066"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0054."
+ },
+ {
+  "id": "OBR-0083",
+  "nombre": "Caleu",
+  "compania": "COMP-0041",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0067"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0041."
+ },
+ {
+  "id": "OBR-0084",
+  "nombre": "Esto es un teatro",
+  "compania": "COMP-0093",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0068"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0093."
+ },
+ {
+  "id": "OBR-0085",
+  "nombre": "Vuela",
+  "compania": "COMP-0073",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0033"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0073."
+ },
+ {
+  "id": "OBR-0086",
+  "nombre": "Inextinguible",
+  "compania": "COMP-0094",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0053"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0094."
+ },
+ {
+  "id": "OBR-0087",
+  "nombre": "Intoxicadas",
+  "compania": "COMP-0095",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0069"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0095."
+ },
+ {
+  "id": "OBR-0088",
+  "nombre": "Casa",
+  "compania": "COMP-0042",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "lectura dramatizada",
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0070"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0042."
+ },
+ {
+  "id": "OBR-0089",
+  "nombre": "Koreto, la magia continúa",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "vina-del-mar"
+  ],
+  "espacios": [
+   "ESP-0059"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0137"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0029."
+ },
+ {
+  "id": "OBR-0090",
+  "nombre": "Voces",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "vina-del-mar"
+  ],
+  "espacios": [
+   "ESP-0059"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0137"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0030."
+ },
+ {
+  "id": "OBR-0091",
+  "nombre": "La Mariita",
+  "compania": "COMP-0099",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "puchuncavi"
+  ],
+  "espacios": [
+   "ESP-0077",
+   "ESP-0078"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0141",
+   "FUE-0142",
+   "FUE-0143"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0099."
+ },
+ {
+  "id": "OBR-0092",
+  "nombre": "La Plaza",
+  "compania": "COMP-0087",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "marionetas",
+  "publico": "familiar",
+  "duracion": 40,
+  "comunas": [
+   "putaendo"
+  ],
+  "espacios": [
+   "ESP-0075"
+  ],
+  "festivales": [],
+  "descripcion": "Lenguaje gestual, sonidos incidentales y música del mundo; personajes como payasos, el perro Piruetas, vecinos y niños.",
+  "fuentes": [
+   "FUE-0146"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0087."
+ },
+ {
+  "id": "OBR-0093",
+  "nombre": "El Viaje de los Caracoles",
+  "compania": "COMP-0018",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "quillota"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "festivales": [
+   "FES-0041"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0156"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0018."
+ },
+ {
+  "id": "OBR-0094",
+  "nombre": "El Principito",
+  "compania": "COMP-0104",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "quillota"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "festivales": [
+   "FES-0041"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0156"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0104."
+ },
+ {
+  "id": "OBR-0095",
+  "nombre": "Tico y la Piedra Mágica",
+  "compania": "COMP-0105",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "quillota"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "festivales": [
+   "FES-0041"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0156"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0105."
+ },
+ {
+  "id": "OBR-0096",
+  "nombre": "Día de Mierclown",
+  "compania": "COMP-0106",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "quillota"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "festivales": [
+   "FES-0041"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0156"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0106."
+ },
+ {
+  "id": "OBR-0097",
+  "nombre": "El perro, la pulga y Robi salvan el río",
+  "compania": "COMP-0107",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": "infantil",
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": "Espectáculo musical-teatral sobre la protección del agua y el ecosistema del río Aconcagua, presentado a escolares de Los Andes en el ciclo 'Patio Cultural' (septiembre de 2026), con itinerancia posterior por establecimientos de la cuenca del Aconcagua.",
+  "fuentes": [
+   "FUE-0157"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0107."
+ },
+ {
+  "id": "OBR-0098",
+  "nombre": "Alas de fuego",
+  "compania": "COMP-0108",
+  "director": "Horacio Videla",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "pasacalle",
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "rinconada"
+  ],
+  "espacios": [],
+  "festivales": [
+   "FES-0042"
+  ],
+  "descripcion": "Pasacalle con 25 actores, máscaras, circo y malabarismo.",
+  "fuentes": [
+   "FUE-0158"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0108."
+ },
+ {
+  "id": "OBR-0099",
+  "nombre": "Artículo 161",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "quillota"
+  ],
+  "espacios": [
+   "ESP-0006"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0155"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0041."
+ },
+ {
+  "id": "OBR-0100",
+  "nombre": "La Remolienda",
+  "compania": "COMP-0109",
+  "director": null,
+  "dramaturgo": "Alejandro Sieveking",
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": "Muestra de proceso interactiva del grupo juvenil-adulto en el hall del Centro Cultural (5 de julio de 2025, jornada Artes Integradas).",
+  "fuentes": [
+   "FUE-0159",
+   "FUE-0160",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0109."
+ },
+ {
+  "id": "OBR-0101",
+  "nombre": "El motín contra Portales",
+  "compania": null,
+  "director": "Ivo Herrera",
+  "dramaturgo": "Ivo Herrera",
+  "anio_estreno": 2025,
+  "genero": "teatro callejero (historia local)",
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "quillota"
+  ],
+  "espacios": [
+   "ESP-0079"
+  ],
+  "festivales": [],
+  "descripcion": "Obra de teatro callejero sobre historia local de Quillota producida por el Centro Cultural Leopoldo Silva Reynoard; dirección y dramaturgia de Ivo Herrera, diseño integral de Alonso Machuca; elenco de la Región de Valparaíso: Estefanía Aedo, Ernesto Briones, Diana del Río, Carmen Gloria Donoso y José Mendoza. Estreno 12 de julio de 2025; presentaciones en espacios públicos y funciones escolares hasta octubre de 2025, acompañadas por Fiesta Bohemia y Marilyn Cantora. Financiada por Espacios Culturales Bajo Convenio, Red Cultura 2024.",
+  "fuentes": [
+   "FUE-0159"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": null
+ },
+ {
+  "id": "OBR-0102",
+  "nombre": "Tibia",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "práctica performativa",
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "quillota"
+  ],
+  "espacios": [
+   "ESP-0006"
+  ],
+  "festivales": [],
+  "descripcion": "Práctica performativa sobre modos de relación entre materiales y cuerpos; iniciada en 2022 en el ciclo de residencias Proximidades Expositivas (Buenos Aires); financiada por el Fondo Nacional de Fomento y Desarrollo de las Artes. Función escolar y para público general, gratuita, a fines de julio de 2025.",
+  "fuentes": [
+   "FUE-0159"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Compañía o artista no nombrados en el boletín."
+ },
+ {
+  "id": "OBR-0103",
+  "nombre": "El Invitado",
+  "compania": null,
+  "director": "Gonzalo Pinto",
+  "dramaturgo": "Juan Radrigán",
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "los-andes"
+  ],
+  "espacios": [
+   "ESP-0001"
+  ],
+  "festivales": [],
+  "descripcion": "Drama con humor y crítica social; elenco Daniela Lhorente y Claudio González Ravanal.",
+  "fuentes": [
+   "FUE-0161"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Compañía no indicada."
+ },
+ {
+  "id": "OBR-0104",
+  "nombre": "Planeta Alegría",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": "infantil",
+  "duracion": null,
+  "comunas": [
+   "san-felipe"
+  ],
+  "espacios": [
+   "ESP-0062"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0163"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Obra infantil de Zeta Producciones (origen no indicado)."
+ },
+ {
+  "id": "OBR-0105",
+  "nombre": "Aladino",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-felipe"
+  ],
+  "espacios": [
+   "ESP-0062"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0164"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0047."
+ },
+ {
+  "id": "OBR-0106",
+  "nombre": "El Húsar de la Muerte",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "vina-del-mar"
+  ],
+  "espacios": [
+   "ESP-0059"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0160"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0048."
+ },
+ {
+  "id": "OBR-0107",
+  "nombre": "El monólogo de un árbol",
+  "compania": "COMP-0110",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0167"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0110."
+ },
+ {
+  "id": "OBR-0108",
+  "nombre": "Cartas para que no me olvides",
+  "compania": "COMP-0111",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0167"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0111."
+ },
+ {
+  "id": "OBR-0109",
+  "nombre": "Voces por la memoria",
+  "compania": "COMP-0050",
+  "director": "Diego Belmar",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0050."
+ },
+ {
+  "id": "OBR-0110",
+  "nombre": "Monumentos",
+  "compania": "COMP-0050",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-antonio"
+  ],
+  "espacios": [
+   "ESP-0002"
+  ],
+  "festivales": [
+   "FES-0002"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0050."
+ },
+ {
+  "id": "OBR-0111",
+  "nombre": "En bañador",
+  "compania": "COMP-0112",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0167"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0112."
+ },
+ {
+  "id": "OBR-0112",
+  "nombre": "El carnaval de la alegría",
+  "compania": "COMP-0068",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "pasacalle",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0167"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0068."
+ },
+ {
+  "id": "OBR-0113",
+  "nombre": "La Tendalá",
+  "compania": "COMP-0039",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-antonio"
+  ],
+  "espacios": [
+   "ESP-0002"
+  ],
+  "festivales": [
+   "FES-0002"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0039."
+ },
+ {
+  "id": "OBR-0114",
+  "nombre": "Historia de amor para un alma vieja",
+  "compania": null,
+  "director": "Felipe Zambrano Miguieles",
+  "dramaturgo": "Felipe Zambrano Miguieles",
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-antonio",
+   "vina-del-mar"
+  ],
+  "espacios": [
+   "ESP-0059"
+  ],
+  "festivales": [
+   "FES-0002",
+   "FES-0048"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0179"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Festival Litoral Teatral 2024; compañía no indicada. Compañía 'FA' (Chile) según la nota municipal; Santiago Off 2026."
+ },
+ {
+  "id": "OBR-0115",
+  "nombre": "Perfectos Desconocidos",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-antonio"
+  ],
+  "espacios": [],
+  "festivales": [
+   "FES-0002"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0167"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Festival Litoral Teatral 2024; compañía no indicada."
+ },
+ {
+  "id": "OBR-0116",
+  "nombre": "La Reina Isabel cantaba rancheras",
+  "compania": null,
+  "director": "Gustavo Meza",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-antonio"
+  ],
+  "espacios": [
+   "ESP-0002"
+  ],
+  "festivales": [
+   "FES-0002"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Obra inaugural del Festival Litoral Teatral 2026 por Teatro Imagen (compañía nacional con más de medio siglo; sin registro propio por ser de otra región)."
+ },
+ {
+  "id": "OBR-0117",
+  "nombre": "Fábulas fabulosas",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "san-felipe"
+  ],
+  "espacios": [
+   "ESP-0062"
+  ],
+  "festivales": [
+   "FES-0045"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0170"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FUN-0053."
+ },
+ {
+  "id": "OBR-0118",
+  "nombre": "Concón el Regreso",
+  "compania": "COMP-0120",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "teatro histórico",
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "concon"
+  ],
+  "espacios": [
+   "ESP-0083"
+  ],
+  "festivales": [],
+  "descripcion": "Obra sobre la historia de Concón desde la Colonia hasta hoy.",
+  "fuentes": [
+   "FUE-0173"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0120."
+ },
+ {
+  "id": "OBR-0119",
+  "nombre": "El delantal blanco",
+  "compania": "COMP-0121",
+  "director": null,
+  "dramaturgo": "Sergio Vodanovic",
+  "anio_estreno": 2015,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0174"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0121."
+ },
+ {
+  "id": "OBR-0120",
+  "nombre": "Contrapunto para dos voces cansadas",
+  "compania": "COMP-0116",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0003"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0116."
+ },
+ {
+  "id": "OBR-0121",
+  "nombre": "Yo soy un oso",
+  "compania": "COMP-0008",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2022,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0003"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175",
+   "FUE-0030"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0008."
+ },
+ {
+  "id": "OBR-0122",
+  "nombre": "Vino por la causa",
+  "compania": "COMP-0118",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "villa-alemana"
+  ],
+  "espacios": [
+   "ESP-0022"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0118."
+ },
+ {
+  "id": "OBR-0123",
+  "nombre": "En la puerta del horno se quema el pan",
+  "compania": "COMP-0039",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0087"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0039."
+ },
+ {
+  "id": "OBR-0124",
+  "nombre": "Inusual… Mundo autista",
+  "compania": "COMP-0119",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0054"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0119."
+ },
+ {
+  "id": "OBR-0125",
+  "nombre": "FUSIS",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "danza",
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0003"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Obra de danza de Carolina Cifras (Limache), Mes del Teatro 2022 (12 de mayo, 19:00, $2.500)."
+ },
+ {
+  "id": "OBR-0126",
+  "nombre": "Cabaret (Aníbal Gaete)",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "musical",
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0003"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Musical de Aníbal Gaete (Olmué), Mes del Teatro 2022 (14 de mayo, 19:00, $2.500)."
+ },
+ {
+  "id": "OBR-0127",
+  "nombre": "Piaf en Rose",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "valparaiso"
+  ],
+  "espacios": [
+   "ESP-0053"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Mes del Teatro 2022 (11 de mayo, 19:00); compañía no indicada."
+ },
+ {
+  "id": "OBR-0128",
+  "nombre": "Desentierren a los vivos",
+  "compania": null,
+  "director": "Pita Torres",
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "quilpue"
+  ],
+  "espacios": [
+   "ESP-0004"
+  ],
+  "festivales": [
+   "FES-0047"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Mes del Teatro 2022 (28 de mayo, 19:00, gratuita); compañía no indicada."
+ },
+ {
+  "id": "OBR-0129",
+  "nombre": "La estrategia de Elías",
+  "compania": "COMP-0008",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0030"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0008."
+ },
+ {
+  "id": "OBR-0130",
+  "nombre": "La cocina pública",
+  "compania": "COMP-0008",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0030"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0008."
+ },
+ {
+  "id": "OBR-0131",
+  "nombre": "Avatares",
+  "compania": "COMP-0008",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0030"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0008."
+ },
+ {
+  "id": "OBR-0132",
+  "nombre": "Feroz",
+  "compania": "COMP-0013",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": 2018,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0176"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0013."
+ },
+ {
+  "id": "OBR-0133",
+  "nombre": "La vida de mi guerra",
+  "compania": "COMP-0077",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [
+   "vina-del-mar"
+  ],
+  "espacios": [
+   "ESP-0059"
+  ],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0179"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0077."
+ },
+ {
+  "id": "OBR-0134",
+  "nombre": "La Traviata (Lírica Disidente)",
+  "compania": "COMP-0125",
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": "ópera",
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0180"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde COMP-0125."
+ },
+ {
+  "id": "OBR-0135",
+  "nombre": "Ella & Ella",
+  "compania": null,
+  "director": null,
+  "dramaturgo": "Omar Saavedra",
+  "anio_estreno": 2018,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [
+   "FES-0046"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0176"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Reposición en el Festival Síntesis Teatral 2019; compañía no indicada."
+ },
+ {
+  "id": "OBR-0136",
+  "nombre": "Agalls",
+  "compania": null,
+  "director": null,
+  "dramaturgo": null,
+  "anio_estreno": null,
+  "genero": null,
+  "publico": null,
+  "duracion": null,
+  "comunas": [],
+  "espacios": [],
+  "festivales": [
+   "FES-0046"
+  ],
+  "descripcion": null,
+  "fuentes": [
+   "FUE-0177"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Cinco monólogos; Festival Síntesis Teatral 2019; compañía no indicada."
+ }
+]

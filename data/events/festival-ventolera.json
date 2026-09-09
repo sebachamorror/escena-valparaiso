@@ -1,0 +1,124 @@
+{
+  "slug": "festival-ventolera",
+  "type": "event",
+  "title": "Festival Ventolera",
+  "kind": "festival",
+  "work": null,
+  "company": null,
+  "organizer_text": "Asamblea Titiritera ATTICH V Región",
+  "disciplines": [],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2024-10-20T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "G5 Noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma que ATTICH V, junto a la Seremi de las Culturas, organiza el IV Festival Ventolera; lista las compañías participantes con su comuna."
+    },
+    {
+      "url": "https://g5noticias.cl/2026/03/16/festival-caleta-de-titeres-ofrecera-funciones-sobre-lanchas-en-valparaiso/",
+      "title": "Festival \"Caleta de Títeres\" ofrecerá funciones sobre lanchas en Valparaíso",
+      "publisher": "G5 Noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma organizadores del Festival Caleta de Títeres II (22 de marzo de 2026, Muelle Prat) y compañías participantes."
+    },
+    {
+      "url": "https://www.theclinic.cl/2026/03/16/hasta-con-funciones-de-titeres-sobre-lanchas-valparaiso-se-prepara-para-celebrar-el-dia-mundial-del-titere-y-la-marioneta-2026/",
+      "title": "Hasta con funciones de títeres sobre lanchas: Valparaíso se prepara para celebrar el Día Mundial del Títere y la Marioneta 2026",
+      "publisher": "The Clinic",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma fecha, lugar, obras programadas y modalidad de inscripción del Festival Caleta de Títeres II (2026), segunda edición tras la de 2025."
+    },
+    {
+      "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+      "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso",
+      "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuatro de las seis compañías del catálogo (Titiricaos, La Barconeta, La Capuchina, Vaccaro Puppets) declaran formar parte de la \"Asamblea Titiritera ATTICH Quinta Región\"."
+    },
+    {
+      "url": "https://www.sigpa.cl/ficha-colectivo/colectiva-artistica-medioambiental-la-capuchina",
+      "title": "SIGPA — Colectiva Artística Medioambiental La Capuchina",
+      "publisher": "Servicio Nacional del Patrimonio Cultural (SIGPA)",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Registro SIGPA CC6995... (id CC7603), fecha de registro 30-09-2024. Confirma comuna Valparaíso e integrantes fundadoras Waleska Vilches Valdivia y Ana Sagredo Núñez."
+    },
+    {
+      "url": "https://www.teatromuseo.cl/noticia/agosto-se-despide-con-broche-de-oro-un-estreno_65",
+      "title": "Agosto se despide con broche de oro: un estreno (programación del estreno de La Ruta de la Quebrada)",
+      "publisher": "Fundación TeatroMuseo del Títere y el Payaso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Menciona el estreno de La Ruta de la Quebrada (Cerro Las Cañas, El Litre) y una convocatoria 2023 del Ministerio de las Culturas; el artículo no consigna año de publicación explícito, se infiere 2023 por el contexto."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/agendacultural/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma organizador (Asamblea Titiritera ATTICH V con Seremi de las Culturas), fecha, sede y taller con Giovanni Vaccaro."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

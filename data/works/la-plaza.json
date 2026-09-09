@@ -1,0 +1,50 @@
+{
+  "slug": "la-plaza",
+  "type": "work",
+  "title": "La Plaza",
+  "authorship": null,
+  "direction": null,
+  "companies": [
+    "compania-moviendo-hilos"
+  ],
+  "credits": [],
+  "disciplines": [
+    "titeres"
+  ],
+  "audience": "familiar",
+  "duration_min": 40,
+  "premiere_year": null,
+  "synopsis_md": "Lenguaje gestual, sonidos incidentales y música del mundo; personajes como payasos, el perro Piruetas, vecinos y niños.",
+  "communes": [
+    "putaendo"
+  ],
+  "video_url": null,
+  "dossier_url": null,
+  "venues": [],
+  "history_text": [],
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://chilecultura.gob.cl/events/10550/",
+      "title": "La Plaza, de la Compañía de Marionetas Moviendo Hilos, en la comuna de Putaendo",
+      "publisher": "Chile Cultura — Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Ficha de evento: 12 de marzo de 2021, 15:00, Escuela María Leiva de Las Coimas, Putaendo; gratuito; 40 minutos; organiza Escenalborde en el programa Artes Escénicas Itinerantes Regionales."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

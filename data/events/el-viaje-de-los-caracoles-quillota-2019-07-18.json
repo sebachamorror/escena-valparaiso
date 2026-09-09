@@ -1,0 +1,54 @@
+{
+  "slug": "el-viaje-de-los-caracoles-quillota-2019-07-18",
+  "type": "event",
+  "title": "El Viaje de los Caracoles",
+  "kind": "funcion",
+  "work": "el-viaje-de-los-caracoles",
+  "company": "teatro-anima",
+  "organizer_text": null,
+  "disciplines": [
+    "teatro"
+  ],
+  "audience": null,
+  "description_md": null,
+  "price": "$2.000",
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2019-07-18T00:00:00-03:00",
+      "ends_at": "2019-07-20T00:00:00-03:00",
+      "time_unknown": true,
+      "venue": "centro-cultural-leopoldo-silva-reynoard",
+      "place": null,
+      "price": "$2.000",
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://chilecultura.gob.cl/events/3197/",
+      "title": "Ciclo de Teatro Familiar de Quillota",
+      "publisher": "Chile Cultura — Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Ficha de evento de 2019: cuatro obras en tres días (18, 19 y 20 de julio de 2019), $2.000, Centro Cultural Leopoldo Silva Reynoard, Avenida 21 de Mayo 200, Quillota. La ficha no asigna cada obra a un día."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

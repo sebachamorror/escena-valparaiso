@@ -1,0 +1,80 @@
+{
+ "capa": 5,
+ "consulta": "Q-0060",
+ "resumen": "Fondart Regional 2023: 82 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2023-fondart-regional-enero-2023",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/seleccionados-fondart-regional-2023.pdf",
+   "titulo": "Seleccionados Fondart Regional 2023",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Segundo Congreso Arte Sonoro y Nuevos Medios- Valparaíso, Chile.",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "676810",
+   "monto": 11372987,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-regional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Centro De Investigación Musical Autónomo Cima. Página 27 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Centro De Investigación Musical Autónomo Cima"
+  },
+  {
+   "proyecto": "Catálogo de obra 2006- 2022 de Verónica Soto Carvajal",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "664675",
+   "monto": 14565807,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-regional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Veronica Estefania Soto Carvajal. Página 30 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Veronica Estefania Soto Carvajal"
+  },
+  {
+   "proyecto": "Topío, una página web para visualizar la obra de una artista multidisciplinaria",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "659839",
+   "monto": 10826810,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-regional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Sandra Sofía Abarca Fariña. Página 30 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Sandra Sofía Abarca Fariña"
+  },
+  {
+   "proyecto": "En cuerpo y obra serie de televisión que difunde el trabajo de artistas locales de la Región de Valparaíso",
+   "fondo": "Fondart Regional",
+   "linea": "Única",
+   "anio": 2023,
+   "folio": "680703",
+   "monto": 15271914,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2023-fondart-regional-enero-2023"
+   ],
+   "notas": "Responsable según nómina: Universidad Viña Del Mar. Página 31 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Universidad Viña Del Mar"
+  }
+ ]
+}

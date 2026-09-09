@@ -1,0 +1,63 @@
+{
+  "slug": "rodolfo-bravo",
+  "type": "artist",
+  "name": "Rodolfo Bravo",
+  "artistic_name": null,
+  "commune": "quillota",
+  "commune_basis": "prensa",
+  "crafts": [
+    "actuacion",
+    "direccion"
+  ],
+  "disciplines": [
+    "teatro"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": "Actor y profesor formador quillotano (años 1920–2001) según Ivo Herrera; el teatro del Centro Cultural Leopoldo Silva Reynoard lleva su nombre.",
+  "companies": [],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "http://quillotaenlahistoria.blogspot.com/2019/09/el-teatro-en-quillota-iniciando-el.html?m=1",
+      "title": "El Teatro en Quillota, iniciando el siglo 21 (Notas Históricas y Literarias de Quillota)",
+      "publisher": "Ivo Herrera Ávila (blog Quillota en la Historia)",
+      "type": "otro",
+      "level": 3,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Texto del 1 de septiembre de 2019 de Ivo Herrera Ávila (director teatral quillotano). Fuente secundaria de memoria local; requiere contraste."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

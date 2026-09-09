@@ -1,18 +1,209 @@
 {
-  "slug": "centro-cultural-san-antonio", "type": "venue",
-  "name": "Centro Cultural San Antonio", "short_name": null,
-  "venue_type": "centro-cultural", "owner": "Ilustre Municipalidad de San Antonio",
-  "place": { "name": "Centro Cultural San Antonio", "address": "Antofagasta 545, Barrancas, San Antonio", "commune": "san-antonio", "lat": null, "lng": null, "precision": "commune_centroid", "geocode_source": null, "geocoded_at": null },
-  "capacity": null, "rooms": [],
-  "website": "https://centrocultural.sanantonio.cl/", "contact_public": "CentroCultural@sanantonio.cl",
-  "social": { "instagram": "https://www.instagram.com/centroculturalsanantonio/", "facebook": null, "tiktok": null, "youtube": null },
-  "disciplines": ["teatro"], "accessibility": [],
-  "program_url": "https://centrocultural.sanantonio.cl/", "status": "activo",
-  "description_md": "Espacio cultural municipal de referencia de la comuna de San Antonio. Programa una cartelera gratuita de cine, música en vivo y teatro, además de actividades vinculadas a los planes de estudio en horario escolar. Sede del Festival Litoral Teatral.",
-  "media": [], "tags": [],
-  "sources": [
-    { "url": "https://www.sanantonio.cl/alcaldia/departamento-de-cultura/centro-cultural-san-antonio.html", "title": "Centro Cultural San Antonio", "publisher": "Ilustre Municipalidad de San Antonio", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "place", "contact_public", "description"], "notes": "Confirma dirección, programación gratuita y vínculo con planes de estudio." }
+  "slug": "centro-cultural-san-antonio",
+  "type": "venue",
+  "name": "Centro Cultural San Antonio",
+  "short_name": "Sala Civita Aranda — Centro Cultural San Antonio",
+  "venue_type": "centro-cultural",
+  "owner": "Ilustre Municipalidad de San Antonio",
+  "place": {
+    "name": "Centro Cultural San Antonio",
+    "address": "Antofagasta 545, Barrancas, San Antonio",
+    "commune": "san-antonio",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": "https://centrocultural.sanantonio.cl/",
+  "contact_public": "CentroCultural@sanantonio.cl",
+  "social": {
+    "instagram": "https://www.instagram.com/centroculturalsanantonio/",
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [
+    "teatro"
   ],
-  "verification": { "status": "verificado", "confidence_score": 80, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Dirección y contacto confirmados en fuente municipal oficial. Falta capacidad, salas y accesibilidad declarada." },
+  "accessibility": [],
+  "program_url": "https://centrocultural.sanantonio.cl/",
+  "status": "activo",
+  "description_md": "Espacio cultural municipal de referencia de la comuna de San Antonio. Programa una cartelera gratuita de cine, música en vivo y teatro, además de actividades vinculadas a los planes de estudio en horario escolar. Sede del Festival Litoral Teatral.",
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.sanantonio.cl/alcaldia/departamento-de-cultura/centro-cultural-san-antonio.html",
+      "title": "Centro Cultural San Antonio",
+      "publisher": "Ilustre Municipalidad de San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "place",
+        "contact_public",
+        "description"
+      ],
+      "notes": "Confirma dirección, programación gratuita y vínculo con planes de estudio."
+    },
+    {
+      "url": "https://diariolaquinta.cl/2026/04/09/festival-litoral-teatral-2026-arranca-este-domingo-en-san-antonio/",
+      "title": "Festival Litoral Teatral 2026 arranca este domingo en San Antonio",
+      "publisher": "Diario La Quinta",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cita textual: \"A 10 años de su primera versión en 2016\"; confirma organizador (Centro Cultural San Antonio), financiamiento (Fondo de Artes Escénicas del Ministerio de las Culturas) y funciones del 12, 19, 25 y 26 de abril."
+    },
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/3077-destacadas-obras-trae-a-san-antonio-el-festival-litoral-teatral-2026",
+      "title": "Destacadas obras trae a San Antonio el Festival Litoral Teatral 2026",
+      "publisher": "Centro Cultural San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma 13 compañías, 12 espectáculos y las funciones del 19, 25 y 26 de abril de 2026."
+    },
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/3079-exito-total-del-festival-litoral-teatral-2026",
+      "title": "Éxito total del Festival Litoral Teatral 2026",
+      "publisher": "Centro Cultural San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Balance final: más de tres mil asistentes; confirma financiamiento del Fondo de Artes Escénicas (postulación 2025) y el marco de la década desde 2016."
+    },
+    {
+      "url": "https://elproa.cl/2026/04/circo-y-mascaras-en-la-segunda-semana-del-festival-litoral-teatral/",
+      "title": "Circo y máscaras en la segunda semana del Festival Litoral Teatral",
+      "publisher": "El Proa",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma la función del viernes 17 de abril de 2026, 19:00 horas, de Circo Ancestral en Sala Civita Aranda."
+    },
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/3100-san-antonio-da-la-bienvenida-a-septiembre-con-una-amplia-programacion-para-toda-la-familia",
+      "title": "San Antonio da la bienvenida a septiembre con una amplia programación para toda la familia",
+      "publisher": "Centro Cultural San Antonio / Ilustre Municipalidad de San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma fecha (sábado 5 de septiembre), hora (19:00), lugar (Sala Civita Aranda) y compañía (El Ojo Teatro) de la función, y que la programación de septiembre es gratuita para la comunidad."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mas-de-60-actividades-artisticas-gratuitas-ofrecera-la-red-de-espacios-culturales-de-la-region-de-valparaiso/",
+      "title": "Más de 60 actividades artísticas gratuitas ofrecerá la Red de Espacios Culturales de la Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de octubre de 2020. Lista los 27 espacios de la Red de Espacios Culturales regional y actividades entre octubre de 2020 y marzo de 2021 sin fechas exactas."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/redcultura/espacios-culturales-bajo-convenio-region-de-valparaiso/",
+      "title": "Espacios Culturales Bajo Convenio Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Programa Red Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Seis espacios bajo convenio Red Cultura."
+    },
+    {
+      "url": "https://diariolaquinta.cl/2025/07/29/cultura-terrapolis-obra-que-aborda-la-crisis-medioambiental-de-quintero-y-puchuncavi-vuelve-a-la-region-de-valparaiso/",
+      "title": "'Terrapolis': Obra que aborda la crisis medioambiental de Quintero y Puchuncaví vuelve a la Región de Valparaíso",
+      "publisher": "Diario La Quinta",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 29 de julio de 2025 con gira regional de agosto de 2025."
+    },
+    {
+      "url": "https://centrocultural.sanantonio.cl/index.php/item/2966-festival-de-teatro-litoral-teatral-2024",
+      "title": "Festival de Teatro Litoral Teatral 2024",
+      "publisher": "Centro Cultural San Antonio",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Festival del 10 al 21 de enero de 2024; actividades al aire libre gratuitas, funciones en sala con reserva; las fechas por obra no aparecen en la nota."
+    },
+    {
+      "url": "https://teatroamil.cl/articulos/festival-sintesis-teatral-valparaiso-2019/",
+      "title": "Festival Síntesis encabeza celebración del Día Nacional del Teatro en Valparaíso",
+      "publisher": "Fundación Teatro a Mil",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Cuarta versión (2019): 6 al 26 de mayo, 23 obras, 5 estrenos, más de 30 presentaciones en 8 espacios; extensión a San Antonio, Quillota, Quilpué, San Felipe y Olmué."
+    },
+    {
+      "url": "https://parquecultural.cl/2019/05/03/festival-sintesis-teatral-valparaiso-encabeza-celebracion-del-mes-del-teatro/",
+      "title": "Festival Síntesis Teatral Valparaíso encabeza celebración del mes del teatro",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 3 de mayo de 2019; organiza Laboratorio Anatomía Teatral (dir. Claudio Rodríguez); programa completo en laboratorioanatomiateatral.cl/folleto-fstv19."
+    },
+    {
+      "url": "https://parquecultural.cl/2020/05/10/festival-sintesis-teatral-valparaiso-adapta-su-programacion-y-formato-para-celebrar-primera-version-via-streaming/",
+      "title": "Festival Síntesis Teatral Valparaíso adapta su programación y formato para celebrar primera versión vía streaming",
+      "publisher": "Parque Cultural de Valparaíso",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Quinta versión (mayo de 2020) por streaming, producida por Parque Cultural, Centex y Laboratorio Anatomía Teatral (según resumen del buscador)."
+    }
+  ],
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 80,
+    "verified_at": "2026-09-05",
+    "verified_by": "investigación asistida (sesión 2026-09-05)",
+    "next_review_at": "2027-09-05",
+    "note": "Dirección y contacto confirmados en fuente municipal oficial. Falta capacidad, salas y accesibilidad declarada."
+  },
   "published": false
 }

@@ -1,0 +1,81 @@
+{
+  "slug": "eduardo-romero",
+  "type": "artist",
+  "name": "Eduardo Romero",
+  "artistic_name": null,
+  "commune": "santo-domingo",
+  "commune_basis": "prensa",
+  "crafts": [
+    "direccion"
+  ],
+  "disciplines": [
+    "teatro"
+  ],
+  "specialties": [],
+  "bio_md": null,
+  "trajectory_md": null,
+  "companies": [
+    {
+      "company": "titeres-humedal-rio-maipo",
+      "role": "Director/a",
+      "from_year": null,
+      "to_year": null
+    }
+  ],
+  "companies_text": [],
+  "works": [],
+  "works_text": [],
+  "training": [],
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [],
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "email_public": null,
+  "contact_authorized": false,
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "episodes": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.ivoox.com/en/entrevista-a-eduardo-romero-director-compania-audios-mp3_rf_71461265_1.html",
+      "title": "Entrevista a Eduardo Romero, Director de la Compañía de Teatro Humedal del Río Maipo",
+      "publisher": "ChilenaFM de San Antonio (iVoox)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "El resumen de la entrevista ubica a la compañía en Santo Domingo (a 8 km al sur de San Antonio, junto al río Maipo), lo que difiere de la comuna «San Antonio» anotada al abrir esta tarea en la cola de investigación. La entrevista es del 15 de junio de 2021."
+    },
+    {
+      "url": "https://www.facebook.com/people/Compa%C3%B1ia-titeres-humedal-rio-maipo/100068390424438/",
+      "title": "Compañia titeres humedal rio maipo",
+      "publisher": "Compañía Títeres Humedal Río Maipo (Facebook oficial)",
+      "type": "red-social",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Página con 205 seguidores localizada por buscador; no se abrió directamente para confirmar fecha de la última publicación (Facebook no es accesible para este asistente)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

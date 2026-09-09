@@ -1,0 +1,104 @@
+{
+  "slug": "teatro-ilucion",
+  "type": "company",
+  "name": "Teatro ILUcIÓN",
+  "legal_name": "Círculo Teatral Independiente CTI",
+  "description_md": null,
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "teatro"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Ciudad Teatro",
+      "year": 2025,
+      "place": "Valparaíso",
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://centex.cultura.gob.cl/con-ocho-montajes-en-ocho-espacios-distintos-valparaiso-celebra-mes-del-teatro/",
+      "title": "Ciudad Teatro: con ocho montajes en ocho espacios distintos Valparaíso celebra el Mes del Teatro",
+      "publisher": "Centex — Centro de Extensión del Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota de 2025 con programa completo: 8 funciones entre el 5 y el 11 de mayo de 2025 en Valparaíso. Gratuidad no especificada."
+    },
+    {
+      "url": "https://valpocultura.cl/eventos/categoria/teatro/",
+      "title": "Eventos › Teatro — Valpocultura",
+      "publisher": "Valpocultura",
+      "type": "directorio",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Agenda cultural agregadora; consultada en septiembre de 2026 (35 eventos, la mayoría entradas de la cartelera de la Sala Negra UV)."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/06/NominaSeleccionados-Paocc_teatro.pdf",
+      "title": "Nómina de seleccionados Convocatoria Compañías de trayectoria de artes escénicas (PAOCC) 2024",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://g5noticias.cl/2026/05/07/ciudad-teatro-2026-vuelve-el-encuentro-territorial-de-teatro-porteno-con-8-montajes-en-20-dias-a-precios-populares/",
+      "title": "CIUDAD TEATRO 2026: Vuelve el encuentro territorial de teatro porteño con 8 montajes en 20 días a precios populares",
+      "publisher": "G5noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de mayo de 2026. Programa completo del 8 al 28 de mayo de 2026; organiza Sala Pascal 79 con financiamiento PAOCC. No indica precios ni direcciones escénicas."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

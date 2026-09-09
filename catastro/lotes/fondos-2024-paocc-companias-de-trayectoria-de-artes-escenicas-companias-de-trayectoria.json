@@ -1,0 +1,167 @@
+{
+ "capa": 5,
+ "consulta": "Q-0009",
+ "resumen": "PAOCC — Compañías de trayectoria de artes escénicas 2024: 6 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/06/NominaSeleccionados-Paocc_teatro.pdf",
+   "titulo": "Nómina de seleccionados Convocatoria Compañías de trayectoria de artes escénicas (PAOCC) 2024",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [
+  {
+   "nombre": "centro cultural de arte español flamenco triana",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable del proyecto «Flamenco Triana: 24 Años de Arte y Tradición - Programa de Apoyo a Compañías de Artes Escénicas» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Grupo de Teatro La Peste",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable del proyecto «Plan de gestión del Centro de Investigación Teatro la Peste. 25 años de creación y gestión para las artes escénicas nacionales desde la región de Valparaíso.» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Centro Cultural Malabicirco",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable del proyecto «Financiamient o Plan de Gestión con énfasis en la creación Compañía Malabicirco» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Fundacion Puerto Cultura",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable del proyecto «enjuiciamiento a Pedro Urdemales» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+  },
+  {
+   "nombre": "Colectivo de Teatro Lanzarte",
+   "tipo": "organización de artes escénicas (según nómina de fondos)",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable del proyecto «LANZARTE TEATRO» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "personas": [
+  {
+   "nombre": "Circulo Teatral Independien Te Cti",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable del proyecto «\"31 Años de Resistencia y Creación Teatral: Plan de Gestión de la Compañía de Teatro Escuela IluCión para la Creación y Circulación de Montajes Escénicos\"» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Flamenco Triana: 24 Años de Arte y Tradición - Programa de Apoyo a Compañías de Artes Escénicas",
+   "fondo": "PAOCC — Compañías de trayectoria de artes escénicas",
+   "linea": "Compañías de trayectoria",
+   "anio": 2024,
+   "folio": "747123",
+   "monto": 116000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable según nómina: centro cultural de arte español flamenco triana. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "centro cultural de arte español flamenco triana",
+   "compania": "centro cultural de arte español flamenco triana"
+  },
+  {
+   "proyecto": "Plan de gestión del Centro de Investigación Teatro la Peste. 25 años de creación y gestión para las artes escénicas nacionales desde la región de Valparaíso.",
+   "fondo": "PAOCC — Compañías de trayectoria de artes escénicas",
+   "linea": "Compañías de trayectoria",
+   "anio": 2024,
+   "folio": "745951",
+   "monto": 116000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable según nómina: Grupo de Teatro La Peste. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Grupo de Teatro La Peste",
+   "compania": "Grupo de Teatro La Peste"
+  },
+  {
+   "proyecto": "Financiamient o Plan de Gestión con énfasis en la creación Compañía Malabicirco",
+   "fondo": "PAOCC — Compañías de trayectoria de artes escénicas",
+   "linea": "Compañías de trayectoria",
+   "anio": 2024,
+   "folio": "751424",
+   "monto": 116000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable según nómina: Centro Cultural Malabicirco. Página 3 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Centro Cultural Malabicirco",
+   "compania": "Centro Cultural Malabicirco"
+  },
+  {
+   "proyecto": "\"31 Años de Resistencia y Creación Teatral: Plan de Gestión de la Compañía de Teatro Escuela IluCión para la Creación y Circulación de Montajes Escénicos\"",
+   "fondo": "PAOCC — Compañías de trayectoria de artes escénicas",
+   "linea": "Compañías de trayectoria",
+   "anio": 2024,
+   "folio": "747950",
+   "monto": 116000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable según nómina: CIRCULO TEATRAL INDEPENDIEN TE CTI. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Circulo Teatral Independien Te Cti"
+  },
+  {
+   "proyecto": "enjuiciamiento a Pedro Urdemales",
+   "fondo": "PAOCC — Compañías de trayectoria de artes escénicas",
+   "linea": "Compañías de trayectoria",
+   "anio": 2024,
+   "folio": "753548",
+   "monto": 116000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable según nómina: FUNDACION PUERTO CULTURA. Página 5 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Fundacion Puerto Cultura",
+   "compania": "Fundacion Puerto Cultura"
+  },
+  {
+   "proyecto": "LANZARTE TEATRO",
+   "fondo": "PAOCC — Compañías de trayectoria de artes escénicas",
+   "linea": "Compañías de trayectoria",
+   "anio": 2024,
+   "folio": "759179",
+   "monto": 116000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-paocc-companias-de-trayectoria-de-artes-escenicas-companias-de-trayectoria"
+   ],
+   "notas": "Responsable según nómina: COLECTIVO DE TEATRO LANZARTE. Página 6 del PDF. Comuna no indicada en la nómina (solo región).",
+   "organizacion": "Colectivo de Teatro Lanzarte",
+   "compania": "Colectivo de Teatro Lanzarte"
+  }
+ ]
+}

@@ -1,0 +1,6633 @@
+[
+ {
+  "id": "COMP-0001",
+  "nombre": "Arte Escénico La Ligua",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "la-ligua",
+  "provincia": "petorca",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [
+   "Nelson Hernán Rojas Torres (director)"
+  ],
+  "tipo": "teatro comunitario",
+  "disciplinas": [
+   "teatro",
+   "teatro-comunitario"
+  ],
+  "descripcion": "Organización de teatro y gestión cultural de La Ligua dirigida por Nelson Rojas Torres. Organiza el Festival de Teatro y Todas las Artes Valle del Liwa, que lleva teatro a localidades rurales y urbanas de la Provincia de Petorca.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [
+   "petorca",
+   "cabildo"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0006"
+  ],
+  "fondos": [
+   "FIN-0001"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0013",
+   "FUE-0014",
+   "FUE-0082",
+   "FUE-0083",
+   "FUE-0084"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/arte-escenico-la-ligua.json (score 60)."
+ },
+ {
+  "id": "COMP-0002",
+  "nombre": "Asamblea Titiritera ATTICH V Región",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Asamblea Titiritera ATTICH Quinta Región",
+   "ATTICH Quinta Región"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": "Agrupación regional de titiriteras y titiriteros de la Región de Valparaíso, vinculada a la Asamblea de Titiriteros y Titiriteras de Chile (ATTICH). Organiza el Festival Ventolera y el Festival Caleta de Títeres.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0007",
+   "FES-0008"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0015",
+   "FUE-0016",
+   "FUE-0017",
+   "FUE-0018",
+   "FUE-0069"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/asamblea-titiritera-attich-v.json (score 80). El Catálogo SNPC 2025 indica que Titiricaos, La Barconeta, La Capuchina y Vaccaro Puppets integran la Asamblea. Organiza el Festival Ventolera (IV versión, 2024). Comuna según la sede del festival."
+ },
+ {
+  "id": "COMP-0003",
+  "nombre": "Colectiva Artística Medioambiental La Capuchina",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Colectiva Artístico Medio Ambiental La Capuchina",
+   "Compañía La Capuchina",
+   "La Capuchina",
+   "Colectiva La Capuchina",
+   "Compañía Capuchina"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 2018,
+  "director": null,
+  "integrantes": [
+   "Waleska Vilches Valdivia (integrante fundadora)",
+   "Ana Sagredo Núñez (integrante fundadora)"
+  ],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres",
+   "musica-escenica",
+   "teatro-comunitario"
+  ],
+  "descripcion": "Colectiva de artes escénicas y teatro tradicional de títeres de Valparaíso, nacida en 2018, centrada en educación medioambiental, música original y trabajo comunitario en jardines infantiles, escuelas y espacios no convencionales.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0007"
+  ],
+  "fondos": [
+   "FIN-0002"
+  ],
+  "instagram": "https://www.instagram.com/la_capuchina/",
+  "facebook": null,
+  "youtube": null,
+  "tiktok": "https://www.tiktok.com/@lacapuchina9537",
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": "colectivalacapuchina@gmail.com",
+  "telefono": "+569 4353 3803",
+  "fuentes": [
+   "FUE-0018",
+   "FUE-0019",
+   "FUE-0020",
+   "FUE-0015",
+   "FUE-0069"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "descripcion",
+    "valor_existente": "Colectiva de artes escénicas y teatro tradicional de títeres de Valparaíso, nacida en 2018, centrada en educación medioambiental, música original y trabajo comunitario en jardines infantiles, escuelas y espacios no convencionales.",
+    "valor_nuevo": "Nace en 2018 en Valparaíso; artes escénicas, teatro, títeres, música, trabajo comunitario y medio ambiente, con un proyecto educativo centrado en protección y cuidado de entornos naturales. Obras originales con música de autoría; investigación en manipulación de títeres para formatos audiovisuales. Trabaja en jardines infantiles, escuelas y espacios no convencionales. Integra la Asamblea Titiritera ATTICH Quinta Región.",
+    "fuentes": [
+     "FUE-0018"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/companies/colectiva-la-capuchina.json (score 78). Ficha en el Catálogo SNPC 2025 (p. 10). Identificadores de red publicados: 'la_capuchina' y '@lacapuchina9537'; segundo teléfono +569 6469 5363. Figura como 'Compañía Capuchina (Valparaíso)' en el IV Festival Ventolera (2024)."
+ },
+ {
+  "id": "COMP-0004",
+  "nombre": "Compañía de Muñecos Marionautas",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Compañía Marionautas",
+   "Marionautas"
+  ],
+  "comuna": "quilpue",
+  "provincia": "marga-marga",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Rafael Brozzi",
+  "integrantes": [
+   "Rafael Brozzi (dirección)"
+  ],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": "Compañía de marionetas y títeres con enfoque educativo y de entretención, dirigida por Rafael Brozzi. Con sede en Quilpué, ha recorrido escenarios de una veintena de países.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [
+   "Latinoamérica (giras)",
+   "Europa (giras)"
+  ],
+  "festivales": [],
+  "fondos": [],
+  "instagram": "https://www.instagram.com/elmundodelostiteres/",
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": "marionautas@gmail.com",
+  "telefono": "+569 8564 5270",
+  "fuentes": [
+   "FUE-0018",
+   "FUE-0021",
+   "FUE-0087"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "descripcion",
+    "valor_existente": "Compañía de marionetas y títeres con enfoque educativo y de entretención, dirigida por Rafael Brozzi. Con sede en Quilpué, ha recorrido escenarios de una veintena de países.",
+    "valor_nuevo": "Dirigida por Rafael Brozzi, quien llegó a Chile en 1994. Con tres décadas de trayectoria, desarrolla marionetas y títeres con enfoque educativo y de entretención; ha recorrido escenarios en una veintena de países con giras por Latinoamérica y Europa. Funciones en teatros, centros educativos y espacio público. Público: primera infancia, infantil y familiar.",
+    "fuentes": [
+     "FUE-0018",
+     "FUE-0087"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/companies/compania-de-munecos-marionautas.json (score 75). Ficha en el Catálogo SNPC 2025 (p. 6). Red social publicada como 'elmundodelostiteres' sin indicar la plataforma. Año exacto de fundación no indicado ('tres décadas de trayectoria')."
+ },
+ {
+  "id": "COMP-0005",
+  "nombre": "Compañía de Teatro Alegría",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "villa-alemana",
+  "provincia": "marga-marga",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 2012,
+  "director": null,
+  "integrantes": [
+   "Sofía Espinoza (elenco de El Loco y la Triste)",
+   "Lucy Salgado (elenco de El Loco y la Triste)",
+   "Víctor Eduardo Opazo Herrera (integrante y representante)"
+  ],
+  "tipo": "teatro comunitario",
+  "disciplinas": [
+   "teatro",
+   "teatro-comunitario"
+  ],
+  "descripcion": "Compañía de teatro comunitario de Villa Alemana, nacida en 2012 con alrededor de quince actores y actrices. Obtuvo personalidad jurídica en julio de 2012, lo que le permitió postular a fondos públicos y subvenciones.",
+  "obras": [
+   "OBR-0001"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0003"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0022",
+   "FUE-0023",
+   "FUE-0055",
+   "FUE-0085",
+   "FUE-0086"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/compania-de-teatro-alegria.json (score 65)."
+ },
+ {
+  "id": "COMP-0006",
+  "nombre": "Compañía de Teatro La Lancha",
+  "nombre_oficial": "Compañía de Teatro La Lancha SpA",
+  "nombre_artistico": null,
+  "alias": [
+   "Teatro la Lancha Spa"
+  ],
+  "comuna": "san-antonio",
+  "provincia": "san-antonio",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Diego Chamorro",
+  "integrantes": [
+   "Diego Chamorro (director)",
+   "Paz Olivares (elenco de Llo Lle We)",
+   "Valeria Morales (elenco de Llo Lle We)",
+   "Francisco Luco (musicalización)",
+   "Pablo Urtubia (musicalización)",
+   "Alan Sebastián Fernández Caro (actor y gestor)"
+  ],
+  "tipo": "teatro infantil/familiar",
+  "disciplinas": [
+   "teatro",
+   "teatro-familiar",
+   "juglaria"
+  ],
+  "descripcion": "Compañía de teatro de San Antonio dirigida por Diego Chamorro. Trabaja teatro, memoria e identidad territorial del litoral; responsable del proyecto Quinta Escena Podcast.",
+  "obras": [
+   "OBR-0002"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0087"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0024",
+   "FUE-0025",
+   "FUE-0026",
+   "FUE-0056",
+   "FUE-0072",
+   "FUE-0073",
+   "FUE-0092",
+   "FUE-0094",
+   "FUE-0098",
+   "FUE-0117"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "nombre_oficial",
+    "valor_existente": "Compañía de Teatro La Lancha SpA",
+    "valor_nuevo": "Teatro La Lancha SpA",
+    "fuentes": [
+     "FUE-0094",
+     "FUE-0098",
+     "FUE-0117"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "tipo",
+    "valor_existente": "teatro infantil/familiar",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0094"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/companies/compania-de-teatro-la-lancha.json (score 75). Mencionada como 'Teatro La Lancha' entre los seleccionados de Fondos Cultura 2026 en la nota ministerial; proyecto por confirmar en la nómina oficial. 'Equipamiento profesional para la escena itinerante - La Lancha, Teatro y Patrimonio' (2026, $14.997.500). 'Huidobro Viene Navegando + Registro' (2025, $17.093.777) y 'Gira de Llo Lle We: Ko Rüpü, el camino del agua' (2023, $14.325.891), ambos con Diego Sebastián Chamorro Ramírez como responsable. Responsable del proyecto «Equipamiento profesional para la escena itinerante - La Lancha, Teatro y Patrimonio» (Fondo de Artes Escénicas 2026, Compañías de las Artes Escénicas). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0007",
+  "nombre": "Festín de la Risa",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 2009,
+  "director": null,
+  "integrantes": [
+   "Felipe Godoy (Tony Pitilla)",
+   "Katherine Cisternas (Tony Petunia)",
+   "Carlos Andrés Muñoz Rivera (integrante (Tony Pinganilla))"
+  ],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "clown",
+   "circo",
+   "teatro-callejero"
+  ],
+  "descripcion": "Compañía de clown nacida en 2009 en el Teatromuseo del Títere y el Payaso de Valparaíso, a partir de un encuentro entre artistas del clown y el mimo. Desde 2014 la conforman Carlos Muñoz (Tony Pinganilla), Felipe Godoy (Tony Pitilla) y Katherine Cisternas (Tony Petunia). Mezcla clown, teatro, circo, calle, humor físico, acrobacia cómica, improvisación, música y tradición circense, con números clásicos del payaso.",
+  "obras": [
+   "OBR-0003"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "putaendo"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0010",
+   "FES-0011"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0027",
+   "FUE-0028",
+   "FUE-0054",
+   "FUE-0074",
+   "FUE-0075"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/festin-de-la-risa.json (score 55)."
+ },
+ {
+  "id": "COMP-0008",
+  "nombre": "Fundación OANI de Teatro",
+  "nombre_oficial": "Fundación OANI de Teatro",
+  "nombre_artistico": null,
+  "alias": [
+   "OANI Teatro",
+   "OANI — Objeto Animado No Identificado"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 1998,
+  "director": "Camila Landon Vío",
+  "integrantes": [
+   "Camila Landon Vío (directora presidenta, actriz)",
+   "Andrés Landon Vío (director secretario, compositor y productor musical)",
+   "Gloria Vío Grossi (directora tesorera, asesora de proyectos)"
+  ],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres",
+   "lambe-lambe",
+   "teatro-familiar",
+   "teatro"
+  ],
+  "descripcion": "Compañía y fundación de Teatro de Formas Animadas con sede en Valparaíso, pionera en la difusión del Teatro Lambe-Lambe (teatro miniatura) en Chile desde 2007. Organiza el FESTILAMBE de Valparaíso y realiza tardes familiares y residencias en Casa OANI y en el Parque Cultural de Valparaíso.",
+  "obras": [
+   "OBR-0041",
+   "OBR-0121",
+   "OBR-0129",
+   "OBR-0130",
+   "OBR-0131"
+  ],
+  "espacios": [
+   "ESP-0003",
+   "ESP-0088"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0012",
+   "FES-0047"
+  ],
+  "fondos": [
+   "FIN-0004",
+   "FIN-0005",
+   "FIN-0111",
+   "FIN-0265",
+   "FIN-0525",
+   "FIN-0542",
+   "FIN-0829"
+  ],
+  "instagram": "https://www.instagram.com/oaniteatro/",
+  "facebook": "https://www.facebook.com/oaniteatro/",
+  "youtube": "https://www.youtube.com/@oaniteatro",
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": "https://oaniteatro.com",
+  "correo": "produccion@oaniteatro.com",
+  "telefono": null,
+  "fuentes": [
+   "FUE-0029",
+   "FUE-0030",
+   "FUE-0031",
+   "FUE-0032",
+   "FUE-0088",
+   "FUE-0095",
+   "FUE-0098",
+   "FUE-0105",
+   "FUE-0106",
+   "FUE-0118",
+   "FUE-0175"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "compañía de títeres",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0095"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "tipo",
+    "valor_existente": "compañía de títeres",
+    "valor_nuevo": "compañía de teatro de animación",
+    "fuentes": [
+     "FUE-0030"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "descripcion",
+    "valor_existente": "Compañía y fundación de Teatro de Formas Animadas con sede en Valparaíso, pionera en la difusión del Teatro Lambe-Lambe (teatro miniatura) en Chile desde 2007. Organiza el FESTILAMBE de Valparaíso y realiza tardes familiares y residencias en Casa OANI y en el Parque Cultural de Valparaíso.",
+    "valor_nuevo": "OANI (Objeto Animado No Identificado) nace en Santiago en 1998, se radica en Valparaíso en 2007 y se constituye como Fundación en 2014. Su misión: promover desde Valparaíso la articulación, desarrollo, investigación, formación y difusión de las artes escénicas, en especial el teatro de animación. Ha estrenado 33 espectáculos de producción independiente.",
+    "fuentes": [
+     "FUE-0030"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "correo",
+    "valor_existente": "produccion@oaniteatro.com",
+    "valor_nuevo": "fundacion@oaniteatro.com",
+    "fuentes": [
+     "FUE-0030"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/companies/fundacion-oani-de-teatro.json (score 90). Punto de Cultura Comunitaria validado. Responsable del proyecto «9° FESTILAMBE de Valparaíso, Festival Internacional de Teatro Lambe Lambe de Chile \"Contagiando Humanidad\"» (Fondo de Artes Escénicas 2026, Nacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «NOSOTRXS» (Fondo de Artes Escénicas 2025, Títeres). Comuna no indicada en la nómina (solo región). Responsable del proyecto «8vo FESTILAMBE de Valparaíso Festival Internacional de Teatro Lambe Lambe de Chile - Convocando Humanidad» (Fondo de Artes Escénicas 2024, Festivales y Encuentros Nacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «EL CUERPO COMO ESCENARIO DE LAS MINIATURAS» (Fondo de Artes Escénicas 2024, Residencias Internacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «7° FESTILAMBE de Valparaíso - Festival Internacional de Teatro Lambe Lambe de Chile - Compartiendo Humanidad» (Fondo de Artes Escénicas 2023, Festivales y encuentros de trayectoria). Comuna no indicada en la nómina (solo región). 'NOSOTRXS' (títeres 2025, $23.953.984); residencia internacional 'El cuerpo como escenario de las miniaturas' (2024, $10.655.490); organiza FESTILAMBE. 'Yo soy un oso' junto a Abrapalabra (Mes del Teatro 2022). Teatro Lambe Lambe desde 2007. Correo de producción: produccion@oaniteatro.com. El sitio no nombra director/a ni integrantes actuales."
+ },
+ {
+  "id": "COMP-0009",
+  "nombre": "Guaico Títeres",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Compañía Guaico Títeres"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": "Compañía familiar de teatro tradicional de títeres de educación intercultural mapuche, con casa taller en el cerro Playa Ancha de Valparaíso.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": "https://www.instagram.com/guaicotiteres/",
+  "facebook": "https://www.facebook.com/guaico.titeres",
+  "youtube": "https://www.youtube.com/user/guaicotiteres",
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": "https://guaicotiteres.com/",
+  "correo": "guaicotiteres@gmail.com",
+  "telefono": "+569 9354 8413",
+  "fuentes": [
+   "FUE-0018",
+   "FUE-0033"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "descripcion",
+    "valor_existente": "Compañía familiar de teatro tradicional de títeres de educación intercultural mapuche, con casa taller en el cerro Playa Ancha de Valparaíso.",
+    "valor_nuevo": "Compañía familiar de teatro de educación intercultural, especializada en la transmisión de la cosmovisión mapuche. Obras de teatro de títeres y varieté intercultural en giras y festivales nacionales e internacionales, centros culturales, plazas, teatros, jardines, colegios y eventos particulares. Público: infantil, familiar y adultos.",
+    "fuentes": [
+     "FUE-0018"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/companies/guaico-titeres.json (score 73). Ficha en el Catálogo SNPC 2025 (p. 7). El catálogo publica los identificadores 'guaicotiteres', '@guaicotiteres', 'guaico.titeres' y 'guaicotiteres.com'; la asignación de plataforma es inferida por el formato."
+ },
+ {
+  "id": "COMP-0010",
+  "nombre": "La Enredadera",
+  "nombre_oficial": "Colectivo Escénico La Enredadera",
+  "nombre_artistico": null,
+  "alias": [
+   "Colectivo Escénico La Enredadera"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 2014,
+  "director": null,
+  "integrantes": [
+   "Laura Corona (dirección coreográfica)",
+   "Milenka Cucurella (intérprete)",
+   "Mariela Díaz (intérprete)",
+   "Andrea Garrido (dirección e interpretación, gira Mujeres en Escena 2026)",
+   "Francisco Cooper (composición musical, colaborador en La Caracol)"
+  ],
+  "tipo": "compañía de danza",
+  "disciplinas": [
+   "danza"
+  ],
+  "descripcion": "Colectivo escénico de danza para la primera infancia, fundado en Valparaíso en 2014, dirigido por la coreógrafa Laura Corona. Su obra «La Caracol» aborda el respeto, la diversidad y el cuidado del medio ambiente para bebés y niñas y niños desde los 6 meses.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0011",
+   "FES-0014"
+  ],
+  "fondos": [
+   "FIN-0006",
+   "FIN-0007"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0034",
+   "FUE-0035",
+   "FUE-0036",
+   "FUE-0037",
+   "FUE-0038",
+   "FUE-0098"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/la-enredadera.json (score 75). 'Residencia Exploración del lenguaje creativo para la primera infancia. Colectivo Escénico La Enredadera' (2025, Milenka Cucurella Farías, $8.707.400)."
+ },
+ {
+  "id": "COMP-0011",
+  "nombre": "Ludus Teatro",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "concon",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 2010,
+  "director": null,
+  "integrantes": [],
+  "tipo": "teatro infantil/familiar",
+  "disciplinas": [
+   "teatro-familiar"
+  ],
+  "descripcion": "Compañía de teatro familiar y educativo con sede en el sector Las Pataguas, comuna de Concón, fundada en 2010 para poner el arte interpretativo al servicio del desarrollo integral de niñas, niños y jóvenes.",
+  "obras": [],
+  "espacios": [
+   "ESP-0004",
+   "ESP-0003"
+  ],
+  "comunas_trabajo": [
+   "quilpue"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0011"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0039",
+   "FUE-0040",
+   "FUE-0041"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/ludus-teatro.json (score 55)."
+ },
+ {
+  "id": "COMP-0012",
+  "nombre": "Productora ABC: Arte, Bienestar y Cultura",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [
+   "Natalia Vanessa Zúñiga Ortiz (directora)"
+  ],
+  "tipo": "teatro infantil/familiar",
+  "disciplinas": [
+   "narracion-oral",
+   "teatro",
+   "teatro-familiar"
+  ],
+  "descripcion": "Productora de Quillota dirigida por Natalia Zúñiga Ortiz. Cuentacuentos, docencia, talleres de teatro y trabajo socioemocional con niñas, niños, jóvenes y personas mayores.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0042",
+   "FUE-0043",
+   "FUE-0080",
+   "FUE-0081"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/productora-abc-arte-bienestar-y-cultura.json (score 55)."
+ },
+ {
+  "id": "COMP-0013",
+  "nombre": "Centro de Investigación Teatro La Peste",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Grupo de Teatro La Peste",
+   "Teatro La Peste"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 2000,
+  "director": "Danilo Llanos",
+  "integrantes": [
+   "Danilo Llanos (director, actor y dramaturgo, fundador)",
+   "Katty Sagredo (integrante del núcleo estable)",
+   "Katty López (integrante del núcleo estable)",
+   "Daniela Misle (integrante del núcleo estable)"
+  ],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro",
+   "teatro-experimental"
+  ],
+  "descripcion": "Compañía y centro de investigación teatral porteño, fundado alrededor del año 2000, con más de 30 estrenos y trabajo ininterrumpido en creación, gestión, formación, mediación y trabajo territorial desde Valparaíso. Dirigido por Danilo Llanos.",
+  "obras": [
+   "OBR-0017",
+   "OBR-0035",
+   "OBR-0132"
+  ],
+  "espacios": [
+   "ESP-0003",
+   "ESP-0051",
+   "ESP-0070"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0015",
+   "FES-0021",
+   "FES-0046"
+  ],
+  "fondos": [
+   "FIN-0008",
+   "FIN-0009",
+   "FIN-0544"
+  ],
+  "instagram": "https://www.instagram.com/teatrolapeste/",
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0044",
+   "FUE-0045",
+   "FUE-0046",
+   "FUE-0047",
+   "FUE-0048",
+   "FUE-0088",
+   "FUE-0131",
+   "FUE-0107",
+   "FUE-0124",
+   "FUE-0136",
+   "FUE-0176",
+   "FUE-0177",
+   "FUE-0178"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "nombre",
+    "valor_existente": "Centro de Investigación Teatro La Peste",
+    "valor_nuevo": "Grupo de Teatro La Peste",
+    "fuentes": [
+     "FUE-0107"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "tipo",
+    "valor_existente": "compañía de teatro",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0107"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/companies/teatro-la-peste.json (score 80). Figura como 'Grupo de Teatro La Peste' entre los Puntos de Cultura Comunitaria validados. Responsable del proyecto «Plan de gestión del Centro de Investigación Teatro la Peste. 25 años de creación y gestión para las artes escénicas nacionales desde la región de Valparaíso.» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región). PAOCC Compañías de trayectoria 2024: 'Plan de gestión del Centro de Investigación Teatro la Peste. 25 años…' ($116.000.000, responsable Grupo de Teatro La Peste). 'FIN; último episodio Trilogía de la Catástrofe' (trayectoria teatro 2022, Danilo Patricio Llanos Quezada, $29.437.926). 'Feroz' (2018) repuesta en el Festival Síntesis Teatral 2019."
+ },
+ {
+  "id": "COMP-0014",
+  "nombre": "Compañía de Marionetas The Magic Show",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "los-andes",
+  "provincia": "los-andes",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [
+   "Hugo Hernández Urtubia (creador y director)"
+  ],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres",
+   "teatro-familiar"
+  ],
+  "descripcion": "Compañía de títeres y marionetas de Los Andes creada por Hugo Hernández Urtubia. Espectáculos y actividades en Chile y fuera del país; marionetas musicales, marionetas gigantes, trabajo callejero y formación de niños y niñas.",
+  "obras": [
+   "OBR-0004"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0049",
+   "FUE-0050",
+   "FUE-0051",
+   "FUE-0057",
+   "FUE-0078",
+   "FUE-0079"
+  ],
+  "estado": "VERIFICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/the-magic-show.json (score 75)."
+ },
+ {
+  "id": "COMP-0015",
+  "nombre": "Títeres Humedal Río Maipo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "santo-domingo",
+  "provincia": "san-antonio",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Eduardo Romero",
+  "integrantes": [
+   "Eduardo Romero (director ejecutivo)"
+  ],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": "Compañía de teatro de títeres de material reciclado dedicada a la educación ambiental, ligada al Humedal Río Maipo, en el límite entre las comunas de San Antonio y Santo Domingo. Dirigida por Eduardo Romero.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0052",
+   "FUE-0053"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Importado de data/companies/titeres-humedal-rio-maipo.json (score 50)."
+ },
+ {
+  "id": "COMP-0016",
+  "nombre": "Titiricaos",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Compañía Titiricaos"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Paola Escudero Navia",
+  "integrantes": [
+   "Paola Escudero Navia (dirección)"
+  ],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": "Compañía de teatro tradicional de títeres de Valparaíso, dirigida por Paola Escudero Navia, activa desde el año 2000, que usa el títere como herramienta de mediación social, memoria histórica y terapia.",
+  "obras": [
+   "OBR-0056"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [
+   "Región Metropolitana"
+  ],
+  "festivales": [
+   "FES-0007"
+  ],
+  "fondos": [],
+  "instagram": "https://www.instagram.com/_titiricaos_/",
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": "historiapalu@gmail.com",
+  "telefono": "+569 7924 8566",
+  "fuentes": [
+   "FUE-0018",
+   "FUE-0015",
+   "FUE-0117",
+   "FUE-0069"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "descripcion",
+    "valor_existente": "Compañía de teatro tradicional de títeres de Valparaíso, dirigida por Paola Escudero Navia, activa desde el año 2000, que usa el títere como herramienta de mediación social, memoria histórica y terapia.",
+    "valor_nuevo": "Su directora, Paola Escudero Navia, comenzó en el año 2000 a explorar el arte de los títeres. Gestora en educación social, participa en el colectivo internacional 'Titeroterapia sin Fronteras'. Funciones y talleres en Santiago y la Región de Valparaíso; talleres de títeres, montajes con infancias y adultez, terapia con mujeres y grupos que han vivido violencias. Integra la Asamblea Titiritera ATTICH Quinta Región. Todo público.",
+    "fuentes": [
+     "FUE-0018"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Importado de data/companies/titiricaos.json (score 72). Ficha en el Catálogo SNPC 2025 (p. 8). Identificador de red publicado: '_titiricaos_' (plataforma no indicada). Ubicada en Valparaíso por la nota del IV Festival Ventolera (2024)."
+ },
+ {
+  "id": "COMP-0017",
+  "nombre": "Hypókritas",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": null,
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0076",
+   "FUE-0077"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde PER-0009."
+ },
+ {
+  "id": "COMP-0018",
+  "nombre": "Teatro Ánima",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [
+   "Natalia Zúñiga",
+   "Freddy Van Dort",
+   "Ludo Torres"
+  ],
+  "tipo": null,
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0093"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "comunas_trabajo": [
+   "quillota"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0041"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0080",
+   "FUE-0081",
+   "FUE-0156",
+   "FUE-0174"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde PER-0011. Participó en el Ciclo de Teatro Familiar de Quillota (julio de 2019). Comuna de sede no indicada. Compañía quillotana según Ivo Herrera (2019), integrada por Natalia Zúñiga, Freddy Van Dort y Ludo Torres."
+ },
+ {
+  "id": "COMP-0019",
+  "nombre": "Compañía de Teatro Espontáneo de Quillota",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": null,
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0080",
+   "FUE-0081"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde PER-0011."
+ },
+ {
+  "id": "COMP-0020",
+  "nombre": "Teatro del Silencio",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": null,
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0082",
+   "FUE-0083",
+   "FUE-0084"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde PER-0012."
+ },
+ {
+  "id": "COMP-0021",
+  "nombre": "Siento Teatro",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0019"
+  ],
+  "fondos": [
+   "FIN-0013"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0091",
+   "FUE-0088",
+   "FUE-0099",
+   "FUE-0095"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0019. Punto de Cultura Comunitaria validado. Responsable del proyecto 'Siento Teatro: Primer Festival de Artes Escénicas, Autocuidado y Salud Mental' (Fondo de Artes Escénicas 2025)."
+ },
+ {
+  "id": "COMP-0022",
+  "nombre": "Compañía La Barconeta",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "La Barconeta",
+   "Marionetas La Barconeta"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 2016,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": "Fundada en 2016, compañía itinerante dedicada a la fabricación y muestra de espectáculos de marionetas de hilos. Ha recorrido gran parte de Sudamérica con 'Pirateando títeres'; 'Piratas del Barrio' es una función a bordo de una lancha en Valparaíso; 'El Despertar de los Antiguos' se basa en relatos de terror. Integra la Asamblea Titiritera ATTICH Quinta Región. Público: infantil, familiar, adulto.",
+  "obras": [
+   "OBR-0010",
+   "OBR-0011",
+   "OBR-0012"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [
+   "Sudamérica (giras)"
+  ],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": "namunkurra2629@gmail.com",
+  "telefono": "+569 3736 3320",
+  "fuentes": [
+   "FUE-0018"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Ficha en el Catálogo SNPC 2025 (p. 9). Comuna de sede no indicada (compañía itinerante). Identificador de red publicado: 'marionetaslabarconeta'."
+ },
+ {
+  "id": "COMP-0023",
+  "nombre": "Colectiva Artístico Medio Ambiental La Capuchina",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Compañía La Capuchina",
+   "La Capuchina",
+   "Colectiva La Capuchina"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 2018,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres",
+   "teatro-comunitario"
+  ],
+  "descripcion": "Nace en 2018 en Valparaíso; artes escénicas, teatro, títeres, música, trabajo comunitario y medio ambiente, con un proyecto educativo centrado en protección y cuidado de entornos naturales. Obras originales con música de autoría; investigación en manipulación de títeres para formatos audiovisuales. Trabaja en jardines infantiles, escuelas y espacios no convencionales. Integra la Asamblea Titiritera ATTICH Quinta Región.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": "colectivalacapuchina@gmail.com",
+  "telefono": "+569 4353 3803",
+  "fuentes": [
+   "FUE-0018"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "COMP-0003",
+  "contradicciones": [],
+  "notas": "Ficha en el Catálogo SNPC 2025 (p. 10). Identificadores de red publicados: 'la_capuchina' y '@lacapuchina9537'; segundo teléfono +569 6469 5363."
+ },
+ {
+  "id": "COMP-0024",
+  "nombre": "Compañía Vaccaro Puppets",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Vaccaro Puppets"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [
+   "Giovanni Vaccaro (fundador, actor, titiritero, pedagogo teatral y cuentacuentos)"
+  ],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres",
+   "narracion-oral"
+  ],
+  "descripcion": "Fundada por Giovanni Vaccaro, actor profesional, titiritero, pedagogo teatral y cuentacuentos; primer lugar en el Festival de Teatro Juan Edmundo González en 2003 y 2005. Combina educación y entretenimiento en talleres y espectáculos; ha colaborado con La Patogallina, Sobrevento, Tespis, Círculo Teatro Museo Marítimo Nacional, Colectivo La Caja, Guaico Títeres, Teatro Urbano y Artefacto. Integra la Asamblea Titiritera ATTICH Quinta Región.",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0020"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": "giovanni.vaccaro@gmail.com",
+  "telefono": "+569 6178 4355",
+  "fuentes": [
+   "FUE-0018"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Ficha en el Catálogo SNPC 2025 (p. 11). Comuna de sede no indicada. Identificador de red publicado: 'vaccaropuppets'."
+ },
+ {
+  "id": "COMP-0025",
+  "nombre": "Colombina Teatro",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "el-tabo",
+  "provincia": "san-antonio",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado (Región de Valparaíso). Sin más datos en la fuente."
+ },
+ {
+  "id": "COMP-0026",
+  "nombre": "Compañía de Marionetas Gigantes Gigantes sin Fronteras",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Gigantes sin Fronteras"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado; listado como 'Compañía de Marionetas Gigantes \"Gigantes sin Fronteras\"'."
+ },
+ {
+  "id": "COMP-0027",
+  "nombre": "Centro Cultural y Colectivo Teatral La Mandrágora",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Colectivo Teatral La Mandrágora",
+   "La Mandrágora"
+  ],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "colectivo de artes escénicas",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado. Sin más datos en la fuente."
+ },
+ {
+  "id": "COMP-0028",
+  "nombre": "Malabicirco",
+  "nombre_oficial": "Centro Cultural Malabicirco",
+  "nombre_artistico": null,
+  "alias": [
+   "Centro Cultural Malabicirco"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "circo"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0033"
+  ],
+  "fondos": [
+   "FIN-0545",
+   "FIN-0828"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088",
+   "FUE-0118",
+   "FUE-0107"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "compañía de circo",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0107",
+     "FUE-0118"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Punto de Cultura Comunitaria validado. Sin más datos en la fuente. PAOCC Compañías de trayectoria 2024 ('Plan de Gestión con énfasis en la creación Compañía Malabicirco', $116.000.000); organiza CIMAC. Responsable del proyecto «Financiamient o Plan de Gestión con énfasis en la creación Compañía Malabicirco» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Congreso Internacional de Malabarismo y Artes Circenses (CIMAC) Valparaíso 2023- 2024» (Fondo de Artes Escénicas 2023, Festivales y encuentros de trayectoria). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0029",
+  "nombre": "ONG Ludicirco",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Ludicirco"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "circo"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado. Sin más datos en la fuente."
+ },
+ {
+  "id": "COMP-0030",
+  "nombre": "Club Deportivo y Cultural Colectivo Aéreos 7 Colores",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Aéreos 7 Colores"
+  ],
+  "comuna": "concon",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "circo"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado (acrobacia aérea). Actividad escénica por confirmar."
+ },
+ {
+  "id": "COMP-0031",
+  "nombre": "Aéreos Viña",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "circo"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado (acrobacia aérea). Actividad escénica por confirmar."
+ },
+ {
+  "id": "COMP-0032",
+  "nombre": "Centro Cultural Deportivo y Social Enaires",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Enaires"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "circo"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado (acrobacia aérea). Actividad escénica por confirmar."
+ },
+ {
+  "id": "COMP-0033",
+  "nombre": "Fundación Escenas en Contextos",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado; ámbito no especificado en la fuente (el nombre sugiere artes escénicas). Por confirmar."
+ },
+ {
+  "id": "COMP-0034",
+  "nombre": "Centro Cultural, Deportivo, Social y Educacional CIA. La Fabrica",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "CIA. La Fabrica",
+   "Compañía La Fábrica"
+  ],
+  "comuna": "villa-alemana",
+  "provincia": "marga-marga",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0088"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Punto de Cultura Comunitaria validado; ámbito no especificado en la fuente. Por confirmar si es compañía escénica."
+ },
+ {
+  "id": "COMP-0035",
+  "nombre": "Agrupación Cultural de Santo Domingo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "santo-domingo",
+  "provincia": "san-antonio",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0022"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0089",
+   "FUE-0090"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Integra la Red de Espacios Culturales (2020); beneficiaria PAOCC 2020 ($17.930.765). Programación teatral no confirmada."
+ },
+ {
+  "id": "COMP-0036",
+  "nombre": "Fundación Cultural Lumbre",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "limache",
+  "provincia": "marga-marga",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0023"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0090"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Beneficiaria PAOCC 2020 ($17.977.858) como espacio cultural. Programación teatral no confirmada."
+ },
+ {
+  "id": "COMP-0037",
+  "nombre": "ONG Corporación Cultural Desarrollo Crearte",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Crearte"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0089"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Integra la Red de Espacios Culturales de la Región de Valparaíso (2020). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0038",
+  "nombre": "Compañía El Baúl",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "El Baúl"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0086"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0092",
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "compañía de teatro",
+    "fuentes": [
+     "FUE-0094"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Mencionada entre los seleccionados de la Región de Valparaíso en la nota ministerial de Fondos Cultura 2026; proyecto, línea y comuna por confirmar en la nómina oficial. Responsable del proyecto «Equipar la Memoria Viva: 32 Años del Baúl y su Proyección Técnica para el Teatro del Mañana» (Fondo de Artes Escénicas 2026, Compañías de las Artes Escénicas). Comuna no indicada en la nómina (solo región). 'Equipar la Memoria Viva: 32 Años del Baúl y su Proyección Técnica para el Teatro del Mañana' (Fondo de Artes Escénicas 2026, línea Compañías, $12.258.990): 32 años de trayectoria hacia 2025-2026 (fundación aproximada 1993-1994, por confirmar). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0039",
+  "nombre": "Cooperativa de Artes Escénicas de Valparaíso",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Cooperativa Teatral",
+   "Cooperativa Teatral de Valparaíso",
+   "Cooperativa Teatral Valparaíso"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0018",
+   "OBR-0113",
+   "OBR-0123"
+  ],
+  "espacios": [
+   "ESP-0052",
+   "ESP-0002",
+   "ESP-0087"
+  ],
+  "comunas_trabajo": [
+   "valparaiso",
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021",
+   "FES-0002",
+   "FES-0047"
+  ],
+  "fondos": [
+   "FIN-0116"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0096",
+   "FUE-0167",
+   "FUE-0063",
+   "FUE-0175"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "compañía de teatro",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0096"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Nombrada 'Cooperativa Teatral' en Ciudad Teatro 2025; la nómina de Circulación Internacional 2026 registra a 'Cooperativa de Artes Escénicas de Valparaíso' como responsable de la gira de 'Repertorio para Habitar la Soledad'. Responsable del proyecto «Gira Internacional \"Repertorio para Habitar la Soledad\" de Cooperativa Teatral Valparaíso.» (Fondo de Artes Escénicas 2026, Circulación Internacional). Comuna no indicada en la nómina (solo región). Gira internacional de 'Repertorio para Habitar la Soledad' (Circulación Internacional 2026, $17.773.647). 'La Tendalá' en el Festival Litoral Teatral 2026 (19 de abril, 18:00), como Cooperativa Teatral de Valparaíso. Como 'Cooperativa Teatral Valparaíso' en el Mes del Teatro 2022 (Cancha Quebrada Márquez, 19 de mayo)."
+ },
+ {
+  "id": "COMP-0040",
+  "nombre": "Astillero Teatro",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0019",
+   "OBR-0037"
+  ],
+  "espacios": [
+   "ESP-0053"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [
+   "circulación internacional 2024"
+  ],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0117",
+   "FUE-0109"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Comuna inferida de su participación en Ciudad Teatro (ciclo de compañías porteñas); sede por confirmar. 'La memoria de los sésiles' (creación teatro 2023, $27.629.944) y 'Circulación Internacional La memoria de los sésiles, Astillero Teatro 2024' ($14.709.411), responsable Gabriel Nicolás Contreras Hernández."
+ },
+ {
+  "id": "COMP-0041",
+  "nombre": "Teatro ILUcIÓN",
+  "nombre_oficial": "Círculo Teatral Independiente CTI",
+  "nombre_artistico": null,
+  "alias": [
+   "Teatro IluCión",
+   "Compañía de Teatro Escuela IluCión",
+   "Teatro Escuela IluCión",
+   "CTI"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0020",
+   "OBR-0021",
+   "OBR-0083"
+  ],
+  "espacios": [
+   "ESP-0054",
+   "ESP-0053",
+   "ESP-0067"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0133",
+   "FUE-0107",
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Comuna inferida de su participación en Ciudad Teatro; sede por confirmar. PAOCC Compañías de trayectoria 2024: '31 Años de Resistencia y Creación Teatral: Plan de Gestión de la Compañía de Teatro Escuela IluCión…' ($116.000.000): fundación aproximada 1993, por confirmar. Figura como 'Compañía de Teatro Escuela IluCión' en Ciudad Teatro 2026 ('Caleu')."
+ },
+ {
+  "id": "COMP-0042",
+  "nombre": "Teatro Desastre",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0022",
+   "OBR-0088"
+  ],
+  "espacios": [
+   "ESP-0025",
+   "ESP-0070"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Comuna inferida de su participación en Ciudad Teatro; sede por confirmar. Lectura dramatizada 'Casa' en Ciudad Teatro 2026 (Casa Teatro La Peste, 21 de mayo)."
+ },
+ {
+  "id": "COMP-0043",
+  "nombre": "La Bayka",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro-familiar"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0023"
+  ],
+  "espacios": [
+   "ESP-0033"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Comuna inferida de su participación en Ciudad Teatro; sede por confirmar. Disciplina inferida del título (obra para infancias); por confirmar."
+ },
+ {
+  "id": "COMP-0044",
+  "nombre": "Disparate Circo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Compañía Disparate Circo"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "circo"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0024",
+   "OBR-0032"
+  ],
+  "espacios": [
+   "ESP-0055"
+  ],
+  "comunas_trabajo": [
+   "valparaiso",
+   "san-antonio"
+  ],
+  "regiones_circulacion": [
+   "circulación internacional 2026 (Circo Pa'l Barrio)"
+  ],
+  "festivales": [
+   "FES-0021",
+   "FES-0002"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0131",
+   "FUE-0096",
+   "FUE-0124",
+   "FUE-0094",
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Comuna inferida de su participación en Ciudad Teatro; sede por confirmar. 'Tripulación Paraíso, Disparate Circo Rock, puro circo chileno' (trayectoria circo 2022, Patricio Alejandro Núñez Rojas, $29.610.451); 'Tripulación Paraíso, abriendo horizontes, Circulación Esperanza' (2026); 'Circo Pa'l Barrio: Circulación Internacional Compañía Disparate Circo' (2026, Carla Paz Cepeda Cortés, $17.588.496). 'Tripulación Paraíso' en el Festival Litoral Teatral 2024."
+ },
+ {
+  "id": "COMP-0045",
+  "nombre": "Teatro del Instinto",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "George Casanova",
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0025"
+  ],
+  "espacios": [
+   "ESP-0056"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0131"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Comuna inferida de su participación en Ciudad Teatro; sede por confirmar."
+ },
+ {
+  "id": "COMP-0046",
+  "nombre": "Organizacion Comunitaria Artistica Cultural y Educativa la Washa",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0076",
+   "FIN-0807"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «“El Chungungo y la Voz del Mar”» (Fondo de Artes Escénicas 2026, Interdisciplinar). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Hoguera» (Fondo de Artes Escénicas 2023, Teatro). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0047",
+  "nombre": "Puerto Escena SPA",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0084"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "COMP-0071",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Red Salas de Teatro Valparaíso» (Fondo de Artes Escénicas 2026, Única). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0048",
+  "nombre": "Actividades Teatrales Yorka Ojeda Banz E.i.r.l.",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Telón.cl",
+   "Actividades Teatrales Yorka Ojeda Banz E.I.R.L."
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0085"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": "https://www.telon.cl/",
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "nombre",
+    "valor_existente": "Actividades Teatrales Yorka Ojeda Banz E.i.r.l.",
+    "valor_nuevo": "Telón — Actividades Teatrales Yorka Ojeda Banz E.I.R.L.",
+    "fuentes": [
+     "FUE-0094"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "organización cultural (medio y premio de artes escénicas)",
+    "fuentes": [
+     "FUE-0094"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «Premio Telón a las Artes Escénicas Nacionales» (Fondo de Artes Escénicas 2026, Única). Comuna no indicada en la nómina (solo región). Responsable del 'Premio Telón a las Artes Escénicas Nacionales' (Fondo de Artes Escénicas 2026, $14.975.407), Región de Valparaíso."
+ },
+ {
+  "id": "COMP-0049",
+  "nombre": "Teatro la Lancha Spa",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0087"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "COMP-0006",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Equipamiento profesional para la escena itinerante - La Lancha, Teatro y Patrimonio» (Fondo de Artes Escénicas 2026, Compañías de las Artes Escénicas). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0050",
+  "nombre": "Colectivo interdisciplinario Musgo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Musgo",
+   "Ensamble Vocal Comunitario",
+   "Colectivo Interdisciplinario Musgo"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Diego Belmar",
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0027",
+   "OBR-0109",
+   "OBR-0110"
+  ],
+  "espacios": [
+   "ESP-0002"
+  ],
+  "comunas_trabajo": [
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0002"
+  ],
+  "fondos": [
+   "FIN-0093"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "colectivo de artes escénicas",
+    "fuentes": [
+     "FUE-0094"
+    ],
+    "fecha": "2026-09-08"
+   },
+   {
+    "campo": "nombre",
+    "valor_existente": "Colectivo interdisciplinario Musgo",
+    "valor_nuevo": "Ensamble Vocal Comunitario",
+    "fuentes": [
+     "FUE-0167",
+     "FUE-0063"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «Ensamble Vocal Comunitario: Quinta versión» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región). 'Ensamble Vocal Comunitario: Quinta versión' (Fondo de Artes Escénicas 2026, Públicos y comunidades, $6.985.600). El Ensamble Vocal Comunitario presentó 'Monumentos' en el Festival Litoral Teatral 2026. Festival Litoral Teatral 2024 ('Voces por la memoria', dir. Diego Belmar) y 2026 ('Monumentos', 25 de abril). Vinculado al Colectivo Interdisciplinario Musgo según Fondos Cultura 2026."
+ },
+ {
+  "id": "COMP-0051",
+  "nombre": "Cooperativa Corredor Danza Valparaíso Ltda.",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0095"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "COMP-0072",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Entremos en Movimiento Programa de Corredor Danza Valparíso para la formación y sensibilización de públicos en danza contemporánea» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0052",
+  "nombre": "Centro Cultural Teatro Container",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Teatro Container"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [
+   "teatro-callejero"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [
+   "Brasil (Belo Horizonte, 2024)"
+  ],
+  "festivales": [
+   "FES-0003"
+  ],
+  "fondos": [
+   "FIN-0113",
+   "FIN-0550",
+   "FIN-0553"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0095",
+   "FUE-0108",
+   "FUE-0109"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "compañía de teatro callejero",
+    "fuentes": [
+     "FUE-0095",
+     "FUE-0108",
+     "FUE-0109"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «IX Festival Teatro Container 2026» (Fondo de Artes Escénicas 2026, Nacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Teatro container. Proyección internacional de las artes de calle» (Fondo de Artes Escénicas 2024, Asistencia a Instancias Internacionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Cocina Pública Festival de Belo Horizonte» (Fondo de Artes Escénicas 2024, Circulación Internacional). Comuna no indicada en la nómina (solo región). Organiza el Festival Teatro Container; 'Proyección internacional de las artes de calle' (2024) y 'Cocina Pública Festival de Belo Horizonte' (2024, $3.872.936). Comuna según el festival (Valparaíso)."
+ },
+ {
+  "id": "COMP-0053",
+  "nombre": "Centro Cultural Escenalborde",
+  "nombre_oficial": "Sociedad de Artes Escénicas Escenalborde Limitada",
+  "nombre_artistico": null,
+  "alias": [
+   "Escenalborde"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [
+   "danza"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0025"
+  ],
+  "fondos": [
+   "FIN-0234"
+  ],
+  "instagram": null,
+  "facebook": "https://www.facebook.com/escenalbordeartesescenicas",
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0118",
+   "FUE-0146"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "compañía de danza",
+    "fuentes": [
+     "FUE-0098",
+     "FUE-0118"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «\"Danza en la Biblioteca\", circulación de unipersonales coreográficos en Bibliotecas Públicas de las Regiones de Los Lagos y Los Ríos.» (Fondo de Artes Escénicas 2025, Única). Comuna no indicada en la nómina (solo región). 'Danza en la Biblioteca' (circulación 2025, Los Lagos y Los Ríos, $18.404.528); organiza Danzalborde. Comuna por confirmar. Organizador del programa Artes Escénicas Itinerantes Regionales 2021 (Secretaría Ejecutiva de Artes Escénicas), con funciones en Putaendo."
+ },
+ {
+  "id": "COMP-0054",
+  "nombre": "Organización Comunitaria Artística Cultural y Deportiva La Coraje",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "La Coraje",
+   "Compañía de Teatro La Coraje"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0082"
+  ],
+  "espacios": [
+   "ESP-0066"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0037",
+   "FES-0021"
+  ],
+  "fondos": [
+   "FIN-0524",
+   "FIN-0823"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0105",
+   "FUE-0117",
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "organización cultural",
+    "fuentes": [
+     "FUE-0105",
+     "FUE-0117"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «PARAISOS CREATIVOS: 3er Encuentro de Educación Artística comprometida con las jóvenes audiencias» (Fondo de Artes Escénicas 2024, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Teatro y Educación: Espacio de perfeccionamiento para docentes, artistas educadores y agentes comunitarios: Incorporando herramientas teatrales en la educación» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región). Punto de Cultura Comunitaria (Valparaíso). 'Teatro y Educación' (2023) y 'Paraísos Creativos' (2024). Figura como 'Compañía de Teatro La Coraje' en Ciudad Teatro 2026 ('Imaginaria', Liceo Pedro Montt)."
+ },
+ {
+  "id": "COMP-0055",
+  "nombre": "Fundacion Pájarx Entre Púas",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0541"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0105"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "organización cultural",
+    "fuentes": [
+     "FUE-0105"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «DRAMA. Talleres de teatro con mujeres y diversidades privadas de libertad en la región de Valparaíso.» (Fondo de Artes Escénicas 2024, Públicos y comunidades). Comuna no indicada en la nómina (solo región). 'DRAMA. Talleres de teatro con mujeres y diversidades privadas de libertad en la región de Valparaíso' (2024, $5.000.000). Punto de Cultura Comunitaria (Valparaíso)."
+ },
+ {
+  "id": "COMP-0056",
+  "nombre": "centro cultural de arte español flamenco triana",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0543",
+   "FIN-1073"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0107",
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Flamenco Triana: 24 Años de Arte y Tradición - Programa de Apoyo a Compañías de Artes Escénicas» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región). Responsable del proyecto «(Des) Hágase la Luz: residencia artística Flamenco Triana en FormArteFlamenco Sevilla España.» (Fondo de Artes Escénicas 2022, Participación en Instancias Internacionales - Formato Grupal (3 o más participantes) - Presencial). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0057",
+  "nombre": "Centro Cultural Malabicirco",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0545",
+   "FIN-0828"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0107",
+   "FUE-0118"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "COMP-0028",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Financiamient o Plan de Gestión con énfasis en la creación Compañía Malabicirco» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Congreso Internacional de Malabarismo y Artes Circenses (CIMAC) Valparaíso 2023- 2024» (Fondo de Artes Escénicas 2023, Festivales y encuentros de trayectoria). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0058",
+  "nombre": "Fundacion Puerto Cultura",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0036"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0547"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0107"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "organización de artes escénicas",
+    "fuentes": [
+     "FUE-0107"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «enjuiciamiento a Pedro Urdemales» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región). PAOCC Compañías de trayectoria 2024 ($116.000.000). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0059",
+  "nombre": "Colectivo de Teatro Lanzarte",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0548"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0107"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "COMP-0078",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «LANZARTE TEATRO» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0060",
+  "nombre": "Compañía de Teatro Fuera de Lugar Limitada",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0811"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DUPLICADO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": "COMP-0082",
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «En Defensa Propia» (Fondo de Artes Escénicas 2023, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0061",
+  "nombre": "Asociación Parque Cultural de Valparaíso",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0824"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Radioteatro: proceso formativo para personas mayores» (Fondo de Artes Escénicas 2023, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0062",
+  "nombre": "Fundacion Por Un Chile Inclusivo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0826"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "organización cultural",
+    "fuentes": [
+     "FUE-0117"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «ESCUELA ARTES ESCENICAS SORDAS “ARTESCESOR\"» (Fondo de Artes Escénicas 2023, Profesionalización del sector). Comuna no indicada en la nómina (solo región). 'Escuela Artes Escénicas Sordas ARTESCESOR' (2023, $9.989.776). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0063",
+  "nombre": "Corporación Educación Arte Cultura",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0827",
+   "FIN-1052"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0117",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "organización cultural",
+    "fuentes": [
+     "FUE-0124",
+     "FUE-0117"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «Continuidad del proyecto Les Cárites, Escuela de Formación y Perfeccionamiento de las Artes del Transformismo» (Fondo de Artes Escénicas 2023, Profesionalización del sector). Comuna no indicada en la nómina (solo región). Responsable del proyecto «Les Cárites: Proceso de Formación y Perfeccionamiento de las Artes del Transformismo» (Fondo de Artes Escénicas 2022, Profesionalización del Sector). Comuna no indicada en la nómina (solo región). 'Les Cárites, Escuela de Formación y Perfeccionamiento de las Artes del Transformismo' (2022 y 2023). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0064",
+  "nombre": "Sociedad de Artes Escénicas escenalborde Limitada",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0832"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0118"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «Danzalborde 18 años, construyendo una nueva realidad.» (Fondo de Artes Escénicas 2023, Festivales y encuentros nacionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0065",
+  "nombre": "Sabia Escuela de Saberes",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "hijuelas",
+  "provincia": "quillota",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0834"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0118"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "organización cultural",
+    "fuentes": [
+     "FUE-0118"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «I Festival de la Niñez Hijuelas» (Fondo de Artes Escénicas 2023, Festivales y encuentros regionales). Comuna no indicada en la nómina (solo región). Organiza el I Festival de la Niñez Hijuelas (2023). Comuna deducida del nombre del festival; por confirmar."
+ },
+ {
+  "id": "COMP-0066",
+  "nombre": "Puerto Audiovisual E.i.r.l.",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-1042"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «CANAL DANZA TV» (Fondo de Artes Escénicas 2022, Medios de Difusión). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0067",
+  "nombre": "Agrupacion Cultural, Deportiva, Social, Recreativa, Educacional F.R.VALPO",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-1043"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «creación pagina web para compañía Teatro Atota» (Fondo de Artes Escénicas 2022, Medios de Difusión). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0068",
+  "nombre": "Fundación Teatromuseo del Títere y el Payaso",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Fundación Teatromuseo del Títere y el Payaso (compañía)"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [
+   "titeres",
+   "clown"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0112"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0002"
+  ],
+  "fondos": [
+   "FIN-1053"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "organización de artes escénicas (según nómina de fondos)",
+    "valor_nuevo": "compañía de títeres y clown",
+    "fuentes": [
+     "FUE-0167"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto «Programa de Formación Nacional de la Fundación Teatromuseo del títere y el payaso.» (Fondo de Artes Escénicas 2022, Profesionalización del Sector). Comuna no indicada en la nómina (solo región). Como elenco, abrió el Festival Litoral Teatral 2024 con el pasacalle 'El carnaval de la alegría'. Registrada también como espacio (ESP)."
+ },
+ {
+  "id": "COMP-0069",
+  "nombre": "Agrupacion cultural Deportiva Social",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas (según nómina de fondos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-1059"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Responsable del proyecto «6to Festival de Artes escénicas de mujeres, Gesta» (Fondo de Artes Escénicas 2022, Festivales y Encuentros Nacionales). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0070",
+  "nombre": "El Pueblo de Piuretlandia",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización de artes escénicas",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0031"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0125"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0031. Organiza el Primer Encuentro de Artes Escénicas e Inclusión Inversa de Valparaíso (2022)."
+ },
+ {
+  "id": "COMP-0071",
+  "nombre": "Puerto Escena",
+  "nombre_oficial": "Puerto Escena SpA",
+  "nombre_artistico": null,
+  "alias": [
+   "Puerto Escena SPA"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "productora / organización de artes escénicas",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0084"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0094"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "productora / organización de artes escénicas",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0094"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Responsable del proyecto 'Red Salas de Teatro Valparaíso' (Fondo de Artes Escénicas 2026, $14.997.869). Comuna no indicada. Responsable del proyecto «Red Salas de Teatro Valparaíso» (Fondo de Artes Escénicas 2026, Única). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0072",
+  "nombre": "Cooperativa Corredor Danza Valparaíso",
+  "nombre_oficial": "Cooperativa Corredor Danza Valparaíso Ltda.",
+  "nombre_artistico": null,
+  "alias": [
+   "Corredor Danza Valparaíso",
+   "Cooperativa Corredor Danza Valparaíso Ltda."
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de danza",
+  "disciplinas": [
+   "danza"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0095"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0094",
+   "FUE-0124",
+   "FUE-0108",
+   "FUE-0120"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "compañía de danza",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0094"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "Programas de formación de públicos en danza contemporánea (2022 'Entrar en la danza', 2026 'Entremos en Movimiento'), asociatividad (2022), feria Tanzmesse NRW (2024) y gira USA-México (2023). Responsables: Milca Nicole Galea Robles, Daniela Ida Álvarez López, Eliana Eugenia Huerta Pastén. Responsable del proyecto «Entremos en Movimiento Programa de Corredor Danza Valparíso para la formación y sensibilización de públicos en danza contemporánea» (Fondo de Artes Escénicas 2026, Públicos y comunidades). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0073",
+  "nombre": "Teatro La Washa",
+  "nombre_oficial": "Organización Comunitaria Artística Cultural y Educativa La Washa",
+  "nombre_artistico": null,
+  "alias": [
+   "Teatro LaWasha",
+   "La Washa"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro",
+   "teatro-comunitario"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0028",
+   "OBR-0029",
+   "OBR-0030",
+   "OBR-0031",
+   "OBR-0085"
+  ],
+  "espacios": [
+   "ESP-0033"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0124",
+   "FUE-0117",
+   "FUE-0098",
+   "FUE-0094",
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'La Llave Secreta' (creación 2022, Lucía Francisca Silva Vegas), 'Hoguera' (teatro 2023, $19.335.639), 'Circulación Caudal… de Teatro LaWasha' (2025), 'El Chungungo y la Voz del Mar' (interdisciplinar 2026, $24.963.398). Comuna no indicada. 'Vuela' en Ciudad Teatro 2026 (Centro Comunitario Las Cañas, 17 de mayo)."
+ },
+ {
+  "id": "COMP-0074",
+  "nombre": "Colectivo LASTESIS",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "LASTESIS",
+   "Las Tesis"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "colectivo de performance",
+  "disciplinas": [
+   "performance"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Acción/Nebulosa: Laboratorio de investigación performativa antifascista - colectivo LASTESIS' (2025, Sibila Sotomayor Van Rysseghem, $24.988.886); 'Resistencia o la reivindicación de un derecho colectivo' (circulación 2022, Daffne Andrea Valdés Vargas). Comuna no indicada en las nóminas."
+ },
+ {
+  "id": "COMP-0075",
+  "nombre": "Circo Ancestral",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Teatro Circo Ancestral"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Andrés del Bosque",
+  "integrantes": [],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "circo",
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0033"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0098"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'La Nave de los locos, locOnas y Alacalufes. Teatro circo ancestral' (interdisciplinar 2025, $24.889.688, responsable Oscar Andrés González Bosque). La prensa del Festival Litoral Teatral 2026 la presenta como 'La nave de los locos y LocOnas', Circo Ancestral, dirección Andrés Del Bosque: se asume que es la misma persona."
+ },
+ {
+  "id": "COMP-0076",
+  "nombre": "Julieta y Compañía",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "villa-alemana",
+  "provincia": "marga-marga",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Julieta Saavedra",
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro",
+   "narracion-oral",
+   "teatro-comunitario"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0034"
+  ],
+  "espacios": [
+   "ESP-0022",
+   "ESP-0064",
+   "ESP-0003",
+   "ESP-0060"
+  ],
+  "comunas_trabajo": [
+   "villa-alemana",
+   "quillota",
+   "quilpue",
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0171",
+   "FUE-0172"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'EL TIEMPO NO ESPERA Monólogos del Adulto Mayor _ Una propuesta de Montaje escénico por Julieta y compañía' (narración oral 2025, Julieta Tamara Saavedra Barraza, $11.960.648). Proyecto de la dramaturga villalemanina Julieta Saavedra; imparte el taller 'Cuentos que nacen del alma' (personas de 60 a 100 años) en Villa Alemana."
+ },
+ {
+  "id": "COMP-0077",
+  "nombre": "Flamenco Triana",
+  "nombre_oficial": "Centro Cultural de Arte Español Flamenco Triana",
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de danza",
+  "disciplinas": [
+   "danza"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0133"
+  ],
+  "espacios": [
+   "ESP-0059"
+  ],
+  "comunas_trabajo": [
+   "vina-del-mar"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0098",
+   "FUE-0107",
+   "FUE-0126",
+   "FUE-0179"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Compañía viñamarina Flamenco Triana' (2025, equipamiento); PAOCC Compañías de trayectoria 2024 ('24 Años de Arte y Tradición', $116.000.000): fundación aproximada 2000; residencia en Sevilla (2022). 'La vida de mi guerra' en el Teatro Municipal de Viña del Mar, 2 de enero de 2026. La nota la etiqueta '(España)' por la disciplina; la compañía es viñamarina según Fondos Cultura."
+ },
+ {
+  "id": "COMP-0078",
+  "nombre": "Lanzarte Teatro",
+  "nombre_oficial": "Colectivo de Teatro Lanzarte",
+  "nombre_artistico": null,
+  "alias": [
+   "Colectivo de Teatro Lanzarte"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0548"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0107"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "compañía de teatro",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0107"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "PAOCC Compañías de trayectoria 2024 ($116.000.000). Comuna no indicada. Responsable del proyecto «LANZARTE TEATRO» (PAOCC — Compañías de trayectoria de artes escénicas 2024, Compañías de trayectoria). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0079",
+  "nombre": "Agrupación de Teatro e Investigación Otro Cuerpo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Otro Cuerpo"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [
+   "México (Guadalajara, 2022)"
+  ],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0119",
+   "FUE-0126"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Proyecto binacional de accesibilidad para las artes escénicas (2023, Nathalia Denisse Mardones Subiabre); residencia en Guadalajara (2022, Zimri Bani Orellana Rojas). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0080",
+  "nombre": "Compañía Teatro a la Deriva",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Teatro a la Deriva"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0038"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0120",
+   "FUE-0124",
+   "FUE-0117"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Intercambio entre la Compañía Teatro a la Deriva de Valparaíso y Red Fábricas de Creación de Barcelona' (2023) y circulación nacional de 'El fuego que llevamos dentro' (2022), responsable Sebastián Eduardo Ayala Alveal."
+ },
+ {
+  "id": "COMP-0081",
+  "nombre": "Colectivo La Fuga",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": null,
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0039"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Remontaje Obra Polución Diálogos con Pedro Lemebel Colectivo La Fuga' (2023, Daniela Paz Núñez González, $12.457.692). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0082",
+  "nombre": "Compañía de Teatro Fuera de Lugar",
+  "nombre_oficial": "Compañía de Teatro Fuera de Lugar Limitada",
+  "nombre_artistico": null,
+  "alias": [
+   "Compañía de Teatro Fuera de Lugar Limitada"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0040"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-0811"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [
+   {
+    "campo": "tipo",
+    "valor_existente": "compañía de teatro",
+    "valor_nuevo": "organización de artes escénicas (según nómina de fondos)",
+    "fuentes": [
+     "FUE-0117"
+    ],
+    "fecha": "2026-09-08"
+   }
+  ],
+  "notas": "'En Defensa Propia' (interdisciplinar 2023, $14.998.491). Comuna no indicada. Responsable del proyecto «En Defensa Propia» (Fondo de Artes Escénicas 2023, Interdisciplinar). Comuna no indicada en la nómina (solo región)."
+ },
+ {
+  "id": "COMP-0083",
+  "nombre": "Teatro Atota",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0124"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'Creación página web para compañía Teatro Atota' (Medios de Difusión 2022, responsable Agrupación Cultural, Deportiva, Social, Recreativa, Educacional F.R. Valpo). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0084",
+  "nombre": "Comparsa de Figurines Zorritos",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": "Puertas Negras",
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "teatro callejero / comparsa",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0117"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "'3ra Versión: Proceso formativo Comparsa de Figurines Zorritos manada de Puertas Negras' (Públicos y comunidades 2023, Mariela Leonor Díaz Rivera). Comuna deducida del sector Puertas Negras (Valparaíso); por confirmar."
+ },
+ {
+  "id": "COMP-0085",
+  "nombre": "Gabisha Títeres",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "olmue",
+  "provincia": "marga-marga",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0007"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0069"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0007. Participante del IV Festival Ventolera (2024)."
+ },
+ {
+  "id": "COMP-0086",
+  "nombre": "Nina Títeres y Cuentacuentos",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Ninatitiricuenta",
+   "Nina Títeres"
+  ],
+  "comuna": "san-felipe",
+  "provincia": "san-felipe-de-aconcagua",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Nina Legrand",
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres",
+   "narracion-oral",
+   "lambe-lambe"
+  ],
+  "descripcion": "Proyecto de Nina Legrand ('Ninatitiricuenta'), titiritera, cuentacuentos y arteterapeuta comunitaria con más de 20 años de trayectoria en el Valle del Aconcagua: títeres tipo muppet, teatro de objetos, máscaras y lambe lambe; talleres y mediación lectora en escuelas y comunidades (fomento lector, educación emocional, medio ambiente, identidad local).",
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0007"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0069",
+   "FUE-0169"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0007. Participante del IV Festival Ventolera (2024)."
+ },
+ {
+  "id": "COMP-0087",
+  "nombre": "Compañía Moviendo Hilos",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Moviendo Hilos",
+   "Compañía de Marionetas Moviendo Hilos"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0092"
+  ],
+  "espacios": [
+   "ESP-0075"
+  ],
+  "comunas_trabajo": [
+   "putaendo"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0007"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0069",
+   "FUE-0146"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0007. Participante del IV Festival Ventolera (2024). Itinerancia regional 2021 (programa Artes Escénicas Itinerantes Regionales) organizada por Escenalborde."
+ },
+ {
+  "id": "COMP-0088",
+  "nombre": "Compañía Vilkún de Marionetas",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Vilkún de Marionetas",
+   "Vilkún"
+  ],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0007"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0069"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0007. Participante del IV Festival Ventolera (2024); la fuente la ubica en 'Viña del Mar – Valparaíso'."
+ },
+ {
+  "id": "COMP-0089",
+  "nombre": "Títeres Helecho Marionetas",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Helecho Marionetas"
+  ],
+  "comuna": "vina-del-mar",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0007"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0069"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0007. Participante del IV Festival Ventolera (2024)."
+ },
+ {
+  "id": "COMP-0090",
+  "nombre": "Compañía Correquetepillo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Correquetepillo"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0007"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0069"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0007. Participante del IV Festival Ventolera (2024)."
+ },
+ {
+  "id": "COMP-0091",
+  "nombre": "Colectivx Escénicx Urgente Delirio",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Urgente Delirio"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "colectivo de artes escénicas",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0080"
+  ],
+  "espacios": [
+   "ESP-0064"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0021. Ciudad Teatro 2026 ('encuentro territorial de teatro porteño'); comuna inferida de ese marco, sede por confirmar."
+ },
+ {
+  "id": "COMP-0092",
+  "nombre": "MikroEspacio Creativo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Mikroespacio"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "colectivo de artes escénicas",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0081"
+  ],
+  "espacios": [
+   "ESP-0065"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0021. Ciudad Teatro 2026. Relacionado con el espacio Mikroespacio (Maestranza Barón) y el Punto de Cultura homónimo."
+ },
+ {
+  "id": "COMP-0093",
+  "nombre": "Espacio Ané",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "colectivo de artes escénicas",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0084"
+  ],
+  "espacios": [
+   "ESP-0068"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0021. Ciudad Teatro 2026 ('Esto es un teatro', CEAC, 15 y 16 de mayo). Comuna inferida del marco; por confirmar si es compañía o espacio."
+ },
+ {
+  "id": "COMP-0094",
+  "nombre": "Colaboraciones en Distancia",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "colectivo de artes escénicas",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0086"
+  ],
+  "espacios": [
+   "ESP-0053"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0021. Ciudad Teatro 2026 ('Inextinguible', Centro Cultural IPA, 20 de mayo). Comuna inferida del marco; por confirmar."
+ },
+ {
+  "id": "COMP-0095",
+  "nombre": "Compañía En Paños Menores",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "En Paños Menores"
+  ],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0087"
+  ],
+  "espacios": [
+   "ESP-0069"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0021"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0021. Ciudad Teatro 2026 ('Intoxicadas', Sala de Artes Escénicas Rodelillo, 23 y 24 de mayo). Comuna inferida del marco; por confirmar."
+ },
+ {
+  "id": "COMP-0096",
+  "nombre": "Sala Pascal 79",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural (sala y productora de ciclos)",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [
+   "FIN-1083"
+  ],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0136"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Organiza Ciudad Teatro 2026 con financiamiento PAOCC. Registrada también como espacio (ESP)."
+ },
+ {
+  "id": "COMP-0097",
+  "nombre": "Compañía de Teatro Experimental La Sutil",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "La Sutil"
+  ],
+  "comuna": "papudo",
+  "provincia": "petorca",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro-experimental"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [
+   "ESP-0071"
+  ],
+  "comunas_trabajo": [
+   "la-calera"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0038"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0140"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0038. De la Fundación Casa Abedul (Papudo). Presentó teatro en Puntos de Fuga, La Calera, 5 de septiembre de 2026 (obra no indicada)."
+ },
+ {
+  "id": "COMP-0098",
+  "nombre": "Fundación Casa Abedul",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "papudo",
+  "provincia": "petorca",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0140"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Alberga a la Compañía de Teatro Experimental La Sutil."
+ },
+ {
+  "id": "COMP-0099",
+  "nombre": "Compañía de Teatro Puquigre",
+  "nombre_oficial": "Grupo de Teatro Cultural y Social Puquigre",
+  "nombre_artistico": null,
+  "alias": [
+   "PUQUIGRE"
+  ],
+  "comuna": "puchuncavi",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": 1982,
+  "director": null,
+  "integrantes": [],
+  "tipo": "teatro comunitario",
+  "disciplinas": [
+   "teatro-comunitario"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0091"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "puchuncavi"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0141",
+   "FUE-0142",
+   "FUE-0143"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Agrupación de vecinos de Puchuncaví, Quintero y La Greda; 35 años de vida según nota municipal (sin fecha visible); '35 años' y 'desde 1982' según resúmenes del buscador de páginas municipales: año de creación por confirmar directamente. Unos 15 integrantes estables según el buscador. Funciones de 'La Mariita' en el Gimnasio Municipal de Puchuncaví y en la sede Caracol de Horcón."
+ },
+ {
+  "id": "COMP-0100",
+  "nombre": "Abisal",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Productora Abisal"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Bárbara Pestan",
+  "integrantes": [],
+  "tipo": "productora teatral",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0060"
+  ],
+  "espacios": [
+   "ESP-0021",
+   "ESP-0076",
+   "ESP-0002",
+   "ESP-0012"
+  ],
+  "comunas_trabajo": [
+   "valparaiso",
+   "quintero",
+   "san-antonio",
+   "el-quisco"
+  ],
+  "regiones_circulacion": [
+   "Región Metropolitana (Santiago)",
+   "Región del Biobío (Concepción)"
+  ],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0144",
+   "FUE-0145"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Productora de 'Terrapolis'. Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0101",
+  "nombre": "Red de Espacios Culturales de la Región de Valparaíso",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "REC Valparaíso",
+   "Red Ramal Cultural"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "red de espacios culturales",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": "https://www.instagram.com/rec_regvalparaiso/",
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0140",
+   "FUE-0153"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Fundada en 2014 en el marco de Red Cultura; agrupa 34 espacios en cinco territorios (Ramal, Valle del Aconcagua, Viña del Mar, Valparaíso, Litoral de los Poetas) según su Instagram. La 'Red Ramal Cultural' organiza Puntos de Fuga; su relación exacta con la REC queda por confirmar."
+ },
+ {
+  "id": "COMP-0102",
+  "nombre": "Centro Cultural Alejandro Castro",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "CCAC"
+  ],
+  "comuna": "quintero",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": "https://www.instagram.com/ccac_2821/",
+  "facebook": "https://www.facebook.com/CCAC2021/",
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": "https://ccac.resistencias.net/",
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0152",
+   "FUE-0145"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Centro comunitario en homenaje a un activista ambiental de la bahía; colaboró en la exhibición de 'Terrapolis' en Quintero. Comuna según Culturizarte (resumen del buscador); el sitio propio no la indica."
+ },
+ {
+  "id": "COMP-0103",
+  "nombre": "Fundación Municipal de Cultura de Zapallar",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Fundación Cultural Zapallar"
+  ],
+  "comuna": "zapallar",
+  "provincia": "petorca",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "organización cultural",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": "https://www.instagram.com/culturazapallar/",
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0149",
+   "FUE-0151"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Institución privada sin fines de lucro (Registro Ley 19.862, RUT 65.161.461-9); administra el Teatro de Zapallar."
+ },
+ {
+  "id": "COMP-0104",
+  "nombre": "Teatro AlmaZen",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Teatro AlmaZen de Con Con"
+  ],
+  "comuna": "concon",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro-familiar"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0094"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "comunas_trabajo": [
+   "quillota"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0041"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0156"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0041. Figura como 'Teatro AlmaZen de Con Con' en el Ciclo de Teatro Familiar de Quillota (2019)."
+ },
+ {
+  "id": "COMP-0105",
+  "nombre": "Proyectico Títeres Educativos",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de títeres",
+  "disciplinas": [
+   "titeres"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0095"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "comunas_trabajo": [
+   "quillota"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0041"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0156"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0041. Ciclo de Teatro Familiar de Quillota (2019). Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0106",
+  "nombre": "Cía. Manga de Fracasados",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Manga de Fracasados"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de clown",
+  "disciplinas": [
+   "clown"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0096"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "comunas_trabajo": [
+   "quillota"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0041"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0156"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0041. Ciclo de Teatro Familiar de Quillota (2019). Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0107",
+  "nombre": "Los Teatristas",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro-familiar"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0097"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "los-andes"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0157"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Comuna de sede no indicada. Funciones escolares en cinco colegios básicos de Los Andes (fechas exactas no publicadas)."
+ },
+ {
+  "id": "COMP-0108",
+  "nombre": "Teatro Profesional Onirus",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Onirus"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Horacio Videla",
+  "integrantes": [],
+  "tipo": "compañía de teatro callejero",
+  "disciplinas": [
+   "teatro-callejero"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0098"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "rinconada"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0042"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0158"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Presentó 'Alas de fuego' en Rinconada el 24 de enero de 2016 en el circuito de Teatro a Mil. Comuna y región de origen no indicadas."
+ },
+ {
+  "id": "COMP-0109",
+  "nombre": "Taller Municipal de Teatro de Quillota",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Taller de Teatro Municipal de Quillota",
+   "TMT Quillota"
+  ],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "taller municipal de teatro",
+  "disciplinas": [
+   "teatro-comunitario"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0100"
+  ],
+  "espacios": [
+   "ESP-0016"
+  ],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0159",
+   "FUE-0160"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Grupos adolescentes, juvenil-adulto y adulto mayor; seminario 'Voz para la escena teatral' con Pablo Valencia (3 al 15 de septiembre de 2025); montajes finales anuales."
+ },
+ {
+  "id": "COMP-0110",
+  "nombre": "Carro Nómade",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0107"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0002"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0002. Festival Litoral Teatral 2024. Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0111",
+  "nombre": "Compañía Oreja Roja",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Oreja Roja"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0108"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0002"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0002. Festival Litoral Teatral 2024. Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0112",
+  "nombre": "Compañía Aranwa",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Aranwa"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0111"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0002"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0002. Festival Litoral Teatral 2024. Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0113",
+  "nombre": "Saltimbanqui Circus",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Circo Saltimbanqui"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de circo",
+  "disciplinas": [
+   "circo"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [
+   "ESP-0081"
+  ],
+  "comunas_trabajo": [
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0002"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0002. Festival Litoral Teatral 2026 (26 de abril, JJVV San Juan de Llolleo). Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0114",
+  "nombre": "Teatro El Ojo",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0100"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "san-antonio"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0002"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0167",
+   "FUE-0063"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0002. Obra de cierre del Festival Litoral Teatral 2026. Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0115",
+  "nombre": "The Magic Show",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "The Magic Show Títeres y Marionetas"
+  ],
+  "comuna": "los-andes",
+  "provincia": "los-andes",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Hugo Hernández Urtubia",
+  "integrantes": [],
+  "tipo": null,
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0169"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Marionetas de hilo, títeres de guante y figuras de gran formato; espectáculos musicales principalmente para infancias; su creador se perfeccionó en Barcelona (El Trabajo, 22 de marzo de 2026)."
+ },
+ {
+  "id": "COMP-0116",
+  "nombre": "Experimento Pierrot",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0120"
+  ],
+  "espacios": [
+   "ESP-0003"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0047"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0047. Mes del Teatro 2022 (Parque Cultural, 13 de mayo)."
+ },
+ {
+  "id": "COMP-0117",
+  "nombre": "Abrapalabra",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0121"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0047"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0047. 'Yo soy un oso' junto a OANI (Parque Cultural, 15 de mayo de 2022). Comuna no indicada."
+ },
+ {
+  "id": "COMP-0118",
+  "nombre": "Ankalli Artes Escénicas",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Ankalli"
+  ],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0122"
+  ],
+  "espacios": [
+   "ESP-0022"
+  ],
+  "comunas_trabajo": [
+   "villa-alemana"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0047"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0047. Mes del Teatro 2022 (CC Gabriela Mistral, Villa Alemana, 15 de mayo). Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0119",
+  "nombre": "Soporte Corporal",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0124"
+  ],
+  "espacios": [
+   "ESP-0054"
+  ],
+  "comunas_trabajo": [
+   "valparaiso"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0047"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0175"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Creado por referencia desde FES-0047. Mes del Teatro 2022 (Centex, 14 de mayo, gratuita con inscripción). Comuna de sede no indicada."
+ },
+ {
+  "id": "COMP-0120",
+  "nombre": "Ucronia Teatral",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "concon",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0118"
+  ],
+  "espacios": [
+   "ESP-0083"
+  ],
+  "comunas_trabajo": [
+   "concon"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0173"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Descrita como compañía local de Concón por el directorio turístico regional."
+ },
+ {
+  "id": "COMP-0121",
+  "nombre": "Teatro Estrella Solitaria",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [
+   "OBR-0119"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0174"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Grupo quillotano citado por Ivo Herrera (2019) con una versión de 'El delantal blanco' en 2015."
+ },
+ {
+  "id": "COMP-0122",
+  "nombre": "Teatro La Feria",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "compañía de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0174"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Grupo citado en la memoria teatral quillotana (2019); Marcos Rojo trabajó con él. Actividad por confirmar."
+ },
+ {
+  "id": "COMP-0123",
+  "nombre": "Taller de Teatro Municipal de Quillota (Talymel)",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [
+   "Talymel"
+  ],
+  "comuna": "quillota",
+  "provincia": "quillota",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Juan Toro",
+  "integrantes": [],
+  "tipo": "taller municipal de teatro",
+  "disciplinas": [],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0174"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Citado por Ivo Herrera (2019) con Juan Toro como director; posible antecedente del actual Taller Municipal de Teatro de Quillota (por confirmar)."
+ },
+ {
+  "id": "COMP-0124",
+  "nombre": "Laboratorio Anatomía Teatral",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": "valparaiso",
+  "provincia": "valparaiso",
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": "Claudio Rodríguez",
+  "integrantes": [],
+  "tipo": "compañía de teatro / organización de artes escénicas",
+  "disciplinas": [
+   "teatro"
+  ],
+  "descripcion": null,
+  "obras": [],
+  "espacios": [],
+  "comunas_trabajo": [],
+  "regiones_circulacion": [],
+  "festivales": [
+   "FES-0046"
+  ],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": "https://www.laboratorioanatomiateatral.cl/",
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0177",
+   "FUE-0176"
+  ],
+  "estado": "PARCIAL",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Organiza el Festival Síntesis Teatral desde 2016. Comuna según sede del festival (Valparaíso); por confirmar."
+ },
+ {
+  "id": "COMP-0125",
+  "nombre": "Colectivo Artístico Lírica Disidente",
+  "nombre_oficial": null,
+  "nombre_artistico": null,
+  "alias": [],
+  "comuna": null,
+  "provincia": null,
+  "localidad": null,
+  "region": "valparaiso",
+  "anio_creacion": null,
+  "director": null,
+  "integrantes": [],
+  "tipo": "colectivo de ópera",
+  "disciplinas": [
+   "opera"
+  ],
+  "descripcion": null,
+  "obras": [
+   "OBR-0134"
+  ],
+  "espacios": [],
+  "comunas_trabajo": [
+   "vina-del-mar"
+  ],
+  "regiones_circulacion": [],
+  "festivales": [],
+  "fondos": [],
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "tiktok": null,
+  "spotify": null,
+  "vimeo": null,
+  "linkedin": null,
+  "web": null,
+  "correo": null,
+  "telefono": null,
+  "fuentes": [
+   "FUE-0180"
+  ],
+  "estado": "DESCUBIERTO",
+  "fecha_descubrimiento": "2026-09-08",
+  "fecha_ultima_verificacion": "2026-09-08",
+  "duplicado_de": null,
+  "contradicciones": [],
+  "notas": "Nueva puesta en escena de 'La Traviata' (Verdi) en el Teatro Municipal de Viña del Mar, octubre de 2026, con Tabita Martínez, Roberto Berner y Rodrigo Quinteros. Comuna de sede no indicada."
+ }
+]

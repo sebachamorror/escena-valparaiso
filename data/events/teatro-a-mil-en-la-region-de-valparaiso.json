@@ -1,0 +1,103 @@
+{
+  "slug": "teatro-a-mil-en-la-region-de-valparaiso",
+  "type": "event",
+  "title": "Teatro a Mil en la Región de Valparaíso",
+  "kind": "festival",
+  "work": null,
+  "company": null,
+  "organizer_text": "Fundación Teatro a Mil",
+  "disciplines": [],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2016-01-03T00:00:00-03:00",
+      "ends_at": "2016-01-25T00:00:00-03:00",
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    },
+    {
+      "starts_at": "2025-01-17T00:00:00-03:00",
+      "ends_at": "2025-01-21T00:00:00-03:00",
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    },
+    {
+      "starts_at": "2026-01-18T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    },
+    {
+      "starts_at": "2026-01-27T00:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "http://www.losandesonline.cl/noticias/30009/teatro-a-mil-se-presentara-en-rinconada.html",
+      "title": "Teatro a Mil se presentará en Rinconada",
+      "publisher": "Los Andes Online",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de enero de 2016: Fundación Teatro a Mil, funciones gratuitas del 3 al 25 de enero de 2016 en siete comunas de la región."
+    },
+    {
+      "url": "https://municipalidadcasablanca.cl/index.php?Itemid=109&catid=8&id=1600%3Aconoce-todo-lo-que-trae-teatro-a-mil-para-casablanca&option=com_content&view=article",
+      "title": "Conoce todo lo que trae Teatro a Mil para Casablanca",
+      "publisher": "Ilustre Municipalidad de Casablanca",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 15 de enero de 2025; el municipio lleva 10 años con el convenio Teatro a Mil."
+    },
+    {
+      "url": "https://www.munivina.cl/noticias/teatro-municipal-de-vina-del-mar-inicia-el-2026-con-espectaculares-conciertos-teatro-danza-y-humor/",
+      "title": "Teatro Municipal de Viña del Mar inicia el 2026 con espectaculares conciertos, teatro, danza y humor",
+      "publisher": "Ilustre Municipalidad de Viña del Mar",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 9 de enero de 2026."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

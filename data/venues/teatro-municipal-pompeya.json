@@ -1,19 +1,90 @@
 {
-  "slug": "teatro-municipal-pompeya", "type": "venue",
-  "name": "Teatro Municipal Pompeya", "short_name": "Teatro Pompeya",
-  "venue_type": "teatro", "owner": "Ilustre Municipalidad de Villa Alemana",
-  "place": { "name": "Teatro Municipal Pompeya", "address": "Paseo peatonal Los Héroes, entre Avenida Valparaíso y calle Santiago, Villa Alemana", "commune": "villa-alemana", "lat": null, "lng": null, "precision": "commune_centroid", "geocode_source": null, "geocoded_at": null },
-  "capacity": 500, "rooms": [],
-  "website": null, "contact_public": null,
-  "social": { "instagram": null, "facebook": "https://www.facebook.com/TeatroPompeya/", "tiktok": null, "youtube": null },
-  "disciplines": ["teatro"], "accessibility": [],
-  "program_url": null, "status": "activo",
-  "description_md": "Construido en 1925 por los arquitectos Aquiles Landoff y Renato Schiavon a iniciativa de Domingo Composto, e inaugurado el 25 de septiembre de 1926 como sala de cine de barrio, con capacidad para 500 personas entre platea y galería. Declarado Monumento Histórico Nacional en 2008. Dañado gravemente en el terremoto de 2010, fue restaurado entre 2011 y 2012 con una inversión de 830 millones de pesos y reabrió el 29 de octubre de 2012 como Teatro Municipal Pompeya, hoy propiedad de la Municipalidad de Villa Alemana.",
-  "media": [], "tags": [],
-  "sources": [
-    { "url": "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/teatro-pompeya-y-sus-portales-de-villa-alemana", "title": "Teatro Pompeya y sus Portales de Villa Alemana", "publisher": "Consejo de Monumentos Nacionales de Chile", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "place", "description"], "notes": "Confirma dirección, declaratoria de monumento histórico (2008), estilo, construcción 1925, inauguración 1926, capacidad de 500 personas, daño 2010, restauración 2011-2012 y reapertura el 29 de octubre de 2012." },
-    { "url": "https://munivillalemana.gob.cl/2026/07/teatro-pompeya-villa-alemana-celebra-100-anos/", "title": "Teatro Pompeya de Villa Alemana celebra 100 años de historia como símbolo del patrimonio y la cultura local", "publisher": "Ilustre Municipalidad de Villa Alemana", "type": "institucional", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence"], "notes": "Confirma que sigue activo y celebrando su historia en julio de 2026; no se abrió en detalle." }
+  "slug": "teatro-municipal-pompeya",
+  "type": "venue",
+  "name": "Teatro Municipal Pompeya",
+  "short_name": "Teatro Pompeya",
+  "venue_type": "teatro",
+  "owner": "Ilustre Municipalidad de Villa Alemana",
+  "place": {
+    "name": "Teatro Municipal Pompeya",
+    "address": "Paseo peatonal Los Héroes, entre Avenida Valparaíso y calle Santiago, Villa Alemana",
+    "commune": "villa-alemana",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": 500,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": "https://www.facebook.com/TeatroPompeya/",
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [
+    "teatro"
   ],
-  "verification": { "status": "verificado", "confidence_score": 82, "verified_at": "2026-09-05", "verified_by": "investigación asistida (sesión 2026-09-05)", "next_review_at": "2027-09-05", "note": "Dirección y datos históricos confirmados con la fuente oficial del Consejo de Monumentos Nacionales. Otras fuentes (Wikipedia, directorios) citan la dirección como «Latorre 20, Villa Alemana»: se prioriza la fuente oficial (Paseo Los Héroes); un verificador humano debería confirmar cuál corresponde a la entrada principal." },
+  "accessibility": [],
+  "program_url": null,
+  "status": "activo",
+  "description_md": "Construido en 1925 por los arquitectos Aquiles Landoff y Renato Schiavon a iniciativa de Domingo Composto, e inaugurado el 25 de septiembre de 1926 como sala de cine de barrio, con capacidad para 500 personas entre platea y galería. Declarado Monumento Histórico Nacional en 2008. Dañado gravemente en el terremoto de 2010, fue restaurado entre 2011 y 2012 con una inversión de 830 millones de pesos y reabrió el 29 de octubre de 2012 como Teatro Municipal Pompeya, hoy propiedad de la Municipalidad de Villa Alemana.",
+  "media": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/teatro-pompeya-y-sus-portales-de-villa-alemana",
+      "title": "Teatro Pompeya y sus Portales de Villa Alemana",
+      "publisher": "Consejo de Monumentos Nacionales de Chile",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "place",
+        "description"
+      ],
+      "notes": "Confirma dirección, declaratoria de monumento histórico (2008), estilo, construcción 1925, inauguración 1926, capacidad de 500 personas, daño 2010, restauración 2011-2012 y reapertura el 29 de octubre de 2012."
+    },
+    {
+      "url": "https://munivillalemana.gob.cl/2026/07/teatro-pompeya-villa-alemana-celebra-100-anos/",
+      "title": "Teatro Pompeya de Villa Alemana celebra 100 años de historia como símbolo del patrimonio y la cultura local",
+      "publisher": "Ilustre Municipalidad de Villa Alemana",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence"
+      ],
+      "notes": "Confirma que sigue activo y celebrando su historia en julio de 2026; no se abrió en detalle."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2022/01/SELECCIONADOS-FNACIONAL-2022.pdf",
+      "title": "Seleccionados Fondart Nacional 2022",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    }
+  ],
+  "verification": {
+    "status": "verificado",
+    "confidence_score": 82,
+    "verified_at": "2026-09-05",
+    "verified_by": "investigación asistida (sesión 2026-09-05)",
+    "next_review_at": "2027-09-05",
+    "note": "Dirección y datos históricos confirmados con la fuente oficial del Consejo de Monumentos Nacionales. Otras fuentes (Wikipedia, directorios) citan la dirección como «Latorre 20, Villa Alemana»: se prioriza la fuente oficial (Paseo Los Héroes); un verificador humano debería confirmar cuál corresponde a la entrada principal."
+  },
   "published": false
 }

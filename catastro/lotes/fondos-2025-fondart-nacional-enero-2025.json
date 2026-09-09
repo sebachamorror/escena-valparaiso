@@ -1,0 +1,50 @@
+{
+ "capa": 5,
+ "consulta": "Q-0063",
+ "resumen": "Fondart Nacional 2025: 57 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2025-fondart-nacional-enero-2025",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2025/01/SELECCIONADOS-FN-2025.pdf",
+   "titulo": "Nómina de seleccionados Fondart Nacional 2025 (Creación Artística, Infraestructura Cultural)",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [],
+ "financiamiento": [
+  {
+   "proyecto": "Sonetos y puntadas del Valle de Aconcagua, un textil en conmemoración a la vida y obra de Gabriela Mistral.",
+   "fondo": "Fondart Nacional",
+   "linea": "Grupo B (artesanía, diseño, arquitectura o interdisciplina entre estas áreas artísticas)",
+   "anio": 2025,
+   "folio": "757186",
+   "monto": 22424949,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2025-fondart-nacional-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Maria Jose Duran Steinman. Página 23 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Maria Jose Duran Steinman"
+  },
+  {
+   "proyecto": "Rescate del artista Pedro Celedón. Investigación histórica, análisis de su vida, obra y rol dentro de las redes culturales vanguardistas en Valparaíso-Santiago 1915-1935.",
+   "fondo": "Fondart Nacional",
+   "linea": "Grupo A (artes visuales, fotografía, nuevos medios o interdisciplina entre estas áreas artísticas)",
+   "anio": 2025,
+   "folio": "757674",
+   "monto": 15630764,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas (palabra clave en el título; por confirmar)",
+   "fuentes": [
+    "pdf-2025-fondart-nacional-enero-2025"
+   ],
+   "notas": "Responsable según nómina: Emilio Adolfo Guzman Lagreze. Página 35 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Emilio Adolfo Guzman Lagreze"
+  }
+ ]
+}

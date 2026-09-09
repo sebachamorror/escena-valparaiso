@@ -1,23 +1,159 @@
 {
-  "slug": "compania-de-teatro-alegria", "type": "company",
-  "name": "Compañía de Teatro Alegría", "legal_name": null,
+  "slug": "compania-de-teatro-alegria",
+  "type": "company",
+  "name": "Compañía de Teatro Alegría",
+  "legal_name": null,
   "description_md": "Compañía de teatro comunitario de Villa Alemana, nacida en 2012 con alrededor de quince actores y actrices. Obtuvo personalidad jurídica en julio de 2012, lo que le permitió postular a fondos públicos y subvenciones.",
-  "commune": "villa-alemana", "other_communes": [],
-  "disciplines": ["teatro", "teatro-comunitario"], "audiences": ["todo-publico"],
-  "founded_year": 2012, "status": "activa", "last_activity_at": "2025-01-01",
-  "members": [ { "artist": "victor-opazo-herrera", "role": "integrante y representante", "from_year": 2012, "to_year": null } ],
-  "members_text": ["Sofía Espinoza (elenco de El Loco y la Triste)", "Lucy Salgado (elenco de El Loco y la Triste)"],
-  "works": ["el-loco-y-la-triste"], "venues": [], "place": null,
-  "email": null, "contact_authorized": false, "website": null,
-  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
-  "trajectory_md": "Entre 2014 y 2016 obtuvo proyectos vinculados a SENAMA, subvenciones municipales, proyectos participativos y formación teatral. Obras: *Quién cuidará a Mamá Pocha*, *Hasta que vengan las Máquinas a demoler*, *Juanito Picapapeles*, *La Leyenda de las Tres Pascualas* y *El Loco y la Triste* (Juan Radrigán), llevada en 2018 a San Juan de Lurigancho, Perú. Figura en el Registro de Organizaciones de la Ley 19.862 con transferencias entre 2014 y 2025. En 2022 recibió una subvención municipal para equipamiento. La municipalidad la identifica entre las organizaciones culturales destacadas de Villa Alemana.",
-  "recognitions": [], "funding_awards": [ { "fund_name": "Subvención municipal (equipamiento)", "org": "Municipalidad de Villa Alemana", "year": 2022, "folio": null, "amount_clp": null, "url": null, "note": null, "source_index": 1 } ],
-  "festivals": [],
-  "media": [], "media_candidates": [], "series": ["quinta-escena-podcast"], "tags": ["protagonista-podcast"],
-  "sources": [
-    { "url": null, "title": "Carta de compromiso — Villa alemana.pdf (25 de agosto de 2026)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "commune", "discipline"], "notes": null },
-    { "url": null, "title": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Municipalidad de Villa Alemana, Registro de organizaciones Ley 19.862)", "publisher": "Proyecto Quinta Escena Podcast, folio 863000", "type": "documento-proyecto", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["founded_year", "trajectory", "works", "funding_awards"], "notes": "Registro Ley 19.862 es verificable en registros19862.cl; URL pendiente." }
+  "commune": "villa-alemana",
+  "other_communes": [],
+  "disciplines": [
+    "teatro",
+    "teatro-comunitario"
   ],
-  "verification": { "status": "pendiente", "confidence_score": 65, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Verificar en el Registro Ley 19.862 y en el sitio municipal; validar con la compañía." },
+  "audiences": [
+    "todo-publico"
+  ],
+  "founded_year": 2012,
+  "status": "activa",
+  "last_activity_at": "2025-01-01",
+  "members": [
+    {
+      "artist": "victor-opazo-herrera",
+      "role": "integrante y representante",
+      "from_year": 2012,
+      "to_year": null
+    }
+  ],
+  "members_text": [
+    "Sofía Espinoza (elenco de El Loco y la Triste)",
+    "Lucy Salgado (elenco de El Loco y la Triste)",
+    "Víctor Eduardo Opazo Herrera (integrante y representante)"
+  ],
+  "works": [
+    "el-loco-y-la-triste"
+  ],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": "Entre 2014 y 2016 obtuvo proyectos vinculados a SENAMA, subvenciones municipales, proyectos participativos y formación teatral. Obras: *Quién cuidará a Mamá Pocha*, *Hasta que vengan las Máquinas a demoler*, *Juanito Picapapeles*, *La Leyenda de las Tres Pascualas* y *El Loco y la Triste* (Juan Radrigán), llevada en 2018 a San Juan de Lurigancho, Perú. Figura en el Registro de Organizaciones de la Ley 19.862 con transferencias entre 2014 y 2025. En 2022 recibió una subvención municipal para equipamiento. La municipalidad la identifica entre las organizaciones culturales destacadas de Villa Alemana.",
+  "recognitions": [],
+  "funding_awards": [
+    {
+      "fund_name": "Subvención municipal (equipamiento)",
+      "org": "Municipalidad de Villa Alemana",
+      "year": 2022,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": null,
+      "source_index": 1
+    },
+    {
+      "fund_name": "Subvención municipal (equipamiento)",
+      "org": "Municipalidad de Villa Alemana",
+      "year": 2022,
+      "folio": null,
+      "amount_clp": null,
+      "url": null,
+      "note": null,
+      "source_index": null
+    }
+  ],
+  "festivals": [],
+  "media": [],
+  "media_candidates": [],
+  "series": [
+    "quinta-escena-podcast"
+  ],
+  "tags": [
+    "protagonista-podcast"
+  ],
+  "sources": [
+    {
+      "url": null,
+      "title": "Carta de compromiso — Villa alemana.pdf (25 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "commune",
+        "discipline"
+      ],
+      "notes": null
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Municipalidad de Villa Alemana, Registro de organizaciones Ley 19.862)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "founded_year",
+        "trajectory",
+        "works",
+        "funding_awards"
+      ],
+      "notes": "Registro Ley 19.862 es verificable en registros19862.cl; URL pendiente."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Compañía de Teatro Alegría en Perú)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URL pendiente."
+    },
+    {
+      "url": null,
+      "title": "Carta de compromiso y autorización de participación — Villa alemana.pdf (25 de agosto de 2026)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. Datos personales no replicados."
+    },
+    {
+      "url": null,
+      "title": "Investigación madre Quinta Escena Podcast — perfil 5 (cita Municipalidad de Villa Alemana, Compañía de Teatro Alegría en Perú, Registro de organizaciones Ley 19.862)",
+      "publisher": "Proyecto Quinta Escena Podcast, folio 863000",
+      "type": "documento-proyecto",
+      "level": 3,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Documento interno del proyecto Quinta Escena Podcast; no verificable públicamente. URLs pendientes."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 65,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Verificar en el Registro Ley 19.862 y en el sitio municipal; validar con la compañía."
+  },
   "published": false
 }

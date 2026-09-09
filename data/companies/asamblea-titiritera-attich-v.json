@@ -1,27 +1,152 @@
 {
-  "slug": "asamblea-titiritera-attich-v", "type": "company",
-  "name": "Asamblea Titiritera ATTICH V Región", "legal_name": null,
+  "slug": "asamblea-titiritera-attich-v",
+  "type": "company",
+  "name": "Asamblea Titiritera ATTICH V Región",
+  "legal_name": null,
   "description_md": "Agrupación regional de titiriteras y titiriteros de la Región de Valparaíso, vinculada a la Asamblea de Titiriteros y Titiriteras de Chile (ATTICH). Organiza el Festival Ventolera y el Festival Caleta de Títeres.",
-  "commune": "valparaiso", "other_communes": [],
-  "disciplines": ["titeres"], "audiences": ["todo-publico"],
-  "founded_year": null, "status": "activa", "last_activity_at": "2026-03-22",
-  "members": [], "members_text": [],
-  "works": [], "venues": [], "place": null,
-  "email": null, "contact_authorized": false, "website": null,
-  "social": { "instagram": null, "facebook": null, "tiktok": null, "youtube": null },
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "titeres"
+  ],
+  "audiences": [
+    "todo-publico"
+  ],
+  "founded_year": null,
+  "status": "activa",
+  "last_activity_at": "2026-03-22",
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
   "trajectory_md": "Es la asamblea regional (Región de Valparaíso, \"V Región\") de la Asamblea de Titiriteros y Titiriteras de Chile (ATTICH), organización nacional que agrupa a profesionales del teatro de títeres. Según el Catálogo de Compañías de Teatro Tradicional de Títeres Región de Valparaíso (Servicio Nacional del Patrimonio Cultural, 2025), al menos cuatro de las seis compañías catalogadas —Titiricaos, La Barconeta, Colectiva La Capuchina y Vaccaro Puppets— forman parte de esta asamblea. Organiza, junto a la Seremi de las Culturas, el Festival Ventolera (IV edición: 20 de octubre de 2024, Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso, con taller de construcción de títeres bocones a cargo de Giovanni Vaccaro y funciones de nueve compañías de la región y una de La Serena). Organiza también, junto a la Fundación TeatroMuseo del Títere y el Payaso, la Empresa Portuaria Valparaíso, Centex y la Seremi de las Culturas, el Festival Caleta de Títeres (II edición: 22 de marzo de 2026, Muelle Prat, Valparaíso, con más de quince números, funciones de Teatro Lambe-Lambe y cuatro funciones de títeres a bordo de lanchas en la bahía, con obras como \"Olvídame\", \"Océano Pacífico\", \"El Gato Aníbal\" y \"Las Cantoras del Puerto\"; participaron, entre otras, las compañías Talán-Talán, Compañía Terrestre, Lorenzo Títeres, Compañía La Bululú y Compañía LaBarconeta). Según el levantamiento interno del proyecto Quinta Escena Podcast, reuniría a unos doce titiriteros y titiriteras de la región; este número no fue confirmado de forma independiente por esta investigación.",
-  "recognitions": [], "funding_awards": [],
+  "recognitions": [],
+  "funding_awards": [],
   "festivals": [
-    { "festival_name": "Festival Ventolera (organiza, IV edición)", "year": 2024, "place": "Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso", "source_index": 0 },
-    { "festival_name": "Festival Caleta de Títeres (organiza, II edición)", "year": 2026, "place": "Muelle Prat, Valparaíso", "source_index": 1 }
+    {
+      "festival_name": "Festival Ventolera (organiza, IV edición)",
+      "year": 2024,
+      "place": "Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso",
+      "source_index": 0
+    },
+    {
+      "festival_name": "Festival Caleta de Títeres (organiza, II edición)",
+      "year": 2026,
+      "place": "Muelle Prat, Valparaíso",
+      "source_index": 1
+    },
+    {
+      "festival_name": "Festival Ventolera",
+      "year": 2024,
+      "place": "Valparaíso",
+      "source_index": null
+    },
+    {
+      "festival_name": "Festival Caleta de Títeres",
+      "year": 2026,
+      "place": null,
+      "source_index": null
+    }
   ],
-  "media": [], "media_candidates": [], "series": [], "tags": ["agrupacion", "titeres"],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [
+    "agrupacion",
+    "titeres"
+  ],
   "sources": [
-    { "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/", "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región", "publisher": "G5 Noticias", "type": "prensa", "level": 2, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "trajectory", "festivals"], "notes": "Confirma que ATTICH V, junto a la Seremi de las Culturas, organiza el IV Festival Ventolera; lista las compañías participantes con su comuna." },
-    { "url": "https://g5noticias.cl/2026/03/16/festival-caleta-de-titeres-ofrecera-funciones-sobre-lanchas-en-valparaiso/", "title": "Festival \"Caleta de Títeres\" ofrecerá funciones sobre lanchas en Valparaíso", "publisher": "G5 Noticias", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "festivals", "last_activity_at"], "notes": "Confirma organizadores del Festival Caleta de Títeres II (22 de marzo de 2026, Muelle Prat) y compañías participantes." },
-    { "url": "https://www.theclinic.cl/2026/03/16/hasta-con-funciones-de-titeres-sobre-lanchas-valparaiso-se-prepara-para-celebrar-el-dia-mundial-del-titere-y-la-marioneta-2026/", "title": "Hasta con funciones de títeres sobre lanchas: Valparaíso se prepara para celebrar el Día Mundial del Títere y la Marioneta 2026", "publisher": "The Clinic", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory", "last_activity_at"], "notes": "Confirma fecha, lugar, obras programadas y modalidad de inscripción del Festival Caleta de Títeres II (2026), segunda edición tras la de 2025." },
-    { "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf", "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso", "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso", "type": "oficial", "level": 1, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["trajectory"], "notes": "Cuatro de las seis compañías del catálogo (Titiricaos, La Barconeta, La Capuchina, Vaccaro Puppets) declaran formar parte de la \"Asamblea Titiritera ATTICH Quinta Región\"." }
+    {
+      "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "G5 Noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "trajectory",
+        "festivals"
+      ],
+      "notes": "Confirma que ATTICH V, junto a la Seremi de las Culturas, organiza el IV Festival Ventolera; lista las compañías participantes con su comuna."
+    },
+    {
+      "url": "https://g5noticias.cl/2026/03/16/festival-caleta-de-titeres-ofrecera-funciones-sobre-lanchas-en-valparaiso/",
+      "title": "Festival \"Caleta de Títeres\" ofrecerá funciones sobre lanchas en Valparaíso",
+      "publisher": "G5 Noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "festivals",
+        "last_activity_at"
+      ],
+      "notes": "Confirma organizadores del Festival Caleta de Títeres II (22 de marzo de 2026, Muelle Prat) y compañías participantes."
+    },
+    {
+      "url": "https://www.theclinic.cl/2026/03/16/hasta-con-funciones-de-titeres-sobre-lanchas-valparaiso-se-prepara-para-celebrar-el-dia-mundial-del-titere-y-la-marioneta-2026/",
+      "title": "Hasta con funciones de títeres sobre lanchas: Valparaíso se prepara para celebrar el Día Mundial del Títere y la Marioneta 2026",
+      "publisher": "The Clinic",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory",
+        "last_activity_at"
+      ],
+      "notes": "Confirma fecha, lugar, obras programadas y modalidad de inscripción del Festival Caleta de Títeres II (2026), segunda edición tras la de 2025."
+    },
+    {
+      "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+      "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso",
+      "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+      "type": "oficial",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "trajectory"
+      ],
+      "notes": "Cuatro de las seis compañías del catálogo (Titiricaos, La Barconeta, La Capuchina, Vaccaro Puppets) declaran formar parte de la \"Asamblea Titiritera ATTICH Quinta Región\"."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/agendacultural/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma organizador (Asamblea Titiritera ATTICH V con Seremi de las Culturas), fecha, sede y taller con Giovanni Vaccaro."
+    }
   ],
-  "verification": { "status": "pendiente", "confidence_score": 80, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Tratada como agrupación/colectivo dentro del esquema de compañía, siguiendo el criterio de la skill buscar-companias-teatro (no existe un esquema de 'organización' en data/schemas). Actividad confirmada muy reciente (marzo de 2026, dentro de los últimos 12 meses) por dos fuentes de prensa independientes; falta una fuente propia (sitio o redes oficiales de ATTICH V) y confirmación del número de integrantes (~12 según el levantamiento interno del proyecto, no verificado por este asistente). Comuna asignada por ser la sede constante de sus dos festivales y de sus instituciones coorganizadoras (TeatroMuseo, Empresa Portuaria, Centex), no por declaración explícita de sede propia." },
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 80,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Tratada como agrupación/colectivo dentro del esquema de compañía, siguiendo el criterio de la skill buscar-companias-teatro (no existe un esquema de 'organización' en data/schemas). Actividad confirmada muy reciente (marzo de 2026, dentro de los últimos 12 meses) por dos fuentes de prensa independientes; falta una fuente propia (sitio o redes oficiales de ATTICH V) y confirmación del número de integrantes (~12 según el levantamiento interno del proyecto, no verificado por este asistente). Comuna asignada por ser la sede constante de sus dos festivales y de sus instituciones coorganizadoras (TeatroMuseo, Empresa Portuaria, Centex), no por declaración explícita de sede propia."
+  },
   "published": false
 }

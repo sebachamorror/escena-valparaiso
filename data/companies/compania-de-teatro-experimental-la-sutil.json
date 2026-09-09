@@ -1,0 +1,70 @@
+{
+  "slug": "compania-de-teatro-experimental-la-sutil",
+  "type": "company",
+  "name": "Compañía de Teatro Experimental La Sutil",
+  "legal_name": null,
+  "description_md": null,
+  "commune": "papudo",
+  "other_communes": [
+    "la-calera"
+  ],
+  "disciplines": [
+    "teatro-experimental"
+  ],
+  "audiences": [],
+  "founded_year": null,
+  "status": "desconocido",
+  "last_activity_at": null,
+  "members": [],
+  "members_text": [],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": null,
+  "contact_authorized": false,
+  "website": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "trajectory_md": null,
+  "recognitions": [],
+  "funding_awards": [],
+  "festivals": [
+    {
+      "festival_name": "Trenzando Puntos de Fuga",
+      "year": 2025,
+      "place": null,
+      "source_index": null
+    }
+  ],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
+  "sources": [
+    {
+      "url": "https://g5noticias.cl/2026/09/04/puntos-de-fuga-llega-este-sabado-a-la-calera-con-musica-teatro-y-folclor-de-tres-comunas/",
+      "title": "Puntos de Fuga llega este sábado a La Calera con música, teatro y folclor de tres comunas",
+      "publisher": "G5noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 4 de septiembre de 2026. 'Trenzando Puntos de Fuga' es una iniciativa de la Red Ramal Cultural articulada con la Seremi de las Culturas y las municipalidades; 2025 primera etapa, 2026 segunda con 12 comunas: Quintero, Concón, Zapallar, Olmué, La Calera, Quillota, Papudo, Petorca, Cabildo, Puchuncaví, La Cruz y Limache."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 35,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

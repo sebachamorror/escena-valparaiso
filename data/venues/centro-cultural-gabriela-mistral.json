@@ -1,0 +1,105 @@
+{
+  "slug": "centro-cultural-gabriela-mistral",
+  "type": "venue",
+  "name": "Centro Cultural Gabriela Mistral",
+  "short_name": null,
+  "venue_type": "centro-cultural",
+  "owner": null,
+  "place": {
+    "name": null,
+    "address": "Santiago 674, Villa Alemana",
+    "commune": "villa-alemana",
+    "lat": null,
+    "lng": null,
+    "precision": "commune_centroid",
+    "geocode_source": null,
+    "geocoded_at": null
+  },
+  "capacity": null,
+  "rooms": [],
+  "website": null,
+  "contact_public": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
+  "disciplines": [],
+  "accessibility": [],
+  "program_url": null,
+  "status": "desconocido",
+  "description_md": null,
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mas-de-60-actividades-artisticas-gratuitas-ofrecera-la-red-de-espacios-culturales-de-la-region-de-valparaiso/",
+      "title": "Más de 60 actividades artísticas gratuitas ofrecerá la Red de Espacios Culturales de la Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 7 de octubre de 2020. Lista los 27 espacios de la Red de Espacios Culturales regional y actividades entre octubre de 2020 y marzo de 2021 sin fechas exactas."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/redcultura/espacios-culturales-bajo-convenio-region-de-valparaiso/",
+      "title": "Espacios Culturales Bajo Convenio Región de Valparaíso",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Programa Red Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Seis espacios bajo convenio Red Cultura."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/actualidad/seis-mil-millones-para-la-region-de-valparaiso-entregaran-los-fondos-cultura-2026/",
+      "title": "Seis mil millones para la Región de Valparaíso entregarán los Fondos Cultura 2026",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 28 de enero de 2026. Fondo de Artes Escénicas: 43 proyectos regionales, $544.276.713. Fondart Regional: 52 proyectos, $753.978.067."
+    },
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mes-del-teatro-se-conmemorara-con-nuevos-estrenos-teatro-familiar-y-obras-inclusivas/",
+      "title": "Mes del Teatro se conmemorará con nuevos estrenos, teatro familiar y obras inclusivas",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 10 de mayo de 2022 con la programación regional del Mes del Teatro (11 al 28 de mayo de 2022)."
+    },
+    {
+      "url": "https://www.observador.cl/villalemanina-estrena-obra-en-la-region-de-valparaiso/",
+      "title": "Villalemanina estrena obra en la Región de Valparaíso",
+      "publisher": "El Observador (Quillota)",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 10 de abril de 2025: estreno de 'El Tiempo No Espera' en el Centro Cultural Gabriela Mistral de Villa Alemana y gira gratuita (Quillota 29 de mayo, Quilpué 6 de junio, Valparaíso Profundo 28 de junio, Parque Cultural 18 de julio de 2025)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

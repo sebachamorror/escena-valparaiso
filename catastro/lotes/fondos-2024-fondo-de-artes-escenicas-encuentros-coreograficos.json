@@ -1,0 +1,46 @@
+{
+ "capa": 5,
+ "consulta": "Q-0059",
+ "resumen": "Fondo de Artes Escénicas 2024: 1 proyectos de la Región de Valparaíso",
+ "fuentes": [
+  {
+   "clave": "pdf-2024-fondo-de-artes-escenicas-encuentros-coreograficos",
+   "url": "https://www.fondosdecultura.cl/wp-content/uploads/2024/01/SELECCIONADOS-EC-2023_AAEE.pdf",
+   "titulo": "Seleccionados X Encuentros Coreográficos Nacionales",
+   "publicador": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+   "tipo": "institucional",
+   "calidad": "A",
+   "notas": null
+  }
+ ],
+ "companias": [],
+ "personas": [
+  {
+   "nombre": "Paula Alejandra Sacur Muñoz",
+   "roles": [
+    "Responsable de proyecto (Fondos Cultura)"
+   ],
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-encuentros-coreograficos"
+   ],
+   "notas": "Responsable del proyecto «Fenómenx humanx» (Fondo de Artes Escénicas 2024, Única). Comuna no indicada en la nómina (solo región)."
+  }
+ ],
+ "financiamiento": [
+  {
+   "proyecto": "Fenómenx humanx",
+   "fondo": "Fondo de Artes Escénicas",
+   "linea": "Única",
+   "anio": 2024,
+   "folio": "731948",
+   "monto": 4000000,
+   "resultado": "seleccionado",
+   "disciplina": "artes escénicas",
+   "fuentes": [
+    "pdf-2024-fondo-de-artes-escenicas-encuentros-coreograficos"
+   ],
+   "notas": "Responsable según nómina: Paula Alejandra Sacur Muñoz. Página 2 del PDF. Comuna no indicada en la nómina (solo región).",
+   "persona": "Paula Alejandra Sacur Muñoz"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "funcion-valparaiso-2022-05-11",
+  "type": "event",
+  "title": "Función",
+  "kind": "funcion",
+  "work": null,
+  "company": null,
+  "organizer_text": null,
+  "disciplines": [],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2022-05-11T19:00:00-03:00",
+      "ends_at": null,
+      "time_unknown": false,
+      "venue": "centro-cultural-ipa",
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://www.cultura.gob.cl/eventos-actividades/mes-del-teatro-se-conmemorara-con-nuevos-estrenos-teatro-familiar-y-obras-inclusivas/",
+      "title": "Mes del Teatro se conmemorará con nuevos estrenos, teatro familiar y obras inclusivas",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Nota del 10 de mayo de 2022 con la programación regional del Mes del Teatro (11 al 28 de mayo de 2022)."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}

@@ -1,24 +1,123 @@
 {
-  "slug": "titiricaos", "type": "company",
-  "name": "Titiricaos", "legal_name": null,
+  "slug": "titiricaos",
+  "type": "company",
+  "name": "Titiricaos",
+  "legal_name": null,
   "description_md": "Compañía de teatro tradicional de títeres de Valparaíso, dirigida por Paola Escudero Navia, activa desde el año 2000, que usa el títere como herramienta de mediación social, memoria histórica y terapia.",
-  "commune": "valparaiso", "other_communes": [],
-  "disciplines": ["titeres"], "audiences": ["todo-publico"],
-  "founded_year": null, "status": "activa", "last_activity_at": "2024-10-20",
-  "members": [], "members_text": ["Paola Escudero Navia (dirección)"],
-  "works": [], "venues": [], "place": null,
-  "email": "historiapalu@gmail.com", "contact_authorized": true, "website": null,
-  "social": { "instagram": "https://www.instagram.com/_titiricaos_/", "facebook": null, "tiktok": null, "youtube": null },
+  "commune": "valparaiso",
+  "other_communes": [],
+  "disciplines": [
+    "titeres"
+  ],
+  "audiences": [
+    "todo-publico"
+  ],
+  "founded_year": null,
+  "status": "activa",
+  "last_activity_at": "2024-10-20",
+  "members": [],
+  "members_text": [
+    "Paola Escudero Navia (dirección)"
+  ],
+  "works": [],
+  "venues": [],
+  "place": null,
+  "email": "historiapalu@gmail.com",
+  "contact_authorized": true,
+  "website": null,
+  "social": {
+    "instagram": "https://www.instagram.com/_titiricaos_/",
+    "facebook": null,
+    "tiktok": null,
+    "youtube": null
+  },
   "trajectory_md": "Su directora, Paola Escudero Navia, comenzó en el año 2000 a explorar el arte de los títeres formándose con maestras y maestros titiriteros. Es gestora en educación social y participa en el colectivo internacional \"Titeroterapia sin Fronteras\". Ha realizado funciones y talleres en Santiago y la Región de Valparaíso; escribe sus guiones inspirándose en libros. Facilita talleres de títeres, montaje de obras con infancias y adultez, y terapia con mujeres y otros grupos que han vivido violencias de género y otras violencias, siendo el títere una herramienta para la liberación emocional. Sus temáticas incluyen biodiversidad, interculturalidad, promoción de la alegría y el juego, historia local, memoria histórica, derechos humanos, feminismos y antirracismos. Forma parte de la Asamblea Titiritera ATTICH Quinta Región. Participó como compañía de Valparaíso en el IV Festival Ventolera (20 de octubre de 2024), organizado por ATTICH V y la Seremi de las Culturas en el Centro Comunitario Las Cañas, Cerro Las Cañas.",
-  "recognitions": [], "funding_awards": [],
+  "recognitions": [],
+  "funding_awards": [],
   "festivals": [
-    { "festival_name": "IV Festival Ventolera (participante)", "year": 2024, "place": "Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso", "source_index": 1 }
+    {
+      "festival_name": "IV Festival Ventolera (participante)",
+      "year": 2024,
+      "place": "Centro Comunitario Las Cañas, Cerro Las Cañas, Valparaíso",
+      "source_index": 1
+    },
+    {
+      "festival_name": "Festival Ventolera",
+      "year": 2024,
+      "place": "Valparaíso",
+      "source_index": null
+    }
   ],
-  "media": [], "media_candidates": [], "series": [], "tags": [],
+  "media": [],
+  "media_candidates": [],
+  "series": [],
+  "tags": [],
   "sources": [
-    { "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf", "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso (ficha Compañía Titiricaos, p. 8)", "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso", "type": "oficial", "level": 1, "role": "primaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["existence", "trajectory", "discipline", "email"], "notes": "Catálogo 2025, publicado en patrimonioinmaterial.gob.cl. Texto extraído directamente del PDF oficial. No indica comuna de sede de forma explícita." },
-    { "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/", "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región", "publisher": "G5 Noticias", "type": "prensa", "level": 2, "role": "secundaria", "accessed_at": "2026-09-05", "archived_url": null, "supports": ["commune", "festivals", "last_activity_at"], "notes": "Lista explícitamente a \"Titiricaos (Valparaíso)\" entre las compañías participantes del IV Festival Ventolera, 20 de octubre de 2024. Esta es la única fuente que confirma la comuna de sede." }
+    {
+      "url": "https://www.patrimonioinmaterial.gob.cl/sites/www.patrimonioinmaterial.gob.cl/files/2025-04/2025_03_04%20catalogo_titeres%20final%202ok.pdf",
+      "title": "Catálogo Compañías de Teatro Tradicional de Títeres Región de Valparaíso (ficha Compañía Titiricaos, p. 8)",
+      "publisher": "Servicio Nacional del Patrimonio Cultural — Dirección Regional Valparaíso",
+      "type": "oficial",
+      "level": 1,
+      "role": "primaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "existence",
+        "trajectory",
+        "discipline",
+        "email"
+      ],
+      "notes": "Catálogo 2025, publicado en patrimonioinmaterial.gob.cl. Texto extraído directamente del PDF oficial. No indica comuna de sede de forma explícita."
+    },
+    {
+      "url": "https://g5noticias.cl/2024/10/15/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "G5 Noticias",
+      "type": "prensa",
+      "level": 2,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [
+        "commune",
+        "festivals",
+        "last_activity_at"
+      ],
+      "notes": "Lista explícitamente a \"Titiricaos (Valparaíso)\" entre las compañías participantes del IV Festival Ventolera, 20 de octubre de 2024. Esta es la única fuente que confirma la comuna de sede."
+    },
+    {
+      "url": "https://www.fondosdecultura.cl/wp-content/uploads/2023/01/SELECCIONADOS-AAEE-2023.pdf",
+      "title": "Seleccionados Fondo de Artes Escénicas 2023",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio — Fondos Cultura",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": null
+    },
+    {
+      "url": "https://www.cultura.gob.cl/agendacultural/valparaiso-festival-ventolera-celebrara-a-titiriteros-y-marionetistas-de-la-region/",
+      "title": "Valparaíso: Festival Ventolera celebrará a titiriteros y marionetistas de la región",
+      "publisher": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "type": "institucional",
+      "level": 1,
+      "role": "secundaria",
+      "accessed_at": "2026-09-05",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Confirma organizador (Asamblea Titiritera ATTICH V con Seremi de las Culturas), fecha, sede y taller con Giovanni Vaccaro."
+    }
   ],
-  "verification": { "status": "pendiente", "confidence_score": 72, "verified_at": null, "verified_by": null, "next_review_at": null, "note": "Existencia y trayectoria confirmadas por fuente nivel 1 (catálogo oficial 2025); comuna confirmada solo por una fuente de prensa (nivel 2, G5 Noticias). Falta: año de fundación de la compañía, confirmación de actividad dentro de los últimos 12 meses, y una segunda fuente para la comuna." },
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 72,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Existencia y trayectoria confirmadas por fuente nivel 1 (catálogo oficial 2025); comuna confirmada solo por una fuente de prensa (nivel 2, G5 Noticias). Falta: año de fundación de la compañía, confirmación de actividad dentro de los últimos 12 meses, y una segunda fuente para la comuna."
+  },
   "published": false
 }

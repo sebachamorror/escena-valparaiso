@@ -1,0 +1,52 @@
+{
+  "slug": "culto-quincena-cultural-de-zapallar",
+  "type": "event",
+  "title": "Culto — Quincena Cultural de Zapallar",
+  "kind": "festival",
+  "work": null,
+  "company": null,
+  "organizer_text": "Antonia Cruz y Valentina Tagle (gestoras) con la Fundación Municipal de Cultura de Zapallar",
+  "disciplines": [],
+  "audience": null,
+  "description_md": null,
+  "price": null,
+  "is_free": null,
+  "booking_url": null,
+  "accessibility": [],
+  "occurrences": [
+    {
+      "starts_at": "2023-12-30T00:00:00-03:00",
+      "ends_at": "2024-01-14T00:00:00-03:00",
+      "time_unknown": true,
+      "venue": null,
+      "place": null,
+      "price": null,
+      "note": null
+    }
+  ],
+  "last_checked_at": "2026-09-08",
+  "media": [],
+  "sources": [
+    {
+      "url": "https://magazine.cranberrychic.com/culto-2024-en-el-teatro-de-zapallar/",
+      "title": "Culto 2024 en el Teatro de Zapallar",
+      "publisher": "Cranberry Chic (revista)",
+      "type": "prensa",
+      "level": 2,
+      "role": "primaria",
+      "accessed_at": "2026-09-08",
+      "archived_url": null,
+      "supports": [],
+      "notes": "Octava Quincena Cultural de Zapallar, 30 de diciembre de 2023 al 14 de enero de 2024, en el Teatro de Zapallar, administrado por la Fundación Municipal de Cultura de Zapallar."
+    }
+  ],
+  "verification": {
+    "status": "pendiente",
+    "confidence_score": 60,
+    "verified_at": null,
+    "verified_by": null,
+    "next_review_at": null,
+    "note": "Importado del catastro regional del ecosistema teatral (Fase 1: descubrimiento); pendiente de verificación editorial."
+  },
+  "published": false
+}
